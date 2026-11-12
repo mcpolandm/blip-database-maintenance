@@ -1,0 +1,17 @@
+__pycache__/
+.venv/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+.DS_Store
+/cache/*
+!/cache/embeddings
+!/cache/embeddings/**
+runs/
+workload/paper/samples/
+local/
+notebooks/
+*.log

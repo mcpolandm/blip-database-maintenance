@@ -1,0 +1,447 @@
+{
+ "pair_id": "ap_12707_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "BRASILIA, Brazil (AP) -- Half of Brazilians want former President Luiz Inacio Lula da Silva to win next year's election and return to the office he occupied between 2003 and 2010."
+  },
+  {
+   "blip_idx": 1,
+   "text": "The other half wants him in prison for a corruption conviction."
+  },
+  {
+   "blip_idx": 2,
+   "text": "Those dueling sentiments now underscore an important question as campaigns begin gearing up ahead of the 2018 election: Will da Silva, who is appealing the conviction, be allowed to run? \"Whether Lula runs or not makes all the difference in the next election,\" said Carlos Melo, a political science professor at Insper University in Sao Paulo."
+  },
+  {
+   "blip_idx": 3,
+   "text": "\"Even if he is jailed he won't be out of the race, as whoever he supports could be a competitive candidate."
+  },
+  {
+   "blip_idx": 4,
+   "text": "\" With a lead in all polls, the man universally known as Lula is campaigning across Brazil while he appeals the guilty verdict."
+  },
+  {
+   "blip_idx": 5,
+   "text": "If it's upheld, he could go to jail and be barred from running."
+  },
+  {
+   "blip_idx": 6,
+
+   "text": "If it's overturned, da Silva is facing several other trials that could interfere with his campaign."
+  },
+  {
+   "blip_idx": 7,
+   "text": "Despite the setbacks, da Silva has seen his approval rating rise since the conviction, cementing the reality that he will likely be a force in the election one way or the other."
+  },
+  {
+   "blip_idx": 8,
+   "text": "The chairman of a group of three magistrates has said that he expects the court to rule on da Silva's appeal before next August."
+  },
+  {
+   "blip_idx": 9,
+   "text": "The election is in October."
+  },
+  {
+   "blip_idx": 10,
+   "text": "Da Silva was convicted in July by Judge Sergio Moro as part of a sprawling investigation into kickbacks by construction companies and public officials."
+  },
+  {
+   "blip_idx": 11,
+   "text": "Da Silva was sentenced to 9 1/2 years in jail and barred from holding public office for seven."
+  },
+  {
+   "blip_idx": 12,
+   "text": "But while candidates figure out how to position themselves depending on da Silva's legal fate, there are also questions about whether the former president's own Workers' Party has a Plan B."
+  },
+  {
+   "blip_idx": 13,
+   "text": "\"Lula's candidacy is irreversible,\" Workers' Party chairwoman Gleisi Hoffmann told The Associated Press."
+  },
+  {
+   "blip_idx": 14,
+   "text": "Ciro Gomes, a former Cabinet minister in da Silva's government and a presidential hopeful himself, disagrees."
+  },
+  {
+   "blip_idx": 15,
+   "text": "\"The Workers' Party will have a candidate, but it won't be Lula,\" Gomes said recently at a conference in Sao Paulo."
+  },
+  {
+   "blip_idx": 16,
+   "text": "The election is Oct. 7, 2018, with a likely runoff three weeks later if none of the candidates obtain more than 50 percent of the vote."
+  },
+  {
+   "blip_idx": 17,
+   "text": "A survey by polling firm Datafolha says Silva has 30 percent support for the first election round, compared to 20 percent for his closest rival, Congressman Jair Bolsonaro, a former army captain who speaks glowingly about the country's 1964-1985 dictatorship."
+  },
+  {
+   "blip_idx": 18,
+   "text": "The poll also indicates da Silva would beat every adversary in a runoff, except for a tie with Moro, the judge who convicted him but who has repeatedly said he will not run despite being hailed by many Brazilians as a hero."
+  },
+  {
+   "blip_idx": 19,
+   "text": "Meanwhile, 54 percent of the Brazilians surveyed said they want the former president in jail."
+  },
+  {
+   "blip_idx": 20,
+   "text": "The poll was conducted Sept. 27-28 after da Silva's conviction in the \"Car Wash\" probe."
+  },
+  {
+   "blip_idx": 21,
+   "text": "Datafolha interviewed 2,772 people and said the poll had a margin of error of 2 percentage points."
+  },
+  {
+   "blip_idx": 22,
+   "text": "Overall, the poll said da Silva has become more popular since he was found guilty."
+  },
+  {
+   "blip_idx": 23,
+   "text": "In July, Datafolha found that he was rejected by 46 percent of voters and would tie with former Cabinet minister Marina Silva in a runoff, compared to 42 percent of voters in October who said they would not back the ex-president."
+  },
+  {
+   "blip_idx": 24,
+   "text": "Hoffmann believes President Michel Temer's dismal approval rating, which has hovered around 3 percent in recent polls, is a key reason why da Silva is gaining strength."
+  },
+  {
+   "blip_idx": 25,
+   "text": "\"People look at Temer and think of all the good things Lula did in office. The difference is staggering. And people have noticed how politicized the investigations against him are,\" she said."
+  },
+  {
+   "blip_idx": 26,
+   "text": "Another factor fueling da Silva's lead is division among opponents who have not coalesced around an \"anti-Lula\" candidate."
+  },
+  {
+   "blip_idx": 27,
+   "text": "The right-leaning Brazilian Social Democracy Party is torn between two possible candidates: Sao Paulo Gov."
+  },
+  {
+   "blip_idx": 28,
+   "text": "Geraldo Alckmin, who lost to da Silva in the 2006 presidential election, and Sao Paulo Mayor Joao Doria."
+  },
+  {
+   "blip_idx": 29,
+   "text": "So far, both are polling at less than 10 percent."
+  },
+  {
+   "blip_idx": 30,
+   "text": "Da Silva has been holding large rallies across the country."
+  },
+  {
+   "blip_idx": 31,
+   "text": "He contends all the charges against him are politically motivated and promises better economic times, a message that resonates with many as Brazil struggles to emerge from its worst recession in decades."
+  },
+  {
+   "blip_idx": 32,
+   "text": "At any moment, however, the higher court decision on his appeal could throw his campaign into a tailspin."
+  },
+  {
+   "blip_idx": 33,
+   "text": "Fernando Castelo Branco, law professor at Sao Paulo's PUC University, said da Silva's candidacy will be revoked if the conviction is upheld before official campaigning begins in August."
+  },
+  {
+   "blip_idx": 34,
+   "text": "\"If he has already registered his candidacy, the court could still uphold the conviction or add to his penalties and in that case his candidacy could be annulled,\" Branco said."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 29,
+    "new": 29,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 34,
+    "new": 34,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.14796665473050913,
+    "dist_new": 0.14796665473050913
+   },
+   {
+    "old": 28,
+    "new": 28,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 32,
+    "new": 32,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 33,
+    "new": 33,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 30,
+    "new": 30,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 31,
+    "new": 31,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "added"
+  ],
+  "added_new": [
+   35
+  ]
+ },
+ "document_old": "BRASILIA, Brazil (AP) -- Half of Brazilians want former President Luiz Inacio Lula da Silva to win next year's election and return to the office he occupied between 2003 and 2010. The other half wants him in prison for a corruption conviction. Those dueling sentiments now underscore an important question as campaigns begin gearing up ahead of the 2018 election: Will da Silva, who is appealing the conviction, be allowed to run? \"Whether Lula runs or not makes all the difference in the next election,\" said Carlos Melo, a political science professor at Insper University in Sao Paulo. \"Even if he is jailed he won't be out of the race, as whoever he supports could be a competitive candidate. \" With a lead in all polls, the man universally known as Lula is campaigning across Brazil while he appeals the guilty verdict. If it's upheld, he could go to jail and be barred from running. If it's overturned, da Silva is facing several other trials that could interfere with his campaign. Despite the setbacks, da Silva has seen his approval rating rise since the conviction, cementing the reality that he will likely be a force in the election one way or the other. The chairman of a group of three magistrates has said that he expects the court to rule on da Silva's appeal before next August. The election is in October. Da Silva was convicted in July by Judge Sergio Moro as part of a sprawling investigation into kickbacks by construction companies and public officials. Da Silva was sentenced to 9 1/2 years in jail and barred from holding public office for seven. But while candidates figure out how to position themselves depending on da Silva's legal fate, there are also questions about whether the former president's own Workers' Party has a Plan B. \"Lula's candidacy is irreversible,\" Workers' Party chairwoman Gleisi Hoffmann told The Associated Press. Ciro Gomes, a former Cabinet minister in da Silva's government and a presidential hopeful himself, disagrees. \"The Workers' Party will have a candidate, but it won't be Lula,\" Gomes said recently at a conference in Sao Paulo. The election is Oct. 7, 2018, with a likely runoff three weeks later if none of the candidates obtain more than 50 percent of the vote. A survey by polling firm Datafolha says Silva has 30 percent support for the first election round, compared to 20 percent for his closest rival, Congressman Jair Bolsonaro, a former army captain who speaks glowingly about the country's 1964-1985 dictatorship. The poll also indicates da Silva would beat every adversary in a runoff, except for a tie with Moro, the judge who convicted him but who has repeatedly said he will not run despite being hailed by many Brazilians as a hero. Meanwhile, 54 percent of the Brazilians surveyed said they want the former president in jail. The poll was conducted Sept. 27-28 after da Silva's conviction in the \"Car Wash\" probe. Datafolha interviewed 2,772 people and said the poll had a margin of error of 2 percentage points. Overall, the poll said da Silva has become more popular since he was found guilty. In July, Datafolha found that he was rejected by 46 percent of voters and would tie with former Cabinet minister Marina Silva in a runoff, compared to 42 percent of voters in October who said they would not back the ex-president. Hoffmann believes President Michel Temer's dismal approval rating, which has hovered around 3 percent in recent polls, is a key reason why da Silva is gaining strength. \"People look at Temer and think of all the good things Lula did in office. The difference is staggering. And people have noticed how politicized the investigations against him are,\" she said. Another factor fueling da Silva's lead is division among opponents who have not coalesced around an \"anti-Lula\" candidate. The right-leaning Brazilian Social Democracy Party is torn between two possible candidates: Sao Paulo Gov. Geraldo Alckmin, who lost to da Silva in the 2006 presidential election, and Sao Paulo Mayor Joao Doria. So far, both are polling at less than 10 percent. Da Silva has been holding large rallies across the country. He contends all the charges against him are politically motivated and promises better economic times, a message that resonates with many as Brazil struggles to emerge from its worst recession in decades. At any moment, however, the higher court decision on his appeal could throw his campaign into a tailspin. Fernando Castelo Branco, law professor at Sao Paulo's PUC University, said da Silva's candidacy will be revoked if the conviction is upheld before official campaigning begins in August. \"If he has already registered his candidacy, the court could still uphold the conviction or add to his penalties and in that case his candidacy could be annulled,\" Branco said.",
+ "document_new": "BRASILIA, Brazil (AP) -- Half of Brazilians want former President Luiz Inacio Lula da Silva to win next year's election and return to the office he occupied between 2003 and 2010. The other half wants him in prison for a corruption conviction. Those dueling sentiments now underscore an important question as campaigns begin gearing up ahead of the 2018 election: Will da Silva, who is appealing the conviction, be allowed to run? \"Whether Lula runs or not makes all the difference in the next election,\" said Carlos Melo, a political science professor at Insper University in Sao Paulo. \"Even if he is jailed he won't be out of the race, as whoever he supports could be a competitive candidate. \" With a lead in all polls, the man universally known as Lula is campaigning across Brazil while he appeals the guilty verdict. If it's upheld, he could go to jail and be barred from running. If it's overturned, da Silva is facing several other trials that could interfere with his campaign. Despite the setbacks, da Silva has seen his approval rating rise since the conviction, cementing the reality that he will likely be a force in the election one way or the other. The chairman of a group of three magistrates has said that he expects the court to rule on da Silva's appeal before next August. The election is in October. Da Silva was convicted in July by Judge Sergio Moro as part of a sprawling investigation into kickbacks by construction companies and public officials. Da Silva was sentenced to 9 1/2 years in jail and barred from holding public office for seven. But while candidates figure out how to position themselves depending on da Silva's legal fate, there are also questions about whether the former president's own Workers' Party has a Plan B. \"Lula's candidacy is irreversible,\" Workers' Party chairwoman Gleisi Hoffmann told The Associated Press. Ciro Gomes, a former Cabinet minister in da Silva's government and a presidential hopeful himself, disagrees. \"The Workers' Party will have a candidate, but it won't be Lula,\" Gomes said recently at a conference in Sao Paulo. The election is Oct. 7, 2018, with a likely runoff three weeks later if none of the candidates obtain more than 50 percent of the vote. A survey by polling firm Datafolha says da Silva has 35 percent support for the first election round, compared to 17 percent for his closest rival, Congressman Jair Bolsonaro, a former army captain who speaks glowingly about the country's 1964-1985 dictatorship. The poll also indicates da Silva would beat every adversary in a runoff, except for a tie with Moro, the judge who convicted him but who has repeatedly said he will not run despite being hailed by many Brazilians as a hero. Meanwhile, 54 percent of the Brazilians surveyed said they want the former president in jail. The poll was conducted Sept. 27-28 after da Silva's conviction in the \"Car Wash\" probe. Datafolha interviewed 2,772 people and said the poll had a margin of error of 2 percentage points. Overall, the poll said da Silva has become more popular since he was found guilty. In July, Datafolha found that he was rejected by 46 percent of voters and would tie with former Cabinet minister Marina Silva in a runoff, compared to 42 percent of voters in October who said they would not back the ex-president. Hoffmann believes President Michel Temer's dismal approval rating, which has hovered around 3 percent in recent polls, is a key reason why da Silva is gaining strength. \"People look at Temer and think of all the good things Lula did in office. The difference is staggering. And people have noticed how politicized the investigations against him are,\" she said. Another factor fueling da Silva's lead is division among opponents who have not coalesced around an \"anti-Lula\" candidate. The right-leaning Brazilian Social Democracy Party is torn between two possible candidates: Sao Paulo Gov. Geraldo Alckmin, who lost to da Silva in the 2006 presidential election, and Sao Paulo Mayor Joao Doria. So far, both are polling at less than 10 percent. Da Silva has been holding large rallies across the country. He contends all the charges against him are politically motivated and promises better economic times, a message that resonates with many as Brazil struggles to emerge from its worst recession in decades. At any moment, however, the higher court decision on his appeal could throw his campaign into a tailspin. Fernando Castelo Branco, law professor at Sao Paulo's PUC University, said da Silva's candidacy will be revoked if the conviction is upheld before official campaigning begins in August. \"If he has already registered his candidacy, the court could still uphold the conviction or add to his penalties and in that case his candidacy could be annulled,\" Branco said. --- This story has been corrected to show the poll by Datafolha indicates da Silva has 35 percent support and his closest rival, Congressman Jair Bolsonaro, has 17 percent for the first election round.",
+ "tasks": [
+    {
+      "task_id": "task_001",
+      "type": "extraction",
+      "prompt": "In the Datafolha survey, what percentage supports Lula (da Silva) for the first election round? Answer with the number only."
+    }
+  ]
+}
