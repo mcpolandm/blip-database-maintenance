@@ -21,7 +21,7 @@ from blip.rank.embedding import EmbeddingRanker
 from blip.pipeline import StrategySpec
 from blip.cache.disk import DiskCache
 
-POLICIES = ["recompute", "text_diff", "distance", "provenance"]
+POLICIES = ["recompute", "text_diff", "distance", "provenance", "provenance_aware"]
 
 def load_document_pairs(data_dir: Path) -> list[dict]:
     """Load document-pair JSON files from a directory."""
@@ -44,13 +44,21 @@ def run_task(pair, task, strategy, ranker, llm):
     print("Got old")
     true_new_answer, new_usage = blip_interface.get_answer(pair["document_new"], task["prompt"], llm)
     print("got new")
+    start = time.perf_counter()
     provenance, provenance_usage = blip_interface.get_provenance(pair, task["prompt"], old_answer, llm, strategy, ranker)
+    elapsed = time.perf_counter() - start
     print("got prov")
+    provenance_usage["wall_time_seconds"] = elapsed
 
     policy_results = {}
     for policy in POLICIES:
-        result = policies.run_policy(policy, pair, task, old_answer, provenance, llm)
+        result = policies.run_policy(policy, pair, task, old_answer, provenance, true_new_answer, new_usage)
         policy_results[policy] = result
+
+    policy_results["provenance"]["provenance_usage"] = provenance_usage
+    policy_results["provenance"]["provenance_idxs"] = sorted(provenance)
+    policy_results["provenance_aware"]["provenance_usage"] = provenance_usage
+    policy_results["provenance_aware"]["provenance_idxs"] = sorted(provenance)
 
     return {
         "pair_id": pair["pair_id"],
@@ -65,10 +73,7 @@ def run_task(pair, task, strategy, ranker, llm):
             },
             "new_task": {
                 **new_usage,
-            },
-            "provenance": {
-                **provenance_usage,
-            },
+            }
         },
         "policies": policy_results
     }
@@ -91,7 +96,7 @@ def master():
         
         for task in tasks:
             task_result = run_task(pair, task, strategy, ranker, llm)
-            results[task["type"]] = task_result
+            results[task["task_id"]] = task_result
 
         output_path = Path("data/results") / f"{pair['pair_id']}.json"
 

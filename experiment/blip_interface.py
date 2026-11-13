@@ -24,23 +24,51 @@ def usage_to_dict(usage) -> dict:
 
     return {}
 
+def validate_sentence_alignment(pair_data):
+    pair_id = pair_data.get("pair_id", "unknown")
+
+    if "sentences_old" not in pair_data:
+        raise ValueError(f"{pair_id}: missing sentences_old")
+
+    if "alignment" not in pair_data:
+        raise ValueError(f"{pair_id}: missing alignment")
+
+    sentences_old = pair_data["sentences_old"]
+
+    if not sentences_old:
+        raise ValueError(f"Pair {pair_data.get('pair_id')} has empty sentences_old.")
+    
+    old_status = pair_data["alignment"].get("old_status")
+
+    if old_status is None:
+        raise ValueError(f"{pair_id}: missing alignment.old_status")
+
+    if len(sentences_old) != len(old_status):
+        raise ValueError(
+            f"{pair_id}: sentences_old has {len(sentences_old)} entries, "
+            f"but old_status has {len(old_status)} entries"
+        )
+
+    expected_idxs = list(range(len(old_status)))
+    actual_idxs = [sentence["blip_idx"] for sentence in sentences_old]
+
+    if actual_idxs != expected_idxs:
+        raise ValueError(
+            f"{pair_id}: blip_idx does not match old_status positions. "
+            f"Expected {expected_idxs}, got {actual_idxs}"
+        )
+
 def make_blip_pair(pair_data: dict, task_prompt: str, old_answer: str) -> Pair:
         """Create a BLIP Pair using the sentence indices from the dataset."""
 
-        sentence_data = pair_data.get("sentences_old")
+        validate_sentence_alignment(pair_data)
 
-        if sentence_data:
-            sentence_data = sorted(
-                sentence_data,
-                key=lambda s: int(s["blip_idx"]),
-            )
+        sentence_data = pair_data["sentences_old"]
 
-            texts = [s["text"] for s in sentence_data]
-            indices = [int(s["blip_idx"]) for s in sentence_data]
+        sentence_data = sorted(sentence_data, key=lambda s: int(s["blip_idx"]))
 
-        else:
-            texts = segment(pair_data["document_old"])
-            indices = list(range(len(texts)))
+        texts = [s["text"] for s in sentence_data]
+        indices = [int(s["blip_idx"]) for s in sentence_data]
 
         sentences = tuple(
             Sentence(

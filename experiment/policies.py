@@ -10,9 +10,7 @@ def get_edit_info(pair):
     Expected alignment structure:
         {
             "old_status": ["unchanged", "edited", "deleted", ...],
-            "new_status": ["unchanged", "edited", "added", ...],
-            "normalized_distance": 0.25,
-            "raw_distance": 10
+            "new_status": ["unchanged", "edited", "added", ...]
         }
     """
 
@@ -45,9 +43,7 @@ def get_edit_info(pair):
         "edited_old": edited_old,
         "deleted_old": deleted_old,
         "edited_new": edited_new,
-        "added_new": added_new,
-        "normalized_distance": alignment.get("normalized_distance"),
-        "raw_distance": alignment.get("raw_distance"),
+        "added_new": added_new
     }
 
 def calculate_normalized_distance(pair):
@@ -116,7 +112,51 @@ def provenance_overlap(provenance, edit):
 
     return recompute, reason
 
-def run_policy(policy, pair, task, old_answer, provenance, llm):
+def provenance_answer_aware(provenance, edit, task, old_answer):
+    """
+    For positive/found answers:
+        Use standard provenance overlap.
+
+    For negative/not-found answers:
+        Recompute on any document change.
+
+    Assumes:
+        - Filter tasks return bool.
+        - Extraction tasks return a string.
+        - Unanswerable extraction tasks return "NOT_FOUND".
+    """
+
+    task_type = task["type"]
+
+    if task_type == "filter":
+        if not isinstance(old_answer, bool):
+            raise TypeError(f"Expected bool for filter task, got {type(old_answer).__name__}")
+
+        is_found = old_answer
+
+    elif task_type == "extraction":
+        if not isinstance(old_answer, str):
+            raise TypeError(f"Expected str for extraction task, got {type(old_answer).__name__}")
+
+        is_found = old_answer.strip().upper() != "NOT_FOUND"
+
+    else:
+        raise ValueError(f"Unsupported task type: {task_type}")
+
+    if is_found:
+        return provenance_overlap(provenance, edit)
+
+    changed = bool(edit["edited_old"] or edit["deleted_old"] or edit["edited_new"] or edit["added_new"])
+
+    reason = (
+        "Old answer was not found; document contains changes"
+        if changed
+        else "Old answer was not found; document has no changes"
+    )
+
+    return changed, reason
+
+def run_policy(policy, pair, task, old_answer, provenance, true_new_answer, new_usage):
     """
     Apply one update policy and return its resulting answer and costs.
     """
@@ -136,16 +176,14 @@ def run_policy(policy, pair, task, old_answer, provenance, llm):
 
     elif policy == "provenance":
         should_recompute, reason = provenance_overlap(provenance, edit)
+    elif policy == "provenance_aware":
+        should_recompute, reason = provenance_answer_aware(provenance, edit, task, old_answer)
 
     else:
         raise ValueError(f"Unknown policy: {policy}")
 
     if should_recompute:
-        answer, usage = blip_interface.get_answer(
-            pair["document_new"],
-            task["prompt"],
-            llm,
-        )
+        answer, usage = true_new_answer, new_usage
     else:
         answer = old_answer
         usage = {

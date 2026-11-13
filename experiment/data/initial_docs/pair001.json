@@ -441,7 +441,7 @@
     {
       "task_id": "task_001",
       "type": "extraction",
-      "prompt": "In the Datafolha survey, what percentage supports Lula (da Silva) for the first election round? Answer with the number only."
+      "prompt": "In the Datafolha survey, what percentage supports Lula (da Silva) for the first election round? Answer with the number only, or NOT_FOUND if not found."
     }
   ]
 }
