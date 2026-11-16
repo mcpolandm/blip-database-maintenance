@@ -1,0 +1,513 @@
+{
+ "pair_id": "ap_96_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "NEW YORK (AP) -- Donald Trump has vowed his company will do \"no new foreign deals\" while he is president."
+  },
+  {
+   "blip_idx": 1,
+   "text": "But he's left \"new\" and \"deals\" open to interpretation."
+  },
+  {
+   "blip_idx": 2,
+   "text": "Now those words are drawing scrutiny as his company confirms plans to expand its golf resort near Aberdeen, Scotland, raising concerns about conflicts of interest."
+  },
+  {
+   "blip_idx": 3,
+   "text": "A spokeswoman for the resort says the expansion is not a new deal, but just another construction phase that was included in the broad plan approved by the local government in 2008. Some lawyers who specialize in government ethics aren't convinced."
+  },
+  {
+   "blip_idx": 4,
+   "text": "Richard Painter, who served as chief ethics lawyer for President George W. Bush, said there are so many pending issues before local governments at each stage of a real estate project, it's like a new deal every time."
+  },
+  {
+   "blip_idx": 5,
+   "text": "\"Each phase requires building permits, each phase requires financing, each phase poses additional conflicts of interest,\" said Painter, a relentless Trump critic who has urged him to sell his company."
+  },
+  {
+   "blip_idx": 6,
+   "text": "\"Americans don't want their president or any other high ranking official dependent on a foreign government for a building permit."
+  },
+  {
+   "blip_idx": 7,
+   "text": "\" The Scottish expansion is especially worrisome, Painter said, because the United States will need to negotiate a trade deal with the United Kingdom now that it has voted to leave the European Union."
+  },
+  {
+   "blip_idx": 8,
+   "text": "\"In that context, who is going to deny a permit to the president of the United States?\" Painter said."
+  },
+  {
+   "blip_idx": 9,
+   "text": "In addition to its Scottish resort, the Trump Organization has several other uncompleted international projects, including a hotel in Vancouver, British Columbia, a golf course in Dubai and two resorts in Indonesia."
+  },
+  {
+   "blip_idx": 10,
+   "text": "His partner in Indonesia, billionaire developer Hary Tanoesoedibjo, plans to attend Trump's inauguration Friday and an official inauguration ball."
+  },
+  {
+   "blip_idx": 11,
+   "text": "The Trump Organization did not respond to requests for comment, except for the brief statement from its resort spokeswoman."
+  },
+  {
+   "blip_idx": 12,
+   "text": "Trump's original 2008 proposal for the resort, the Trump International Golf Links, included plans to eventually add a 450-room hotel, a second golf course, 500 luxury homes and 900 timeshare apartments."
+  },
+  {
+   "blip_idx": 13,
+   "text": "A recent article in the Guardian newspaper in Britain cited plans now for about twice the number of homes and timeshare apartments."
+  },
+  {
+   "blip_idx": 14,
+   "text": "Officials at the local government, the Aberdeenshire Council, couldn't confirm the Guardian figures, but did say plans for the second golf course are still under review and have not been approved."
+  },
+  {
+   "blip_idx": 15,
+   "text": "A website run by the government shows the Trump Organization has had to undergo many reviews since its 2008 plan was approved, including for small projects, such as erecting a flagpole and building a wall and adding six rooms to a hotel already there."
+  },
+  {
+   "blip_idx": 16,
+   "text": "The resort has had a troubled history."
+  },
+  {
+   "blip_idx": 17,
+   "text": "It's faced fierce opposition from locals, including a fisherman who became a national hero of sorts for refusing a $690,000 offer from Trump to buy his land."
+  },
+  {
+   "blip_idx": 18,
+   "text": "Environmentalists protested possible damage to Aberdeen's dramatic dunes overlooking the wind-swept North Sea."
+  },
+  {
+   "blip_idx": 19,
+   "text": "A documentary was shot called \"Tripping Up Trump.\" The pledge of \"no new foreign deals\" came at Trump's press conference last week in which he unveiled several other steps he would take to allay concerns that he could be tempted to put his private financial interests ahead of the public good."
+  },
+  {
+   "blip_idx": 20,
+   "text": "Sheri Dillon, a lawyer who helped Trump with the conflicts plan, told reporters at the news conference that the steps were \"extraordinary.\" But government ethics lawyers have largely panned the moves."
+  },
+  {
+   "blip_idx": 21,
+   "text": "They noted that his company can still strike new domestic deals and argued that much of what was promised is difficult for outsiders to monitor."
+  },
+  {
+   "blip_idx": 22,
+   "text": "The news conference was \"full of unanswered questions and malleable commitments that leave the public guessing,\" said Matthew Sanderson, a former legal adviser to several Republican presidential campaigns."
+  },
+  {
+   "blip_idx": 23,
+   "text": "Sanderson said the Scottish expansion shows that Trump needs to provide more details."
+  },
+  {
+   "blip_idx": 24,
+   "text": "\"His conflict situation is extraordinary and only extraordinary levels of transparency can combat the appearance that his new office is enriching him,\" Sanderson said."
+  },
+  {
+   "blip_idx": 25,
+   "text": "To make questions of possible self-dealing go away, many ethics lawyers have urged Trump to follow the example of past presidents by selling his ownership in his company and putting the cash into a blind trust overseen by an independent manager."
+  },
+  {
+   "blip_idx": 26,
+   "text": "In a public speech last week, Walter Shaub, the director of the Office of Government Ethics, a normally behind-the-scenes agency that advises incoming presidents, urged the president-elect to do just that."
+  },
+  {
+   "blip_idx": 27,
+   "text": "He criticized parts of Trump's plan as \"meaningless.\" Some ethics experts have said a blind trust is impractical given the size and sweep of the president-elect's holdings, which include hotels, resorts, residential towers and commercial buildings in about 20 countries."
+  },
+  {
+   "blip_idx": 28,
+   "text": "The view was embraced by Trump's lawyer at the news conference."
+  },
+  {
+   "blip_idx": 29,
+   "text": "\"President-elect Trump should not be expected to destroy the company he built,\" said Dillon, a partner at law firm Morgan, Lewis and Brokius."
+  },
+  {
+   "blip_idx": 30,
+   "text": "Trump has been slimming down his business, though."
+  },
+  {
+   "blip_idx": 31,
+   "text": "In recent weeks, the Trump Organization has canceled signed deals and exploratory talks in several countries, including Argentina, Brazil, Azerbaijan and the neighboring country of Georgia."
+  },
+  {
+   "blip_idx": 32,
+   "text": "Kathleen Clark, a former federal ethics lawyer, said the focus on new foreign deals misses the real problem."
+  },
+  {
+   "blip_idx": 33,
+   "text": "She said any Trump real estate project - new or existing, foreign or domestic - offers opportunity for government officials, corporate executives and ordinary people to curry favor with the new president."
+  },
+  {
+   "blip_idx": 34,
+   "text": "They can approve permits or purchase timeshare units or pay up to become members of his golf clubs."
+  },
+  {
+   "blip_idx": 35,
+   "text": "And she worries that by framing the debate over conflicts so narrowly - What is \"new?\" What is a \"deal?\" - the public will quickly tire of Trump's conflicts issue."
+  },
+  {
+   "blip_idx": 36,
+   "text": "\"Pinning him down and seeing whether he's living up to his promise will get technical,\" said Clark, a professor of law at Washington University in St. Louis."
+  },
+  {
+   "blip_idx": 37,
+   "text": "\"It won't go radioactive."
+  },
+  {
+   "blip_idx": 38,
+   "text": "It will seem like a dull issue of technical compliance."
+  },
+  {
+   "blip_idx": 39,
+   "text": "\" ---- Koenig reported from Dallas."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 39,
+    "new": 39,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 28,
+    "new": 28,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 35,
+    "new": 35,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 30,
+    "new": 30,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 29,
+    "new": 29,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 38,
+    "new": 38,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 34,
+    "new": 34,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 36,
+    "new": 36,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 37,
+    "new": 37,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 31,
+    "new": 31,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 32,
+    "new": 32,
+    "dist_old": 0.2748036925999773,
+    "dist_new": 0.2748036925999773
+   },
+   {
+    "old": 33,
+    "new": 33,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "added",
+   "added"
+  ],
+  "added_new": [
+   40,
+   41
+  ]
+ },
+ "document_old": "NEW YORK (AP) -- Donald Trump has vowed his company will do \"no new foreign deals\" while he is president. But he's left \"new\" and \"deals\" open to interpretation. Now those words are drawing scrutiny as his company confirms plans to expand its golf resort near Aberdeen, Scotland, raising concerns about conflicts of interest. A spokeswoman for the resort says the expansion is not a new deal, but just another construction phase that was included in the broad plan approved by the local government in 2008. Some lawyers who specialize in government ethics aren't convinced. Richard Painter, who served as chief ethics lawyer for President George W. Bush, said there are so many pending issues before local governments at each stage of a real estate project, it's like a new deal every time. \"Each phase requires building permits, each phase requires financing, each phase poses additional conflicts of interest,\" said Painter, a relentless Trump critic who has urged him to sell his company. \"Americans don't want their president or any other high ranking official dependent on a foreign government for a building permit. \" The Scottish expansion is especially worrisome, Painter said, because the United States will need to negotiate a trade deal with the United Kingdom now that it has voted to leave the European Union. \"In that context, who is going to deny a permit to the president of the United States?\" Painter said. In addition to its Scottish resort, the Trump Organization has several other uncompleted international projects, including a hotel in Vancouver, British Columbia, a golf course in Dubai and two resorts in Indonesia. His partner in Indonesia, billionaire developer Hary Tanoesoedibjo, plans to attend Trump's inauguration Friday and an official inauguration ball. The Trump Organization did not respond to requests for comment, except for the brief statement from its resort spokeswoman. Trump's original 2008 proposal for the resort, the Trump International Golf Links, included plans to eventually add a 450-room hotel, a second golf course, 500 luxury homes and 900 timeshare apartments. A recent article in the Guardian newspaper in Britain cited plans now for about twice the number of homes and timeshare apartments. Officials at the local government, the Aberdeenshire Council, couldn't confirm the Guardian figures, but did say plans for the second golf course are still under review and have not been approved. A website run by the government shows the Trump Organization has had to undergo many reviews since its 2008 plan was approved, including for small projects, such as erecting a flagpole and building a wall and adding six rooms to a hotel already there. The resort has had a troubled history. It's faced fierce opposition from locals, including a fisherman who became a national hero of sorts for refusing a $690,000 offer from Trump to buy his land. Environmentalists protested possible damage to Aberdeen's dramatic dunes overlooking the wind-swept North Sea. A documentary was shot called \"Tripping Up Trump.\" The pledge of \"no new foreign deals\" came at Trump's press conference last week in which he unveiled several other steps he would take to allay concerns that he could be tempted to put his private financial interests ahead of the public good. Sheri Dillon, a lawyer who helped Trump with the conflicts plan, told reporters at the news conference that the steps were \"extraordinary.\" But government ethics lawyers have largely panned the moves. They noted that his company can still strike new domestic deals and argued that much of what was promised is difficult for outsiders to monitor. The news conference was \"full of unanswered questions and malleable commitments that leave the public guessing,\" said Matthew Sanderson, a former legal adviser to several Republican presidential campaigns. Sanderson said the Scottish expansion shows that Trump needs to provide more details. \"His conflict situation is extraordinary and only extraordinary levels of transparency can combat the appearance that his new office is enriching him,\" Sanderson said. To make questions of possible self-dealing go away, many ethics lawyers have urged Trump to follow the example of past presidents by selling his ownership in his company and putting the cash into a blind trust overseen by an independent manager. In a public speech last week, Walter Shaub, the director of the Office of Government Ethics, a normally behind-the-scenes agency that advises incoming presidents, urged the president-elect to do just that. He criticized parts of Trump's plan as \"meaningless.\" Some ethics experts have said a blind trust is impractical given the size and sweep of the president-elect's holdings, which include hotels, resorts, residential towers and commercial buildings in about 20 countries. The view was embraced by Trump's lawyer at the news conference. \"President-elect Trump should not be expected to destroy the company he built,\" said Dillon, a partner at law firm Morgan, Lewis and Brokius. Trump has been slimming down his business, though. In recent weeks, the Trump Organization has canceled signed deals and exploratory talks in several countries, including Argentina, Brazil, Azerbaijan and the neighboring country of Georgia. Kathleen Clark, a former federal ethics lawyer, said the focus on new foreign deals misses the real problem. She said any Trump real estate project - new or existing, foreign or domestic - offers opportunity for government officials, corporate executives and ordinary people to curry favor with the new president. They can approve permits or purchase timeshare units or pay up to become members of his golf clubs. And she worries that by framing the debate over conflicts so narrowly - What is \"new?\" What is a \"deal?\" - the public will quickly tire of Trump's conflicts issue. \"Pinning him down and seeing whether he's living up to his promise will get technical,\" said Clark, a professor of law at Washington University in St. Louis. \"It won't go radioactive. It will seem like a dull issue of technical compliance. \" ---- Koenig reported from Dallas.",
+ "document_new": "NEW YORK (AP) -- Donald Trump has vowed his company will do \"no new foreign deals\" while he is president. But he's left \"new\" and \"deals\" open to interpretation. Now those words are drawing scrutiny as his company confirms plans to expand its golf resort near Aberdeen, Scotland, raising concerns about conflicts of interest. A spokeswoman for the resort says the expansion is not a new deal, but just another construction phase that was included in the broad plan approved by the local government in 2008. Some lawyers who specialize in government ethics aren't convinced. Richard Painter, who served as chief ethics lawyer for President George W. Bush, said there are so many pending issues before local governments at each stage of a real estate project, it's like a new deal every time. \"Each phase requires building permits, each phase requires financing, each phase poses additional conflicts of interest,\" said Painter, a relentless Trump critic who has urged him to sell his company. \"Americans don't want their president or any other high ranking official dependent on a foreign government for a building permit. \" The Scottish expansion is especially worrisome, Painter said, because the United States will need to negotiate a trade deal with the United Kingdom now that it has voted to leave the European Union. \"In that context, who is going to deny a permit to the president of the United States?\" Painter said. In addition to its Scottish resort, the Trump Organization has several other uncompleted international projects, including a hotel in Vancouver, British Columbia, a golf course in Dubai and two resorts in Indonesia. His partner in Indonesia, billionaire developer Hary Tanoesoedibjo, plans to attend Trump's inauguration Friday and an official inauguration ball. The Trump Organization did not respond to requests for comment, except for the brief statement from its resort spokeswoman. Trump's original 2008 proposal for the resort, the Trump International Golf Links, included plans to eventually add a 450-room hotel, a second golf course, 500 luxury homes and 900 timeshare apartments. A recent article in the Guardian newspaper in Britain cited plans now for about twice the number of homes and timeshare apartments. Officials at the local government, the Aberdeenshire Council, couldn't confirm the Guardian figures, but did say plans for the second golf course are still under review and have not been approved. A website run by the government shows the Trump Organization has had to undergo many reviews since its 2008 plan was approved, including for small projects, such as erecting a flagpole and building a wall and adding six rooms to a hotel already there. The resort has had a troubled history. It's faced fierce opposition from locals, including a fisherman who became a national hero of sorts for refusing a $690,000 offer from Trump to buy his land. Environmentalists protested possible damage to Aberdeen's dramatic dunes overlooking the wind-swept North Sea. A documentary was shot called \"Tripping Up Trump.\" The pledge of \"no new foreign deals\" came at Trump's press conference last week in which he unveiled several other steps he would take to allay concerns that he could be tempted to put his private financial interests ahead of the public good. Sheri Dillon, a lawyer who helped Trump with the conflicts plan, told reporters at the news conference that the steps were \"extraordinary.\" But government ethics lawyers have largely panned the moves. They noted that his company can still strike new domestic deals and argued that much of what was promised is difficult for outsiders to monitor. The news conference was \"full of unanswered questions and malleable commitments that leave the public guessing,\" said Matthew Sanderson, a former legal adviser to several Republican presidential campaigns. Sanderson said the Scottish expansion shows that Trump needs to provide more details. \"His conflict situation is extraordinary and only extraordinary levels of transparency can combat the appearance that his new office is enriching him,\" Sanderson said. To make questions of possible self-dealing go away, many ethics lawyers have urged Trump to follow the example of past presidents by selling his ownership in his company and putting the cash into a blind trust overseen by an independent manager. In a public speech last week, Walter Shaub, the director of the Office of Government Ethics, a normally behind-the-scenes agency that advises incoming presidents, urged the president-elect to do just that. He criticized parts of Trump's plan as \"meaningless.\" Some ethics experts have said a blind trust is impractical given the size and sweep of the president-elect's holdings, which include hotels, resorts, residential towers and commercial buildings in about 20 countries. The view was embraced by Trump's lawyer at the news conference. \"President-elect Trump should not be expected to destroy the company he built,\" said Dillon, a partner at law firm Morgan, Lewis and Brokius. Trump has been slimming down his business, though. In recent weeks, the Trump Organization has canceled signed deals and exploratory talks in several countries, including Argentina, Brazil, Azerbaijan and the neighboring country of Georgia. Kathleen Clark, a former ethics lawyer for the District of Columbia, said the focus on new foreign deals misses the real problem. She said any Trump real estate project - new or existing, foreign or domestic - offers opportunity for government officials, corporate executives and ordinary people to curry favor with the new president. They can approve permits or purchase timeshare units or pay up to become members of his golf clubs. And she worries that by framing the debate over conflicts so narrowly - What is \"new?\" What is a \"deal?\" - the public will quickly tire of Trump's conflicts issue. \"Pinning him down and seeing whether he's living up to his promise will get technical,\" said Clark, a professor of law at Washington University in St. Louis. \"It won't go radioactive. It will seem like a dull issue of technical compliance. \" ---------- Koenig reported from Dallas. Condon can be reached at http://twitter.com/BernardFCondon . --- This story has been corrected to state that Kathleen Clark is a former ethics lawyer for the District of Columbia, not a former federal ethics lawyer.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "Where did Kathleen Clark work as an ethics lawyer? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "When was the broad plan approved? Answer with the number only."
+  }
+ ]
+}

@@ -1,0 +1,765 @@
+{
+ "pair_id": "ap_16777_3_4",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "PARIS (AP) -- The Latest on a shooting and hostage-taking in southern France (all times local): 6:20 p.m. French President Emmanuel Macron says the armed man who took hostages in a supermarket killed three people and wounded 16 hours."
+  },
+  {
+   "blip_idx": 1,
+   "text": "Macron said investigators are trying to establish how the suspect obtained the gun used in the attack in Trebes and nearby city of Carcassonne, where officials say the 26-year-old hijacked a car and claimed his first victim."
+  },
+  {
+   "blip_idx": 2,
+   "text": "Macron added detectives will also try to find out how and when Redouane Lakdim got radicalized."
+  },
+  {
+   "blip_idx": 3,
+   "text": "The suspect, who was shot and killed by police, was known by police services as a small-time drug dealer."
+  },
+  {
+   "blip_idx": 4,
+   "text": "Macron, speaking after a meeting at the emergency center at the interior ministry, praised the courage of the police officer who offered himself up in a hostage swap and was seriously injured."
+  },
+  {
+   "blip_idx": 5,
+   "text": "The president said: \"He saved lives\" and is now in a life-threatening condition."
+  },
+  {
+   "blip_idx": 6,
+   "text": "--- 5:35 p.m. A customer in the supermarket in southern France that was taken over by a gunman describes the assailant as a \"very agitated man shouting several times \"Allahu akbar!\" Christian Guibbert told reporters \"we heard an explosion, well, several explosions. So I went to see what was happening and I saw a man lying on the floor and another person, very agitated, who had a gun in one hand and a knife in the other one.\" Guibbert said he had sought shelter with his wife, sister-in-law and other customers into the butchery's refrigerator."
+  },
+  {
+   "blip_idx": 7,
+   "text": "Then he went back into the supermarket's main room and walked toward the assailant, calling police and describing the situation."
+  },
+  {
+   "blip_idx": 8,
+   "text": "He says the suspect \"ran after me.\" Guibbert escaped out an emergency market door as elite police forces arrived to storm the building."
+  },
+  {
+   "blip_idx": 9,
+   "text": "The suspect killed three people Friday before being shot dead by French police."
+  },
+  {
+   "blip_idx": 10,
+   "text": "--- 4:20 p.m. The Islamic State group has claimed responsibility for the shooting and hostage-taking in southern France, saying the attack was carried by one of its \"soldiers.\" The IS-linked Aamaq news agency quoted a security official as saying that \"a soldier of the Islamic State\" carried out the attack in response to calls to target \"countries of the coalition.\" It was referring to the U.S.-led coalition that has been carrying out airstrikes against IS in Syria and Iraq since 2014."
+  },
+  {
+   "blip_idx": 11,
+   "text": "France is part of that coalition."
+  },
+  {
+   "blip_idx": 12,
+   "text": "--- 4:05 p.m. French Interior Minister Gerard Collomb has praised the \"heroism\" of a French police officer who offered himself up as a hostage swap during an attack in southern France and was seriously injured."
+  },
+  {
+   "blip_idx": 13,
+   "text": "Collomb said the policeman \"volunteered to swap his place with a hostage\" at a supermarket in the town of Trebes and stayed with the armed suspect."
+  },
+  {
+   "blip_idx": 14,
+   "text": "He managed to leave his cellphone switched on after the swap, establishing a contact with officers outside the supermarket in the hours-long standoff Friday."
+  },
+  {
+   "blip_idx": 15,
+   "text": "Collomb said elite French forces stormed the market and killed the gunman after hearing gunshots inside."
+  },
+  {
+   "blip_idx": 16,
+   "text": "He did not say how or when the police officer was injured."
+  },
+  {
+   "blip_idx": 17,
+   "text": "--- 3:35 p.m. France's interior ministry is describing the suspect in the supermarket shooting and hostage-taking as a 26-year-old petty criminal who was considered radicalized and under police surveillance."
+  },
+  {
+   "blip_idx": 18,
+   "text": "Interior Minister Gerard Collomb identified the suspect as Redouane Lakdim and said Lakdim killed three people on Friday."
+  },
+  {
+   "blip_idx": 19,
+   "text": "Collomb says police shot and killed Lakdim after storming the supermarket in the town of Trebes."
+  },
+  {
+   "blip_idx": 20,
+   "text": "Investigators think the suspect hijacked a car after leaving the nearby city of Carcassonne and one of the people in the hijacked vehicle was killed."
+  },
+  {
+   "blip_idx": 21,
+   "text": "Collomb says Lakdim then shot at a group of police officers before hiding inside the supermarket, where two more people were killed."
+  },
+  {
+   "blip_idx": 22,
+   "text": "He says Lakdim acted alone."
+  },
+  {
+   "blip_idx": 23,
+   "text": "--- 2:50 p.m. A police union official says officers have stormed a supermarket in southern France and killed a suspect who took hostages there."
+  },
+  {
+   "blip_idx": 24,
+   "text": "Yves Lefebvre, secretary general of SGP Police-FO police union, says he doesn't have immediate details on the number of victims from Friday's incident in the town of Trebes."
+  },
+  {
+   "blip_idx": 25,
+   "text": "Another police official also confirms the suspect was shot and killed."
+  },
+  {
+   "blip_idx": 26,
+   "text": "French national police earlier said at least two people were killed and a dozen wounded in the incident."
+  },
+  {
+   "blip_idx": 27,
+   "text": "French President Emmanuel Macron says it looks like a terrorist attack."
+  },
+  {
+   "blip_idx": 28,
+   "text": "--- 2:45 p.m. Police union official Yves Lefebvre says the suspect in hostage-taking situation in southern France has been shot to death by police."
+  },
+  {
+   "blip_idx": 29,
+   "text": "The update came minutes after French President Emmanuel Macron said all evidence suggested the hostage-taking and shootings were a terrorist attack."
+  },
+  {
+   "blip_idx": 30,
+   "text": "Speaking in Brussels, where he is attending an EU summit, Macron offered his \"full support\" to everyone involving in the situation."
+  },
+  {
+   "blip_idx": 31,
+   "text": "The president said he won't give details on the number of victims \"at this stage.\" Macron said he would return to Paris in the coming hours and will follow closely the situation."
+  },
+  {
+   "blip_idx": 32,
+   "text": "--- 2:15 p.m. The Paris prosecutor's office says the prosecutor who leads the country's counterterrorism office is heading to southern France to oversee the unfolding investigation of a hostage situation at a supermarket."
+  },
+  {
+   "blip_idx": 33,
+   "text": "The office of Paris prosecutor Francois Molins would not give details at this stage on the number of victims or the identity of the suspect in the town of Trebes."
+  },
+  {
+   "blip_idx": 34,
+   "text": "The school system in the Trebes region says all students are safe and will remain inside schools until further notice."
+  },
+  {
+   "blip_idx": 35,
+   "text": "Parents and relatives have been told not to come to pick them up."
+  },
+  {
+   "blip_idx": 36,
+   "text": "--- 1:30 p.m. French national police say two people have been killed and about a dozen wounded in a shooting and hostage-taking in a supermarket in southern France."
+  },
+  {
+   "blip_idx": 37,
+   "text": "A spokesman with the national police service told The Associated Press the attacker was still in the supermarket in the town of Trebes, but it was unclear if there were people still inside with him."
+  },
+  {
+   "blip_idx": 38,
+   "text": "The spokesman said a police operation to apprehend the assailant is still underway."
+  },
+  {
+   "blip_idx": 39,
+   "text": "The spokesman was not authorized to be publicly named."
+  },
+  {
+   "blip_idx": 40,
+   "text": "The reason for the shooting and hostage-taking is unclear, as is the identity of the attacker."
+  },
+  {
+   "blip_idx": 41,
+   "text": "- By Angela Charlton --- 1:10 p.m. French Prime Minister Edouard Philippe says all information suggests that the shooting inside a supermarket in southern France and the earlier shooting of a police officer \"seems to be a terrorist act\"."
+  },
+  {
+   "blip_idx": 42,
+   "text": "Philippe says the hostage situation is ongoing Friday inside the Super-U supermarket in the small town of Trebes."
+  },
+  {
+   "blip_idx": 43,
+   "text": "A police official earlier said that one person had been shot dead and another seriously wounded inside the supermarket."
+  },
+  {
+   "blip_idx": 44,
+   "text": "--- 12:50 p.m. French President Emmanuel Macron has asked Interior Minister Gerard Collomb to go to the site of a shooting and hostage-taking in southern France."
+  },
+  {
+   "blip_idx": 45,
+   "text": "The incident is continuing inside a supermarket in the small town of Trebes."
+  },
+  {
+   "blip_idx": 46,
+   "text": "A police union official said the suspect has shot one person dead and a second is in life-threatening condition."
+  },
+  {
+   "blip_idx": 47,
+   "text": "Earlier the suspect shot and wounded a police officer nearby."
+  },
+  {
+   "blip_idx": 48,
+   "text": "Anti-terror prosecutors have taken over the investigation."
+  },
+  {
+   "blip_idx": 49,
+   "text": "--- 12:35 p.m. A police union official says a suspect has shot dead one person and seriously wounded another inside a supermarket in the southern French town of Trebes."
+  },
+  {
+   "blip_idx": 50,
+   "text": "Yves Lefebvre, secretary general of the SGP Police-FO union, says the suspect earlier fired six shots at police officers who were on their way back from jogging near the city of Carcassonne Friday morning."
+  },
+  {
+   "blip_idx": 51,
+   "text": "One police officer was injured in the shoulder but is not in life-threatening condition, Lefebvre said The police officers, based in the southern city of Marseille, were on a temporary mission in Carcassonne, he said."
+  },
+  {
+   "blip_idx": 52,
+   "text": "--- 12:20 p.m. French counterterrorism prosecutors are taking charge of the investigation into the shooting of a police officer in southern France that has led to an apparent hostage-taking at a supermarket."
+  },
+  {
+   "blip_idx": 53,
+   "text": "The Paris prosecutor's office said counterterrorism investigators are taking over the probe into the ongoing incident Friday in the town of Trebes, but did not provide details on why."
+  },
+  {
+   "blip_idx": 54,
+   "text": "There are unconfirmed media reports that the assailant claimed connections to the Islamic State group."
+  },
+  {
+   "blip_idx": 55,
+   "text": "Interior Minister spokesman Frederic Delanouvelle told The Associated Press that there is one suspect and police are trying to subdue him."
+  },
+  {
+   "blip_idx": 56,
+   "text": "He provided no details of how many people were inside the supermarket or were believed held hostage."
+  },
+  {
+   "blip_idx": 57,
+   "text": "--- 12:05 p.m. French authorities say a police operation is taking place in a small town in southern France after a police officer was shot and wounded."
+  },
+  {
+   "blip_idx": 58,
+   "text": "A suspect has been surrounded at a supermarket in the town of Trebes, south of Toulouse, and might have taken hostages, national police said."
+  },
+  {
+   "blip_idx": 59,
+   "text": "The French Interior Ministry said on its Twitter account Friday that police and rescue operations are the priority."
+  },
+  {
+   "blip_idx": 60,
+   "text": "Authorities in the Aude region are warning people to avoid the area around the supermarket."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 31,
+    "new": 31,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 37,
+    "new": 37,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 57,
+    "new": 57,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 44,
+    "new": 44,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 36,
+    "new": 36,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 41,
+    "new": 41,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 50,
+    "new": 50,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 54,
+    "new": 54,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 58,
+    "new": 58,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 30,
+    "new": 30,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 38,
+    "new": 38,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 34,
+    "new": 34,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 52,
+    "new": 52,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 45,
+    "new": 45,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 43,
+    "new": 43,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 46,
+    "new": 46,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 35,
+    "new": 35,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 60,
+    "new": 60,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 39,
+    "new": 39,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 47,
+    "new": 47,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 49,
+    "new": 49,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 29,
+    "new": 29,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 28,
+    "new": 28,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 33,
+    "new": 33,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 48,
+    "new": 48,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 59,
+    "new": 59,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 40,
+    "new": 40,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 53,
+    "new": 53,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 56,
+    "new": 56,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 55,
+    "new": 55,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 51,
+    "new": 51,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.06978501709518183,
+    "dist_new": 0.06978501709518183
+   },
+   {
+    "old": 32,
+    "new": 32,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 42,
+    "new": 42,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "PARIS (AP) -- The Latest on a shooting and hostage-taking in southern France (all times local): 6:20 p.m. French President Emmanuel Macron says the armed man who took hostages in a supermarket killed three people and wounded 16 hours. Macron said investigators are trying to establish how the suspect obtained the gun used in the attack in Trebes and nearby city of Carcassonne, where officials say the 26-year-old hijacked a car and claimed his first victim. Macron added detectives will also try to find out how and when Redouane Lakdim got radicalized. The suspect, who was shot and killed by police, was known by police services as a small-time drug dealer. Macron, speaking after a meeting at the emergency center at the interior ministry, praised the courage of the police officer who offered himself up in a hostage swap and was seriously injured. The president said: \"He saved lives\" and is now in a life-threatening condition. --- 5:35 p.m. A customer in the supermarket in southern France that was taken over by a gunman describes the assailant as a \"very agitated man shouting several times \"Allahu akbar!\" Christian Guibbert told reporters \"we heard an explosion, well, several explosions. So I went to see what was happening and I saw a man lying on the floor and another person, very agitated, who had a gun in one hand and a knife in the other one.\" Guibbert said he had sought shelter with his wife, sister-in-law and other customers into the butchery's refrigerator. Then he went back into the supermarket's main room and walked toward the assailant, calling police and describing the situation. He says the suspect \"ran after me.\" Guibbert escaped out an emergency market door as elite police forces arrived to storm the building. The suspect killed three people Friday before being shot dead by French police. --- 4:20 p.m. The Islamic State group has claimed responsibility for the shooting and hostage-taking in southern France, saying the attack was carried by one of its \"soldiers.\" The IS-linked Aamaq news agency quoted a security official as saying that \"a soldier of the Islamic State\" carried out the attack in response to calls to target \"countries of the coalition.\" It was referring to the U.S.-led coalition that has been carrying out airstrikes against IS in Syria and Iraq since 2014. France is part of that coalition. --- 4:05 p.m. French Interior Minister Gerard Collomb has praised the \"heroism\" of a French police officer who offered himself up as a hostage swap during an attack in southern France and was seriously injured. Collomb said the policeman \"volunteered to swap his place with a hostage\" at a supermarket in the town of Trebes and stayed with the armed suspect. He managed to leave his cellphone switched on after the swap, establishing a contact with officers outside the supermarket in the hours-long standoff Friday. Collomb said elite French forces stormed the market and killed the gunman after hearing gunshots inside. He did not say how or when the police officer was injured. --- 3:35 p.m. France's interior ministry is describing the suspect in the supermarket shooting and hostage-taking as a 26-year-old petty criminal who was considered radicalized and under police surveillance. Interior Minister Gerard Collomb identified the suspect as Redouane Lakdim and said Lakdim killed three people on Friday. Collomb says police shot and killed Lakdim after storming the supermarket in the town of Trebes. Investigators think the suspect hijacked a car after leaving the nearby city of Carcassonne and one of the people in the hijacked vehicle was killed. Collomb says Lakdim then shot at a group of police officers before hiding inside the supermarket, where two more people were killed. He says Lakdim acted alone. --- 2:50 p.m. A police union official says officers have stormed a supermarket in southern France and killed a suspect who took hostages there. Yves Lefebvre, secretary general of SGP Police-FO police union, says he doesn't have immediate details on the number of victims from Friday's incident in the town of Trebes. Another police official also confirms the suspect was shot and killed. French national police earlier said at least two people were killed and a dozen wounded in the incident. French President Emmanuel Macron says it looks like a terrorist attack. --- 2:45 p.m. Police union official Yves Lefebvre says the suspect in hostage-taking situation in southern France has been shot to death by police. The update came minutes after French President Emmanuel Macron said all evidence suggested the hostage-taking and shootings were a terrorist attack. Speaking in Brussels, where he is attending an EU summit, Macron offered his \"full support\" to everyone involving in the situation. The president said he won't give details on the number of victims \"at this stage.\" Macron said he would return to Paris in the coming hours and will follow closely the situation. --- 2:15 p.m. The Paris prosecutor's office says the prosecutor who leads the country's counterterrorism office is heading to southern France to oversee the unfolding investigation of a hostage situation at a supermarket. The office of Paris prosecutor Francois Molins would not give details at this stage on the number of victims or the identity of the suspect in the town of Trebes. The school system in the Trebes region says all students are safe and will remain inside schools until further notice. Parents and relatives have been told not to come to pick them up. --- 1:30 p.m. French national police say two people have been killed and about a dozen wounded in a shooting and hostage-taking in a supermarket in southern France. A spokesman with the national police service told The Associated Press the attacker was still in the supermarket in the town of Trebes, but it was unclear if there were people still inside with him. The spokesman said a police operation to apprehend the assailant is still underway. The spokesman was not authorized to be publicly named. The reason for the shooting and hostage-taking is unclear, as is the identity of the attacker. - By Angela Charlton --- 1:10 p.m. French Prime Minister Edouard Philippe says all information suggests that the shooting inside a supermarket in southern France and the earlier shooting of a police officer \"seems to be a terrorist act\". Philippe says the hostage situation is ongoing Friday inside the Super-U supermarket in the small town of Trebes. A police official earlier said that one person had been shot dead and another seriously wounded inside the supermarket. --- 12:50 p.m. French President Emmanuel Macron has asked Interior Minister Gerard Collomb to go to the site of a shooting and hostage-taking in southern France. The incident is continuing inside a supermarket in the small town of Trebes. A police union official said the suspect has shot one person dead and a second is in life-threatening condition. Earlier the suspect shot and wounded a police officer nearby. Anti-terror prosecutors have taken over the investigation. --- 12:35 p.m. A police union official says a suspect has shot dead one person and seriously wounded another inside a supermarket in the southern French town of Trebes. Yves Lefebvre, secretary general of the SGP Police-FO union, says the suspect earlier fired six shots at police officers who were on their way back from jogging near the city of Carcassonne Friday morning. One police officer was injured in the shoulder but is not in life-threatening condition, Lefebvre said The police officers, based in the southern city of Marseille, were on a temporary mission in Carcassonne, he said. --- 12:20 p.m. French counterterrorism prosecutors are taking charge of the investigation into the shooting of a police officer in southern France that has led to an apparent hostage-taking at a supermarket. The Paris prosecutor's office said counterterrorism investigators are taking over the probe into the ongoing incident Friday in the town of Trebes, but did not provide details on why. There are unconfirmed media reports that the assailant claimed connections to the Islamic State group. Interior Minister spokesman Frederic Delanouvelle told The Associated Press that there is one suspect and police are trying to subdue him. He provided no details of how many people were inside the supermarket or were believed held hostage. --- 12:05 p.m. French authorities say a police operation is taking place in a small town in southern France after a police officer was shot and wounded. A suspect has been surrounded at a supermarket in the town of Trebes, south of Toulouse, and might have taken hostages, national police said. The French Interior Ministry said on its Twitter account Friday that police and rescue operations are the priority. Authorities in the Aude region are warning people to avoid the area around the supermarket.",
+ "document_new": "PARIS (AP) -- The Latest on a shooting and hostage-taking in southern France (all times local): 6:20 p.m. French President Emmanuel Macron says the armed man who took hostages in a supermarket killed three people and wounded 16 others. Macron said investigators are trying to establish how the suspect obtained the gun used in the attack in Trebes and nearby city of Carcassonne, where officials say the 26-year-old hijacked a car and claimed his first victim. Macron added detectives will also try to find out how and when Redouane Lakdim got radicalized. The suspect, who was shot and killed by police, was known by police services as a small-time drug dealer. Macron, speaking after a meeting at the emergency center at the interior ministry, praised the courage of the police officer who offered himself up in a hostage swap and was seriously injured. The president said: \"He saved lives\" and is now in a life-threatening condition. --- 5:35 p.m. A customer in the supermarket in southern France that was taken over by a gunman describes the assailant as a \"very agitated man shouting several times \"Allahu akbar!\" Christian Guibbert told reporters \"we heard an explosion, well, several explosions. So I went to see what was happening and I saw a man lying on the floor and another person, very agitated, who had a gun in one hand and a knife in the other one.\" Guibbert said he had sought shelter with his wife, sister-in-law and other customers into the butchery's refrigerator. Then he went back into the supermarket's main room and walked toward the assailant, calling police and describing the situation. He says the suspect \"ran after me.\" Guibbert escaped out an emergency market door as elite police forces arrived to storm the building. The suspect killed three people Friday before being shot dead by French police. --- 4:20 p.m. The Islamic State group has claimed responsibility for the shooting and hostage-taking in southern France, saying the attack was carried by one of its \"soldiers.\" The IS-linked Aamaq news agency quoted a security official as saying that \"a soldier of the Islamic State\" carried out the attack in response to calls to target \"countries of the coalition.\" It was referring to the U.S.-led coalition that has been carrying out airstrikes against IS in Syria and Iraq since 2014. France is part of that coalition. --- 4:05 p.m. French Interior Minister Gerard Collomb has praised the \"heroism\" of a French police officer who offered himself up as a hostage swap during an attack in southern France and was seriously injured. Collomb said the policeman \"volunteered to swap his place with a hostage\" at a supermarket in the town of Trebes and stayed with the armed suspect. He managed to leave his cellphone switched on after the swap, establishing a contact with officers outside the supermarket in the hours-long standoff Friday. Collomb said elite French forces stormed the market and killed the gunman after hearing gunshots inside. He did not say how or when the police officer was injured. --- 3:35 p.m. France's interior ministry is describing the suspect in the supermarket shooting and hostage-taking as a 26-year-old petty criminal who was considered radicalized and under police surveillance. Interior Minister Gerard Collomb identified the suspect as Redouane Lakdim and said Lakdim killed three people on Friday. Collomb says police shot and killed Lakdim after storming the supermarket in the town of Trebes. Investigators think the suspect hijacked a car after leaving the nearby city of Carcassonne and one of the people in the hijacked vehicle was killed. Collomb says Lakdim then shot at a group of police officers before hiding inside the supermarket, where two more people were killed. He says Lakdim acted alone. --- 2:50 p.m. A police union official says officers have stormed a supermarket in southern France and killed a suspect who took hostages there. Yves Lefebvre, secretary general of SGP Police-FO police union, says he doesn't have immediate details on the number of victims from Friday's incident in the town of Trebes. Another police official also confirms the suspect was shot and killed. French national police earlier said at least two people were killed and a dozen wounded in the incident. French President Emmanuel Macron says it looks like a terrorist attack. --- 2:45 p.m. Police union official Yves Lefebvre says the suspect in hostage-taking situation in southern France has been shot to death by police. The update came minutes after French President Emmanuel Macron said all evidence suggested the hostage-taking and shootings were a terrorist attack. Speaking in Brussels, where he is attending an EU summit, Macron offered his \"full support\" to everyone involving in the situation. The president said he won't give details on the number of victims \"at this stage.\" Macron said he would return to Paris in the coming hours and will follow closely the situation. --- 2:15 p.m. The Paris prosecutor's office says the prosecutor who leads the country's counterterrorism office is heading to southern France to oversee the unfolding investigation of a hostage situation at a supermarket. The office of Paris prosecutor Francois Molins would not give details at this stage on the number of victims or the identity of the suspect in the town of Trebes. The school system in the Trebes region says all students are safe and will remain inside schools until further notice. Parents and relatives have been told not to come to pick them up. --- 1:30 p.m. French national police say two people have been killed and about a dozen wounded in a shooting and hostage-taking in a supermarket in southern France. A spokesman with the national police service told The Associated Press the attacker was still in the supermarket in the town of Trebes, but it was unclear if there were people still inside with him. The spokesman said a police operation to apprehend the assailant is still underway. The spokesman was not authorized to be publicly named. The reason for the shooting and hostage-taking is unclear, as is the identity of the attacker. - By Angela Charlton --- 1:10 p.m. French Prime Minister Edouard Philippe says all information suggests that the shooting inside a supermarket in southern France and the earlier shooting of a police officer \"seems to be a terrorist act\". Philippe says the hostage situation is ongoing Friday inside the Super-U supermarket in the small town of Trebes. A police official earlier said that one person had been shot dead and another seriously wounded inside the supermarket. --- 12:50 p.m. French President Emmanuel Macron has asked Interior Minister Gerard Collomb to go to the site of a shooting and hostage-taking in southern France. The incident is continuing inside a supermarket in the small town of Trebes. A police union official said the suspect has shot one person dead and a second is in life-threatening condition. Earlier the suspect shot and wounded a police officer nearby. Anti-terror prosecutors have taken over the investigation. --- 12:35 p.m. A police union official says a suspect has shot dead one person and seriously wounded another inside a supermarket in the southern French town of Trebes. Yves Lefebvre, secretary general of the SGP Police-FO union, says the suspect earlier fired six shots at police officers who were on their way back from jogging near the city of Carcassonne Friday morning. One police officer was injured in the shoulder but is not in life-threatening condition, Lefebvre said The police officers, based in the southern city of Marseille, were on a temporary mission in Carcassonne, he said. --- 12:20 p.m. French counterterrorism prosecutors are taking charge of the investigation into the shooting of a police officer in southern France that has led to an apparent hostage-taking at a supermarket. The Paris prosecutor's office said counterterrorism investigators are taking over the probe into the ongoing incident Friday in the town of Trebes, but did not provide details on why. There are unconfirmed media reports that the assailant claimed connections to the Islamic State group. Interior Minister spokesman Frederic Delanouvelle told The Associated Press that there is one suspect and police are trying to subdue him. He provided no details of how many people were inside the supermarket or were believed held hostage. --- 12:05 p.m. French authorities say a police operation is taking place in a small town in southern France after a police officer was shot and wounded. A suspect has been surrounded at a supermarket in the town of Trebes, south of Toulouse, and might have taken hostages, national police said. The French Interior Ministry said on its Twitter account Friday that police and rescue operations are the priority. Authorities in the Aude region are warning people to avoid the area around the supermarket.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "How many people were wounded by the armed man according to Emmanuel Macron's statement? Answer in as few words as possible."
+  },
+  {
+   "task_id": "bool_001",
+   "type": "boolean",
+   "prompt": "Were more than 12 people wounded by the armed man according to Emmanuel Macron's statement? Answer Yes or No."
+  },
+  {
+   "task_id": "bool_002",
+   "type": "boolean",
+   "prompt": "Were more than 20 people wounded by the armed man according to Emmanuel Macron's statement? Answer Yes or No."
+  }
+ ]
+}

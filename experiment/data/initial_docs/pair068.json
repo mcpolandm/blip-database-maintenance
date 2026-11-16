@@ -1,0 +1,383 @@
+{
+ "pair_id": "ap_4084_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "WEST CHAZY, N.Y. (AP) -- Only 17 snowy miles from the Canadian border, Katie Bushey's most basic needs are met by traveling health aides who come into her home to change her diapers, track her seizures, spoon-feed her fettucine Alfredo and load her wheelchair into the shower."
+  },
+  {
+   "blip_idx": 1,
+   "text": "But that's only if someone shows up."
+  },
+  {
+   "blip_idx": 2,
+   "text": "Bushey, 32, who lost her vocal and motor skills shortly after birth, is one of more than 180,000 Medicaid patients in New York who are authorized to receive long-term, in-home care, the most in the state's history."
+  },
+  {
+   "blip_idx": 3,
+   "text": "But there are increasingly too few aides to go around, especially in remote, rural areas."
+  },
+  {
+   "blip_idx": 4,
+   "text": "When there aren't enough aides for Bushey - over a recent two-day stretch there were workers for only four of the 26 hours of care for which she is authorized - her mother must stay home from her job at an elementary school, forgoing a day's wages and scraping her savings to pay the bills."
+  },
+  {
+   "blip_idx": 5,
+   "text": "It's a national problem advocates say could get worse in New York because of a phased-in, $15-an-hour minimum wage that will be statewide by 2021, pushing notoriously poorly paid health aides into other jobs, in retail or fast food, that don't involve hours of training and the pressure of keeping someone else alive."
+  },
+  {
+   "blip_idx": 6,
+   "text": "\"These should not be low-wage jobs,\" said Bruce Darling, executive director at the Center for Disability Rights. \"We're paying someone who gives you a burger the same as the person who operates your relative's ventilator or feeding tubes."
+  },
+  {
+   "blip_idx": 7,
+   "text": "\" There are 2.2 million home health aides and personal care aides in the U.S., with another 630,000 needed by 2024 as the Baby Boomer generation ages, according to the nonprofit research and consulting group PHI."
+  },
+  {
+   "blip_idx": 8,
+   "text": "New York state employs about 326,000 home health workers but is predicted to need another 125,000 by 2024. For now, home health aides in New York state earn an average of about $11 an hour, though wages are lower in upstate regions."
+  },
+  {
+   "blip_idx": 9,
+   "text": "Advocates say the system needs an overhaul that focuses on higher pay, worker retention and finding methods of compensation beyond what is provided through Medicaid."
+  },
+  {
+   "blip_idx": 10,
+   "text": "Democratic Gov."
+  },
+  {
+   "blip_idx": 11,
+   "text": "Andrew Cuomo has committed nearly $6 billion in funding for home health care reimbursements in coming years as the agencies transition to the $15 minimum wage."
+  },
+  {
+   "blip_idx": 12,
+   "text": "The state's health department has said it is developing an initiative to attract, recruit and retain home health workers."
+  },
+  {
+   "blip_idx": 13,
+   "text": "New York lawmakers have held hearings on the issue, and both the Senate and Assembly have so far included language in their budgets that would review and restructure how the state transfers Medicaid dollars to the providers, agencies and workers with the aim of providing workers and hours where they are needed most."
+  },
+  {
+   "blip_idx": 14,
+   "text": "Other states are grappling with how to address the dwindling workforce as their minimum wages climb."
+  },
+  {
+   "blip_idx": 15,
+   "text": "In Maine, legislation in 2015 attempted to make personal care worker wages more competitive with specific reimbursements for worker compensation."
+  },
+  {
+   "blip_idx": 16,
+   "text": "But a popular initiative will raise the minimum wage to $12 by 2020, minimizing those differences."
+  },
+  {
+   "blip_idx": 17,
+   "text": "In Arizona, minimum wage increases have been accompanied by increased reimbursement rates, and in Washington state, workers negotiated a $15 wage for some home-care workers for when the state minimum increases to $13.50 in 2020. New York advocates say a higher state minimum wage won't attract any extra workers in rural regions such as Clinton County, where Bushey lives."
+  },
+  {
+   "blip_idx": 18,
+   "text": "A single agency, North Country Home Services, hires and trains about 300 home health aides and personal care aides for about 1,000 people throughout a mountainous region the size of Connecticut."
+  },
+  {
+   "blip_idx": 19,
+   "text": "In any given week, the agency says, it leaves 400 hours of state-authorized care unfilled due to staffing shortages."
+  },
+  {
+   "blip_idx": 20,
+   "text": "The aides who continue despite the wages are a special breed, said Erica Stranahan, of Plattsburgh, who has worked as a home health aide with North Country for nine years and earns about $12 an hour."
+  },
+  {
+   "blip_idx": 21,
+   "text": "Stranahan said several of her co-workers have recently left homecare for less-intensive professions that will soon have similar wages."
+  },
+  {
+   "blip_idx": 22,
+   "text": "Stranahan acknowledged she makes it work only by sharing rent and living expenses with her boyfriend."
+  },
+  {
+   "blip_idx": 23,
+   "text": "She said she feels a responsibility to those she cares for, and would rather find a second job than quit caring for others."
+  },
+  {
+   "blip_idx": 24,
+   "text": "\"I enjoy helping people,\" she said."
+  },
+  {
+   "blip_idx": 25,
+   "text": "\"We're with them for so many hours."
+  },
+  {
+   "blip_idx": 26,
+   "text": "It's almost like we're a second family for them,\" Stranahan said."
+  },
+  {
+   "blip_idx": 27,
+   "text": "But Rosalie Kline, a personal care aide in Canandaigua for nearly 13 years who also struggles to make ends meet, said that if worse came to worst, she would find another job that paid more."
+  },
+  {
+   "blip_idx": 28,
+   "text": "\"I wouldn't want to."
+  },
+  {
+   "blip_idx": 29,
+   "text": "I love my job,\" she said. \"But I might need to."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 28,
+    "new": 28,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 29,
+    "new": 29,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.04338232807752013,
+    "dist_new": 0.04338232807752013
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "WEST CHAZY, N.Y. (AP) -- Only 17 snowy miles from the Canadian border, Katie Bushey's most basic needs are met by traveling health aides who come into her home to change her diapers, track her seizures, spoon-feed her fettucine Alfredo and load her wheelchair into the shower. But that's only if someone shows up. Bushey, 32, who lost her vocal and motor skills shortly after birth, is one of more than 180,000 Medicaid patients in New York who are authorized to receive long-term, in-home care, the most in the state's history. But there are increasingly too few aides to go around, especially in remote, rural areas. When there aren't enough aides for Bushey - over a recent two-day stretch there were workers for only four of the 26 hours of care for which she is authorized - her mother must stay home from her job at an elementary school, forgoing a day's wages and scraping her savings to pay the bills. It's a national problem advocates say could get worse in New York because of a phased-in, $15-an-hour minimum wage that will be statewide by 2021, pushing notoriously poorly paid health aides into other jobs, in retail or fast food, that don't involve hours of training and the pressure of keeping someone else alive. \"These should not be low-wage jobs,\" said Bruce Darling, executive director at the Center for Disability Rights. \"We're paying someone who gives you a burger the same as the person who operates your relative's ventilator or feeding tubes. \" There are 2.2 million home health aides and personal care aides in the U.S., with another 630,000 needed by 2024 as the Baby Boomer generation ages, according to the nonprofit research and consulting group PHI. New York state employs about 326,000 home health workers but is predicted to need another 125,000 by 2024. For now, home health aides in New York state earn an average of about $11 an hour, though wages are lower in upstate regions. Advocates say the system needs an overhaul that focuses on higher pay, worker retention and finding methods of compensation beyond what is provided through Medicaid. Democratic Gov. Andrew Cuomo has committed nearly $6 billion in funding for home health care reimbursements in coming years as the agencies transition to the $15 minimum wage. The state's health department has said it is developing an initiative to attract, recruit and retain home health workers. New York lawmakers have held hearings on the issue, and both the Senate and Assembly have so far included language in their budgets that would review and restructure how the state transfers Medicaid dollars to the providers, agencies and workers with the aim of providing workers and hours where they are needed most. Other states are grappling with how to address the dwindling workforce as their minimum wages climb. In Maine, legislation in 2015 attempted to make personal care worker wages more competitive with specific reimbursements for worker compensation. But a popular initiative will raise the minimum wage to $12 by 2020, minimizing those differences. In Arizona, minimum wage increases have been accompanied by increased reimbursement rates, and in Washington state, workers negotiated a $15 wage for some home-care workers for when the state minimum increases to $13.50 in 2020. New York advocates say a higher state minimum wage won't attract any extra workers in rural regions such as Clinton County, where Bushey lives. A single agency, North Country Home Services, hires and trains about 300 home health aides and personal care aides for about 1,000 people throughout a mountainous region the size of Connecticut. In any given week, the agency says, it leaves 400 hours of state-authorized care unfilled due to staffing shortages. The aides who continue despite the wages are a special breed, said Erica Stranahan, of Plattsburgh, who has worked as a home health aide with North Country for nine years and earns about $12 an hour. Stranahan said several of her co-workers have recently left homecare for less-intensive professions that will soon have similar wages. Stranahan acknowledged she makes it work only by sharing rent and living expenses with her boyfriend. She said she feels a responsibility to those she cares for, and would rather find a second job than quit caring for others. \"I enjoy helping people,\" she said. \"We're with them for so many hours. It's almost like we're a second family for them,\" Stranahan said. But Rosalie Kline, a personal care aide in Canandaigua for nearly 13 years who also struggles to make ends meet, said that if worse came to worst, she would find another job that paid more. \"I wouldn't want to. I love my job,\" she said. \"But I might need to.",
+ "document_new": "WEST CHAZY, N.Y. (AP) -- Only 17 snowy miles from the Canadian border, Katie Bushey's most basic needs are met by traveling health aides who come into her home to change her diapers, track her seizures, spoon-feed her fettuccine Alfredo and load her wheelchair into the shower. But that's only if someone shows up. Bushey, 32, who lost her vocal and motor skills shortly after birth, is one of more than 180,000 Medicaid patients in New York who are authorized to receive long-term, in-home care, the most in the state's history. But there are increasingly too few aides to go around, especially in remote, rural areas. When there aren't enough aides for Bushey - over a recent two-day stretch there were workers for only four of the 26 hours of care for which she is authorized - her mother must stay home from her job at an elementary school, forgoing a day's wages and scraping her savings to pay the bills. It's a national problem advocates say could get worse in New York because of a phased-in, $15-an-hour minimum wage that will be statewide by 2021, pushing notoriously poorly paid health aides into other jobs, in retail or fast food, that don't involve hours of training and the pressure of keeping someone else alive. \"These should not be low-wage jobs,\" said Bruce Darling, executive director at the Center for Disability Rights. \"We're paying someone who gives you a burger the same as the person who operates your relative's ventilator or feeding tubes. \" There are 2.2 million home health aides and personal care aides in the U.S., with another 630,000 needed by 2024 as the Baby Boomer generation ages, according to the nonprofit research and consulting group PHI. New York state employs about 326,000 home health workers but is predicted to need another 125,000 by 2024. For now, home health aides in New York state earn an average of about $11 an hour, though wages are lower in upstate regions. Advocates say the system needs an overhaul that focuses on higher pay, worker retention and finding methods of compensation beyond what is provided through Medicaid. Democratic Gov. Andrew Cuomo has committed nearly $6 billion in funding for home health care reimbursements in coming years as the agencies transition to the $15 minimum wage. The state's health department has said it is developing an initiative to attract, recruit and retain home health workers. New York lawmakers have held hearings on the issue, and both the Senate and Assembly have so far included language in their budgets that would review and restructure how the state transfers Medicaid dollars to the providers, agencies and workers with the aim of providing workers and hours where they are needed most. Other states are grappling with how to address the dwindling workforce as their minimum wages climb. In Maine, legislation in 2015 attempted to make personal care worker wages more competitive with specific reimbursements for worker compensation. But a popular initiative will raise the minimum wage to $12 by 2020, minimizing those differences. In Arizona, minimum wage increases have been accompanied by increased reimbursement rates, and in Washington state, workers negotiated a $15 wage for some home-care workers for when the state minimum increases to $13.50 in 2020. New York advocates say a higher state minimum wage won't attract any extra workers in rural regions such as Clinton County, where Bushey lives. A single agency, North Country Home Services, hires and trains about 300 home health aides and personal care aides for about 1,000 people throughout a mountainous region the size of Connecticut. In any given week, the agency says, it leaves 400 hours of state-authorized care unfilled due to staffing shortages. The aides who continue despite the wages are a special breed, said Erica Stranahan, of Plattsburgh, who has worked as a home health aide with North Country for nine years and earns about $12 an hour. Stranahan said several of her co-workers have recently left homecare for less-intensive professions that will soon have similar wages. Stranahan acknowledged she makes it work only by sharing rent and living expenses with her boyfriend. She said she feels a responsibility to those she cares for, and would rather find a second job than quit caring for others. \"I enjoy helping people,\" she said. \"We're with them for so many hours. It's almost like we're a second family for them,\" Stranahan said. But Rosalie Kline, a personal care aide in Canandaigua for nearly 13 years who also struggles to make ends meet, said that if worse came to worst, she would find another job that paid more. \"I wouldn't want to. I love my job,\" she said. \"But I might need to.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What is Rosalie Kline's occupation? Answer in as few words as possible."
+  }
+ ]
+}

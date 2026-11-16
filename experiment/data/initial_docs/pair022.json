@@ -1,0 +1,419 @@
+{
+ "pair_id": "ap_921_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "WASHINGTON (AP) -- King Abdullah II of Jordan's visit to Washington this week is testing President Donald Trump's ability to maintain key Arab alliances while cracking down on immigration from some Muslim countries and possibly moving the American Embassy in Israel to Jerusalem."
+  },
+  {
+   "blip_idx": 1,
+   "text": "The next few days could provide an indication if Trump is willing to compromise."
+  },
+  {
+   "blip_idx": 2,
+   "text": "Abdullah, a close U.S. ally, held meetings Monday with Defense Secretary Jim Mattis and Vice President Mike Pence."
+  },
+  {
+   "blip_idx": 3,
+   "text": "Trump and the king were to come face-to-face on Thursday at the National Prayer Breakfast, the White House said."
+  },
+  {
+   "blip_idx": 4,
+   "text": "The king also planned to meet with U.S. lawmakers this week."
+  },
+  {
+   "blip_idx": 5,
+   "text": "Abdullah's trip comes as the Trump administration is embroiled in its first major Mideast controversy, sparked by Trump's executive order temporarily halting all refugee admissions and suspending entry to the U.S. for citizens of seven majority-Muslim countries."
+  },
+  {
+   "blip_idx": 6,
+   "text": "Although Jordan isn't among the seven, even U.S. friends in the region fear Trump's move could embolden Mideast extremists and contribute to a perception that Washington is at war with Islam - which Trump's administration insists is not the case."
+  },
+  {
+   "blip_idx": 7,
+   "text": "Trump's embassy decision looms even larger for Jordan."
+  },
+  {
+   "blip_idx": 8,
+   "text": "The kingdom, fighting as part of U.S.-led coalition against the Islamic State group, is closely watching to see if Trump fulfills a campaign pledge to move the U.S."
+  },
+  {
+   "blip_idx": 9,
+   "text": "Embassy in Israel from Tel Aviv to Jerusalem."
+  },
+  {
+   "blip_idx": 10,
+   "text": "Doing so could trigger widespread protests among Jordan's massive Palestinian population, potentially even jeopardizing Abdullah's hold on power."
+  },
+  {
+   "blip_idx": 11,
+   "text": "\"The U.S. relationship is central to the internal stability of the kingdom,\" said Robert Satloff, who runs the Washington Institute for Near East Policy. \"This is really part and parcel of the national security fiber of the kingdom, and building this new relationship is really important to the king."
+  },
+  {
+   "blip_idx": 12,
+   "text": "\" This month, Jordan warned in unusually brusque terms that moving the embassy would cross a \"red line\" and could entail \"catastrophic\" consequences."
+  },
+  {
+   "blip_idx": 13,
+   "text": "Information Minister Mohammed Momani told The Associated Press it would be a \"gift to extremists,\" threatening U.S. ties with Mideast allies."
+  },
+  {
+   "blip_idx": 14,
+   "text": "The embassy was a prime topic of discussion in Abdullah's meeting with Pence, officials said."
+  },
+  {
+   "blip_idx": 15,
+   "text": "The White House said they discussed Abdullah's \"views on potential changes\" and how to make progress on Israeli-Palestinian peace."
+  },
+  {
+   "blip_idx": 16,
+   "text": "The Jordanian Embassy in Washington said the U.S. \"committed to working closely with Jordan\" on issues related to the conflict."
+  },
+  {
+   "blip_idx": 17,
+   "text": "Jordan serves as the custodian of Islam's third holiest shrine, located in Jerusalem's eastern sector."
+  },
+  {
+   "blip_idx": 18,
+   "text": "Any U.S. rift with Jordan could spill over to the kingdom's participation in the fight against IS, a campaign both Trump and Abdullah say they hope to accelerate."
+  },
+  {
+   "blip_idx": 19,
+   "text": "During his campaign, Trump pledged repeatedly to move the American Embassy in Israel, a promise former U.S. presidents have made and broken."
+  },
+  {
+   "blip_idx": 20,
+   "text": "Since his inauguration, Trump has backtracked slightly, with White House spokesman Sean Spicer saying the administration is only in the \"beginning stages of even discussing\" such a move."
+  },
+  {
+   "blip_idx": 21,
+   "text": "Although Israel considers Jerusalem its capital, the U.S. and most countries maintain embassies in Tel Aviv."
+  },
+  {
+   "blip_idx": 22,
+   "text": "The U.S. says conflicting Israeli and Palestinian claims to Jerusalem must be worked out in peace negotiations."
+  },
+  {
+   "blip_idx": 23,
+   "text": "Israel claims all of Jerusalem and annexed east Jerusalem after capturing it from Jordan in 1967, but the Palestinians want the capital of their future state in the city's eastern sector."
+  },
+  {
+   "blip_idx": 24,
+   "text": "The U.S. relies on Jordan for major military and intelligence support in fighting IS, and the kingdom plays a major role combatting radicalization in the Middle East."
+  },
+  {
+   "blip_idx": 25,
+   "text": "Both Trump and Abdullah say they want close ties."
+  },
+  {
+   "blip_idx": 26,
+   "text": "On Twitter, Trump said during the campaign he had \"great respect\" for Jordan's monarch."
+  },
+  {
+   "blip_idx": 27,
+   "text": "The two spoke by phone shortly after Trump was elected."
+  },
+  {
+   "blip_idx": 28,
+   "text": "Jordan, like most U.S. allies in the region, has avoided criticizing Trump's temporary ban on refugee admissions and on travel to the U.S. by citizens of Iraq, Syria, Iran, Sudan, Libya, Somalia and Yemen."
+  },
+  {
+   "blip_idx": 29,
+   "text": "However, the refugee measure - which indefinitely blocks Syrian refugees - could still trouble Jordan."
+  },
+  {
+   "blip_idx": 30,
+   "text": "The Syrian neighbor hosts more than 650,000 refugees from Syria's civil war and wants other countries to help resettle refugees to ease its burden."
+  },
+  {
+   "blip_idx": 31,
+   "text": "--- Associated Press writer Karin Laub in Amman, Jordan, contributed to this report."
+  },
+  {
+   "blip_idx": 32,
+   "text": "--- Reach Josh Lederman on Twitter at http://twitter.com/joshledermanAP"
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 31,
+    "new": 31,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 29,
+    "new": 29,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.07723799779563886,
+    "dist_new": 0.07683186810698392
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 30,
+    "new": 30,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 32,
+    "new": 32,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 28,
+    "new": 28,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "WASHINGTON (AP) -- King Abdullah II of Jordan's visit to Washington this week is testing President Donald Trump's ability to maintain key Arab alliances while cracking down on immigration from some Muslim countries and possibly moving the American Embassy in Israel to Jerusalem. The next few days could provide an indication if Trump is willing to compromise. Abdullah, a close U.S. ally, held meetings Monday with Defense Secretary Jim Mattis and Vice President Mike Pence. Trump and the king were to come face-to-face on Thursday at the National Prayer Breakfast, the White House said. The king also planned to meet with U.S. lawmakers this week. Abdullah's trip comes as the Trump administration is embroiled in its first major Mideast controversy, sparked by Trump's executive order temporarily halting all refugee admissions and suspending entry to the U.S. for citizens of seven majority-Muslim countries. Although Jordan isn't among the seven, even U.S. friends in the region fear Trump's move could embolden Mideast extremists and contribute to a perception that Washington is at war with Islam - which Trump's administration insists is not the case. Trump's embassy decision looms even larger for Jordan. The kingdom, fighting as part of U.S.-led coalition against the Islamic State group, is closely watching to see if Trump fulfills a campaign pledge to move the U.S. Embassy in Israel from Tel Aviv to Jerusalem. Doing so could trigger widespread protests among Jordan's massive Palestinian population, potentially even jeopardizing Abdullah's hold on power. \"The U.S. relationship is central to the internal stability of the kingdom,\" said Robert Satloff, who runs the Washington Institute for Near East Policy. \"This is really part and parcel of the national security fiber of the kingdom, and building this new relationship is really important to the king. \" This month, Jordan warned in unusually brusque terms that moving the embassy would cross a \"red line\" and could entail \"catastrophic\" consequences. Information Minister Mohammed Momani told The Associated Press it would be a \"gift to extremists,\" threatening U.S. ties with Mideast allies. The embassy was a prime topic of discussion in Abdullah's meeting with Pence, officials said. The White House said they discussed Abdullah's \"views on potential changes\" and how to make progress on Israeli-Palestinian peace. The Jordanian Embassy in Washington said the U.S. \"committed to working closely with Jordan\" on issues related to the conflict. Jordan serves as the custodian of Islam's third holiest shrine, located in Jerusalem's eastern sector. Any U.S. rift with Jordan could spill over to the kingdom's participation in the fight against IS, a campaign both Trump and Abdullah say they hope to accelerate. During his campaign, Trump pledged repeatedly to move the American Embassy in Israel, a promise former U.S. presidents have made and broken. Since his inauguration, Trump has backtracked slightly, with White House spokesman Sean Spicer saying the administration is only in the \"beginning stages of even discussing\" such a move. Although Israel considers Jerusalem its capital, the U.S. and most countries maintain embassies in Tel Aviv. The U.S. says conflicting Israeli and Palestinian claims to Jerusalem must be worked out in peace negotiations. Israel claims all of Jerusalem and annexed east Jerusalem after capturing it from Jordan in 1967, but the Palestinians want the capital of their future state in the city's eastern sector. The U.S. relies on Jordan for major military and intelligence support in fighting IS, and the kingdom plays a major role combatting radicalization in the Middle East. Both Trump and Abdullah say they want close ties. On Twitter, Trump said during the campaign he had \"great respect\" for Jordan's monarch. The two spoke by phone shortly after Trump was elected. Jordan, like most U.S. allies in the region, has avoided criticizing Trump's temporary ban on refugee admissions and on travel to the U.S. by citizens of Iraq, Syria, Iran, Sudan, Libya, Somalia and Yemen. However, the refugee measure - which indefinitely blocks Syrian refugees - could still trouble Jordan. The Syrian neighbor hosts more than 650,000 refugees from Syria's civil war and wants other countries to help resettle refugees to ease its burden. --- Associated Press writer Karin Laub in Amman, Jordan, contributed to this report. --- Reach Josh Lederman on Twitter at http://twitter.com/joshledermanAP",
+ "document_new": "WASHINGTON (AP) -- King Abdullah II of Jordan's visit to Washington this week is testing President Donald Trump's ability to maintain key Arab alliances while cracking down on immigration from some Muslim countries and possibly moving the American Embassy in Israel to Jerusalem. The next few days could provide an indication if Trump is willing to compromise. Abdullah, a close U.S. ally, held meetings Monday with Defense Secretary Jim Mattis and Vice President Mike Pence. Trump and the king were to come face-to-face on Thursday at the National Prayer Breakfast, the White House said. The king also planned to meet with U.S. lawmakers this week. Abdullah's trip comes as the Trump administration is embroiled in its first major Mideast controversy, sparked by Trump's executive order temporarily halting all refugee admissions and suspending entry to the U.S. for citizens of seven majority-Muslim countries. Although Jordan isn't among the seven, even U.S. friends in the region fear Trump's move could embolden Mideast extremists and contribute to a perception that Washington is at war with Islam - which Trump's administration insists is not the case. Trump's embassy decision looms even larger for Jordan. The kingdom, fighting as part of U.S.-led coalition against the Islamic State group, is closely watching to see if Trump fulfills a campaign pledge to move the U.S. Embassy in Israel from Tel Aviv to Jerusalem. Doing so could trigger widespread protests among Jordan's massive Palestinian population, potentially even jeopardizing Abdullah's hold on power. \"The U.S. relationship is central to the internal stability of the kingdom,\" said Robert Satloff, who runs the Washington Institute for Near East Policy. \"This is really part and parcel of the national security fiber of the kingdom, and building this new relationship is really important to the king. \" This month, Jordan warned in unusually brusque terms that moving the embassy would cross a \"red line\" and could entail \"catastrophic\" consequences. Information Minister Mohammed Momani told The Associated Press it would be a \"gift to extremists,\" threatening U.S. ties with Mideast allies. The embassy was a prime topic of discussion in Abdullah's meeting with Pence, officials said. The White House said they discussed Abdullah's \"views on potential changes\" and how to make progress on Israeli-Palestinian peace. The Jordanian Embassy in Washington said the U.S. \"committed to working closely with Jordan\" on issues related to the conflict. Jordan serves as the custodian of Islam's third holiest shrine, located in Jerusalem's eastern sector. Any U.S. rift with Jordan could spill over to the kingdom's participation in the fight against IS, a campaign both Trump and Abdullah say they hope to accelerate. During his campaign, Trump pledged repeatedly to move the American Embassy in Israel, a promise former U.S. presidents have made and broken. Since his inauguration, Trump has backtracked slightly, with White House spokesman Sean Spicer saying the administration is only in the \"beginning stages of even discussing\" such a move. Although Israel considers Jerusalem its capital, the U.S. and most countries maintain embassies in Tel Aviv. The U.S. says conflicting Israeli and Palestinian claims to Jerusalem must be worked out in peace negotiations. Israel claims all of Jerusalem and annexed east Jerusalem after capturing it from Jordan in 1967, but the Palestinians want the capital of their future state in the city's eastern sector. The U.S. relies on Jordan for major military and intelligence support in fighting IS, and the kingdom plays a major role in combating radicalization in the Middle East. Both Trump and Abdullah say they want close ties. On Twitter, Trump said during the campaign he had \"great respect\" for Jordan's monarch. The two spoke by phone shortly after Trump was elected. Jordan, like most U.S. allies in the region, has avoided criticizing Trump's temporary ban on refugee admissions and on travel to the U.S. by citizens of Iraq, Syria, Iran, Sudan, Libya, Somalia and Yemen. However, the refugee measure - which indefinitely blocks Syrian refugees - could still trouble Jordan. The Syrian neighbor hosts more than 650,000 refugees from Syria's civil war and wants other countries to help resettle refugees to ease its burden. --- Associated Press writer Karin Laub in Amman, Jordan, contributed to this report. --- Reach Josh Lederman on Twitter at http://twitter.com/joshledermanAP",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "How many refugees from Syria's civil war does the Syrian neighbor host? Answer in as few words as possible."
+  }
+ ]
+}

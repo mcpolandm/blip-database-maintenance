@@ -1,0 +1,345 @@
+{
+ "pair_id": "ap_657_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "CAPE CANAVERAL, Fla."
+  },
+  {
+   "blip_idx": 1,
+   "text": "(AP) -- Moonwalkers and dozens of others who took part in NASA's storied Apollo program paid tribute Thursday to the three astronauts killed in a fire 50 years ago."
+  },
+  {
+   "blip_idx": 2,
+   "text": "On the eve of the Apollo 1 anniversary, hundreds gathered at Kennedy Space Center to honor Gus Grissom, Ed White and Roger Chaffee."
+  },
+  {
+   "blip_idx": 3,
+   "text": "They died during a countdown rehearsal at the launch pad, inside their burning spacecraft, on Jan. 27, 1967 On Friday, NASA is opening an Apollo 1 exhibit featuring the hatch that prevented the three astronauts from escaping."
+  },
+  {
+   "blip_idx": 4,
+   "text": "It has been concealed for the past half-century along with the capsule."
+  },
+  {
+   "blip_idx": 5,
+   "text": "The families of Grissom, White and Chaffee got an early look Wednesday evening at the display at the visitor complex, and liked what they saw."
+  },
+  {
+   "blip_idx": 6,
+   "text": "\"Really awesome,\" said daughter Sheryl Chaffee, who just retired from NASA."
+  },
+  {
+   "blip_idx": 7,
+   "text": "\"It's very fitting."
+  },
+  {
+   "blip_idx": 8,
+   "text": "We all feel like it's about time."
+  },
+  {
+   "blip_idx": 9,
+   "text": "\" The Apollo 1 fire - NASA's first space tragedy - has long been overshadowed by the 1986 Challenger and 2003 Columbia accidents."
+  },
+  {
+   "blip_idx": 10,
+   "text": "The 14 lost shuttle astronauts also were recognized Thursday, along with seven other U.S. astronauts killed in plane crashes."
+  },
+  {
+   "blip_idx": 11,
+   "text": "The anniversaries of all three big accidents fall within days: Apollo 1 on Jan. 27, Challenger on Jan. 28 and Columbia on Feb. 1. Among the many astronauts attending Thursday's ceremony were the two surviving crew members of Apollo 11, Buzz Aldrin and Michael Collins, as well as Apollo 16 moonwalker Charlie Duke and Apollo 10's Thomas Stafford."
+  },
+  {
+   "blip_idx": 12,
+   "text": "Collins, who orbited the moon in 1969 while Aldrin and Neil Armstrong landed on it, said Apollo 1 never launched, but in many ways was as important as later flights."
+  },
+  {
+   "blip_idx": 13,
+   "text": "\"Without Apollo 1 and the lessons learned from it,\" he noted, a fire probably would have occurred on a flight in space and seriously stalled the moon program."
+  },
+  {
+   "blip_idx": 14,
+   "text": "\"Yes, Apollo 1 did cause three deaths, but I believe it saved more than three later,\" Collins said."
+  },
+  {
+   "blip_idx": 15,
+   "text": "\"It slowed things down for a year or so,\" but spacecraft improvements enabled Apollo missions to get going by the fall of 1968, pick up speed, and land on the moon on July 20, 1969. NASA was able to meet the end-of-decade deadline set by President John F. Kennedy, to land a man on the moon and return him home safely."
+  },
+  {
+   "blip_idx": 16,
+   "text": "\"Grissom, White, Chaffee, Kennedy. I think these four names are appropriately mentioned in the same breath,\" Collins told the crowd."
+  },
+  {
+   "blip_idx": 17,
+   "text": "More than 100 fifth-graders from Apollo Elementary School, just across the Indian River in Titusville, packed the ceremony hall."
+  },
+  {
+   "blip_idx": 18,
+   "text": "Afterward, they posed in front of the massive granite Space Memorial Mirror."
+  },
+  {
+   "blip_idx": 19,
+   "text": "To student Noah Duncan, 50 years ago seems like 100."
+  },
+  {
+   "blip_idx": 20,
+   "text": "\"10 years is a long time."
+  },
+  {
+   "blip_idx": 21,
+   "text": "I'm only 10!\" added classmate Lyzara Figueroa."
+  },
+  {
+   "blip_idx": 22,
+   "text": "It was an emotional day for all the families;"
+  },
+  {
+   "blip_idx": 23,
+   "text": "Chaffee's widow, Martha, dabbed her eyes during throughout the tribute."
+  },
+  {
+   "blip_idx": 24,
+   "text": "They will gather again Friday evening at Cape Canaveral Air Force Station's abandoned Launch Complex 34 to mark the exact time of the accident, 6:31 p.m. \"To each of you who knew these three men so well, thank you for your sacrifices,\" Collins said."
+  },
+  {
+   "blip_idx": 25,
+   "text": "\"The Apollo crew was magnificent.\" --- NASA: https://www.nasa.gov/ Astronauts Memorial Foundation: http://www.astronautsmemorial.org/"
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.08304712516345868,
+    "dist_new": 0.08304712516345866
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "CAPE CANAVERAL, Fla. (AP) -- Moonwalkers and dozens of others who took part in NASA's storied Apollo program paid tribute Thursday to the three astronauts killed in a fire 50 years ago. On the eve of the Apollo 1 anniversary, hundreds gathered at Kennedy Space Center to honor Gus Grissom, Ed White and Roger Chaffee. They died during a countdown rehearsal at the launch pad, inside their burning spacecraft, on Jan. 27, 1967 On Friday, NASA is opening an Apollo 1 exhibit featuring the hatch that prevented the three astronauts from escaping. It has been concealed for the past half-century along with the capsule. The families of Grissom, White and Chaffee got an early look Wednesday evening at the display at the visitor complex, and liked what they saw. \"Really awesome,\" said daughter Sheryl Chaffee, who just retired from NASA. \"It's very fitting. We all feel like it's about time. \" The Apollo 1 fire - NASA's first space tragedy - has long been overshadowed by the 1986 Challenger and 2003 Columbia accidents. The 14 lost shuttle astronauts also were recognized Thursday, along with seven other U.S. astronauts killed in plane crashes. The anniversaries of all three big accidents fall within days: Apollo 1 on Jan. 27, Challenger on Jan. 28 and Columbia on Feb. 1. Among the many astronauts attending Thursday's ceremony were the two surviving crew members of Apollo 11, Buzz Aldrin and Michael Collins, as well as Apollo 16 moonwalker Charlie Duke and Apollo 10's Thomas Stafford. Collins, who orbited the moon in 1969 while Aldrin and Neil Armstrong landed on it, said Apollo 1 never launched, but in many ways was as important as later flights. \"Without Apollo 1 and the lessons learned from it,\" he noted, a fire probably would have occurred on a flight in space and seriously stalled the moon program. \"Yes, Apollo 1 did cause three deaths, but I believe it saved more than three later,\" Collins said. \"It slowed things down for a year or so,\" but spacecraft improvements enabled Apollo missions to get going by the fall of 1968, pick up speed, and land on the moon on July 20, 1969. NASA was able to meet the end-of-decade deadline set by President John F. Kennedy, to land a man on the moon and return him home safely. \"Grissom, White, Chaffee, Kennedy. I think these four names are appropriately mentioned in the same breath,\" Collins told the crowd. More than 100 fifth-graders from Apollo Elementary School, just across the Indian River in Titusville, packed the ceremony hall. Afterward, they posed in front of the massive granite Space Memorial Mirror. To student Noah Duncan, 50 years ago seems like 100. \"10 years is a long time. I'm only 10!\" added classmate Lyzara Figueroa. It was an emotional day for all the families; Chaffee's widow, Martha, dabbed her eyes during throughout the tribute. They will gather again Friday evening at Cape Canaveral Air Force Station's abandoned Launch Complex 34 to mark the exact time of the accident, 6:31 p.m. \"To each of you who knew these three men so well, thank you for your sacrifices,\" Collins said. \"The Apollo crew was magnificent.\" --- NASA: https://www.nasa.gov/ Astronauts Memorial Foundation: http://www.astronautsmemorial.org/",
+ "document_new": "CAPE CANAVERAL, Fla. (AP) -- Moonwalkers and dozens of others who took part in NASA's storied Apollo program paid tribute Thursday to the three astronauts killed in a fire 50 years ago. On the eve of the Apollo 1 anniversary, hundreds gathered at Kennedy Space Center to honor Gus Grissom, Ed White and Roger Chaffee. They died during a countdown rehearsal at the launch pad, inside their burning spacecraft, on Jan. 27, 1967 On Friday, NASA is opening an Apollo 1 exhibit featuring the hatch that prevented the three astronauts from escaping. It has been concealed for the past half-century along with the capsule. The families of Grissom, White and Chaffee got an early look Wednesday evening at the display at the visitor complex, and liked what they saw. \"Really awesome,\" said daughter Sheryl Chaffee, who just retired from NASA. \"It's very fitting. We all feel like it's about time. \" The Apollo 1 fire - NASA's first space tragedy - has long been overshadowed by the 1986 Challenger and 2003 Columbia accidents. The 14 lost shuttle astronauts also were recognized Thursday, along with seven other U.S. astronauts killed in plane crashes. The anniversaries of all three big accidents fall within days: Apollo 1 on Jan. 27, Challenger on Jan. 28 and Columbia on Feb. 1. Among the many astronauts attending Thursday's ceremony were the two surviving crew members of Apollo 11, Buzz Aldrin and Michael Collins, as well as Apollo 16 moonwalker Charlie Duke and Apollo 10's Thomas Stafford. Collins, who orbited the moon in 1969 while Aldrin and Neil Armstrong landed on it, said Apollo 1 never launched, but in many ways was as important as later flights. \"Without Apollo 1 and the lessons learned from it,\" he noted, a fire probably would have occurred on a flight in space and seriously stalled the moon program. \"Yes, Apollo 1 did cause three deaths, but I believe it saved more than three later,\" Collins said. \"It slowed things down for a year or so,\" but spacecraft improvements enabled Apollo missions to get going by the fall of 1968, pick up speed, and land on the moon on July 20, 1969. NASA was able to meet the end-of-decade deadline set by President John F. Kennedy, to land a man on the moon and return him home safely. \"Grissom, White, Chaffee, Kennedy. I think these four names are appropriately mentioned in the same breath,\" Collins told the crowd. More than 100 fifth-graders from Apollo Elementary School, just across the Indian River in Titusville, packed the ceremony hall. Afterward, they posed in front of the massive granite Space Mirror Memorial. To student Noah Duncan, 50 years ago seems like 100. \"10 years is a long time. I'm only 10!\" added classmate Lyzara Figueroa. It was an emotional day for all the families; Chaffee's widow, Martha, dabbed her eyes during throughout the tribute. They will gather again Friday evening at Cape Canaveral Air Force Station's abandoned Launch Complex 34 to mark the exact time of the accident, 6:31 p.m. \"To each of you who knew these three men so well, thank you for your sacrifices,\" Collins said. \"The Apollo crew was magnificent.\" --- NASA: https://www.nasa.gov/ Astronauts Memorial Foundation: http://www.astronautsmemorial.org/",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What is the name of the memorial in front of which they posed? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "How many years ago was the fire that killed the three astronauts? Answer in as few words as possible."
+  },
+  {
+   "task_id": "bool_001",
+   "type": "boolean",
+   "prompt": "Was the memorial in front of which they posed the Space Mirror Memorial? Answer Yes or No."
+  }
+ ]
+}

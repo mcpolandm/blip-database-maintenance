@@ -1,0 +1,252 @@
+{
+ "pair_id": "ap_18170_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "SACRAMENTO, Calif."
+  },
+  {
+   "blip_idx": 1,
+   "text": "(AP) — Two California residents are suing a state senator for blocking them from a social media account in a case similar to a successful lawsuit that barred President Trump from blocking critics on his Twitter account."
+  },
+  {
+   "blip_idx": 2,
+   "text": "Suzanne Rummel and Marlene Burkitt sued Democratic Sen."
+  },
+  {
+   "blip_idx": 3,
+   "text": "Richard Pan of Sacramento alleging that barring them from his Twitter account violates their First Amendment free speech rights."
+  },
+  {
+   "blip_idx": 4,
+   "text": "Pan is a physician and both women's accounts show they oppose his efforts to promote universal vaccinations of children."
+  },
+  {
+   "blip_idx": 5,
+   "text": "Burkitt says in the lawsuit filed last week in federal court in Sacramento that she was blocked after using Pan's Twitter site to discuss his efforts \"to reduce medical freedom, parental decision-making rights, and other issues."
+  },
+  {
+   "blip_idx": 6,
+   "text": "\" Pan's spokeswoman, Shannan Velayas, said she couldn't comment."
+  },
+  {
+   "blip_idx": 7,
+   "text": "\"This is the first we're hearing about it,\" she said. \"We haven't been served."
+  },
+  {
+   "blip_idx": 8,
+   "text": "\" The attorney who filed the lawsuit, Marian Tone, did not respond to telephone and email messages."
+  },
+  {
+   "blip_idx": 9,
+   "text": "Pan personally uses his Twitter account several times a day, according to the lawsuit, which calls it \"a modern public forum\" and \"his most active, consistent, and interactive form of communication.\" It is unconstitutional for Pan to block dissenting viewpoints, says the lawsuit, which asks for the women to be restored and for unspecified damages, fees and costs."
+  },
+  {
+   "blip_idx": 10,
+   "text": "Trump is appealing a federal judge's ruling in May that blocking people from the @realDonaldTrump account violates the First Amendment."
+  },
+  {
+   "blip_idx": 11,
+   "text": "That ruling is the most prominent of several lawsuits finding that people have a right to engage with politicians who use their accounts as public forums to conduct official business."
+  },
+  {
+   "blip_idx": 12,
+   "text": "The president regularly uses his account to announce news, denounce opponents and brag about his administration's accomplishments."
+  },
+  {
+   "blip_idx": 13,
+   "text": "The Knight First Amendment Institute at Columbia University argued he cannot then block people with dissenting political views."
+  },
+  {
+   "blip_idx": 14,
+   "text": "In Pan's case, both women have anti-vaccine messages on their Twitter pages and refer to Pan's postings including one in which he discusses a law he co-sponsored in 2015 that requires medical justification for a child to skip immunization."
+  },
+  {
+   "blip_idx": 15,
+   "text": "It appears Burkitt last tweeted at Pan in May 2016, and called him a \"coward.\" In another Tweet, she accused Pan and other lawmakers of being \"bought\" and not caring if people's children die."
+  },
+  {
+   "blip_idx": 16,
+   "text": "Rummel, meanwhile, has tweeted at Pan as recently as June."
+  },
+  {
+   "blip_idx": 17,
+   "text": "She has shared memes about Pan receiving donations from pharmaceutical companies as well as a cartoon depicting Pan vaccinating a skeleton and a photo of him painted like \"the Joker\" from \"Batman\" and holding a giant syringe."
+  },
+  {
+   "blip_idx": 18,
+   "text": "Pan's critics have created their own hashtag identifier, #blockedbyPan."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 8,
+    "dist_old": 0.24756490180045104,
+    "dist_new": 0.247564901800451
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "deleted",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "added",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": [
+   9
+  ]
+ },
+ "document_old": "SACRAMENTO, Calif. (AP) — Two California residents are suing a state senator for blocking them from a social media account in a case similar to a successful lawsuit that barred President Trump from blocking critics on his Twitter account. Suzanne Rummel and Marlene Burkitt sued Democratic Sen. Richard Pan of Sacramento alleging that barring them from his Twitter account violates their First Amendment free speech rights. Pan is a physician and both women's accounts show they oppose his efforts to promote universal vaccinations of children. Burkitt says in the lawsuit filed last week in federal court in Sacramento that she was blocked after using Pan's Twitter site to discuss his efforts \"to reduce medical freedom, parental decision-making rights, and other issues. \" Pan's spokeswoman, Shannan Velayas, said she couldn't comment. \"This is the first we're hearing about it,\" she said. \"We haven't been served. \" The attorney who filed the lawsuit, Marian Tone, did not respond to telephone and email messages. Pan personally uses his Twitter account several times a day, according to the lawsuit, which calls it \"a modern public forum\" and \"his most active, consistent, and interactive form of communication.\" It is unconstitutional for Pan to block dissenting viewpoints, says the lawsuit, which asks for the women to be restored and for unspecified damages, fees and costs. Trump is appealing a federal judge's ruling in May that blocking people from the @realDonaldTrump account violates the First Amendment. That ruling is the most prominent of several lawsuits finding that people have a right to engage with politicians who use their accounts as public forums to conduct official business. The president regularly uses his account to announce news, denounce opponents and brag about his administration's accomplishments. The Knight First Amendment Institute at Columbia University argued he cannot then block people with dissenting political views. In Pan's case, both women have anti-vaccine messages on their Twitter pages and refer to Pan's postings including one in which he discusses a law he co-sponsored in 2015 that requires medical justification for a child to skip immunization. It appears Burkitt last tweeted at Pan in May 2016, and called him a \"coward.\" In another Tweet, she accused Pan and other lawmakers of being \"bought\" and not caring if people's children die. Rummel, meanwhile, has tweeted at Pan as recently as June. She has shared memes about Pan receiving donations from pharmaceutical companies as well as a cartoon depicting Pan vaccinating a skeleton and a photo of him painted like \"the Joker\" from \"Batman\" and holding a giant syringe. Pan's critics have created their own hashtag identifier, #blockedbyPan.",
+ "document_new": "SACRAMENTO, Calif. (AP) — Two California residents are suing a state senator for blocking them from a social media account in a case similar to a successful lawsuit that barred President Trump from blocking critics on his Twitter account. Suzanne Rummel and Marlene Burkitt sued Democratic Sen. Richard Pan of Sacramento alleging that barring them from his Twitter account violates their First Amendment free speech rights. Pan is a physician and both women's accounts show they oppose his efforts to promote universal vaccinations of children. Burkitt says in the lawsuit filed last week in federal court in Sacramento that she was blocked after using Pan's Twitter site to discuss his efforts \"to reduce medical freedom, parental decision-making rights, and other issues. \" Pan's spokeswoman, Shannan Velayas, said she couldn't comment. \"This is the first we're hearing about it,\" she said. \"We haven't been served. \" Pan personally uses his Twitter account several times a day, according to the lawsuit, which calls it \"his most active, consistent, and interactive form of communication.\" It is unconstitutional for Pan to block dissenting viewpoints, says the lawsuit, which asks for the women to be restored and for unspecified damages, fees and costs. \"These social media venues are modern day public forums, and our rights to express ourselves and to petition our government must be protected,\" said attorney Marian Tone, who filed the lawsuit. Trump is appealing a federal judge's ruling in May that blocking people from the @realDonaldTrump account violates the First Amendment. That ruling is the most prominent of several lawsuits finding that people have a right to engage with politicians who use their accounts as public forums to conduct official business. The president regularly uses his account to announce news, denounce opponents and brag about his administration's accomplishments. The Knight First Amendment Institute at Columbia University argued he cannot then block people with dissenting political views. In Pan's case, both women have anti-vaccine messages on their Twitter pages and refer to Pan's postings including one in which he discusses a law he co-sponsored in 2015 that requires medical justification for a child to skip immunization. It appears Burkitt last tweeted at Pan in May 2016, and called him a \"coward.\" In another Tweet, she accused Pan and other lawmakers of being \"bought\" and not caring if people's children die. Rummel, meanwhile, has tweeted at Pan as recently as June. She has shared memes about Pan receiving donations from pharmaceutical companies as well as a cartoon depicting Pan vaccinating a skeleton and a photo of him painted like \"the Joker\" from \"Batman\" and holding a giant syringe. Pan's critics have created their own hashtag identifier, #blockedbyPan.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "When was the last time Burkitt tweeted at Pan? Answer in as few words as possible."
+  },
+  {
+   "task_id": "bool_001",
+   "type": "boolean",
+   "prompt": "Is Marian Tone the attorney who filed the lawsuit mentioned in the statement? Answer Yes or No."
+  }
+ ]
+}

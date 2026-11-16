@@ -1,0 +1,385 @@
+{
+ "pair_id": "ap_15968_2_3",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "CHICAGO (AP) -- Dana Loesch is the new public face of the National Rifle Association, an organization long associated with older white men."
+  },
+  {
+   "blip_idx": 1,
+   "text": "At 39, she's poised, photogenic and a skilled public speaker, yet she's not softening the message of the NRA as it becomes an increasingly active voice in the nation's culture wars, with positions on everything from immigration to the media."
+  },
+  {
+   "blip_idx": 2,
+   "text": "In the aftermath of the shooting deaths of 17 people, mostly students, at a Florida high school, it's Loesch who has been the NRA's main messenger."
+  },
+  {
+   "blip_idx": 3,
+   "text": "The NRA dispatched Loesch last week to a CNN town hall, where she was questioned by students and parents from Marjory Stoneman Douglas High School, the site of the Valentine's Day shooting."
+  },
+  {
+   "blip_idx": 4,
+   "text": "Often brash and combative, Loesch was measured and even-tempered, though she was booed when she left the stage."
+  },
+  {
+   "blip_idx": 5,
+   "text": "Charlie Sykes, a longtime conservative radio host who has been critical of the NRA, said Loesch's skill is communicating with a broad range of Americans while retaining the ultra-conservative base built by Wayne LaPierre, the NRA's executive vice president and CEO since 1991. \"Imagine Wayne LaPierre sitting in that seat and you realize the significance of Dana,\" Sykes said."
+  },
+  {
+   "blip_idx": 6,
+   "text": "\"She can bring the hot sauce without having that persona\" of an angry white man."
+  },
+  {
+   "blip_idx": 7,
+   "text": "Even before taking over as NRA spokeswoman last year, Loesch had a robust conservative following, cultivated on social media - she has 765,000 Twitter followers - and through years of television and radio appearances, including on her own radio program, \"The Dana Show.\" The day after the televised town hall, she was back in her more familiar mode, speaking to a far friendlier audience at the Conservative Political Action Conference near Washington."
+  },
+  {
+   "blip_idx": 8,
+   "text": "Loesch defiantly defended NRA's 5 million members, who she said \"will not be gaslighted into thinking that we're responsible for a tragedy that we had nothing to do with."
+  },
+  {
+   "blip_idx": 9,
+   "text": "\" And, her voice dripping with condescension, she addressed journalists from the mainstream media, who she said \"love mass shootings\" because \"crying white mothers are ratings gold.\" Her criticism of the media recalled an NRA video last summer in which she attacked The New York Times in a way that some on the right and the left feared could incite violence."
+  },
+  {
+   "blip_idx": 10,
+   "text": "In the video, Loesch said NRA members have \"had it\" with the newspaper's \"fake news\" and warned: \"Consider this the shot across your proverbial bow."
+  },
+  {
+   "blip_idx": 11,
+   "text": "In short?"
+  },
+  {
+   "blip_idx": 12,
+   "text": "We're coming for you."
+  },
+  {
+   "blip_idx": 13,
+   "text": "\" Loesch was back on television Sunday, defending NRA members and arguing against calls to ban semi-automatic weapons like the one used in the Florida school shooting."
+  },
+  {
+   "blip_idx": 14,
+   "text": "\"This is not the fault, nor are 5 million innocent law-abiding Americans culpable for this,\" she said on ABC's \"This Week.\" Shannon Watts, founder of Moms Demand Action for Gun Sense in America, said she was not in the least reassured by Loesch's appearance at the town hall, especially after she attacked the media the following day."
+  },
+  {
+   "blip_idx": 15,
+   "text": "\"She's younger."
+  },
+  {
+   "blip_idx": 16,
+   "text": "She's a woman and a mom."
+  },
+  {
+   "blip_idx": 17,
+   "text": "She's television-ready,\" Watts said. \"But her rhetoric is just as radicalized, if not more, than Wayne LaPierre's."
+  },
+  {
+   "blip_idx": 18,
+   "text": "\" Loesch grew up in a blue-collar family in a small Missouri town near St. Louis, reared mainly by her mother after her parents' divorce."
+  },
+  {
+   "blip_idx": 19,
+   "text": "She told The Times that she recalls her grandfather hunting deer and raccoon, but also a night her grandfather stood on the porch with a shotgun to protect her aunt from an estranged husband."
+  },
+  {
+   "blip_idx": 20,
+   "text": "\"Looking back, I think I always wanted to know that I was safe,\" she told the newspaper for an article published last month."
+  },
+  {
+   "blip_idx": 21,
+   "text": "Loesch studied journalism at Webster University, but dropped out when she became pregnant with her first son."
+  },
+  {
+   "blip_idx": 22,
+   "text": "She soon began writing a blog about motherhood and started her radio program."
+  },
+  {
+   "blip_idx": 23,
+   "text": "She later helped found the St. Louis tea party and had stints as a political analyst at Breitbart News Network and The Blaze."
+  },
+  {
+   "blip_idx": 24,
+   "text": "Loesch, who has said she keeps a handgun near her bed and has a tattoo on her forearm with a reference to a Bible passage calling for Christians to wear holy armor, has never been afraid of being provocative."
+  },
+  {
+   "blip_idx": 25,
+   "text": "During a 2012 radio show, Loesch said she didn't have a problem with Marines who urinated on dead Taliban soldiers, declaring: \"I'd drop trou and do it too."
+  },
+  {
+   "blip_idx": 26,
+   "text": "\" --- Associated Press writer Darlene Superville in Washington contributed to this report."
+  },
+  {
+   "blip_idx": 27,
+   "text": "--- This story has been corrected to show that Loesch has 765,000 Twitter followers, not 46 million;"
+  },
+  {
+   "blip_idx": 28,
+   "text": "she has 46,000 likes."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 28,
+    "new": 32,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 30,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 31,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 29,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.3686109456677065,
+    "dist_new": 0.3686109456677065
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 23,
+    "dist_old": 4.615089941285038e-07,
+    "dist_new": 4.615089941285038e-07
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 28,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "added",
+   "added",
+   "added",
+   "added",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": [
+   15,
+   16,
+   17,
+   18
+  ]
+ },
+ "document_old": "CHICAGO (AP) -- Dana Loesch is the new public face of the National Rifle Association, an organization long associated with older white men. At 39, she's poised, photogenic and a skilled public speaker, yet she's not softening the message of the NRA as it becomes an increasingly active voice in the nation's culture wars, with positions on everything from immigration to the media. In the aftermath of the shooting deaths of 17 people, mostly students, at a Florida high school, it's Loesch who has been the NRA's main messenger. The NRA dispatched Loesch last week to a CNN town hall, where she was questioned by students and parents from Marjory Stoneman Douglas High School, the site of the Valentine's Day shooting. Often brash and combative, Loesch was measured and even-tempered, though she was booed when she left the stage. Charlie Sykes, a longtime conservative radio host who has been critical of the NRA, said Loesch's skill is communicating with a broad range of Americans while retaining the ultra-conservative base built by Wayne LaPierre, the NRA's executive vice president and CEO since 1991. \"Imagine Wayne LaPierre sitting in that seat and you realize the significance of Dana,\" Sykes said. \"She can bring the hot sauce without having that persona\" of an angry white man. Even before taking over as NRA spokeswoman last year, Loesch had a robust conservative following, cultivated on social media - she has 765,000 Twitter followers - and through years of television and radio appearances, including on her own radio program, \"The Dana Show.\" The day after the televised town hall, she was back in her more familiar mode, speaking to a far friendlier audience at the Conservative Political Action Conference near Washington. Loesch defiantly defended NRA's 5 million members, who she said \"will not be gaslighted into thinking that we're responsible for a tragedy that we had nothing to do with. \" And, her voice dripping with condescension, she addressed journalists from the mainstream media, who she said \"love mass shootings\" because \"crying white mothers are ratings gold.\" Her criticism of the media recalled an NRA video last summer in which she attacked The New York Times in a way that some on the right and the left feared could incite violence. In the video, Loesch said NRA members have \"had it\" with the newspaper's \"fake news\" and warned: \"Consider this the shot across your proverbial bow. In short? We're coming for you. \" Loesch was back on television Sunday, defending NRA members and arguing against calls to ban semi-automatic weapons like the one used in the Florida school shooting. \"This is not the fault, nor are 5 million innocent law-abiding Americans culpable for this,\" she said on ABC's \"This Week.\" Shannon Watts, founder of Moms Demand Action for Gun Sense in America, said she was not in the least reassured by Loesch's appearance at the town hall, especially after she attacked the media the following day. \"She's younger. She's a woman and a mom. She's television-ready,\" Watts said. \"But her rhetoric is just as radicalized, if not more, than Wayne LaPierre's. \" Loesch grew up in a blue-collar family in a small Missouri town near St. Louis, reared mainly by her mother after her parents' divorce. She told The Times that she recalls her grandfather hunting deer and raccoon, but also a night her grandfather stood on the porch with a shotgun to protect her aunt from an estranged husband. \"Looking back, I think I always wanted to know that I was safe,\" she told the newspaper for an article published last month. Loesch studied journalism at Webster University, but dropped out when she became pregnant with her first son. She soon began writing a blog about motherhood and started her radio program. She later helped found the St. Louis tea party and had stints as a political analyst at Breitbart News Network and The Blaze. Loesch, who has said she keeps a handgun near her bed and has a tattoo on her forearm with a reference to a Bible passage calling for Christians to wear holy armor, has never been afraid of being provocative. During a 2012 radio show, Loesch said she didn't have a problem with Marines who urinated on dead Taliban soldiers, declaring: \"I'd drop trou and do it too. \" --- Associated Press writer Darlene Superville in Washington contributed to this report. --- This story has been corrected to show that Loesch has 765,000 Twitter followers, not 46 million; she has 46,000 likes.",
+ "document_new": "CHICAGO (AP) -- Dana Loesch is the new public face of the National Rifle Association, an organization long associated with older white men. At 39, she's poised, photogenic and a skilled public speaker, yet she's not softening the message of the NRA as it becomes an increasingly active voice in the nation's culture wars, with positions on everything from immigration to the media. In the aftermath of the shooting deaths of 17 people, mostly students, at a Florida high school, it's Loesch who has been the NRA's main messenger. The NRA dispatched Loesch last week to a CNN town hall, where she was questioned by students and parents from Marjory Stoneman Douglas High School, the site of the Valentine's Day shooting. Often brash and combative, Loesch was measured and even-tempered, though she was booed when she left the stage. Charlie Sykes, a longtime conservative radio host who has been critical of the NRA, said Loesch's skill is communicating with a broad range of Americans while retaining the ultra-conservative base built by Wayne LaPierre, the NRA's executive vice president and CEO since 1991. \"Imagine Wayne LaPierre sitting in that seat and you realize the significance of Dana,\" Sykes said. \"She can bring the hot sauce without having that persona\" of an angry white man. Even before taking over as NRA spokeswoman last year, Loesch had a robust conservative following, cultivated on social media - she has 765,000 Twitter followers - and through years of television and radio appearances, including on her own radio program, \"The Dana Show.\" The day after the televised town hall, she was back in her more familiar mode, speaking to a far friendlier audience at the Conservative Political Action Conference near Washington. Loesch defiantly defended NRA's 5 million members, who she said \"will not be gaslighted into thinking that we're responsible for a tragedy that we had nothing to do with. \" And, her voice dripping with condescension, she addressed journalists from the mainstream media, who she said \"love mass shootings\" because \"crying white mothers are ratings gold.\" Her criticism of the media recalled an NRA video last summer in which she attacked The New York Times in a way that some on the right and the left feared could incite violence. In the video, Loesch said NRA members have \"had it\" with the newspaper's \"fake news\" and warned: \"Consider this the shot across your proverbial bow. In short? We're coming for you. \" Loesch was back on television Sunday, defending NRA members and arguing against calls to ban semi-automatic weapons like the one used in the Florida school shooting. \"This is not the fault, nor are 5 million innocent law-abiding Americans culpable for this,\" she said on ABC's \"This Week.\" In response, David Hogg, a senior at Marjory Stoneman Douglas High School in Parkland, Florida, said students were focused on countering Loesch as they campaign for tighter gun laws. \"If you listen to her speak, she's not really saying anything. She's sounding positive and confident and that's what she wants the people in the NRA to believe, her 5 million plus members,\" Hogg said on CNN. \"She wants them to think that she's on their side, but she's not. She's actually working with the gun manufacturers. \" Shannon Watts, founder of Moms Demand Action for Gun Sense in America, said she was not in the least reassured by Loesch's appearance at last week's town hall, especially after she attacked the media the following day. \"She's younger. She's a woman and a mom. She's television-ready,\" Watts said. \"But her rhetoric is just as radicalized, if not more, than Wayne LaPierre's. \" Loesch grew up in a blue-collar family in a small Missouri town near St. Louis, reared mainly by her mother after her parents' divorce. She told The Times that she recalls her grandfather hunting deer and raccoon, but also a night her grandfather stood on the porch with a shotgun to protect her aunt from an estranged husband. \"Looking back, I think I always wanted to know that I was safe,\" she told the newspaper for an article published last month. Loesch studied journalism at Webster University, but dropped out when she became pregnant with her first son. She soon began writing a blog about motherhood and started her radio program. She later helped found the St. Louis tea party and had stints as a political analyst at Breitbart News Network and The Blaze. Loesch, who has said she keeps a handgun near her bed and has a tattoo on her forearm with a reference to a Bible passage calling for Christians to wear holy armor, has never been afraid of being provocative. During a 2012 radio show, Loesch said she didn't have a problem with Marines who urinated on dead Taliban soldiers, declaring: \"I'd drop trou and do it too. \" --- Associated Press writer Darlene Superville in Washington contributed to this report. --- This story has been corrected to show that Loesch has 765,000 Twitter followers, not 46 million; she has 46,000 likes.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "Who criticized Loesch's appearance at the town hall? Answer in as few words as possible."
+  },
+  {
+   "task_id": "bool_001",
+   "type": "boolean",
+   "prompt": "Was David Hogg the one who criticized Loesch's appearance at the town hall? Answer Yes or No."
+  }
+ ]
+}

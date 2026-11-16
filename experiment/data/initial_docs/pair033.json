@@ -1,0 +1,269 @@
+{
+ "pair_id": "ap_11286_3_4",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "KIGALI, Rwanda (AP) -- Rwanda's longtime President Paul Kagame has easily won a third term in office in what he had called \"a formality.\" He faces another seven years leading the small East African nation praised for its economic performance but criticized for its silencing of opponents."
+  },
+  {
+   "blip_idx": 1,
+   "text": "Electoral authorities overnight said Kagame had won more than 98 percent of the vote with 80 percent of the votes counted, with no major change expected when final results are announced later Saturday."
+  },
+  {
+   "blip_idx": 2,
+   "text": "He had faced two challengers."
+  },
+  {
+   "blip_idx": 3,
+   "text": "Kagame addressed jubilant supporters at party headquarters and urged Rwandans, including those who hadn't supported him, to work together."
+  },
+  {
+   "blip_idx": 4,
+   "text": "\"The victory belongs to Rwandans who put trust in me,\" he said."
+  },
+  {
+   "blip_idx": 5,
+   "text": "\"I promise to build on the achievements so far registered and transform the country.\" Kagame has led the country of 12 million people since his rebels helped to end its genocide in 1994 in which more than 800,000 Tutsis and moderate Hutus were massacred by Hutu extremists."
+  },
+  {
+   "blip_idx": 6,
+   "text": "The 59-year-old president has been praised for the country's economic growth, but human rights groups accuse his government of using state powers to silence any opposition."
+  },
+  {
+   "blip_idx": 7,
+   "text": "Rwandan authorities, including the president, deny it."
+  },
+  {
+   "blip_idx": 8,
+   "text": "A constitutional amendment in 2015 allows Kagame to stay in power until 2034 if he pursues it."
+  },
+  {
+   "blip_idx": 9,
+   "text": "Kagame was running against Frank Habineza of the Democratic Green Party of Rwanda - the only permitted opposition party - and independent candidate and former journalist Philippe Mpayimana."
+  },
+  {
+   "blip_idx": 10,
+   "text": "Three potential candidates were disqualified for allegedly failing to fulfil requirements including collecting enough signatures."
+  },
+  {
+   "blip_idx": 11,
+   "text": "With 80 percent of the votes counted, Mpayimana had received just 0.72 percent and conceded defeat and congratulated Kagame."
+  },
+  {
+   "blip_idx": 12,
+   "text": "Habineza received 0.45 percent."
+  },
+  {
+   "blip_idx": 13,
+   "text": "More than 80 percent of Rwanda's 6.9 million registered voters cast their ballots, according to Charles Munyaneza, executive secretary of the Rwanda Electoral Commission."
+  },
+  {
+   "blip_idx": 14,
+   "text": "In Rwanda's tidy capital, Kigali, there had been little hint of the coming vote."
+  },
+  {
+   "blip_idx": 15,
+   "text": "Candidates had been barred from putting campaign posters in most public places, including schools and hospitals."
+  },
+  {
+   "blip_idx": 16,
+   "text": "The electoral commission vetted candidates' campaign messages, warning that their social media accounts could be blocked otherwise."
+  },
+  {
+   "blip_idx": 17,
+   "text": "Two decades of often deadly attacks on political opponents, journalists and rights activists created a \"climate of fear\" ahead of Rwanda's election, Amnesty International said in a report last month."
+  },
+  {
+   "blip_idx": 18,
+   "text": "In 2010, Kagame won election with 93 percent of the vote."
+  },
+  {
+   "blip_idx": 19,
+   "text": "In July, he told a campaign rally that \"the day of the presidential elections will just be a formality.\""
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.3422418797915485,
+    "dist_new": 0.342682612494686
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "deleted",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "added",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": [
+   4
+  ]
+ },
+ "document_old": "KIGALI, Rwanda (AP) -- Rwanda's longtime President Paul Kagame has easily won a third term in office in what he had called \"a formality.\" He faces another seven years leading the small East African nation praised for its economic performance but criticized for its silencing of opponents. Electoral authorities overnight said Kagame had won more than 98 percent of the vote with 80 percent of the votes counted, with no major change expected when final results are announced later Saturday. He had faced two challengers. Kagame addressed jubilant supporters at party headquarters and urged Rwandans, including those who hadn't supported him, to work together. \"The victory belongs to Rwandans who put trust in me,\" he said. \"I promise to build on the achievements so far registered and transform the country.\" Kagame has led the country of 12 million people since his rebels helped to end its genocide in 1994 in which more than 800,000 Tutsis and moderate Hutus were massacred by Hutu extremists. The 59-year-old president has been praised for the country's economic growth, but human rights groups accuse his government of using state powers to silence any opposition. Rwandan authorities, including the president, deny it. A constitutional amendment in 2015 allows Kagame to stay in power until 2034 if he pursues it. Kagame was running against Frank Habineza of the Democratic Green Party of Rwanda - the only permitted opposition party - and independent candidate and former journalist Philippe Mpayimana. Three potential candidates were disqualified for allegedly failing to fulfil requirements including collecting enough signatures. With 80 percent of the votes counted, Mpayimana had received just 0.72 percent and conceded defeat and congratulated Kagame. Habineza received 0.45 percent. More than 80 percent of Rwanda's 6.9 million registered voters cast their ballots, according to Charles Munyaneza, executive secretary of the Rwanda Electoral Commission. In Rwanda's tidy capital, Kigali, there had been little hint of the coming vote. Candidates had been barred from putting campaign posters in most public places, including schools and hospitals. The electoral commission vetted candidates' campaign messages, warning that their social media accounts could be blocked otherwise. Two decades of often deadly attacks on political opponents, journalists and rights activists created a \"climate of fear\" ahead of Rwanda's election, Amnesty International said in a report last month. In 2010, Kagame won election with 93 percent of the vote. In July, he told a campaign rally that \"the day of the presidential elections will just be a formality.\"",
+ "document_new": "KIGALI, Rwanda (AP) -- Rwanda's longtime President Paul Kagame has easily won a third term in office in what he had called \"a formality.\" He faces another seven years leading the small East African nation praised for its economic performance but criticized for its silencing of opponents. Electoral authorities overnight said Kagame had won more than 98 percent of the vote with 80 percent of the votes counted, with no major change expected when final results are announced later Saturday. He had faced two challengers. Kagame addressed jubilant supporters at party headquarters and urged Rwandans, including those who hadn't supported him, to work together. \"This election was criticized so much due to me continuing to be your leader, especially people from outside the country because they oppose the will of Rwandans,\" the president told supporters. \"But Rwandans have shown that it was not manipulated by anyone but their own will.\" Kagame has led the country of 12 million people since his rebels helped to end its genocide in 1994 in which more than 800,000 Tutsis and moderate Hutus were massacred by Hutu extremists. The 59-year-old president has been praised for the country's economic growth, but human rights groups accuse his government of using state powers to silence any opposition. Rwandan authorities, including the president, deny it. A constitutional amendment in 2015 allows Kagame to stay in power until 2034 if he pursues it. Kagame was running against Frank Habineza of the Democratic Green Party of Rwanda - the only permitted opposition party - and independent candidate and former journalist Philippe Mpayimana. Three potential candidates were disqualified for allegedly failing to fulfil requirements including collecting enough signatures. With 80 percent of the votes counted, Mpayimana had received just 0.72 percent and conceded defeat and congratulated Kagame. Habineza received 0.45 percent. More than 80 percent of Rwanda's 6.9 million registered voters cast their ballots, according to Charles Munyaneza, executive secretary of the Rwanda Electoral Commission. In Rwanda's tidy capital, Kigali, there had been little hint of the coming vote. Candidates had been barred from putting campaign posters in most public places, including schools and hospitals. The electoral commission vetted candidates' campaign messages, warning that their social media accounts could be blocked otherwise. Two decades of often deadly attacks on political opponents, journalists and rights activists created a \"climate of fear\" ahead of Rwanda's election, Amnesty International said in a report last month. In 2010, Kagame won election with 93 percent of the vote. In July, he told a campaign rally that \"the day of the presidential elections will just be a formality.\"",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "Kagame has led the country since which year? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "What percentage of the vote did Kagame win in 2010? Answer with the number only."
+  },
+  {
+   "task_id": "bool_001",
+   "type": "boolean",
+   "prompt": "Was the president criticized for continuing to be the leader of Rwanda according to the statement? Answer Yes or No."
+  }
+ ]
+}

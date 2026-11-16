@@ -1,0 +1,268 @@
+{
+ "pair_id": "ap_18462_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "A look at what's happening around the majors Thursday: DEPLETED RIVALRY The Yankees and Red Sox open a four-game series at Fenway Park with the two best records in the majors, but minus key players."
+  },
+  {
+   "blip_idx": 1,
+   "text": "Chris Sale, who tops the big leagues in strikeouts and leads the AL in ERA, had been scheduled to start for Boston."
+  },
+  {
+   "blip_idx": 2,
+   "text": "He went on the disabled list this week because of left shoulder inflammation, so Brian Johnson will pitch in his place."
+  },
+  {
+   "blip_idx": 3,
+   "text": "Johnson will face a lineup that's missing Aaron Judge — the New York slugger has a broken wrist after being hit by a pitch last week."
+  },
+  {
+   "blip_idx": 4,
+   "text": "The Red Sox lead the Yankees by 5 1/2 games in the AL East."
+  },
+  {
+   "blip_idx": 5,
+   "text": "HIS TURN-ER Dodgers sparkplug Justin Turner could come off the disabled list for the series finale at home against Milwaukee."
+  },
+  {
+   "blip_idx": 6,
+   "text": "He's been out with a groin injury, and is batting .259 with five home runs and 20 RBIs in an injury-interrupted season."
+  },
+  {
+   "blip_idx": 7,
+   "text": "With Turner at third base, recently acquired Manny Machado would move over to shortstop and settle in with newcomer Brian Dozier at second base."
+  },
+  {
+   "blip_idx": 8,
+   "text": "WANT HIM? Reliever Shawn Kelley is looking for a job after his tantrum cost him a spot in Washington's bullpen."
+  },
+  {
+   "blip_idx": 9,
+   "text": "Kelley was cut Wednesday — a day earlier, he threw his glove to the ground and glared into the dugout after giving up a home run in the ninth inning of a 25-4 romp over the Mets."
+  },
+  {
+   "blip_idx": 10,
+   "text": "The 34-year-old righty was 1-0 with a 3.34 ERA in 35 games this season."
+  },
+  {
+   "blip_idx": 11,
+   "text": "\"It was a disrespectful act."
+  },
+  {
+   "blip_idx": 12,
+   "text": "I thought it warranted him leaving the team,\" Nationals general manager Mike Rizzo said."
+  },
+  {
+   "blip_idx": 13,
+   "text": "BACK TO WORK Astros star Carlos Correa will begin a rehab assignment at Double-A Corpus Christi after missing more than a month with a back injury."
+  },
+  {
+   "blip_idx": 14,
+   "text": "He says he expects to play shortstop for the Hooks and hopes the rehab assignment will last only about a week."
+  },
+  {
+   "blip_idx": 15,
+   "text": "Correa has been out since late June with lower back soreness."
+  },
+  {
+   "blip_idx": 16,
+   "text": "He is hitting .268 with 13 home runs and 49 RBIs in 73 games for the AL West leaders."
+  },
+  {
+   "blip_idx": 17,
+   "text": "IN PLAY Smooth-fielding shortstop Adeiny Hechavarria is available after being cut by Tampa Bay."
+  },
+  {
+   "blip_idx": 18,
+   "text": "The Rays designated him for assignment to open a roster spot for newly acquired outfielder Tommy Pham."
+  },
+  {
+   "blip_idx": 19,
+   "text": "The 29-year-old infielder was hitting .258 with three homers and 26 RBIs, and he had lost his starting role to rookie Willy Adames."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.09734451447538216,
+    "dist_new": 0.09734451447538216
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "A look at what's happening around the majors Thursday: DEPLETED RIVALRY The Yankees and Red Sox open a four-game series at Fenway Park with the two best records in the majors, but minus key players. Chris Sale, who tops the big leagues in strikeouts and leads the AL in ERA, had been scheduled to start for Boston. He went on the disabled list this week because of left shoulder inflammation, so Brian Johnson will pitch in his place. Johnson will face a lineup that's missing Aaron Judge — the New York slugger has a broken wrist after being hit by a pitch last week. The Red Sox lead the Yankees by 5 1/2 games in the AL East. HIS TURN-ER Dodgers sparkplug Justin Turner could come off the disabled list for the series finale at home against Milwaukee. He's been out with a groin injury, and is batting .259 with five home runs and 20 RBIs in an injury-interrupted season. With Turner at third base, recently acquired Manny Machado would move over to shortstop and settle in with newcomer Brian Dozier at second base. WANT HIM? Reliever Shawn Kelley is looking for a job after his tantrum cost him a spot in Washington's bullpen. Kelley was cut Wednesday — a day earlier, he threw his glove to the ground and glared into the dugout after giving up a home run in the ninth inning of a 25-4 romp over the Mets. The 34-year-old righty was 1-0 with a 3.34 ERA in 35 games this season. \"It was a disrespectful act. I thought it warranted him leaving the team,\" Nationals general manager Mike Rizzo said. BACK TO WORK Astros star Carlos Correa will begin a rehab assignment at Double-A Corpus Christi after missing more than a month with a back injury. He says he expects to play shortstop for the Hooks and hopes the rehab assignment will last only about a week. Correa has been out since late June with lower back soreness. He is hitting .268 with 13 home runs and 49 RBIs in 73 games for the AL West leaders. IN PLAY Smooth-fielding shortstop Adeiny Hechavarria is available after being cut by Tampa Bay. The Rays designated him for assignment to open a roster spot for newly acquired outfielder Tommy Pham. The 29-year-old infielder was hitting .258 with three homers and 26 RBIs, and he had lost his starting role to rookie Willy Adames.",
+ "document_new": "A look at what's happening around the majors today: DEPLETED RIVALRY The Yankees and Red Sox open a four-game series at Fenway Park with the two best records in the majors, but minus key players. Chris Sale, who tops the big leagues in strikeouts and leads the AL in ERA, had been scheduled to start for Boston. He went on the disabled list this week because of left shoulder inflammation, so Brian Johnson will pitch in his place. Johnson will face a lineup that's missing Aaron Judge — the New York slugger has a broken wrist after being hit by a pitch last week. The Red Sox lead the Yankees by 5 1/2 games in the AL East. HIS TURN-ER Dodgers sparkplug Justin Turner could come off the disabled list for the series finale at home against Milwaukee. He's been out with a groin injury, and is batting .259 with five home runs and 20 RBIs in an injury-interrupted season. With Turner at third base, recently acquired Manny Machado would move over to shortstop and settle in with newcomer Brian Dozier at second base. WANT HIM? Reliever Shawn Kelley is looking for a job after his tantrum cost him a spot in Washington's bullpen. Kelley was cut Wednesday — a day earlier, he threw his glove to the ground and glared into the dugout after giving up a home run in the ninth inning of a 25-4 romp over the Mets. The 34-year-old righty was 1-0 with a 3.34 ERA in 35 games this season. \"It was a disrespectful act. I thought it warranted him leaving the team,\" Nationals general manager Mike Rizzo said. BACK TO WORK Astros star Carlos Correa will begin a rehab assignment at Double-A Corpus Christi after missing more than a month with a back injury. He says he expects to play shortstop for the Hooks and hopes the rehab assignment will last only about a week. Correa has been out since late June with lower back soreness. He is hitting .268 with 13 home runs and 49 RBIs in 73 games for the AL West leaders. IN PLAY Smooth-fielding shortstop Adeiny Hechavarria is available after being cut by Tampa Bay. The Rays designated him for assignment to open a roster spot for newly acquired outfielder Tommy Pham. The 29-year-old infielder was hitting .258 with three homers and 26 RBIs, and he had lost his starting role to rookie Willy Adames.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What day does the article mention for the events around the majors? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "What is the batting average of the 29-year-old infielder? Answer in as few words as possible."
+  }
+ ]
+}

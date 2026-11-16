@@ -1,0 +1,616 @@
+{
+ "pair_id": "ap_6613_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "RINGGOLD, Ga."
+  },
+  {
+   "blip_idx": 1,
+   "text": "(AP) -- In the northwest corner of Georgia, where cows and crops vastly outnumber people, a small cluster of privately owned treatment centers have sprung up in recent years for heroin and prescription painkiller addicts."
+  },
+  {
+   "blip_idx": 2,
+   "text": "And most of the patients aren't even from the state."
+  },
+  {
+   "blip_idx": 3,
+   "text": "Relaxed rules in Georgia and stricter regulations in Tennessee created a recipe for the facilities to locate a few miles from the state line."
+  },
+  {
+   "blip_idx": 4,
+   "text": "Each year, the Georgia centers draw thousands of addicts from Tennessee, some who drive for hours to get treatment."
+  },
+  {
+   "blip_idx": 5,
+   "text": "Locals are fed up with the onslaught of out-of-towners who pick up their meds and leave, and they complained so loudly that Georgia legislators recently passed a law essentially preventing any new clinics from opening up in the area."
+  },
+  {
+   "blip_idx": 6,
+   "text": "\"Georgia is getting inundated with these treatment centers and they're really drawing patients in from outside of our area and that's a big concern,\" Catoosa County Sheriff Gary Sisk said. \"We can't be the solution for all the surrounding states."
+  },
+  {
+   "blip_idx": 7,
+   "text": "\" Georgia leads the South in number of treatment centers with"
+  },
+  {
+   "blip_idx": 8,
+   "text": "71. Florida, with twice the population, has 69. Last year, one in five people treated at an opioid treatment center in Georgia came from out of state, according to state Department of Behavioral Health and Developmental Disabilities records obtained by The Associated Press under an open records request."
+  },
+  {
+   "blip_idx": 9,
+   "text": "In the northwest corner of Georgia, two out of every three patients were from out of state."
+  },
+  {
+   "blip_idx": 10,
+   "text": "Sisk has been with the sheriff's office for 27 years."
+  },
+  {
+   "blip_idx": 11,
+   "text": "He said that with the growth of the treatment industry, he worries about increasing crime, including parking lot brawls and people driving after abusing their medication."
+  },
+  {
+   "blip_idx": 12,
+   "text": "Patients and treatment center owners say the sheriff's concerns are overblown and perpetuate the stigma of trouble around facilities that are often disparagingly called \"methadone clinics.\" A 2016 report in the Journal of Studies on Alcohol and Drugs found that, in general, there is more crime associated with a convenience store than opioid treatment programs."
+  },
+  {
+   "blip_idx": 13,
+   "text": "Counseling is also a large part of successful treatment."
+  },
+  {
+   "blip_idx": 14,
+   "text": "\"Medication is really the smallest part of what we do,\" said Zac Talbott, the owner of Counseling Solutions in Chatsworth, Georgia, one of the five facilities near the state line."
+  },
+  {
+   "blip_idx": 15,
+   "text": "The shortage of treatment facilities is a problem nationwide."
+  },
+  {
+   "blip_idx": 16,
+   "text": "More than a dozen states have fewer than 10 clinics each."
+  },
+  {
+   "blip_idx": 17,
+   "text": "In 2015, fewer than 20 percent of people who needed addiction treatment received it, according to the National Survey on Drug Use and Health sponsored by the U.S."
+  },
+  {
+   "blip_idx": 18,
+   "text": "Department of Health and Human services."
+  },
+  {
+   "blip_idx": 19,
+   "text": "One of Talbott's patients is Ashley Gardner, who lives two hours away in Maryville, Tennessee."
+  },
+  {
+   "blip_idx": 20,
+   "text": "The 34-year-old woman said her addiction started in the seventh grade when she wanted to numb the pain after she was sexually assaulted."
+  },
+  {
+   "blip_idx": 21,
+   "text": "She was assaulted another time, and saw both fathers of her two children die from an opioid overdose."
+  },
+  {
+   "blip_idx": 22,
+   "text": "She said her parents disowned her, and by the time she was ready to get help, she was sneaking pain pills out of an emergency room and shooting up in the hospital parking lot."
+  },
+  {
+   "blip_idx": 23,
+   "text": "Gardner has tried treatment facilities closer to her house in Tennessee, but she said they were overcrowded and expensive."
+  },
+  {
+   "blip_idx": 24,
+   "text": "Instead, she travels to Georgia where methadone, her preferred medication, is cheaper."
+  },
+  {
+   "blip_idx": 25,
+   "text": "Tennessee Medicaid doesn't cover the drug, and she pays for it out of pocket in Georgia."
+  },
+  {
+   "blip_idx": 26,
+   "text": "\"It's about half a tank of gas to get down here."
+  },
+  {
+   "blip_idx": 27,
+   "text": "But it's worth it you know?"
+  },
+  {
+   "blip_idx": 28,
+   "text": "I mean, it's saving my life,\" she said. \"It wouldn't really matter if it was a full tank to me."
+  },
+  {
+   "blip_idx": 29,
+   "text": "\" When patients first start receiving methadone, they have to take the medicine at the center and are only permitted to take one dose home per week."
+  },
+  {
+   "blip_idx": 30,
+   "text": "As patients build trust with their therapist and pass drug tests, they are slowly allowed to take a few doses home at a time."
+  },
+  {
+   "blip_idx": 31,
+   "text": "It takes two years of continuous treatment before a patient can take home a month's worth of methadone."
+  },
+  {
+   "blip_idx": 32,
+   "text": "Other drugs approved by U.S. regulators to treat opioid addiction do not need to be administered at special treatment facilities the way methadone does, and doctors have been turning to them more often in recent years."
+  },
+  {
+   "blip_idx": 33,
+   "text": "Vivitrol, an injection of the drug naltrexone, is meant to help a patient stay sober after detox by blocking the effects of opioids."
+  },
+  {
+   "blip_idx": 34,
+   "text": "Suboxone, a combination of the opioid buprenorphine and naloxone, which blocks the effects of opioids, is meant to help reduce cravings from opioids while also preventing people from feeling a high."
+  },
+  {
+   "blip_idx": 35,
+   "text": "Methadone has been used to treat opioid addiction for 40 years and is cheaper."
+  },
+  {
+   "blip_idx": 36,
+   "text": "While some maintain that addicts should aspire to complete abstinence, the World Health Organization, the U.S."
+  },
+  {
+   "blip_idx": 37,
+   "text": "Surgeon General and several federal agencies have all come out in support of medication-assisted treatment."
+  },
+  {
+   "blip_idx": 38,
+   "text": "Georgia state Sen."
+  },
+  {
+   "blip_idx": 39,
+   "text": "Jeff Mullis represents much of the northwest corner most affected by the influx of treatment centers."
+  },
+  {
+   "blip_idx": 40,
+   "text": "The Republican led a push this year to pass a new set of statewide regulations on the industry."
+  },
+  {
+   "blip_idx": 41,
+   "text": "The new rules will require programs to demonstrate a need for their services, similar to the certificate of need licensing program already used in Tennessee."
+  },
+  {
+   "blip_idx": 42,
+   "text": "Previously, open competition was really the only constraint on the number of clinics in Georgia."
+  },
+  {
+   "blip_idx": 43,
+   "text": "Mullis's bill also limits the number of centers that can open in newly established regions around the state."
+  },
+  {
+   "blip_idx": 44,
+   "text": "His region will already be at capacity as soon as the bill is signed."
+  },
+  {
+   "blip_idx": 45,
+   "text": "\"It's really an issue of distribution,\" said Mullis, explaining that he doesn't have a problem with the treatment centers, but he is opposed to being the provider of service to neighboring states."
+  },
+  {
+   "blip_idx": 46,
+   "text": "Tennessee state Rep."
+  },
+  {
+   "blip_idx": 47,
+   "text": "Ryan Williams said community resistance and strict rules there are the biggest barrier toward expansion of treatment centers."
+  },
+  {
+   "blip_idx": 48,
+   "text": "\"The challenge is that there's not a lot of education out there,\" the Republican said."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 40,
+    "new": 40,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 35,
+    "new": 35,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 44,
+    "new": 44,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 45,
+    "new": 45,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 47,
+    "new": 47,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 34,
+    "new": 34,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 29,
+    "new": 29,
+    "dist_old": 0.061169220622990975,
+    "dist_new": 0.061169220622990975
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 42,
+    "new": 42,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 36,
+    "new": 36,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 38,
+    "new": 38,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 32,
+    "new": 32,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 48,
+    "new": 48,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 28,
+    "new": 28,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 41,
+    "new": 41,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 43,
+    "new": 43,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 46,
+    "new": 46,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 39,
+    "new": 39,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 37,
+    "new": 37,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 31,
+    "new": 31,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 30,
+    "new": 30,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 33,
+    "new": 33,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "RINGGOLD, Ga. (AP) -- In the northwest corner of Georgia, where cows and crops vastly outnumber people, a small cluster of privately owned treatment centers have sprung up in recent years for heroin and prescription painkiller addicts. And most of the patients aren't even from the state. Relaxed rules in Georgia and stricter regulations in Tennessee created a recipe for the facilities to locate a few miles from the state line. Each year, the Georgia centers draw thousands of addicts from Tennessee, some who drive for hours to get treatment. Locals are fed up with the onslaught of out-of-towners who pick up their meds and leave, and they complained so loudly that Georgia legislators recently passed a law essentially preventing any new clinics from opening up in the area. \"Georgia is getting inundated with these treatment centers and they're really drawing patients in from outside of our area and that's a big concern,\" Catoosa County Sheriff Gary Sisk said. \"We can't be the solution for all the surrounding states. \" Georgia leads the South in number of treatment centers with 71. Florida, with twice the population, has 69. Last year, one in five people treated at an opioid treatment center in Georgia came from out of state, according to state Department of Behavioral Health and Developmental Disabilities records obtained by The Associated Press under an open records request. In the northwest corner of Georgia, two out of every three patients were from out of state. Sisk has been with the sheriff's office for 27 years. He said that with the growth of the treatment industry, he worries about increasing crime, including parking lot brawls and people driving after abusing their medication. Patients and treatment center owners say the sheriff's concerns are overblown and perpetuate the stigma of trouble around facilities that are often disparagingly called \"methadone clinics.\" A 2016 report in the Journal of Studies on Alcohol and Drugs found that, in general, there is more crime associated with a convenience store than opioid treatment programs. Counseling is also a large part of successful treatment. \"Medication is really the smallest part of what we do,\" said Zac Talbott, the owner of Counseling Solutions in Chatsworth, Georgia, one of the five facilities near the state line. The shortage of treatment facilities is a problem nationwide. More than a dozen states have fewer than 10 clinics each. In 2015, fewer than 20 percent of people who needed addiction treatment received it, according to the National Survey on Drug Use and Health sponsored by the U.S. Department of Health and Human services. One of Talbott's patients is Ashley Gardner, who lives two hours away in Maryville, Tennessee. The 34-year-old woman said her addiction started in the seventh grade when she wanted to numb the pain after she was sexually assaulted. She was assaulted another time, and saw both fathers of her two children die from an opioid overdose. She said her parents disowned her, and by the time she was ready to get help, she was sneaking pain pills out of an emergency room and shooting up in the hospital parking lot. Gardner has tried treatment facilities closer to her house in Tennessee, but she said they were overcrowded and expensive. Instead, she travels to Georgia where methadone, her preferred medication, is cheaper. Tennessee Medicaid doesn't cover the drug, and she pays for it out of pocket in Georgia. \"It's about half a tank of gas to get down here. But it's worth it you know? I mean, it's saving my life,\" she said. \"It wouldn't really matter if it was a full tank to me. \" When patients first start receiving methadone, they have to take the medicine at the center and are only permitted to take one dose home per week. As patients build trust with their therapist and pass drug tests, they are slowly allowed to take a few doses home at a time. It takes two years of continuous treatment before a patient can take home a month's worth of methadone. Other drugs approved by U.S. regulators to treat opioid addiction do not need to be administered at special treatment facilities the way methadone does, and doctors have been turning to them more often in recent years. Vivitrol, an injection of the drug naltrexone, is meant to help a patient stay sober after detox by blocking the effects of opioids. Suboxone, a combination of the opioid buprenorphine and naloxone, which blocks the effects of opioids, is meant to help reduce cravings from opioids while also preventing people from feeling a high. Methadone has been used to treat opioid addiction for 40 years and is cheaper. While some maintain that addicts should aspire to complete abstinence, the World Health Organization, the U.S. Surgeon General and several federal agencies have all come out in support of medication-assisted treatment. Georgia state Sen. Jeff Mullis represents much of the northwest corner most affected by the influx of treatment centers. The Republican led a push this year to pass a new set of statewide regulations on the industry. The new rules will require programs to demonstrate a need for their services, similar to the certificate of need licensing program already used in Tennessee. Previously, open competition was really the only constraint on the number of clinics in Georgia. Mullis's bill also limits the number of centers that can open in newly established regions around the state. His region will already be at capacity as soon as the bill is signed. \"It's really an issue of distribution,\" said Mullis, explaining that he doesn't have a problem with the treatment centers, but he is opposed to being the provider of service to neighboring states. Tennessee state Rep. Ryan Williams said community resistance and strict rules there are the biggest barrier toward expansion of treatment centers. \"The challenge is that there's not a lot of education out there,\" the Republican said.",
+ "document_new": "RINGGOLD, Ga. (AP) -- In the northwest corner of Georgia, where cows and crops vastly outnumber people, a small cluster of privately owned treatment centers have sprung up in recent years for heroin and prescription painkiller addicts. And most of the patients aren't even from the state. Relaxed rules in Georgia and stricter regulations in Tennessee created a recipe for the facilities to locate a few miles from the state line. Each year, the Georgia centers draw thousands of addicts from Tennessee, some who drive for hours to get treatment. Locals are fed up with the onslaught of out-of-towners who pick up their meds and leave, and they complained so loudly that Georgia legislators recently passed a law essentially preventing any new clinics from opening up in the area. \"Georgia is getting inundated with these treatment centers and they're really drawing patients in from outside of our area and that's a big concern,\" Catoosa County Sheriff Gary Sisk said. \"We can't be the solution for all the surrounding states. \" Georgia leads the South in number of treatment centers with 71. Florida, with twice the population, has 69. Last year, one in five people treated at an opioid treatment center in Georgia came from out of state, according to state Department of Behavioral Health and Developmental Disabilities records obtained by The Associated Press under an open records request. In the northwest corner of Georgia, two out of every three patients were from out of state. Sisk has been with the sheriff's office for 27 years. He said that with the growth of the treatment industry, he worries about increasing crime, including parking lot brawls and people driving after abusing their medication. Patients and treatment center owners say the sheriff's concerns are overblown and perpetuate the stigma of trouble around facilities that are often disparagingly called \"methadone clinics.\" A 2016 report in the Journal of Studies on Alcohol and Drugs found that, in general, there is more crime associated with a convenience store than opioid treatment programs. Counseling is also a large part of successful treatment. \"Medication is really the smallest part of what we do,\" said Zac Talbott, the owner of Counseling Solutions in Chatsworth, Georgia, one of the five facilities near the state line. The shortage of treatment facilities is a problem nationwide. More than a dozen states have fewer than 10 clinics each. In 2015, fewer than 20 percent of people who needed addiction treatment received it, according to the National Survey on Drug Use and Health sponsored by the U.S. Department of Health and Human services. One of Talbott's patients is Ashley Gardner, who lives two hours away in Maryville, Tennessee. The 34-year-old woman said her addiction started in the seventh grade when she wanted to numb the pain after she was sexually assaulted. She was assaulted another time, and saw both fathers of her two children die from an opioid overdose. She said her parents disowned her, and by the time she was ready to get help, she was sneaking pain pills out of an emergency room and shooting up in the hospital parking lot. Gardner has tried treatment facilities closer to her house in Tennessee, but she said they were overcrowded and expensive. Instead, she travels to Georgia where methadone, her preferred medication, is cheaper. Tennessee Medicaid doesn't cover the drug, and she pays for it out of pocket in Georgia. \"It's about half a tank of gas to get down here. But it's worth it you know? I mean, it's saving my life,\" she said. \"It wouldn't really matter if it was a full tank to me. \" When patients first start receiving methadone, they have to take the medicine at the center and are permitted to take only one dose home per week. As patients build trust with their therapist and pass drug tests, they are slowly allowed to take a few doses home at a time. It takes two years of continuous treatment before a patient can take home a month's worth of methadone. Other drugs approved by U.S. regulators to treat opioid addiction do not need to be administered at special treatment facilities the way methadone does, and doctors have been turning to them more often in recent years. Vivitrol, an injection of the drug naltrexone, is meant to help a patient stay sober after detox by blocking the effects of opioids. Suboxone, a combination of the opioid buprenorphine and naloxone, which blocks the effects of opioids, is meant to help reduce cravings from opioids while also preventing people from feeling a high. Methadone has been used to treat opioid addiction for 40 years and is cheaper. While some maintain that addicts should aspire to complete abstinence, the World Health Organization, the U.S. Surgeon General and several federal agencies have all come out in support of medication-assisted treatment. Georgia state Sen. Jeff Mullis represents much of the northwest corner most affected by the influx of treatment centers. The Republican led a push this year to pass a new set of statewide regulations on the industry. The new rules will require programs to demonstrate a need for their services, similar to the certificate of need licensing program already used in Tennessee. Previously, open competition was really the only constraint on the number of clinics in Georgia. Mullis's bill also limits the number of centers that can open in newly established regions around the state. His region will already be at capacity as soon as the bill is signed. \"It's really an issue of distribution,\" said Mullis, explaining that he doesn't have a problem with the treatment centers, but he is opposed to being the provider of service to neighboring states. Tennessee state Rep. Ryan Williams said community resistance and strict rules there are the biggest barrier toward expansion of treatment centers. \"The challenge is that there's not a lot of education out there,\" the Republican said.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "How many doses can patients take home per week when they first start receiving methadone? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "What percentage of people treated at an opioid treatment center in Georgia last year came from out of state? Answer in as few words as possible."
+  }
+ ]
+}

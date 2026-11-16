@@ -1,0 +1,501 @@
+{
+ "pair_id": "ap_14390_1_2",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "WASHINGTON (AP) -- A first-of-its kind genetic treatment for blindness will cost $850,000 per patient, making it one of the most expensive medicines in the world and raising questions about the affordability of a coming wave of similar gene-targeting therapies."
+  },
+  {
+   "blip_idx": 1,
+   "text": "The injectable treatment from Spark Therapeutics can improve the eyesight of patients with a rare genetic mutation that affects just a few thousand people in the U.S."
+  },
+  {
+   "blip_idx": 2,
+   "text": "Previously there has been no treatment for the condition, which eventually causes complete blindness by adulthood."
+  },
+  {
+   "blip_idx": 3,
+   "text": "Pricing questions have swirled around the treatment due to a number of unusual factors - it is intended to be a one-time treatment, it treats a very small number of patients and represents a medical breakthrough."
+  },
+  {
+   "blip_idx": 4,
+   "text": "Previously, Spark suggested its therapy, Luxturna, could be worth more than $1 million."
+  },
+  {
+   "blip_idx": 5,
+   "text": "But the company said Wednesday it decided on the lower price after hearing concerns from health insurers about the affordability of the treatment."
+  },
+  {
+   "blip_idx": 6,
+   "text": "Consternation over skyrocketing drug prices, especially in the U.S., has led to intense scrutiny from patients, politicians, insurers and hospitals."
+  },
+  {
+   "blip_idx": 7,
+   "text": "\"We wanted to balance the value and the affordability concerns with a responsible price that would ensure access to patients,\" said CEO Jeffrey Marrazzo, in an interview with The Associated Press."
+  },
+  {
+   "blip_idx": 8,
+   "text": "Luxturna is still significantly more expensive than nearly every other medicine on the global market, including two other gene therapies approved earlier last year in the U.S. Pharmaceutical industry critics said the slightly lower cost is a distraction from the ongoing problem of unsustainable drug prices."
+  },
+  {
+   "blip_idx": 9,
+   "text": "\"The company very cleverly convinced everyone that they were going to charge a million dollars, so now they are being credited for being reasonable,\" said Dr. Peter Bach, director of a policy center at Memorial Sloan Kettering Cancer Center in New York."
+  },
+  {
+   "blip_idx": 10,
+   "text": "Approved last month, Luxturna, is the nation's first gene therapy for an inherited disease."
+  },
+  {
+   "blip_idx": 11,
+   "text": "It requires a 45-minute operation in which a tiny needle delivers a replacement gene to the retina, tissue at the back of the eye that converts light into electric signals that produce vision."
+  },
+  {
+   "blip_idx": 12,
+   "text": "The therapy will cost $425,000 per injection."
+  },
+  {
+   "blip_idx": 13,
+   "text": "The treatment is part of an emerging field of medicine that could produce dozens of new gene-targeting medications in the next few years."
+  },
+  {
+   "blip_idx": 14,
+   "text": "Like Luxturna, these therapies are generally intended to be taken once, a fact which drug developers argue sets them apart from traditional drugs taken for months or years."
+  },
+  {
+   "blip_idx": 15,
+   "text": "Even compared to other one-time gene therapies Luxturna is still an outlier."
+  },
+  {
+   "blip_idx": 16,
+   "text": "Two customized gene therapies for blood cancer approved last year are priced at $373,000 and $475,000. Many older drugs for ultra-rare diseases also cost hundreds of thousands of dollars per year, and can quickly exceed a million dollars."
+  },
+  {
+   "blip_idx": 17,
+   "text": "For instance, a drug from Biogen called Spinraza, which treats a rare neuromuscular disorder, costs $750,000 for the first year's supply and $375,000 for subsequent years."
+  },
+  {
+   "blip_idx": 18,
+   "text": "The drug is intended to be taken for life."
+  },
+  {
+   "blip_idx": 19,
+   "text": "Drug prices are not regulated in the U.S., as they are in many other countries, so drugmakers can price their goods like any other manufacturer."
+  },
+  {
+   "blip_idx": 20,
+   "text": "Drugmakers have historically offered little explanation for the prices they charge, other than to cite the high cost of developing a drug and the fact that so many drugs fail during trials and must be abandoned."
+  },
+  {
+   "blip_idx": 21,
+   "text": "However, some companies have begun to offer more detailed reasoning as the backlash against drug prices has grown more heated."
+  },
+  {
+   "blip_idx": 22,
+   "text": "Spark Therapeutics, based in Philadelphia, has said that the cost for a lifetime of blindness - including lost earnings and caregiver wages - can easily exceed $1 million."
+  },
+  {
+   "blip_idx": 23,
+   "text": "Not everyone agrees with that argument."
+  },
+  {
+   "blip_idx": 24,
+   "text": "Even at $850,000 a preliminary analysis by one group found that the drug would need to be priced significantly lower to be a good value."
+  },
+  {
+   "blip_idx": 25,
+   "text": "The estimate by the non-profit Institute for Clinical and Economic Review assumes the drug will maintain patients' vision for 10 years."
+  },
+  {
+   "blip_idx": 26,
+   "text": "However, Spark expects the drug's effect to be long-lasting, if not lifelong, though it has only tracked patients for about four years."
+  },
+  {
+   "blip_idx": 27,
+   "text": "The group's director, Dr. Steven Pearson, said paying for gene therapies that have not yet shown lasting benefits will be an ongoing issue."
+  },
+  {
+   "blip_idx": 28,
+   "text": "\"If the payment is going to be done all at once that will create real affordability concerns if we don't have tremendous confidence about how long the effects of the treatment will last,\" he said."
+  },
+  {
+   "blip_idx": 29,
+   "text": "At least one gene therapy sold overseas already crossed the $1-million price threshold, a treatment for a rare protein disorder launched in Europe."
+  },
+  {
+   "blip_idx": 30,
+   "text": "Manufacturer uniQure stopped selling the therapy last year due to a lack of demand."
+  },
+  {
+   "blip_idx": 31,
+   "text": "It was never approved in the U.S. Like most prescription medicines in the U.S., most of the immediate costs of Luxturna will be borne by insurers - not patients - including private plans and government programs."
+  },
+  {
+   "blip_idx": 32,
+   "text": "For patients, Spark said it will cover all out-of-pocket expenses needed to obtain the medication, including transportation to hospitals trained to administer the injections."
+  },
+  {
+   "blip_idx": 33,
+   "text": "Given Luxturna's federal approval and strong study results, experts say U.S. insurers will likely cover the drug."
+  },
+  {
+   "blip_idx": 34,
+   "text": "Spark will try to deflect some pricing concerns by offering unconventional payment plans to insurers."
+  },
+  {
+   "blip_idx": 35,
+   "text": "Under one arrangement with the non-profit insurer Harvard Pilgrim, Spark will refund some costs if patients don't experience the expected improvements in vision."
+  },
+  {
+   "blip_idx": 36,
+   "text": "The company did not disclose how much money would be returned to the insurer, which covers more than a million people in New England."
+  },
+  {
+   "blip_idx": 37,
+   "text": "Spark said it is also discussing a proposal in which insurers would pay for the drug in installments over several years."
+  },
+  {
+   "blip_idx": 38,
+   "text": "That idea would apply to government programs like Medicare and Medicaid, which provide health coverage to the poor and elderly."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 37,
+    "new": 37,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 28,
+    "new": 28,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.3937670888769703,
+    "dist_new": 0.3937670888769703
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 30,
+    "new": 30,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 38,
+    "new": 38,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 34,
+    "new": 34,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 32,
+    "new": 32,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 31,
+    "new": 31,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 33,
+    "new": 33,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 36,
+    "new": 36,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 29,
+    "new": 29,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 35,
+    "new": 35,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "WASHINGTON (AP) -- A first-of-its kind genetic treatment for blindness will cost $850,000 per patient, making it one of the most expensive medicines in the world and raising questions about the affordability of a coming wave of similar gene-targeting therapies. The injectable treatment from Spark Therapeutics can improve the eyesight of patients with a rare genetic mutation that affects just a few thousand people in the U.S. Previously there has been no treatment for the condition, which eventually causes complete blindness by adulthood. Pricing questions have swirled around the treatment due to a number of unusual factors - it is intended to be a one-time treatment, it treats a very small number of patients and represents a medical breakthrough. Previously, Spark suggested its therapy, Luxturna, could be worth more than $1 million. But the company said Wednesday it decided on the lower price after hearing concerns from health insurers about the affordability of the treatment. Consternation over skyrocketing drug prices, especially in the U.S., has led to intense scrutiny from patients, politicians, insurers and hospitals. \"We wanted to balance the value and the affordability concerns with a responsible price that would ensure access to patients,\" said CEO Jeffrey Marrazzo, in an interview with The Associated Press. Luxturna is still significantly more expensive than nearly every other medicine on the global market, including two other gene therapies approved earlier last year in the U.S. Pharmaceutical industry critics said the slightly lower cost is a distraction from the ongoing problem of unsustainable drug prices. \"The company very cleverly convinced everyone that they were going to charge a million dollars, so now they are being credited for being reasonable,\" said Dr. Peter Bach, director of a policy center at Memorial Sloan Kettering Cancer Center in New York. Approved last month, Luxturna, is the nation's first gene therapy for an inherited disease. It requires a 45-minute operation in which a tiny needle delivers a replacement gene to the retina, tissue at the back of the eye that converts light into electric signals that produce vision. The therapy will cost $425,000 per injection. The treatment is part of an emerging field of medicine that could produce dozens of new gene-targeting medications in the next few years. Like Luxturna, these therapies are generally intended to be taken once, a fact which drug developers argue sets them apart from traditional drugs taken for months or years. Even compared to other one-time gene therapies Luxturna is still an outlier. Two customized gene therapies for blood cancer approved last year are priced at $373,000 and $475,000. Many older drugs for ultra-rare diseases also cost hundreds of thousands of dollars per year, and can quickly exceed a million dollars. For instance, a drug from Biogen called Spinraza, which treats a rare neuromuscular disorder, costs $750,000 for the first year's supply and $375,000 for subsequent years. The drug is intended to be taken for life. Drug prices are not regulated in the U.S., as they are in many other countries, so drugmakers can price their goods like any other manufacturer. Drugmakers have historically offered little explanation for the prices they charge, other than to cite the high cost of developing a drug and the fact that so many drugs fail during trials and must be abandoned. However, some companies have begun to offer more detailed reasoning as the backlash against drug prices has grown more heated. Spark Therapeutics, based in Philadelphia, has said that the cost for a lifetime of blindness - including lost earnings and caregiver wages - can easily exceed $1 million. Not everyone agrees with that argument. Even at $850,000 a preliminary analysis by one group found that the drug would need to be priced significantly lower to be a good value. The estimate by the non-profit Institute for Clinical and Economic Review assumes the drug will maintain patients' vision for 10 years. However, Spark expects the drug's effect to be long-lasting, if not lifelong, though it has only tracked patients for about four years. The group's director, Dr. Steven Pearson, said paying for gene therapies that have not yet shown lasting benefits will be an ongoing issue. \"If the payment is going to be done all at once that will create real affordability concerns if we don't have tremendous confidence about how long the effects of the treatment will last,\" he said. At least one gene therapy sold overseas already crossed the $1-million price threshold, a treatment for a rare protein disorder launched in Europe. Manufacturer uniQure stopped selling the therapy last year due to a lack of demand. It was never approved in the U.S. Like most prescription medicines in the U.S., most of the immediate costs of Luxturna will be borne by insurers - not patients - including private plans and government programs. For patients, Spark said it will cover all out-of-pocket expenses needed to obtain the medication, including transportation to hospitals trained to administer the injections. Given Luxturna's federal approval and strong study results, experts say U.S. insurers will likely cover the drug. Spark will try to deflect some pricing concerns by offering unconventional payment plans to insurers. Under one arrangement with the non-profit insurer Harvard Pilgrim, Spark will refund some costs if patients don't experience the expected improvements in vision. The company did not disclose how much money would be returned to the insurer, which covers more than a million people in New England. Spark said it is also discussing a proposal in which insurers would pay for the drug in installments over several years. That idea would apply to government programs like Medicare and Medicaid, which provide health coverage to the poor and elderly.",
+ "document_new": "WASHINGTON (AP) -- A first-of-its kind genetic treatment for blindness will cost $850,000 per patient, making it one of the most expensive medicines in the world and raising questions about the affordability of a coming wave of similar gene-targeting therapies. The injectable treatment from Spark Therapeutics can improve the eyesight of patients with a rare genetic mutation that affects just a few thousand people in the U.S. Previously there has been no treatment for the condition, which eventually causes complete blindness by adulthood. Pricing questions have swirled around the treatment due to a number of unusual factors - it is intended to be a one-time treatment, it treats a very small number of patients and represents a medical breakthrough. Previously, Spark suggested its therapy, Luxturna, could be worth more than $1 million. But the company said Wednesday it decided on the lower price after hearing concerns from health insurers about the affordability of the treatment. Consternation over skyrocketing drug prices, especially in the U.S., has led to intense scrutiny from patients, politicians, insurers and hospitals. \"We wanted to balance the value and the affordability concerns with a responsible price that would ensure access to patients,\" said CEO Jeffrey Marrazzo, in an interview with The Associated Press. Luxturna is still significantly more expensive than nearly every other medicine on the global market, including two other gene therapies approved earlier last year in the U.S. Pharmaceutical industry critics said the slightly lower cost is a distraction from the ongoing problem of unsustainable drug prices. \"The company very cleverly convinced everyone that they were going to charge a million dollars, so now they are being credited for being reasonable,\" said Dr. Peter Bach, director of a policy center at Memorial Sloan Kettering Cancer Center in New York. Approved last month, Luxturna, is the nation's first gene therapy for an inherited disease. It requires a 45-minute operation in which a tiny needle delivers a replacement gene to the retina, tissue at the back of the eye that converts light into electric signals that produce vision. The therapy will cost $425,000 per injection. The price does not include the cost of the operation, which Spark estimates will cost between $4,000 and $5,000. The treatment is part of an emerging field of medicine that could produce dozens of new gene-targeting medications in the next few years. Like Luxturna, these therapies are generally intended to be taken once, a fact which drug developers argue sets them apart from traditional drugs taken for months or years. Even compared to other one-time gene therapies Luxturna is still an outlier. Two customized gene therapies for blood cancer approved last year are priced at $373,000 and $475,000. Many older drugs for ultra-rare diseases also cost hundreds of thousands of dollars per year, and can quickly exceed a million dollars. For instance, a drug from Biogen called Spinraza, which treats a rare neuromuscular disorder, costs $750,000 for the first year's supply and $375,000 for subsequent years. The drug is intended to be taken for life. Drug prices are not regulated in the U.S., as they are in many other countries, so drugmakers can price their goods like any other manufacturer. Drugmakers have historically offered little explanation for the prices they charge, other than to cite the high cost of developing a drug and the fact that so many drugs fail during trials and must be abandoned. However, some companies have begun to offer more detailed reasoning as the backlash against drug prices has grown more heated. Spark Therapeutics, based in Philadelphia, has said that the cost for a lifetime of blindness - including lost earnings and caregiver wages - can easily exceed $1 million. Not everyone agrees with that argument. Even at $850,000 a preliminary analysis by one group found that the drug would need to be priced significantly lower to be a good value. The estimate by the non-profit Institute for Clinical and Economic Review assumes the drug will maintain patients' vision for 10 years. However, Spark expects the drug's effect to be long-lasting, if not lifelong, though it has only tracked patients for about four years. The group's director, Dr. Steven Pearson, said paying for gene therapies that have not yet shown lasting benefits will be an ongoing issue. \"If the payment is going to be done all at once that will create real affordability concerns if we don't have tremendous confidence about how long the effects of the treatment will last,\" he said. At least one gene therapy sold overseas already crossed the $1-million price threshold, a treatment for a rare protein disorder launched in Europe. Manufacturer uniQure stopped selling the therapy last year due to a lack of demand. It was never approved in the U.S. Like most prescription medicines in the U.S., most of the immediate costs of Luxturna will be borne by insurers - not patients - including private plans and government programs. For patients, Spark said it will cover all out-of-pocket expenses needed to obtain the medication, including transportation to hospitals trained to administer the injections. Given Luxturna's federal approval and strong study results, experts say U.S. insurers will likely cover the drug. Spark will try to deflect some pricing concerns by offering unconventional payment plans to insurers. Under one arrangement with the non-profit insurer Harvard Pilgrim, Spark will refund some costs if patients don't experience the expected improvements in vision. The company did not disclose how much money would be returned to the insurer, which covers more than a million people in New England. Spark said it is also discussing a proposal in which insurers would pay for the drug in installments over several years. That idea would apply to government programs like Medicare and Medicaid, which provide health coverage to the poor and elderly.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What is the price threshold mentioned for the gene therapy sold overseas? Answer in as few words as possible."
+  },
+  {
+   "task_id": "bool_001",
+   "type": "boolean",
+   "prompt": "Does the price threshold mentioned for the gene therapy sold overseas by the company XYZ amount to $1-million? Answer Yes or No."
+  },
+  {
+   "task_id": "bool_002",
+   "type": "boolean",
+   "prompt": "Does the price threshold mentioned for the gene therapy sold overseas contain the amount $500,000? Answer Yes or No."
+  }
+ ]
+}

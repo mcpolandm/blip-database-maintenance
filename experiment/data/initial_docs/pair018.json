@@ -1,0 +1,263 @@
+{
+ "pair_id": "ap_7927_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "An attack Friday on Egypt's Coptic Christians in which masked militants opened fire on a bus south of Cairo, killing at least 28 people and wounding 22, sent shockwaves through the Copt community, increasingly targeted by the Islamic State group and affiliated militants."
+  },
+  {
+   "blip_idx": 1,
+   "text": "The Copts have long been a prime target of extremists: They were hit in a massive church bombing just weeks before the country's 2011 Arab Spring uprising, and Islamic militants gave them a particular focus during a crackdown in the 1990s."
+  },
+  {
+   "blip_idx": 2,
+   "text": "But the past six months have been particularly bloody."
+  },
+  {
+   "blip_idx": 3,
+   "text": "Here is a look at major attacks against Egypt's Coptic Christians in recent years: May 26: Masked militants riding in three SUVs open fire on a bus packed with Coptic Christians, including children, south of the capital Cairo, killing at least 28 people and wounding 22. The assault happens while the bus is traveling on a side road in the desert leading to the remote monastery of St. Samuel the Confessor in Maghagha, in Minya governorate."
+  },
+  {
+   "blip_idx": 4,
+   "text": "No group immediately claims responsibility for the attack, the fourth to target Christians since December, but it bears the hallmarks of the Islamic State group."
+  },
+  {
+   "blip_idx": 5,
+   "text": "The attack comes on the eve of the start of the Muslim holy month of Ramadan."
+  },
+  {
+   "blip_idx": 6,
+   "text": "--- April 9: Twin bombings by suicide bombers hit churches in the coastal city of Alexandria and the Nile Delta city of Tanta."
+  },
+  {
+   "blip_idx": 7,
+   "text": "At least 43 people were killed and scores of worshippers injured in the Palm Sunday attack, which narrowly missed a ceremony presided over by Pope Tawadros II in Alexandria's St. Mark's cathedral."
+  },
+  {
+   "blip_idx": 8,
+   "text": "--- February: Hundreds of Egyptian Christians flee their homes in the northern part of the Sinai Peninsula, fearing attacks by Islamic State militants."
+  },
+  {
+   "blip_idx": 9,
+   "text": "The group's North Sinai affiliate had killed at least seven Coptic Christians in the restive peninsula in less than a month."
+  },
+  {
+   "blip_idx": 10,
+   "text": "The Islamic State group affiliate in Egypt releases a video vowing to step up attacks against the Christian minority, describing them as their \"favorite prey.\" It showcased a deadly December attack on the church adjacent to Cairo's Saint Mark's Cathedral."
+  },
+  {
+   "blip_idx": 11,
+   "text": "--- December 2016: A bombing at a chapel adjacent to Egypt's main Coptic Christian cathedral in Cairo claimed by IS kills 30 people and wounds dozens during Sunday Mass in one of the deadliest attacks carried out against the religious minority in recent memory."
+  },
+  {
+   "blip_idx": 12,
+   "text": "The high death toll serves as a grim reminder of the difficulties of Egypt's struggle to restore security and stability after nearly six years of turmoil following the Arab Spring uprising."
+  },
+  {
+   "blip_idx": 13,
+   "text": "--- July 2016: Pope Tawadros II says that since 2013 there were 37 sectarian attacks on Christians in Egypt, nearly one incident a month."
+  },
+  {
+   "blip_idx": 14,
+   "text": "A Muslim mob stabs 27-year old Coptic Christian Fam Khalaf to death in the southern City of Minya over a personal feud."
+  },
+  {
+   "blip_idx": 15,
+   "text": "--- May 2016: A Muslim mob ransacks and torches seven Christian homes in Minya after rumors spread that a Christian man had an affair with a Muslim woman."
+  },
+  {
+   "blip_idx": 16,
+   "text": "The elderly mother of the aforementioned man was stripped naked and dragged through a street by the mob to humiliate her."
+  },
+  {
+   "blip_idx": 17,
+   "text": "--- New Year's Eve 2011: A bomb explodes in a Coptic Christian church in Alexandria as worshippers depart a midnight mass, killing more than 20 people."
+  },
+  {
+   "blip_idx": 18,
+   "text": "No suspects have ever been named and the crime is still unsolved."
+  },
+  {
+   "blip_idx": 19,
+   "text": "Attacks pick up in the aftermath of Egypt's Arab Spring uprising that begins weeks later, then more so after the army overthrows an elected but divisive Islamist president in 2013."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0732819357223613,
+    "dist_new": 0.0732819357223613
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "An attack Friday on Egypt's Coptic Christians in which masked militants opened fire on a bus south of Cairo, killing at least 28 people and wounding 22, sent shockwaves through the Copt community, increasingly targeted by the Islamic State group and affiliated militants. The Copts have long been a prime target of extremists: They were hit in a massive church bombing just weeks before the country's 2011 Arab Spring uprising, and Islamic militants gave them a particular focus during a crackdown in the 1990s. But the past six months have been particularly bloody. Here is a look at major attacks against Egypt's Coptic Christians in recent years: May 26: Masked militants riding in three SUVs open fire on a bus packed with Coptic Christians, including children, south of the capital Cairo, killing at least 28 people and wounding 22. The assault happens while the bus is traveling on a side road in the desert leading to the remote monastery of St. Samuel the Confessor in Maghagha, in Minya governorate. No group immediately claims responsibility for the attack, the fourth to target Christians since December, but it bears the hallmarks of the Islamic State group. The attack comes on the eve of the start of the Muslim holy month of Ramadan. --- April 9: Twin bombings by suicide bombers hit churches in the coastal city of Alexandria and the Nile Delta city of Tanta. At least 43 people were killed and scores of worshippers injured in the Palm Sunday attack, which narrowly missed a ceremony presided over by Pope Tawadros II in Alexandria's St. Mark's cathedral. --- February: Hundreds of Egyptian Christians flee their homes in the northern part of the Sinai Peninsula, fearing attacks by Islamic State militants. The group's North Sinai affiliate had killed at least seven Coptic Christians in the restive peninsula in less than a month. The Islamic State group affiliate in Egypt releases a video vowing to step up attacks against the Christian minority, describing them as their \"favorite prey.\" It showcased a deadly December attack on the church adjacent to Cairo's Saint Mark's Cathedral. --- December 2016: A bombing at a chapel adjacent to Egypt's main Coptic Christian cathedral in Cairo claimed by IS kills 30 people and wounds dozens during Sunday Mass in one of the deadliest attacks carried out against the religious minority in recent memory. The high death toll serves as a grim reminder of the difficulties of Egypt's struggle to restore security and stability after nearly six years of turmoil following the Arab Spring uprising. --- July 2016: Pope Tawadros II says that since 2013 there were 37 sectarian attacks on Christians in Egypt, nearly one incident a month. A Muslim mob stabs 27-year old Coptic Christian Fam Khalaf to death in the southern City of Minya over a personal feud. --- May 2016: A Muslim mob ransacks and torches seven Christian homes in Minya after rumors spread that a Christian man had an affair with a Muslim woman. The elderly mother of the aforementioned man was stripped naked and dragged through a street by the mob to humiliate her. --- New Year's Eve 2011: A bomb explodes in a Coptic Christian church in Alexandria as worshippers depart a midnight mass, killing more than 20 people. No suspects have ever been named and the crime is still unsolved. Attacks pick up in the aftermath of Egypt's Arab Spring uprising that begins weeks later, then more so after the army overthrows an elected but divisive Islamist president in 2013.",
+ "document_new": "An attack Friday on Egypt's Coptic Christians in which masked militants opened fire on a bus south of Cairo, killing at least 28 people and wounding 22, sent shockwaves through the Copt community, increasingly targeted by the Islamic State group and affiliated militants. The Copts have long been a prime target of extremists: They were hit in a massive church bombing just weeks before the country's 2011 Arab Spring uprising, and Islamic militants gave them a particular focus during a crackdown in the 1990s. But the past six months have been particularly bloody. Here is a look at major attacks against Egypt's Coptic Christians in recent years: May 26: Masked militants riding in three SUVs open fire on a bus packed with Coptic Christians, including children, south of the capital Cairo, killing at least 28 people and wounding 22. The assault happens while the bus is traveling on a side road in the desert leading to the remote monastery of St. Samuel the Confessor in Maghagha, in Minya governorate. No group immediately claims responsibility for the attack, the fourth to target Christians since December, but it bears the hallmarks of the Islamic State group. The attack comes on the eve of the start of the Muslim holy month of Ramadan. --- April 9: Twin bombings by suicide bombers hit churches in the coastal city of Alexandria and the Nile Delta city of Tanta. At least 43 people are killed and scores of worshippers injured in the Palm Sunday attack, which narrowly missed a ceremony presided over by Pope Tawadros II in Alexandria's St. Mark's cathedral. --- February: Hundreds of Egyptian Christians flee their homes in the northern part of the Sinai Peninsula, fearing attacks by Islamic State militants. The group's North Sinai affiliate had killed at least seven Coptic Christians in the restive peninsula in less than a month. The Islamic State group affiliate in Egypt releases a video vowing to step up attacks against the Christian minority, describing them as their \"favorite prey.\" It showcased a deadly December attack on the church adjacent to Cairo's Saint Mark's Cathedral. --- December 2016: A bombing at a chapel adjacent to Egypt's main Coptic Christian cathedral in Cairo claimed by IS kills 30 people and wounds dozens during Sunday Mass in one of the deadliest attacks carried out against the religious minority in recent memory. The high death toll serves as a grim reminder of the difficulties of Egypt's struggle to restore security and stability after nearly six years of turmoil following the Arab Spring uprising. --- July 2016: Pope Tawadros II says that since 2013 there were 37 sectarian attacks on Christians in Egypt, nearly one incident a month. A Muslim mob stabs 27-year old Coptic Christian Fam Khalaf to death in the southern City of Minya over a personal feud. --- May 2016: A Muslim mob ransacks and torches seven Christian homes in Minya after rumors spread that a Christian man had an affair with a Muslim woman. The elderly mother of the aforementioned man was stripped naked and dragged through a street by the mob to humiliate her. --- New Year's Eve 2011: A bomb explodes in a Coptic Christian church in Alexandria as worshippers depart a midnight mass, killing more than 20 people. No suspects have ever been named and the crime is still unsolved. Attacks pick up in the aftermath of Egypt's Arab Spring uprising that begins weeks later, then more so after the army overthrows an elected but divisive Islamist president in 2013.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What event began weeks before the attacks increased in Egypt? Answer in as few words as possible."
+  }
+ ]
+}

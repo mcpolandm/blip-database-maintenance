@@ -1,0 +1,470 @@
+{
+ "pair_id": "ap_4624_2_3",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "LENS, France (AP) -- France's efforts to combat homegrown terrorism are in turmoil: A group home intended to turn young people away from Islamic extremism sits empty."
+  },
+  {
+   "blip_idx": 1,
+   "text": "Plans to segregate prison inmates suspected of jihadi sympathies have been abandoned."
+  },
+  {
+   "blip_idx": 2,
+   "text": "And the head of a program to prevent radicalization has been convicted of misusing funds."
+  },
+  {
+   "blip_idx": 3,
+   "text": "The results are both disappointing and unsurprising, according to a French senator who co-wrote a report last month highly critical of an effort she says was devised in haste and has proved largely ineffective."
+  },
+  {
+   "blip_idx": 4,
+   "text": "\"We spread money around because we didn't have time and we had to communicate something, we had to show something,\" Esther Benbassa said. \"The time that this takes to work is long, very long."
+  },
+  {
+   "blip_idx": 5,
+   "text": "\" With France now retooling its efforts, the danger of extremism from within was underscored by last week's rampage in London and the previous week's assault on soldiers at Paris' Orly airport."
+  },
+  {
+   "blip_idx": 6,
+   "text": "Authorities said both attacks were carried by ex-convicts who may have been radicalized behind bars."
+  },
+  {
+   "blip_idx": 7,
+   "text": "France is not the only country reconsidering how it responds to radicalization."
+  },
+  {
+   "blip_idx": 8,
+   "text": "Britain's Prevent program, which seeks to identify residents at risk of being radicalized, has been criticized by civil rights groups and a U.N. expert who said it stifles free speech."
+  },
+  {
+   "blip_idx": 9,
+   "text": "France's experiments with preventing radicalization were conceived during a state of emergency following the extremist attacks on the staff of Charlie Hebdo magazine and a kosher supermarket in January 2015 and the Paris bombings and shootings that left 130 people dead 10 months later."
+  },
+  {
+   "blip_idx": 10,
+   "text": "The ad hoc attempts focused on the prison system, a key incubator for many jihadis, and programs that tried to target those already on the path to extremism."
+  },
+  {
+   "blip_idx": 11,
+   "text": "They did not go as hoped."
+  },
+  {
+   "blip_idx": 12,
+   "text": "Sonia Imloul, the former head of a de-radicalization program that had the support of the French Interior Ministry, was convicted of misuse of funds this month."
+  },
+  {
+   "blip_idx": 13,
+   "text": "According to testimony, she had government funds for the organization deposited directly into her account."
+  },
+  {
+   "blip_idx": 14,
+   "text": "She received a four-month suspended prison sentence."
+  },
+  {
+   "blip_idx": 15,
+   "text": "Her lawyer said the 60,000 euros ($65,000) she received from the government was a drop in the bucket compared with what the program needed."
+  },
+  {
+   "blip_idx": 16,
+   "text": "It operated out of an apartment and used university students instead of trained professionals to counsel families of young people who had left for Syria, according to testimony."
+  },
+  {
+   "blip_idx": 17,
+   "text": "Meanwhile, in February, the last occupant of a group home in the Loire Valley wine country that was supposed to rehabilitate extremists was convicted of advocating terrorism."
+  },
+  {
+   "blip_idx": 18,
+   "text": "Residents of the area, who were promised before the group home opened in September that none of the occupants posed a danger, were infuriated to learn that one young man was linked to the same jihadi network as one of the suicide bombers who attacked the Bataclan concert hall in Paris in November 2015. With a capacity of 25, the manor house never had more than nine voluntary participants at any given time since its launch in September."
+  },
+  {
+   "blip_idx": 19,
+   "text": "It is now empty, and the government is focusing its resources instead on prevention."
+  },
+  {
+   "blip_idx": 20,
+   "text": "In a government-endorsed effort to discourage radicalization, 600 high school students in the northern city of Lens were taken recently to a performance of \"Djihad,\" a play about three young Muslims who come to regret their decision to go to Syria but who also feel rejected by Europe."
+  },
+  {
+   "blip_idx": 21,
+   "text": "The play, which uses comedy to reach an audience often impervious to the preaching of adults, opened days before the attacks on Charlie Hebdo and the Hyper Cacher grocery store."
+  },
+  {
+   "blip_idx": 22,
+   "text": "It has been running ever since."
+  },
+  {
+   "blip_idx": 23,
+   "text": "Its current home theater is in Paris, across the street from La Bonne Biere bar, which was attacked in November 2015. Playwright Ismail Saidi is a native of the Molenbeek neighborhood in Brussels that was home to many of the attackers who struck Paris that night, including the ringleader of the Islamic State cell and the only attacker known to have survived, now awaiting trial in France."
+  },
+  {
+   "blip_idx": 24,
+   "text": "\"There is not one single solution, because each of these people is a particular case. Each one has his own path that led him to this place,\" said Florian Chauvet, one of the lead actors in \"Djihad.\" ''It's a question of what French society is failing to provide to these young people that they say, 'My life has no meaning here, so I'm going to try to find meaning in my death.'\" The hope is that the story will raise doubts in the minds of anyone considering the same course."
+  },
+  {
+   "blip_idx": 25,
+   "text": "France has seen more of its citizens join extremist groups in Syria and Iraq than any other country in Europe."
+  },
+  {
+   "blip_idx": 26,
+   "text": "Around 2,000 left in total, and about 700 are still in the war zone."
+  },
+  {
+   "blip_idx": 27,
+   "text": "But where dozens at a time were leaving in 2014 and 2015, only a few left last year."
+  },
+  {
+   "blip_idx": 28,
+   "text": "But Muriel Domenach, who leads the new effort to reboot France's anti-radicalization initiative, attributes the drop as much to the Islamic State group's battlefield losses as to anything else."
+  },
+  {
+   "blip_idx": 29,
+   "text": "\"The best counter-narrative is military victory, to start with."
+  },
+  {
+   "blip_idx": 30,
+   "text": "With military victory, Daesh would lose a lot of its dark allure,\" she said, referring to the group by its Arabic acronym."
+  },
+  {
+   "blip_idx": 31,
+   "text": "France continues to monitor 2,400 people it considers at risk for radicalization and 1,000 families."
+  },
+  {
+   "blip_idx": 32,
+   "text": "Domenach is concentrating on the use of community youth centers and respected local figures instead of speeches from ranking government officials to reach young people long before they turn against their country."
+  },
+  {
+   "blip_idx": 33,
+   "text": "Once they do, she said, it is all but too late."
+  },
+  {
+   "blip_idx": 34,
+   "text": "\"I'm not a strong believer in de-radicalization."
+  },
+  {
+   "blip_idx": 35,
+   "text": "I'm not a strong believer in deprogramming someone,\" she said. \"I don't think that such a thing as creating a new man or a new woman ever worked."
+  },
+  {
+   "blip_idx": 36,
+   "text": "I don't think you make someone come back to the way they were."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 19,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 36,
+    "new": 37,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 28,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 31,
+    "new": 32,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 29,
+    "new": 30,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.2531585424283521,
+    "dist_new": 0.2531585424283521
+   },
+   {
+    "old": 35,
+    "new": 36,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 34,
+    "new": 35,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 30,
+    "new": 31,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 33,
+    "new": 34,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 32,
+    "new": 33,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 28,
+    "new": 29,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "added",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": [
+   17
+  ]
+ },
+ "document_old": "LENS, France (AP) -- France's efforts to combat homegrown terrorism are in turmoil: A group home intended to turn young people away from Islamic extremism sits empty. Plans to segregate prison inmates suspected of jihadi sympathies have been abandoned. And the head of a program to prevent radicalization has been convicted of misusing funds. The results are both disappointing and unsurprising, according to a French senator who co-wrote a report last month highly critical of an effort she says was devised in haste and has proved largely ineffective. \"We spread money around because we didn't have time and we had to communicate something, we had to show something,\" Esther Benbassa said. \"The time that this takes to work is long, very long. \" With France now retooling its efforts, the danger of extremism from within was underscored by last week's rampage in London and the previous week's assault on soldiers at Paris' Orly airport. Authorities said both attacks were carried by ex-convicts who may have been radicalized behind bars. France is not the only country reconsidering how it responds to radicalization. Britain's Prevent program, which seeks to identify residents at risk of being radicalized, has been criticized by civil rights groups and a U.N. expert who said it stifles free speech. France's experiments with preventing radicalization were conceived during a state of emergency following the extremist attacks on the staff of Charlie Hebdo magazine and a kosher supermarket in January 2015 and the Paris bombings and shootings that left 130 people dead 10 months later. The ad hoc attempts focused on the prison system, a key incubator for many jihadis, and programs that tried to target those already on the path to extremism. They did not go as hoped. Sonia Imloul, the former head of a de-radicalization program that had the support of the French Interior Ministry, was convicted of misuse of funds this month. According to testimony, she had government funds for the organization deposited directly into her account. She received a four-month suspended prison sentence. Her lawyer said the 60,000 euros ($65,000) she received from the government was a drop in the bucket compared with what the program needed. It operated out of an apartment and used university students instead of trained professionals to counsel families of young people who had left for Syria, according to testimony. Meanwhile, in February, the last occupant of a group home in the Loire Valley wine country that was supposed to rehabilitate extremists was convicted of advocating terrorism. Residents of the area, who were promised before the group home opened in September that none of the occupants posed a danger, were infuriated to learn that one young man was linked to the same jihadi network as one of the suicide bombers who attacked the Bataclan concert hall in Paris in November 2015. With a capacity of 25, the manor house never had more than nine voluntary participants at any given time since its launch in September. It is now empty, and the government is focusing its resources instead on prevention. In a government-endorsed effort to discourage radicalization, 600 high school students in the northern city of Lens were taken recently to a performance of \"Djihad,\" a play about three young Muslims who come to regret their decision to go to Syria but who also feel rejected by Europe. The play, which uses comedy to reach an audience often impervious to the preaching of adults, opened days before the attacks on Charlie Hebdo and the Hyper Cacher grocery store. It has been running ever since. Its current home theater is in Paris, across the street from La Bonne Biere bar, which was attacked in November 2015. Playwright Ismail Saidi is a native of the Molenbeek neighborhood in Brussels that was home to many of the attackers who struck Paris that night, including the ringleader of the Islamic State cell and the only attacker known to have survived, now awaiting trial in France. \"There is not one single solution, because each of these people is a particular case. Each one has his own path that led him to this place,\" said Florian Chauvet, one of the lead actors in \"Djihad.\" ''It's a question of what French society is failing to provide to these young people that they say, 'My life has no meaning here, so I'm going to try to find meaning in my death.'\" The hope is that the story will raise doubts in the minds of anyone considering the same course. France has seen more of its citizens join extremist groups in Syria and Iraq than any other country in Europe. Around 2,000 left in total, and about 700 are still in the war zone. But where dozens at a time were leaving in 2014 and 2015, only a few left last year. But Muriel Domenach, who leads the new effort to reboot France's anti-radicalization initiative, attributes the drop as much to the Islamic State group's battlefield losses as to anything else. \"The best counter-narrative is military victory, to start with. With military victory, Daesh would lose a lot of its dark allure,\" she said, referring to the group by its Arabic acronym. France continues to monitor 2,400 people it considers at risk for radicalization and 1,000 families. Domenach is concentrating on the use of community youth centers and respected local figures instead of speeches from ranking government officials to reach young people long before they turn against their country. Once they do, she said, it is all but too late. \"I'm not a strong believer in de-radicalization. I'm not a strong believer in deprogramming someone,\" she said. \"I don't think that such a thing as creating a new man or a new woman ever worked. I don't think you make someone come back to the way they were.",
+ "document_new": "LENS, France (AP) -- France's efforts to combat homegrown terrorism are in turmoil: A group home intended to turn young people away from Islamic extremism sits empty. A move to segregate prison inmates suspected of jihadi sympathies has been abandoned. And the head of a program to prevent radicalization has been convicted of misusing funds. The results are both disappointing and unsurprising, according to a French senator who co-wrote a report last month highly critical of an effort she says was devised in haste and has proved largely ineffective. \"We spread money around because we didn't have time and we had to communicate something, we had to show something,\" Esther Benbassa said. \"The time that this takes to work is long, very long. \" With France now retooling its efforts, the danger of extremism from within was underscored by last week's rampage in London and the previous week's assault on soldiers at Paris' Orly airport. Authorities said both attacks were carried by ex-convicts who may have been radicalized behind bars. France is not the only country reconsidering how it responds to radicalization. Britain's Prevent program, which seeks to identify residents at risk of being radicalized, has been criticized by civil rights groups and a U.N. expert who said it stifles free speech. France's experiments with preventing radicalization were conceived during a state of emergency following the extremist attacks on the staff of Charlie Hebdo magazine and a kosher supermarket in January 2015 and the Paris bombings and shootings that left 130 people dead 10 months later. The ad hoc attempts focused on the prison system, a key incubator for many jihadis, and programs that tried to target those already on the path to extremism. They did not go as hoped. Sonia Imloul, the former head of a de-radicalization program that had the support of the French Interior Ministry, was convicted of misuse of funds this month. According to testimony, she had government funds for the organization deposited directly into her account. She received a four-month suspended prison sentence. Her lawyer said the 60,000 euros ($65,000) she received from the government was a drop in the bucket compared with what the program needed. It operated out of an apartment and used university students instead of trained professionals to counsel families of young people who had left for Syria, according to testimony. As for the prison program that segregated potential extremists, it was barely off the ground when a guard was stabbed late last year by an inmate described as deeply radicalized. Meanwhile, in February, the last occupant of a group home in the Loire Valley wine country that was supposed to rehabilitate extremists was convicted of advocating terrorism. Residents of the area, who were promised before the group home opened in September that none of the occupants posed a danger, were infuriated to learn that one young man was linked to the same jihadi network as one of the suicide bombers who attacked the Bataclan concert hall in Paris in November 2015. With a capacity of 25, the manor house never had more than nine voluntary participants at any given time since its launch in September. It is now empty, and the government is focusing its resources instead on prevention. In a government-endorsed effort to discourage radicalization, 600 high school students in the northern city of Lens were taken recently to a performance of \"Djihad,\" a play about three young Muslims who come to regret their decision to go to Syria but who also feel rejected by Europe. The play, which uses comedy to reach an audience often impervious to the preaching of adults, opened days before the attacks on Charlie Hebdo and the Hyper Cacher grocery store. It has been running ever since. Its current home theater is in Paris, across the street from La Bonne Biere bar, which was attacked in November 2015. Playwright Ismail Saidi is a native of the Molenbeek neighborhood in Brussels that was home to many of the attackers who struck Paris that night, including the ringleader of the Islamic State cell and the only attacker known to have survived, now awaiting trial in France. \"There is not one single solution, because each of these people is a particular case. Each one has his own path that led him to this place,\" said Florian Chauvet, one of the lead actors in \"Djihad.\" ''It's a question of what French society is failing to provide to these young people that they say, 'My life has no meaning here, so I'm going to try to find meaning in my death.'\" The hope is that the story will raise doubts in the minds of anyone considering the same course. France has seen more of its citizens join extremist groups in Syria and Iraq than any other country in Europe. Around 2,000 left in total, and about 700 are still in the war zone. But where dozens at a time were leaving in 2014 and 2015, only a few left last year. But Muriel Domenach, who leads the new effort to reboot France's anti-radicalization initiative, attributes the drop as much to the Islamic State group's battlefield losses as to anything else. \"The best counter-narrative is military victory, to start with. With military victory, Daesh would lose a lot of its dark allure,\" she said, referring to the group by its Arabic acronym. France continues to monitor 2,400 people it considers at risk for radicalization and 1,000 families. Domenach is concentrating on the use of community youth centers and respected local figures instead of speeches from ranking government officials to reach young people long before they turn against their country. Once they do, she said, it is all but too late. \"I'm not a strong believer in de-radicalization. I'm not a strong believer in deprogramming someone,\" she said. \"I don't think that such a thing as creating a new man or a new woman ever worked. I don't think you make someone come back to the way they were.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "How many people is France monitoring for risk of radicalization? Answer with the number only."
+  }
+ ]
+}

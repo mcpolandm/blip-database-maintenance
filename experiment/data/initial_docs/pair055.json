@@ -1,0 +1,242 @@
+{
+ "pair_id": "ap_13902_3_4",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "LOS ANGELES (AP) -- The biggest figures and institutions in entertainment have established a commission to be chaired by Anita Hill that intends to combat sexual misconduct and inequality in the industry in the wake of the huge wave of revelations spurred by allegations against Harvey Weinstein."
+  },
+  {
+   "blip_idx": 1,
+   "text": "A statement Friday announced the founding of the Commission on Sexual Harassment and Advancing Equality in the Workplace, a group that grew out of a meeting called by \"Star Wars\" producer Kathleen Kennedy and several other prominent women in the industry."
+  },
+  {
+   "blip_idx": 2,
+   "text": "\"The Commission will not seek just one solution, but a comprehensive strategy to address the complex and interrelated causes of the problems of parity and power,\" Kennedy said in a statement."
+  },
+  {
+   "blip_idx": 3,
+   "text": "The chief executives of nearly every major Hollywood studio, TV network and record label attended the meeting and agreed to found and to fund the group, the statement said."
+  },
+  {
+   "blip_idx": 4,
+   "text": "The long list includes Disney CEO Bob Iger, Paramount CEO Karen Stuart, Universal Music Group CEO Sir Lucian Grange and CBS chief executive Leslie Moonves."
+  },
+  {
+   "blip_idx": 5,
+   "text": "The movie and music academies and many of the major agencies and unions that represent entertainers also signed on."
+  },
+  {
+   "blip_idx": 6,
+   "text": "\"The fact that so many industry leaders-across film, television, music, digital, unions, agencies ."
+  },
+  {
+   "blip_idx": 7,
+   "text": "and guilds-came together, in one room, to explore solutions speaks to a new era,\" Kennedy said."
+  },
+  {
+   "blip_idx": 8,
+   "text": "The group chose as its chair the law professor Hill, who brought the concept of sexual harassment to national consciousness in 1991 when she testified during the Supreme Court confirmation hearings of Clarence Thomas."
+  },
+  {
+   "blip_idx": 9,
+   "text": "\"It is time to end the culture of silence,\" Hill said in a statement."
+  },
+  {
+   "blip_idx": 10,
+   "text": "\"I've been at this work for 26 years."
+  },
+  {
+   "blip_idx": 11,
+   "text": "This moment presents us with an unprecedented opportunity to make real change."
+  },
+  {
+   "blip_idx": 12,
+   "text": "\" The commission said in its statement that it would reconvene immediately after the first of the year to hone its mission, scope and priorities."
+  },
+  {
+   "blip_idx": 13,
+   "text": "The revelations about Weinstein in The New York Times and the New Yorker in October have brought on two months unlike any the media world has ever seen, with nearly daily allegations of sexual harassment assault and abuse that have ensnared some of the most prominent players in entertainment including Kevin Spacey, Louis CK, Dustin Hoffman and Russell Simmons."
+  },
+  {
+   "blip_idx": 14,
+   "text": "Hill has been making appearances in Southern California in recent days before Friday's announcement, speaking to a gathering of entertainers and executives in Beverly Hills last week."
+  },
+  {
+   "blip_idx": 15,
+   "text": "She said there that she knew that despite Thomas' confirmation to the Supreme Court, the issue would one day return."
+  },
+  {
+   "blip_idx": 16,
+   "text": "\"I never believed 1991 was the end,\" she said, \"and I was going to make sure in my life that I never saw that as the defining moment for me or for this issue.\" --- AP Entertainment Writer Sandy Cohen contributed to this story."
+  },
+  {
+   "blip_idx": 17,
+   "text": "--- Follow Andrew Dalton at www.twitter.com/andyjamesdalton"
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.203241578014335,
+    "dist_new": 0.203241578014335
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.14805698736050402,
+    "dist_new": 0.14805698736050404
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "added",
+   "unchanged"
+  ],
+  "added_new": [
+   17
+  ]
+ },
+ "document_old": "LOS ANGELES (AP) -- The biggest figures and institutions in entertainment have established a commission to be chaired by Anita Hill that intends to combat sexual misconduct and inequality in the industry in the wake of the huge wave of revelations spurred by allegations against Harvey Weinstein. A statement Friday announced the founding of the Commission on Sexual Harassment and Advancing Equality in the Workplace, a group that grew out of a meeting called by \"Star Wars\" producer Kathleen Kennedy and several other prominent women in the industry. \"The Commission will not seek just one solution, but a comprehensive strategy to address the complex and interrelated causes of the problems of parity and power,\" Kennedy said in a statement. The chief executives of nearly every major Hollywood studio, TV network and record label attended the meeting and agreed to found and to fund the group, the statement said. The long list includes Disney CEO Bob Iger, Paramount CEO Karen Stuart, Universal Music Group CEO Sir Lucian Grange and CBS chief executive Leslie Moonves. The movie and music academies and many of the major agencies and unions that represent entertainers also signed on. \"The fact that so many industry leaders-across film, television, music, digital, unions, agencies . and guilds-came together, in one room, to explore solutions speaks to a new era,\" Kennedy said. The group chose as its chair the law professor Hill, who brought the concept of sexual harassment to national consciousness in 1991 when she testified during the Supreme Court confirmation hearings of Clarence Thomas. \"It is time to end the culture of silence,\" Hill said in a statement. \"I've been at this work for 26 years. This moment presents us with an unprecedented opportunity to make real change. \" The commission said in its statement that it would reconvene immediately after the first of the year to hone its mission, scope and priorities. The revelations about Weinstein in The New York Times and the New Yorker in October have brought on two months unlike any the media world has ever seen, with nearly daily allegations of sexual harassment assault and abuse that have ensnared some of the most prominent players in entertainment including Kevin Spacey, Louis CK, Dustin Hoffman and Russell Simmons. Hill has been making appearances in Southern California in recent days before Friday's announcement, speaking to a gathering of entertainers and executives in Beverly Hills last week. She said there that she knew that despite Thomas' confirmation to the Supreme Court, the issue would one day return. \"I never believed 1991 was the end,\" she said, \"and I was going to make sure in my life that I never saw that as the defining moment for me or for this issue.\" --- AP Entertainment Writer Sandy Cohen contributed to this story. --- Follow Andrew Dalton at www.twitter.com/andyjamesdalton",
+ "document_new": "LOS ANGELES (AP) -- The biggest figures and institutions in entertainment have established a commission to be chaired by Anita Hill that intends to combat sexual misconduct and inequality in the industry in the wake of the huge wave of revelations spurred by allegations against Harvey Weinstein. A statement Friday announced the founding of the Commission on Sexual Harassment and Advancing Equality in the Workplace, a group that grew out of a meeting called by \"Star Wars\" producer Kathleen Kennedy and several other prominent women in the industry. \"The Commission will not seek just one solution, but a comprehensive strategy to address the complex and interrelated causes of the problems of parity and power,\" Kennedy said in a statement. The chief executives of nearly every major Hollywood studio, TV network and record label attended the meeting and agreed to found and to fund the group, the statement said. The long list includes Disney CEO Bob Iger, Paramount CEO Karen Stuart, Universal Music Group CEO Sir Lucian Grainge and CBS chief executive Leslie Moonves. The movie and music academies and many of the major agencies and unions that represent entertainers also signed on. \"The fact that so many industry leaders-across film, television, music, digital, unions, agencies . and guilds-came together, in one room, to explore solutions speaks to a new era,\" Kennedy said. The group chose as its chair the law professor Hill, who brought the concept of sexual harassment to national consciousness in 1991 when she testified during the Supreme Court confirmation hearings of Clarence Thomas. \"It is time to end the culture of silence,\" Hill said in a statement. \"I've been at this work for 26 years. This moment presents us with an unprecedented opportunity to make real change. \" The commission said in its statement that it would reconvene immediately after the first of the year to hone its mission, scope and priorities. The revelations about Weinstein in The New York Times and the New Yorker in October have brought on two months unlike any the media world has ever seen, with nearly daily allegations of sexual harassment assault and abuse that have ensnared some of the most prominent players in entertainment including Kevin Spacey, Louis CK, Dustin Hoffman and Russell Simmons. Hill has been making appearances in Southern California in recent days before Friday's announcement, speaking to a gathering of entertainers and executives in Beverly Hills last week. She said there that she knew that despite Thomas' confirmation to the Supreme Court, the issue would one day return. \"I never believed 1991 was the end,\" she said, \"and I was going to make sure in my life that I never saw that as the defining moment for me or for this issue.\" --- This story corrects the name of Universal Music Group CEO Sir Lucian Grainge. --- AP Entertainment Writer Sandy Cohen contributed to this story. --- Follow Andrew Dalton at www.twitter.com/andyjamesdalton",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "Who did the group choose as its chair? Answer in as few words as possible."
+  }
+ ]
+}

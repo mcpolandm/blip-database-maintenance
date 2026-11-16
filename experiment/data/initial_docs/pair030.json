@@ -1,0 +1,328 @@
+{
+ "pair_id": "ap_3670_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "NEW YORK (AP) -- Amy Krouse Rosenthal, a popular author, filmmaker and speaker who brightened lives with her wide-eyed and generous spirit - and broke hearts when she wrote of being terminally ill and leaving behind her husband Jason - died Monday at age 51. Rosenthal had been diagnosed in 2015 with ovarian cancer."
+  },
+  {
+   "blip_idx": 1,
+   "text": "Her death was confirmed to The Associated Press by her longtime literary agent, Amy Rennert, who said Rosenthal \"was the most life-affirming person, and love-affirming person."
+  },
+  {
+   "blip_idx": 2,
+   "text": "\" Fellow author John Green tweeted: \"She was a brilliant writer, and an even better friend.\" A Chicago native and longtime resident, Rosenthal completed than more 30 books, including journals, memoirs and the best-selling picture stories \"Uni the Unicorn\" and \"Duck!"
+  },
+  {
+   "blip_idx": 3,
+   "text": "Rabbit!\" She made short films and YouTube videos, gave TED talks and provided radio commentary for NPR, among others."
+  },
+  {
+   "blip_idx": 4,
+   "text": "She also raised three children and had a flair for random acts of kindness, whether hanging dollar bills from a tree or leaving notes on ATM machines."
+  },
+  {
+   "blip_idx": 5,
+   "text": "\"I do what feels right to me. If it resonates or plants some seeds, great,\" she told Chicago magazine in 2010. While her books were noted for their exuberant tone, she started a very different conversation early this month with a widely read \"Modern Love\" column she wrote for The New York Times."
+  },
+  {
+   "blip_idx": 6,
+   "text": "Rosenthal told of learning about her fatal diagnosis, and, in the form of a dating profile, offered tribute to Jason Brian Rosenthal."
+  },
+  {
+   "blip_idx": 7,
+   "text": "The essay was titled, \"You May Want to Marry My Husband.\" \"If you're looking for a dreamy, let's-go-for-it travel companion, Jason is your man."
+  },
+  {
+   "blip_idx": 8,
+   "text": "He also has an affinity for tiny things: taster spoons, little jars, a mini-sculpture of a couple sitting on a bench, which he presented to me as a reminder of how our family began,\" she wrote. \"Here is the kind of man Jason is: He showed up at our first pregnancy ultrasound with flowers."
+  },
+  {
+   "blip_idx": 9,
+   "text": "This is a man who, because he is always up early, surprises me every Sunday morning by making some kind of oddball smiley face out of items near the coffeepot: a spoon, a mug, a banana."
+  },
+  {
+   "blip_idx": 10,
+   "text": "\" \"I am wrapping this up on Valentine's Day, and the most genuine, non-vase-oriented gift I can hope for is that the right person reads this, finds Jason, and another love story begins,\" she added."
+  },
+  {
+   "blip_idx": 11,
+   "text": "Rosenthal was a Tufts University graduate who worked in advertising for several years before she had what she called a \"McEpiphany\": She was with her kids at McDonald's when she promised herself that she would leave advertising and become a writer."
+  },
+  {
+   "blip_idx": 12,
+   "text": "Rosenthal more than kept her word;"
+  },
+  {
+   "blip_idx": 13,
+   "text": "starting in the late 1990s, she regularly published at least a book a year, and sometimes three or four."
+  },
+  {
+   "blip_idx": 14,
+   "text": "Rennert said Monday that she had completed seven more picture books before her death, including a collaboration with her daughter, Paris, called \"Dear Girl.\" Rosenthal loved experimenting with different media, and blending the virtual and physical worlds."
+  },
+  {
+   "blip_idx": 15,
+   "text": "One of her favorite projects began with a YouTube video, \"17 Things I Made,\" featuring everything from books she had written to her three children to a peanut butter and jelly sandwich."
+  },
+  {
+   "blip_idx": 16,
+   "text": "At the end of the video, she welcomed fans to join her at Chicago's Millennium Park, on August 8, 2008, at 8:08 p.m."
+  },
+  {
+   "blip_idx": 17,
+   "text": "The goal was to make a \"cool\" 18th thing."
+  },
+  {
+   "blip_idx": 18,
+   "text": "Hundreds turned out to \"make\" things - a grand entrance, a new friend, a splash, something pretty."
+  },
+  {
+   "blip_idx": 19,
+   "text": "\"I tend to believe whatever you decide to look for you will find, whatever you beckon will eventually beckon you,\" she said during a 2012 TED talk."
+  },
+  {
+   "blip_idx": 20,
+   "text": "Her books were equally untraditional."
+  },
+  {
+   "blip_idx": 21,
+   "text": "\"Textbook Amy Krouse Rosenthal,\" published in 2016, is divided into chapters named for school subjects, from \"Geography\" to \"Language Arts.\" Subtitled \"Not Exactly a Memoir,\" the book features lists, illustrations, charts, emails and text messages."
+  },
+  {
+   "blip_idx": 22,
+   "text": "In a section called \"Midterm Essay,\" Rosenthal reflected on middle age and her youthful passion for life."
+  },
+  {
+   "blip_idx": 23,
+   "text": "\"If it is wonderful, splendid, remarkable - a view outside a window, a lit-up fountain at night, that fig-chorizo appetizer - I am compelled to seek some sort of saturation point, to listen/stare/savor on a loop, to greedily keep at it until I've absorbed, absconded with, and drained it of all its magic,\" she wrote \"Invariably, I will have to move on before I have had enough."
+  },
+  {
+   "blip_idx": 24,
+   "text": "My first word was 'more.' It may very well be my last."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.03234353596623731,
+    "dist_new": 0.03234353596623731
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "NEW YORK (AP) -- Amy Krouse Rosenthal, a popular author, filmmaker and speaker who brightened lives with her wide-eyed and generous spirit - and broke hearts when she wrote of being terminally ill and leaving behind her husband Jason - died Monday at age 51. Rosenthal had been diagnosed in 2015 with ovarian cancer. Her death was confirmed to The Associated Press by her longtime literary agent, Amy Rennert, who said Rosenthal \"was the most life-affirming person, and love-affirming person. \" Fellow author John Green tweeted: \"She was a brilliant writer, and an even better friend.\" A Chicago native and longtime resident, Rosenthal completed than more 30 books, including journals, memoirs and the best-selling picture stories \"Uni the Unicorn\" and \"Duck! Rabbit!\" She made short films and YouTube videos, gave TED talks and provided radio commentary for NPR, among others. She also raised three children and had a flair for random acts of kindness, whether hanging dollar bills from a tree or leaving notes on ATM machines. \"I do what feels right to me. If it resonates or plants some seeds, great,\" she told Chicago magazine in 2010. While her books were noted for their exuberant tone, she started a very different conversation early this month with a widely read \"Modern Love\" column she wrote for The New York Times. Rosenthal told of learning about her fatal diagnosis, and, in the form of a dating profile, offered tribute to Jason Brian Rosenthal. The essay was titled, \"You May Want to Marry My Husband.\" \"If you're looking for a dreamy, let's-go-for-it travel companion, Jason is your man. He also has an affinity for tiny things: taster spoons, little jars, a mini-sculpture of a couple sitting on a bench, which he presented to me as a reminder of how our family began,\" she wrote. \"Here is the kind of man Jason is: He showed up at our first pregnancy ultrasound with flowers. This is a man who, because he is always up early, surprises me every Sunday morning by making some kind of oddball smiley face out of items near the coffeepot: a spoon, a mug, a banana. \" \"I am wrapping this up on Valentine's Day, and the most genuine, non-vase-oriented gift I can hope for is that the right person reads this, finds Jason, and another love story begins,\" she added. Rosenthal was a Tufts University graduate who worked in advertising for several years before she had what she called a \"McEpiphany\": She was with her kids at McDonald's when she promised herself that she would leave advertising and become a writer. Rosenthal more than kept her word; starting in the late 1990s, she regularly published at least a book a year, and sometimes three or four. Rennert said Monday that she had completed seven more picture books before her death, including a collaboration with her daughter, Paris, called \"Dear Girl.\" Rosenthal loved experimenting with different media, and blending the virtual and physical worlds. One of her favorite projects began with a YouTube video, \"17 Things I Made,\" featuring everything from books she had written to her three children to a peanut butter and jelly sandwich. At the end of the video, she welcomed fans to join her at Chicago's Millennium Park, on August 8, 2008, at 8:08 p.m. The goal was to make a \"cool\" 18th thing. Hundreds turned out to \"make\" things - a grand entrance, a new friend, a splash, something pretty. \"I tend to believe whatever you decide to look for you will find, whatever you beckon will eventually beckon you,\" she said during a 2012 TED talk. Her books were equally untraditional. \"Textbook Amy Krouse Rosenthal,\" published in 2016, is divided into chapters named for school subjects, from \"Geography\" to \"Language Arts.\" Subtitled \"Not Exactly a Memoir,\" the book features lists, illustrations, charts, emails and text messages. In a section called \"Midterm Essay,\" Rosenthal reflected on middle age and her youthful passion for life. \"If it is wonderful, splendid, remarkable - a view outside a window, a lit-up fountain at night, that fig-chorizo appetizer - I am compelled to seek some sort of saturation point, to listen/stare/savor on a loop, to greedily keep at it until I've absorbed, absconded with, and drained it of all its magic,\" she wrote \"Invariably, I will have to move on before I have had enough. My first word was 'more.' It may very well be my last.",
+ "document_new": "NEW YORK (AP) -- Amy Krouse Rosenthal, a popular author, filmmaker and speaker who brightened lives with her wide-eyed and generous spirit - and broke hearts when she wrote of being terminally ill and leaving behind her husband Jason - died Monday at age 51. Rosenthal had been diagnosed in 2015 with ovarian cancer. Her death was confirmed to The Associated Press by her longtime literary agent, Amy Rennert, who said Rosenthal \"was the most life-affirming person, and love-affirming person. \" Fellow author John Green tweeted: \"She was a brilliant writer, and an even better friend.\" A Chicago native and longtime resident, Rosenthal completed more than 30 books, including journals, memoirs and the best-selling picture stories \"Uni the Unicorn\" and \"Duck! Rabbit!\" She made short films and YouTube videos, gave TED talks and provided radio commentary for NPR, among others. She also raised three children and had a flair for random acts of kindness, whether hanging dollar bills from a tree or leaving notes on ATM machines. \"I do what feels right to me. If it resonates or plants some seeds, great,\" she told Chicago magazine in 2010. While her books were noted for their exuberant tone, she started a very different conversation early this month with a widely read \"Modern Love\" column she wrote for The New York Times. Rosenthal told of learning about her fatal diagnosis, and, in the form of a dating profile, offered tribute to Jason Brian Rosenthal. The essay was titled, \"You May Want to Marry My Husband.\" \"If you're looking for a dreamy, let's-go-for-it travel companion, Jason is your man. He also has an affinity for tiny things: taster spoons, little jars, a mini-sculpture of a couple sitting on a bench, which he presented to me as a reminder of how our family began,\" she wrote. \"Here is the kind of man Jason is: He showed up at our first pregnancy ultrasound with flowers. This is a man who, because he is always up early, surprises me every Sunday morning by making some kind of oddball smiley face out of items near the coffeepot: a spoon, a mug, a banana. \" \"I am wrapping this up on Valentine's Day, and the most genuine, non-vase-oriented gift I can hope for is that the right person reads this, finds Jason, and another love story begins,\" she added. Rosenthal was a Tufts University graduate who worked in advertising for several years before she had what she called a \"McEpiphany\": She was with her kids at McDonald's when she promised herself that she would leave advertising and become a writer. Rosenthal more than kept her word; starting in the late 1990s, she regularly published at least a book a year, and sometimes three or four. Rennert said Monday that she had completed seven more picture books before her death, including a collaboration with her daughter, Paris, called \"Dear Girl.\" Rosenthal loved experimenting with different media, and blending the virtual and physical worlds. One of her favorite projects began with a YouTube video, \"17 Things I Made,\" featuring everything from books she had written to her three children to a peanut butter and jelly sandwich. At the end of the video, she welcomed fans to join her at Chicago's Millennium Park, on August 8, 2008, at 8:08 p.m. The goal was to make a \"cool\" 18th thing. Hundreds turned out to \"make\" things - a grand entrance, a new friend, a splash, something pretty. \"I tend to believe whatever you decide to look for you will find, whatever you beckon will eventually beckon you,\" she said during a 2012 TED talk. Her books were equally untraditional. \"Textbook Amy Krouse Rosenthal,\" published in 2016, is divided into chapters named for school subjects, from \"Geography\" to \"Language Arts.\" Subtitled \"Not Exactly a Memoir,\" the book features lists, illustrations, charts, emails and text messages. In a section called \"Midterm Essay,\" Rosenthal reflected on middle age and her youthful passion for life. \"If it is wonderful, splendid, remarkable - a view outside a window, a lit-up fountain at night, that fig-chorizo appetizer - I am compelled to seek some sort of saturation point, to listen/stare/savor on a loop, to greedily keep at it until I've absorbed, absconded with, and drained it of all its magic,\" she wrote \"Invariably, I will have to move on before I have had enough. My first word was 'more.' It may very well be my last.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "At least how many books did Rosenthal complete? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "What is the subtitle of Amy Krouse Rosenthal's book? Answer in as few words as possible."
+  }
+ ]
+}

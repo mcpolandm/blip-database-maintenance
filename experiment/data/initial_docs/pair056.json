@@ -1,0 +1,244 @@
+{
+ "pair_id": "ap_3079_1_2",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "BETHLEHEM, West Bank (AP) -- A Palestinian guest house packed with artwork of the elusive British graffiti artist Banksy unveiled itself Friday in the West Bank city of Bethlehem, with a sneak peek of what the owner sarcastically called the \"hotel with the worst view in the world.\" Wisam Salsaa, 42, said the nine-room establishment named \"The Walled Off Hotel\" will officially open on Mar. 11, but he offered a handful of reporters a tour of the hotel looking directly at the West Bank separation barrier erected by Israel to ward off potential Palestinian attackers."
+  },
+  {
+   "blip_idx": 1,
+   "text": "The barrier, which Palestinians consider to be a land grab that stifles their movement, is heavily decorated by artists and Banksy has previously painted several murals on a walled segment of it."
+  },
+  {
+   "blip_idx": 2,
+   "text": "The hotel, several of whose rooms look onto an Israeli security watchtower, is awash in the trademark satirical work of the mysterious artist."
+  },
+  {
+   "blip_idx": 3,
+   "text": "The highlight is room number three, known as \"Banksy's Room,\" where guests sleep in a king-size bed underneath Banksy's artwork showing a Palestinian and an Israeli in a pillow fight."
+  },
+  {
+   "blip_idx": 4,
+   "text": "The hotel also features a presidential suite and a museum with the artist's politically-charged work."
+  },
+  {
+   "blip_idx": 5,
+   "text": "It has the markings of a gentleman's club from the English colonial period."
+  },
+  {
+   "blip_idx": 6,
+   "text": "The entrance to one small niche accommodates a life-size figure of Arthur James Balfour signing his 1917 letter that came to be known as the Balfour declaration, and was the basis for the international push for the creation of Israel."
+  },
+  {
+   "blip_idx": 7,
+   "text": "The cheapest rooms were available from $30 a night."
+  },
+  {
+   "blip_idx": 8,
+   "text": "The whole project took 14 months to complete and was kept under complete secrecy, in accordance with Banksy's request to protect his anonymity."
+  },
+  {
+   "blip_idx": 9,
+   "text": "Salsaa said the entire interior was personally overseen by Banksy, to the very last details."
+  },
+  {
+   "blip_idx": 10,
+   "text": "The hotel is the largest new body of work in years, according to a press release distributed by representatives who attended Friday's tour."
+  },
+  {
+   "blip_idx": 11,
+   "text": "Banksy has made previous forays into the Palestinian territories."
+  },
+  {
+   "blip_idx": 12,
+   "text": "In one secret visit, he drew a painting of a girl pulled upward by balloons on the barrier facing his current project."
+  },
+  {
+   "blip_idx": 13,
+   "text": "Last year, he is believed to have sneaked into Gaza to draw four street murals, including one on a metal door that depicted the Greek goddess Niobe cowering against the rubble of a destroyed house."
+  },
+  {
+   "blip_idx": 14,
+   "text": "The painting, titled \"Bomb Damage,\" was drawn on the last remaining part of a two-story house that was destroyed in the 2014 war between Israel and Gaza's Hamas rulers."
+  },
+  {
+   "blip_idx": 15,
+   "text": "The artist's satirical stencils - rats, kissing policemen, riot police with yellow smiley faces - first appeared on walls in Bristol before spreading to London and then around the world."
+  },
+  {
+   "blip_idx": 16,
+   "text": "His artwork comments on war, child poverty and the environment."
+  },
+  {
+   "blip_idx": 17,
+   "text": "His identity remains a mystery, but his works have fetched as much as $1.8 million at auctions."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.02629462269906204,
+    "dist_new": 0.02629462269906204
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "BETHLEHEM, West Bank (AP) -- A Palestinian guest house packed with artwork of the elusive British graffiti artist Banksy unveiled itself Friday in the West Bank city of Bethlehem, with a sneak peek of what the owner sarcastically called the \"hotel with the worst view in the world.\" Wisam Salsaa, 42, said the nine-room establishment named \"The Walled Off Hotel\" will officially open on Mar. 11, but he offered a handful of reporters a tour of the hotel looking directly at the West Bank separation barrier erected by Israel to ward off potential Palestinian attackers. The barrier, which Palestinians consider to be a land grab that stifles their movement, is heavily decorated by artists and Banksy has previously painted several murals on a walled segment of it. The hotel, several of whose rooms look onto an Israeli security watchtower, is awash in the trademark satirical work of the mysterious artist. The highlight is room number three, known as \"Banksy's Room,\" where guests sleep in a king-size bed underneath Banksy's artwork showing a Palestinian and an Israeli in a pillow fight. The hotel also features a presidential suite and a museum with the artist's politically-charged work. It has the markings of a gentleman's club from the English colonial period. The entrance to one small niche accommodates a life-size figure of Arthur James Balfour signing his 1917 letter that came to be known as the Balfour declaration, and was the basis for the international push for the creation of Israel. The cheapest rooms were available from $30 a night. The whole project took 14 months to complete and was kept under complete secrecy, in accordance with Banksy's request to protect his anonymity. Salsaa said the entire interior was personally overseen by Banksy, to the very last details. The hotel is the largest new body of work in years, according to a press release distributed by representatives who attended Friday's tour. Banksy has made previous forays into the Palestinian territories. In one secret visit, he drew a painting of a girl pulled upward by balloons on the barrier facing his current project. Last year, he is believed to have sneaked into Gaza to draw four street murals, including one on a metal door that depicted the Greek goddess Niobe cowering against the rubble of a destroyed house. The painting, titled \"Bomb Damage,\" was drawn on the last remaining part of a two-story house that was destroyed in the 2014 war between Israel and Gaza's Hamas rulers. The artist's satirical stencils - rats, kissing policemen, riot police with yellow smiley faces - first appeared on walls in Bristol before spreading to London and then around the world. His artwork comments on war, child poverty and the environment. His identity remains a mystery, but his works have fetched as much as $1.8 million at auctions.",
+ "document_new": "BETHLEHEM, West Bank (AP) -- A Palestinian guesthouse packed with artwork of the elusive British graffiti artist Banksy unveiled itself Friday in the West Bank city of Bethlehem, with a sneak peek of what the owner sarcastically called the \"hotel with the worst view in the world.\" Wisam Salsaa, 42, said the nine-room establishment named \"The Walled Off Hotel\" will officially open on Mar. 11, but he offered a handful of reporters a tour of the hotel looking directly at the West Bank separation barrier erected by Israel to ward off potential Palestinian attackers. The barrier, which Palestinians consider to be a land grab that stifles their movement, is heavily decorated by artists and Banksy has previously painted several murals on a walled segment of it. The hotel, several of whose rooms look onto an Israeli security watchtower, is awash in the trademark satirical work of the mysterious artist. The highlight is room number three, known as \"Banksy's Room,\" where guests sleep in a king-size bed underneath Banksy's artwork showing a Palestinian and an Israeli in a pillow fight. The hotel also features a presidential suite and a museum with the artist's politically-charged work. It has the markings of a gentleman's club from the English colonial period. The entrance to one small niche accommodates a life-size figure of Arthur James Balfour signing his 1917 letter that came to be known as the Balfour declaration, and was the basis for the international push for the creation of Israel. The cheapest rooms were available from $30 a night. The whole project took 14 months to complete and was kept under complete secrecy, in accordance with Banksy's request to protect his anonymity. Salsaa said the entire interior was personally overseen by Banksy, to the very last details. The hotel is the largest new body of work in years, according to a press release distributed by representatives who attended Friday's tour. Banksy has made previous forays into the Palestinian territories. In one secret visit, he drew a painting of a girl pulled upward by balloons on the barrier facing his current project. Last year, he is believed to have sneaked into Gaza to draw four street murals, including one on a metal door that depicted the Greek goddess Niobe cowering against the rubble of a destroyed house. The painting, titled \"Bomb Damage,\" was drawn on the last remaining part of a two-story house that was destroyed in the 2014 war between Israel and Gaza's Hamas rulers. The artist's satirical stencils - rats, kissing policemen, riot police with yellow smiley faces - first appeared on walls in Bristol before spreading to London and then around the world. His artwork comments on war, child poverty and the environment. His identity remains a mystery, but his works have fetched as much as $1.8 million at auctions.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What is the name of the hotel? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "What is the highest amount Banksy's works have fetched at auctions? Answer in as few words as possible."
+  }
+ ]
+}

@@ -1,0 +1,388 @@
+{
+ "pair_id": "ap_11246_2_3",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "WASHINGTON (AP) -- President Donald Trump's former national security adviser, Michael Flynn, is revealing a brief advisory role with a firm related to a controversial data analysis company that aided the Trump campaign, The Associated Press has learned."
+  },
+  {
+   "blip_idx": 1,
+   "text": "The disclosure of Flynn's link to Cambridge Analytica will come in an amended public financial filing in which the retired U.S."
+  },
+  {
+   "blip_idx": 2,
+   "text": "Army lieutenant general also discloses income that includes payments from the Trump transition team, according to a person close to Flynn who spoke to AP on condition of anonymity Thursday to describe details of the filing made to the White House."
+  },
+  {
+   "blip_idx": 3,
+   "text": "The amended disclosure shows that just before the end of the campaign, Flynn entered into a consulting agreement with SCL Group, a Virginia-based company related to Cambridge Analytica, the data mining and analysis firm that worked with Trump's campaign."
+  },
+  {
+   "blip_idx": 4,
+   "text": "The person said Flynn didn't perform work or accept payment as part of the agreement with SCL Group."
+  },
+  {
+   "blip_idx": 5,
+   "text": "The details of Flynn's role with SCL weren't fully laid out, the person said, noting that Flynn terminated his involvement shortly after Trump won the presidency."
+  },
+  {
+   "blip_idx": 6,
+   "text": "Cambridge Analytica was heavily funded by the family of Robert Mercer, a hedge fund manager who also backed the campaign and other conservative candidates and causes."
+  },
+  {
+   "blip_idx": 7,
+   "text": "Cambridge Analytica also worked for the successful pro-Brexit campaign in 2016 to pull Britain out of the European Union."
+  },
+  {
+   "blip_idx": 8,
+   "text": "Trump administration chief strategist Steve Bannon was a vice president of Cambridge Analytica before he joined the Trump campaign."
+  },
+  {
+   "blip_idx": 9,
+   "text": "Democratic lawmakers and Trump critics have seized on Cambridge Analytica's role as they've pushed congressional investigators to scrutinize the Trump campaign's data operation as part of probes into Russia's interference in the 2016 election."
+  },
+  {
+   "blip_idx": 10,
+   "text": "Flynn's previous filing, submitted to the White House and Office of Government Ethics in March, listed at least $1.3 million in earnings, including between $50,000 and $100,000 from his consulting company, Flynn Intel Group Inc."
+  },
+  {
+   "blip_idx": 11,
+   "text": "The latest filing lists at least $1.8 million in income."
+  },
+  {
+   "blip_idx": 12,
+   "text": "Flynn's amended filing comes some six months after he was ousted from the White House for misleading the vice president about conversations he had with the former Russian ambassador to the U.S."
+  },
+  {
+   "blip_idx": 13,
+   "text": "It also comes as Special Counsel Robert Mueller and congressional committees are scrutinizing Flynn's business deals and foreign connections."
+  },
+  {
+   "blip_idx": 14,
+   "text": "The person close to Flynn said he is disclosing the information in an amended filing to make sure the \"public record is accurate and transparent.\" The person noted that Flynn and his legal team have spent months piecing together the information necessary for the filing without the assistance of the White House counsel's office or the Office of Government Ethics."
+  },
+  {
+   "blip_idx": 15,
+   "text": "In the filing, Flynn reports earning about $28,000 from the Trump presidential transition and more than $5,000 as a consultant to an aborted plan to build nuclear power plants across the Middle East."
+  },
+  {
+   "blip_idx": 16,
+   "text": "The consulting connection with a group of companies involved in the power plant proposal had been disclosed in Flynn's previous filing, but it had not indicated that he had received payment."
+  },
+  {
+   "blip_idx": 17,
+   "text": "Flynn's new filing also provided more details about his consulting work for NJK Holding Corporation, a firm headed by Iranian-American multi-millionaire Nasser Kazeminy."
+  },
+  {
+   "blip_idx": 18,
+   "text": "The filing shows that Flynn was paid more than $140,000 for his roles as adviser and consultant to Minneapolis-based NJK."
+  },
+  {
+   "blip_idx": 19,
+   "text": "Flynn also served as vice chairman at GreenZone Systems, a tech firm funded by NJK and headed by Bijan Kian, who was Flynn's business partner in Flynn Intel Group, a consulting firm that was active last year but is now defunct."
+  },
+  {
+   "blip_idx": 20,
+   "text": "Flynn Intel is now under scrutiny by federal authorities and congressional investigators for its role in research and lobbying work for a Turkish businessman tied to the government of Turkey."
+  },
+  {
+   "blip_idx": 21,
+   "text": "In a statement to the AP, NJK said Flynn \"played an advisory role to NJK Holding relative to its investment interests in security.\" The firm added that in his roles with NJK and GreenZone, Flynn \"provided his counsel and guidance on public sector business opportunities for secure communications technology within the U.S."
+  },
+  {
+   "blip_idx": 22,
+   "text": "Department of Defense\" and with other agencies."
+  },
+  {
+   "blip_idx": 23,
+   "text": "NJK said Kian has no current involvement with NJK or GreenZone."
+  },
+  {
+   "blip_idx": 24,
+   "text": "Earlier Thursday, Rep."
+  },
+  {
+   "blip_idx": 25,
+   "text": "Elijah Cummings, D-Md."
+  },
+  {
+   "blip_idx": 26,
+   "text": ", the ranking Democrat on the House Committee on Oversight and Government Reform, asked Kian for documents detailing Flynn's foreign business contacts and travel."
+  },
+  {
+   "blip_idx": 27,
+   "text": "Flynn listed Kian as a personal reference in 2016 during his effort to renew his military security clearance."
+  },
+  {
+   "blip_idx": 28,
+   "text": "Kian told military investigators that Flynn had several foreign business contacts, but Flynn did not provide any of those contacts to investigators, Cummings said."
+  },
+  {
+   "blip_idx": 29,
+   "text": "--- Follow Chad Day on Twitter: https://twitter.com/ChadSDay"
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.13717976717830954,
+    "dist_new": 0.13717976717830954
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 28,
+    "new": 28,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 29,
+    "new": 29,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "WASHINGTON (AP) -- President Donald Trump's former national security adviser, Michael Flynn, is revealing a brief advisory role with a firm related to a controversial data analysis company that aided the Trump campaign, The Associated Press has learned. The disclosure of Flynn's link to Cambridge Analytica will come in an amended public financial filing in which the retired U.S. Army lieutenant general also discloses income that includes payments from the Trump transition team, according to a person close to Flynn who spoke to AP on condition of anonymity Thursday to describe details of the filing made to the White House. The amended disclosure shows that just before the end of the campaign, Flynn entered into a consulting agreement with SCL Group, a Virginia-based company related to Cambridge Analytica, the data mining and analysis firm that worked with Trump's campaign. The person said Flynn didn't perform work or accept payment as part of the agreement with SCL Group. The details of Flynn's role with SCL weren't fully laid out, the person said, noting that Flynn terminated his involvement shortly after Trump won the presidency. Cambridge Analytica was heavily funded by the family of Robert Mercer, a hedge fund manager who also backed the campaign and other conservative candidates and causes. Cambridge Analytica also worked for the successful pro-Brexit campaign in 2016 to pull Britain out of the European Union. Trump administration chief strategist Steve Bannon was a vice president of Cambridge Analytica before he joined the Trump campaign. Democratic lawmakers and Trump critics have seized on Cambridge Analytica's role as they've pushed congressional investigators to scrutinize the Trump campaign's data operation as part of probes into Russia's interference in the 2016 election. Flynn's previous filing, submitted to the White House and Office of Government Ethics in March, listed at least $1.3 million in earnings, including between $50,000 and $100,000 from his consulting company, Flynn Intel Group Inc. The latest filing lists at least $1.8 million in income. Flynn's amended filing comes some six months after he was ousted from the White House for misleading the vice president about conversations he had with the former Russian ambassador to the U.S. It also comes as Special Counsel Robert Mueller and congressional committees are scrutinizing Flynn's business deals and foreign connections. The person close to Flynn said he is disclosing the information in an amended filing to make sure the \"public record is accurate and transparent.\" The person noted that Flynn and his legal team have spent months piecing together the information necessary for the filing without the assistance of the White House counsel's office or the Office of Government Ethics. In the filing, Flynn reports earning about $28,000 from the Trump presidential transition and more than $5,000 as a consultant to an aborted plan to build nuclear power plants across the Middle East. The consulting connection with a group of companies involved in the power plant proposal had been disclosed in Flynn's previous filing, but it had not indicated that he had received payment. Flynn's new filing also provided more details about his consulting work for NJK Holding Corporation, a firm headed by Iranian-American multi-millionaire Nasser Kazeminy. The filing shows that Flynn was paid more than $140,000 for his roles as adviser and consultant to Minneapolis-based NJK. Flynn also served as vice chairman at GreenZone Systems, a tech firm funded by NJK and headed by Bijan Kian, who was Flynn's business partner in Flynn Intel Group, a consulting firm that was active last year but is now defunct. Flynn Intel is now under scrutiny by federal authorities and congressional investigators for its role in research and lobbying work for a Turkish businessman tied to the government of Turkey. In a statement to the AP, NJK said Flynn \"played an advisory role to NJK Holding relative to its investment interests in security.\" The firm added that in his roles with NJK and GreenZone, Flynn \"provided his counsel and guidance on public sector business opportunities for secure communications technology within the U.S. Department of Defense\" and with other agencies. NJK said Kian has no current involvement with NJK or GreenZone. Earlier Thursday, Rep. Elijah Cummings, D-Md. , the ranking Democrat on the House Committee on Oversight and Government Reform, asked Kian for documents detailing Flynn's foreign business contacts and travel. Flynn listed Kian as a personal reference in 2016 during his effort to renew his military security clearance. Kian told military investigators that Flynn had several foreign business contacts, but Flynn did not provide any of those contacts to investigators, Cummings said. --- Follow Chad Day on Twitter: https://twitter.com/ChadSDay",
+ "document_new": "WASHINGTON (AP) -- President Donald Trump's former national security adviser, Michael Flynn, is revealing a brief advisory role with a firm related to a controversial data analysis company that aided the Trump campaign, The Associated Press has learned. The disclosure of Flynn's link to Cambridge Analytica will come in an amended public financial filing in which the retired U.S. Army lieutenant general also discloses income that includes payments from the Trump transition team, according to a person close to Flynn who spoke to AP on condition of anonymity Thursday to describe details of the filing made to the White House. The amended disclosure shows that just before the end of the campaign, Flynn entered into a consulting agreement with SCL Group, a Virginia-based company related to Cambridge Analytica, the data mining and analysis firm that worked with Trump's campaign. The person said Flynn didn't perform work or accept payment as part of the agreement with SCL Group. The details of Flynn's role with SCL weren't fully laid out, the person said, noting that Flynn terminated his involvement shortly after Trump won the presidency. Cambridge Analytica was heavily funded by the family of Robert Mercer, a hedge fund manager who also backed the campaign and other conservative candidates and causes. Cambridge Analytica also worked for the successful pro-Brexit campaign in 2016 to pull Britain out of the European Union. Trump administration chief strategist Steve Bannon was a vice president of Cambridge Analytica before he joined the Trump campaign. Democratic lawmakers and Trump critics have seized on Cambridge Analytica's role as they've pushed congressional investigators to scrutinize the Trump campaign's data operation as part of probes into Russia's interference in the 2016 election. Flynn's previous filing, submitted to the White House and Office of Government Ethics in March, listed at least $1.3 million in earnings, including between $50,000 and $100,000 from his consulting company, Flynn Intel Group Inc. The latest filing lists at least $1.8 million in income. Flynn's amended filing comes some six months after he was ousted from the White House for misleading the vice president about conversations he had with the then-Russian ambassador to the U.S. It also comes as Special Counsel Robert Mueller and congressional committees are scrutinizing Flynn's business deals and foreign connections. The person close to Flynn said he is disclosing the information in an amended filing to make sure the \"public record is accurate and transparent.\" The person noted that Flynn and his legal team have spent months piecing together the information necessary for the filing without the assistance of the White House counsel's office or the Office of Government Ethics. In the filing, Flynn reports earning about $28,000 from the Trump presidential transition and more than $5,000 as a consultant to an aborted plan to build nuclear power plants across the Middle East. The consulting connection with a group of companies involved in the power plant proposal had been disclosed in Flynn's previous filing, but it had not indicated that he had received payment. Flynn's new filing also provided more details about his consulting work for NJK Holding Corporation, a firm headed by Iranian-American multi-millionaire Nasser Kazeminy. The filing shows that Flynn was paid more than $140,000 for his roles as adviser and consultant to Minneapolis-based NJK. Flynn also served as vice chairman at GreenZone Systems, a tech firm funded by NJK and headed by Bijan Kian, who was Flynn's business partner in Flynn Intel Group, a consulting firm that was active last year but is now defunct. Flynn Intel is now under scrutiny by federal authorities and congressional investigators for its role in research and lobbying work for a Turkish businessman tied to the government of Turkey. In a statement to the AP, NJK said Flynn \"played an advisory role to NJK Holding relative to its investment interests in security.\" The firm added that in his roles with NJK and GreenZone, Flynn \"provided his counsel and guidance on public sector business opportunities for secure communications technology within the U.S. Department of Defense\" and with other agencies. NJK said Kian has no current involvement with NJK or GreenZone. Earlier Thursday, Rep. Elijah Cummings, D-Md. , the ranking Democrat on the House Committee on Oversight and Government Reform, asked Kian for documents detailing Flynn's foreign business contacts and travel. Flynn listed Kian as a personal reference in 2016 during his effort to renew his military security clearance. Kian told military investigators that Flynn had several foreign business contacts, but Flynn did not provide any of those contacts to investigators, Cummings said. --- Follow Chad Day on Twitter: https://twitter.com/ChadSDay",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What was the position of the Russian diplomat Flynn spoke to? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "Who did Flynn list as a personal reference in 2016? Answer in as few words as possible."
+  }
+ ]
+}

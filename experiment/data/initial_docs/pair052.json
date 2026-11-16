@@ -1,0 +1,467 @@
+{
+ "pair_id": "ap_14645_2_3",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "SANTA MONICA, Calif."
+  },
+  {
+   "blip_idx": 1,
+   "text": "(AP) -- It was a good night for women at the Critics' Choice Award, which honored women-centered stories like \"Big Little Lies,\" ''The Handmaid's Tale\" and \"The Marvelous Mrs."
+  },
+  {
+   "blip_idx": 2,
+   "text": "Maisel."
+  },
+  {
+   "blip_idx": 3,
+   "text": "\" ''Wonder Woman\" was named best action movie and star Gal Gadot accepted a special award for challenging gender stereotypes."
+  },
+  {
+   "blip_idx": 4,
+   "text": "Yet the industry's ongoing sexual misconduct crisis remained an element of the ceremony as James Franco won an acting award early in the evening, hours after a report detailed new misconduct allegations against \"The Disaster Artist\" star and director."
+  },
+  {
+   "blip_idx": 5,
+   "text": "Franco did not attend Thursday's presentation at the Barker Hangar in Santa Monica, California, and his award was presented during a pre-telecast section broadcast only online."
+  },
+  {
+   "blip_idx": 6,
+   "text": "Franco won a similar award at the Golden Globes earlier in the week, where most women dressed in black to protest sexual harassment."
+  },
+  {
+   "blip_idx": 7,
+   "text": "More women dressed in color on Thursday, but their determination to end gender discrimination remained just as fierce."
+  },
+  {
+   "blip_idx": 8,
+   "text": "\"I want to share this award with all the women and men who stand for what's right, standing for those who can't stand or speak for themselves,\" Gadot said as she accepted the second annual #SeeHer award."
+  },
+  {
+   "blip_idx": 9,
+   "text": "\"My promise to you is: I will never be silenced."
+  },
+  {
+   "blip_idx": 10,
+   "text": "We will continue to band together to make strides, uniting for equality."
+  },
+  {
+   "blip_idx": 11,
+   "text": "\" Guillermo del Toro's fantasy romance, \"The Shape of Water,\" was the top film winner with four awards."
+  },
+  {
+   "blip_idx": 12,
+   "text": "Del Toro, who was also named best director, closed the show Thursday night by shouting that he's always believed in the equality of women."
+  },
+  {
+   "blip_idx": 13,
+   "text": "\"Let me tell you one thing, if you don't do that, you don't know what you're missing,\" he said."
+  },
+  {
+   "blip_idx": 14,
+   "text": "\"The Shape of Water,\" which led all nominees with 14 bids, also claimed the best picture prize, along with score and production design honors."
+  },
+  {
+   "blip_idx": 15,
+   "text": "Olivia Munn hosted the dinner ceremony, which was broadcast live on the CW network."
+  },
+  {
+   "blip_idx": 16,
+   "text": "The actress, who has spoken publicly about her own experiences with sexual misconduct in the entertainment industry, led the audience in a toast."
+  },
+  {
+   "blip_idx": 17,
+   "text": "Joined by actress Niecey Nash, they raised a glass \"to all the good guys in Hollywood,\" who held meetings in conference rooms rather than hotel rooms."
+  },
+  {
+   "blip_idx": 18,
+   "text": "\"Congratulations for doing what you're supposed to do!\" Nash said."
+  },
+  {
+   "blip_idx": 19,
+   "text": "\"Big Little Lies\" received four awards: best limited series, as well as acting honors for Nicole Kidman, Alexander Skarsgard and Laura Dern."
+  },
+  {
+   "blip_idx": 20,
+   "text": "Kidman thanked the entertainment community \"who show up to make really fantastic films and TV and let us do what we love.\" \"I love being an actor,\" said the 50-year-old Oscar winner."
+  },
+  {
+   "blip_idx": 21,
+   "text": "\"Thank you for letting me do it all the way through to this age and beyond.\" Stories about women also won in comedy categories."
+  },
+  {
+   "blip_idx": 22,
+   "text": "\"The Marvelous Mrs. Maisel\" was named best comedy series, and star Rachel Brosnahan won best actress in a comedy."
+  },
+  {
+   "blip_idx": 23,
+   "text": "As she accepted her award, Brosnahan noted that even though women aren't wearing black like most did at the Golden Globe Awards earlier in the week, she said the fight to eradicate sexual harassment continues."
+  },
+  {
+   "blip_idx": 24,
+   "text": "\"Let's not lose focus,\" she said, urging viewers to support the Time's Up initiative."
+  },
+  {
+   "blip_idx": 25,
+   "text": "\"Let's keep this going."
+  },
+  {
+   "blip_idx": 26,
+   "text": "\" Presenter Chris Hemsworth noted that women have had a stellar year at the box office."
+  },
+  {
+   "blip_idx": 27,
+   "text": "\"The three biggest movies of 2017 in North America were 'Star Wars: The Last Jedi,' 'Beauty and the Beast' and 'Wonder Woman,'\" which all feature female protagonists, he said."
+  },
+  {
+   "blip_idx": 28,
+   "text": "\"The biggest comedy was a female ensemble, 'Girls Trip,' and the biggest independent movie was written and directed by Greta Gerwig."
+  },
+  {
+   "blip_idx": 29,
+   "text": "\" Hemsworth presented the best actress award to an absent Frances McDormand for \"Three Billboards Outside Ebbing, Missouri.\" The film also won for acting ensemble and supporting actor for Sam Rockwell."
+  },
+  {
+   "blip_idx": 30,
+   "text": "Double winners Thursday included \"I, Tonya,\" ''Darkest Hour,\" ''Get Out\" and \"Coco."
+  },
+  {
+   "blip_idx": 31,
+   "text": "\" \"I, Tonya\" brought acting accolades for star Margot Robbie and supporting actress Allison Janney."
+  },
+  {
+   "blip_idx": 32,
+   "text": "\"Darkest Hour\" won awards for makeup and lead actor for Gary Oldman."
+  },
+  {
+   "blip_idx": 33,
+   "text": "\"Get Out\" was named best sci-fi or horror film, and writer-director Jordan Peele claimed original screenplay honors."
+  },
+  {
+   "blip_idx": 34,
+   "text": "\"Coco\" won animated feature and original song for \"Remember Me.\" Many Critics' Choice Awards winners also took home Golden Globes, including McDormand, Rockwell, Oldman, Brosnahan and the stars of \"Big Little Lies.\" Hollywood's awards season continues through March 4, when the Academy Awards are presented."
+  },
+  {
+   "blip_idx": 35,
+   "text": "--- Follow AP Entertainment Writer Sandy Cohen at www.twitter.com/APSandy ."
+  },
+  {
+   "blip_idx": 36,
+   "text": "--- This story has been corrected to reflect that the Academy Awards are on March 4. --- For full coverage of awards season, visit: https://apnews.com/tag/AwardsSeason"
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.05826757570232919,
+    "dist_new": 0.0582675757023292
+   },
+   {
+    "old": 33,
+    "new": 33,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 28,
+    "new": 28,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 36,
+    "new": 36,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 30,
+    "new": 30,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 35,
+    "new": 35,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 31,
+    "new": 31,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 34,
+    "new": 34,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 29,
+    "new": 29,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 32,
+    "new": 32,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "SANTA MONICA, Calif. (AP) -- It was a good night for women at the Critics' Choice Award, which honored women-centered stories like \"Big Little Lies,\" ''The Handmaid's Tale\" and \"The Marvelous Mrs. Maisel. \" ''Wonder Woman\" was named best action movie and star Gal Gadot accepted a special award for challenging gender stereotypes. Yet the industry's ongoing sexual misconduct crisis remained an element of the ceremony as James Franco won an acting award early in the evening, hours after a report detailed new misconduct allegations against \"The Disaster Artist\" star and director. Franco did not attend Thursday's presentation at the Barker Hangar in Santa Monica, California, and his award was presented during a pre-telecast section broadcast only online. Franco won a similar award at the Golden Globes earlier in the week, where most women dressed in black to protest sexual harassment. More women dressed in color on Thursday, but their determination to end gender discrimination remained just as fierce. \"I want to share this award with all the women and men who stand for what's right, standing for those who can't stand or speak for themselves,\" Gadot said as she accepted the second annual #SeeHer award. \"My promise to you is: I will never be silenced. We will continue to band together to make strides, uniting for equality. \" Guillermo del Toro's fantasy romance, \"The Shape of Water,\" was the top film winner with four awards. Del Toro, who was also named best director, closed the show Thursday night by shouting that he's always believed in the equality of women. \"Let me tell you one thing, if you don't do that, you don't know what you're missing,\" he said. \"The Shape of Water,\" which led all nominees with 14 bids, also claimed the best picture prize, along with score and production design honors. Olivia Munn hosted the dinner ceremony, which was broadcast live on the CW network. The actress, who has spoken publicly about her own experiences with sexual misconduct in the entertainment industry, led the audience in a toast. Joined by actress Niecey Nash, they raised a glass \"to all the good guys in Hollywood,\" who held meetings in conference rooms rather than hotel rooms. \"Congratulations for doing what you're supposed to do!\" Nash said. \"Big Little Lies\" received four awards: best limited series, as well as acting honors for Nicole Kidman, Alexander Skarsgard and Laura Dern. Kidman thanked the entertainment community \"who show up to make really fantastic films and TV and let us do what we love.\" \"I love being an actor,\" said the 50-year-old Oscar winner. \"Thank you for letting me do it all the way through to this age and beyond.\" Stories about women also won in comedy categories. \"The Marvelous Mrs. Maisel\" was named best comedy series, and star Rachel Brosnahan won best actress in a comedy. As she accepted her award, Brosnahan noted that even though women aren't wearing black like most did at the Golden Globe Awards earlier in the week, she said the fight to eradicate sexual harassment continues. \"Let's not lose focus,\" she said, urging viewers to support the Time's Up initiative. \"Let's keep this going. \" Presenter Chris Hemsworth noted that women have had a stellar year at the box office. \"The three biggest movies of 2017 in North America were 'Star Wars: The Last Jedi,' 'Beauty and the Beast' and 'Wonder Woman,'\" which all feature female protagonists, he said. \"The biggest comedy was a female ensemble, 'Girls Trip,' and the biggest independent movie was written and directed by Greta Gerwig. \" Hemsworth presented the best actress award to an absent Frances McDormand for \"Three Billboards Outside Ebbing, Missouri.\" The film also won for acting ensemble and supporting actor for Sam Rockwell. Double winners Thursday included \"I, Tonya,\" ''Darkest Hour,\" ''Get Out\" and \"Coco. \" \"I, Tonya\" brought acting accolades for star Margot Robbie and supporting actress Allison Janney. \"Darkest Hour\" won awards for makeup and lead actor for Gary Oldman. \"Get Out\" was named best sci-fi or horror film, and writer-director Jordan Peele claimed original screenplay honors. \"Coco\" won animated feature and original song for \"Remember Me.\" Many Critics' Choice Awards winners also took home Golden Globes, including McDormand, Rockwell, Oldman, Brosnahan and the stars of \"Big Little Lies.\" Hollywood's awards season continues through March 4, when the Academy Awards are presented. --- Follow AP Entertainment Writer Sandy Cohen at www.twitter.com/APSandy . --- This story has been corrected to reflect that the Academy Awards are on March 4. --- For full coverage of awards season, visit: https://apnews.com/tag/AwardsSeason",
+ "document_new": "SANTA MONICA, Calif. (AP) -- It was a good night for women at the Critics' Choice Awards, which honored women-centered stories like \"Big Little Lies,\" ''The Handmaid's Tale\" and \"The Marvelous Mrs. Maisel. \" ''Wonder Woman\" was named best action movie and star Gal Gadot accepted a special award for challenging gender stereotypes. Yet the industry's ongoing sexual misconduct crisis remained an element of the ceremony as James Franco won an acting award early in the evening, hours after a report detailed new misconduct allegations against \"The Disaster Artist\" star and director. Franco did not attend Thursday's presentation at the Barker Hangar in Santa Monica, California, and his award was presented during a pre-telecast section broadcast only online. Franco won a similar award at the Golden Globes earlier in the week, where most women dressed in black to protest sexual harassment. More women dressed in color on Thursday, but their determination to end gender discrimination remained just as fierce. \"I want to share this award with all the women and men who stand for what's right, standing for those who can't stand or speak for themselves,\" Gadot said as she accepted the second annual #SeeHer award. \"My promise to you is: I will never be silenced. We will continue to band together to make strides, uniting for equality. \" Guillermo del Toro's fantasy romance, \"The Shape of Water,\" was the top film winner with four awards. Del Toro, who was also named best director, closed the show Thursday night by shouting that he's always believed in the equality of women. \"Let me tell you one thing, if you don't do that, you don't know what you're missing,\" he said. \"The Shape of Water,\" which led all nominees with 14 bids, also claimed the best picture prize, along with score and production design honors. Olivia Munn hosted the dinner ceremony, which was broadcast live on the CW network. The actress, who has spoken publicly about her own experiences with sexual misconduct in the entertainment industry, led the audience in a toast. Joined by actress Niecey Nash, they raised a glass \"to all the good guys in Hollywood,\" who held meetings in conference rooms rather than hotel rooms. \"Congratulations for doing what you're supposed to do!\" Nash said. \"Big Little Lies\" received four awards: best limited series, as well as acting honors for Nicole Kidman, Alexander Skarsgard and Laura Dern. Kidman thanked the entertainment community \"who show up to make really fantastic films and TV and let us do what we love.\" \"I love being an actor,\" said the 50-year-old Oscar winner. \"Thank you for letting me do it all the way through to this age and beyond.\" Stories about women also won in comedy categories. \"The Marvelous Mrs. Maisel\" was named best comedy series, and star Rachel Brosnahan won best actress in a comedy. As she accepted her award, Brosnahan noted that even though women aren't wearing black like most did at the Golden Globe Awards earlier in the week, she said the fight to eradicate sexual harassment continues. \"Let's not lose focus,\" she said, urging viewers to support the Time's Up initiative. \"Let's keep this going. \" Presenter Chris Hemsworth noted that women have had a stellar year at the box office. \"The three biggest movies of 2017 in North America were 'Star Wars: The Last Jedi,' 'Beauty and the Beast' and 'Wonder Woman,'\" which all feature female protagonists, he said. \"The biggest comedy was a female ensemble, 'Girls Trip,' and the biggest independent movie was written and directed by Greta Gerwig. \" Hemsworth presented the best actress award to an absent Frances McDormand for \"Three Billboards Outside Ebbing, Missouri.\" The film also won for acting ensemble and supporting actor for Sam Rockwell. Double winners Thursday included \"I, Tonya,\" ''Darkest Hour,\" ''Get Out\" and \"Coco. \" \"I, Tonya\" brought acting accolades for star Margot Robbie and supporting actress Allison Janney. \"Darkest Hour\" won awards for makeup and lead actor for Gary Oldman. \"Get Out\" was named best sci-fi or horror film, and writer-director Jordan Peele claimed original screenplay honors. \"Coco\" won animated feature and original song for \"Remember Me.\" Many Critics' Choice Awards winners also took home Golden Globes, including McDormand, Rockwell, Oldman, Brosnahan and the stars of \"Big Little Lies.\" Hollywood's awards season continues through March 4, when the Academy Awards are presented. --- Follow AP Entertainment Writer Sandy Cohen at www.twitter.com/APSandy . --- This story has been corrected to reflect that the Academy Awards are on March 4. --- For full coverage of awards season, visit: https://apnews.com/tag/AwardsSeason",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What event honored women-centered stories? Answer in as few words as possible."
+  }
+ ]
+}

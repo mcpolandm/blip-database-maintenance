@@ -1,0 +1,215 @@
+{
+ "pair_id": "ap_2006_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "SKARAMANGAS, Greece (AP) -- Soccer fans of a certain age may still remember Antonis Nikopolidis for his resemblance to American actor George Clooney and as the goalkeeper who helped Greece become surprise European Champions in 2004. Now the country's national youth team coach, Nikopolidis is helping refugees stranded in Greece regain a sense of purpose."
+  },
+  {
+   "blip_idx": 1,
+   "text": "The soccer team he helped build, named Hope (Elpida in Greek), is made up of players who fled warzones in Syria, Yemen, Iraq and Afghanistan."
+  },
+  {
+   "blip_idx": 2,
+   "text": "Most of Hope's players live in Skaramangas, an industrial zone west of Athens where metal containers have been turned into shoebox-shaped homes."
+  },
+  {
+   "blip_idx": 3,
+   "text": "They compete in an amateur league on Sundays, facing teams made up of lawyers, telecom workers and accountants."
+  },
+  {
+   "blip_idx": 4,
+   "text": "Nikopolidis, a soft-spoken 46-year-old whose hair has turned silver in retirement, says team practices and matches provide a welcome distraction for young men facing uncertain futures in the European Union's slow-moving relocation program."
+  },
+  {
+   "blip_idx": 5,
+   "text": "\"We're helping people who are at a difficult moment in their lives,\" he said. \"They are guests in our country, and we are trying with this team to give them a few hours of happiness."
+  },
+  {
+   "blip_idx": 6,
+   "text": "\" Soccer is the main source of entertainment for many of the 60,000 refugees and economic migrants living in camps around Greece while they wait for asylum applications to be processed and a possible move elsewhere in Europe."
+  },
+  {
+   "blip_idx": 7,
+   "text": "\"You have to spend your time (doing something) because it's very boring,\" Hozaifa Hajdepo, 23, a Hope player from Syria, said. \"If you stay in your home and you don't have work, you will be like - you will die."
+  },
+  {
+   "blip_idx": 8,
+   "text": "\" The Union of European Football Associations, the governing body for soccer in Europe, has awarded grants to assist refugees in 15 countries."
+  },
+  {
+   "blip_idx": 9,
+   "text": "Some of the money that went to Greece is being used to sponsor Nikopolidis' team."
+  },
+  {
+   "blip_idx": 10,
+   "text": "Nearly 9,000 refugees have been moved from Greece to other European Union countries, and the coach already has lost several players."
+  },
+  {
+   "blip_idx": 11,
+   "text": "But with the pace of relocations still at just over half the target rate, most of the team expects to be in Greece for a while."
+  },
+  {
+   "blip_idx": 12,
+   "text": "\"It's a joy for me to do this,\" Nikopolidis said. \"The main thing is that they enjoy it, that they have fun ..."
+  },
+  {
+   "blip_idx": 13,
+   "text": "We have created a group of friends, with bonds of friendship, a family."
+  },
+  {
+   "blip_idx": 14,
+   "text": "\" --- Theodora Tongas and Srdjan Nedeljkovic in Athens contributed."
+  },
+  {
+   "blip_idx": 15,
+   "text": "Follow Stavrakis at http://www.twitter.com/TStavrak and Gatopoulos at http://www.twitter.com/dgatopoulos"
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.2336391485204776,
+    "dist_new": 0.2336391485204776
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "SKARAMANGAS, Greece (AP) -- Soccer fans of a certain age may still remember Antonis Nikopolidis for his resemblance to American actor George Clooney and as the goalkeeper who helped Greece become surprise European Champions in 2004. Now the country's national youth team coach, Nikopolidis is helping refugees stranded in Greece regain a sense of purpose. The soccer team he helped build, named Hope (Elpida in Greek), is made up of players who fled warzones in Syria, Yemen, Iraq and Afghanistan. Most of Hope's players live in Skaramangas, an industrial zone west of Athens where metal containers have been turned into shoebox-shaped homes. They compete in an amateur league on Sundays, facing teams made up of lawyers, telecom workers and accountants. Nikopolidis, a soft-spoken 46-year-old whose hair has turned silver in retirement, says team practices and matches provide a welcome distraction for young men facing uncertain futures in the European Union's slow-moving relocation program. \"We're helping people who are at a difficult moment in their lives,\" he said. \"They are guests in our country, and we are trying with this team to give them a few hours of happiness. \" Soccer is the main source of entertainment for many of the 60,000 refugees and economic migrants living in camps around Greece while they wait for asylum applications to be processed and a possible move elsewhere in Europe. \"You have to spend your time (doing something) because it's very boring,\" Hozaifa Hajdepo, 23, a Hope player from Syria, said. \"If you stay in your home and you don't have work, you will be like - you will die. \" The Union of European Football Associations, the governing body for soccer in Europe, has awarded grants to assist refugees in 15 countries. Some of the money that went to Greece is being used to sponsor Nikopolidis' team. Nearly 9,000 refugees have been moved from Greece to other European Union countries, and the coach already has lost several players. But with the pace of relocations still at just over half the target rate, most of the team expects to be in Greece for a while. \"It's a joy for me to do this,\" Nikopolidis said. \"The main thing is that they enjoy it, that they have fun ... We have created a group of friends, with bonds of friendship, a family. \" --- Theodora Tongas and Srdjan Nedeljkovic in Athens contributed. Follow Stavrakis at http://www.twitter.com/TStavrak and Gatopoulos at http://www.twitter.com/dgatopoulos",
+ "document_new": "SKARAMANGAS, Greece (AP) -- Soccer fans of a certain age may still remember Antonis Nikopolidis for his resemblance to American actor George Clooney and as the goalkeeper who helped Greece become surprise European Champions in 2004. Now the country's national youth team coach, Nikopolidis is helping refugees stranded in Greece regain a sense of purpose. The soccer team he helped build, named Hope (Elpida in Greek), is made up of players who fled warzones in Syria, Yemen, Iraq and Afghanistan. Most of Hope's players live in Skaramangas, an industrial zone west of Athens where metal containers have been turned into shoebox-shaped homes. They compete in an amateur league on Sundays, facing teams made up of lawyers, telecom workers and accountants. Nikopolidis, a soft-spoken 46-year-old whose hair has turned silver in retirement, says team practices and matches provide a welcome distraction for young men facing uncertain futures in the European Union's slow-moving relocation program. \"We're helping people who are at a difficult moment in their lives,\" he said. \"They are guests in our country, and we are trying with this team to give them a few hours of happiness. \" Soccer is the main source of entertainment for many of the 60,000 refugees and economic migrants living in camps around Greece while they wait for asylum applications to be processed and a possible move elsewhere in Europe. \"You have to spend your time (doing something) because it's very boring,\" Hozaifa Hajdepo, 23, a Hope player from Syria, said. \"If you stay in your home and you don't have work, you will be like - you will die. \" The Union of European Football Associations, the governing body for soccer in Europe, has awarded grants to assist refugees in 15 countries. Some of the money that went to Greece is being used to sponsor Nikopolidis' team, together with a Greek charity called Organization Earth . Nearly 9,000 refugees have been moved from Greece to other European Union countries, and the coach already has lost several players. But with the pace of relocations still at just over half the target rate, most of the team expects to be in Greece for a while. \"It's a joy for me to do this,\" Nikopolidis said. \"The main thing is that they enjoy it, that they have fun ... We have created a group of friends, with bonds of friendship, a family. \" --- Theodora Tongas and Srdjan Nedeljkovic in Athens contributed. Follow Stavrakis at http://www.twitter.com/TStavrak and Gatopoulos at http://www.twitter.com/dgatopoulos",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "How old is Nikopolidis? Answer in as few words as possible."
+  }
+ ]
+}

@@ -1,0 +1,444 @@
+{
+ "pair_id": "ap_2962_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "WASHINGTON (AP) -- Most mornings, President Donald Trump gathers business leaders, union executives or others at the White House for made-for-television meetings meant to project the image of a can-do chief executive."
+  },
+  {
+   "blip_idx": 1,
+   "text": "Trump sits at the center of one of the White House's ornate meeting rooms, offers brief remarks and invites assembled journalists to stick around to hear his guests praise his plans."
+  },
+  {
+   "blip_idx": 2,
+   "text": "Few tangible policy decisions emerge from the listening sessions."
+  },
+  {
+   "blip_idx": 3,
+   "text": "But the public parts of the meeting are carried in full on cable television, underscoring the ways in which an unconventional new president is using the traditional trappings of the office to his advantage."
+  },
+  {
+   "blip_idx": 4,
+   "text": "Playing the role of president is a crucial skill that doesn't always come easily to Oval Office occupants."
+  },
+  {
+   "blip_idx": 5,
+   "text": "The theater of the presidency can't fully mask policy fumbles or awkward disputes, but it can shape the way in which a commander in chief is perceived by the public and can help keep anxious political allies in line."
+  },
+  {
+   "blip_idx": 6,
+   "text": "That was particularly evident Tuesday night, when Trump delivered his first address to a joint session of Congress."
+  },
+  {
+   "blip_idx": 7,
+   "text": "The new president stepped into the House chamber with historically low public approval ratings after a turbulent start to his administration."
+  },
+  {
+   "blip_idx": 8,
+   "text": "Some Republicans are growing weary of his refusal - or inability - to stop hurling personal insults and his seeming unwillingness to focus on the GOP's ambitious domestic policy agenda."
+  },
+  {
+   "blip_idx": 9,
+   "text": "Trump responded by embracing both the traditional pomp and decorum of a presidential address."
+  },
+  {
+   "blip_idx": 10,
+   "text": "He delivered a restrained and largely optimistic speech, rarely veering off script."
+  },
+  {
+   "blip_idx": 11,
+   "text": "In an emotional high point, he singled out the widow of a fallen Navy SEAL who was sitting in the guest box and joined lawmakers in sustained applause for her husband's sacrifice."
+  },
+  {
+   "blip_idx": 12,
+   "text": "Republicans swooned."
+  },
+  {
+   "blip_idx": 13,
+   "text": "\"You saw an outsider last night sort of hit his stride,\" declared Sen."
+  },
+  {
+   "blip_idx": 14,
+   "text": "David Perdue of Georgia."
+  },
+  {
+   "blip_idx": 15,
+   "text": "Former Minnesota Gov."
+  },
+  {
+   "blip_idx": 16,
+   "text": "Tim Pawlenty called the address \"less Mad Max and more Ronald Reagan.\" \"It buys him some good will and some time to fill out more positions and the roadmap of where they want to go,\" Pawlenty said."
+  },
+  {
+   "blip_idx": 17,
+   "text": "To the president's critics, it was a frustrating reminder that Trump is often judged by a different standard and praised for stylistic shifts that rarely stick."
+  },
+  {
+   "blip_idx": 18,
+   "text": "\"For all the past talk of pivots that never happened, the reality is he's going to benefit like last night from the trappings of the presidency,\" said Brian Fallon, a former top communications aide to Hillary Clinton's campaign."
+  },
+  {
+   "blip_idx": 19,
+   "text": "The White House moved swiftly Wednesday to keep a good moment going."
+  },
+  {
+   "blip_idx": 20,
+   "text": "Plans to follow Trump's speech with the signing of a revamped, yet still controversial, travel ban executive order were delayed, so the administration avoided trampling on the looping highlight reel of Trump's speech on cable television."
+  },
+  {
+   "blip_idx": 21,
+   "text": "Press secretary Sean Spicer's daily briefing, which has become a must-watch television event, was switched to an off-camera gaggle."
+  },
+  {
+   "blip_idx": 22,
+   "text": "One of the surprising paradoxes of Trump's stunning political rise is that the former reality television star hasn't always succeeded on the biggest stages."
+  },
+  {
+   "blip_idx": 23,
+   "text": "He promised a high-wattage show at the Republican National Convention, but the four-day gathering was often disjointed and lacked star power."
+  },
+  {
+   "blip_idx": 24,
+   "text": "Trump gave uneven performances in his three debates against Clinton and he stepped on his own inaugural message by complaining that the crowd size wasn't being accurately covered."
+  },
+  {
+   "blip_idx": 25,
+   "text": "Some White House officials have privately acknowledged that Trump's tiffs with inauguration-crowd photographers, reporters and intelligence officers have overshadowed their policy focuses for the first 100 days."
+  },
+  {
+   "blip_idx": 26,
+   "text": "In an interview with Fox News before Tuesday night's address, Trump gave himself a grade of \"C'' or \"C+\" for his messaging - even while awarding himself an \"A'' for his achievements so far."
+  },
+  {
+   "blip_idx": 27,
+   "text": "The White House has tried to cast Trump as a president in perpetual motion, filling his days with back-to-back meetings and showcasing relatively minor bill signings and executive actions."
+  },
+  {
+   "blip_idx": 28,
+   "text": "Hours before he took the Speaker's rostrum in the House chamber, Trump signed executive actions requiring the review of a rule related to protecting small streams and wetlands and bills aimed at recruiting more women for the fields of science, technology, engineering and math."
+  },
+  {
+   "blip_idx": 29,
+   "text": "Neither was the stuff of legislative legacy, but they allowed him to appear with smiling onlookers in the Oval Office as he affixed his distinctively rigid signature and then showed off the paperwork to cameras."
+  },
+  {
+   "blip_idx": 30,
+   "text": "The steady, camera-friendly imagery calls to mind some of the same tactics used by past New York City mayors like Ed Koch and Rudy Giuliani, who were a constant presence on local television in Trump's hometown."
+  },
+  {
+   "blip_idx": 31,
+   "text": "And like boardroom scenes in \"The Apprentice,\" the photo ops put Trump in a favorable light, showing him as an alpha male in command."
+  },
+  {
+   "blip_idx": 32,
+   "text": "\"He's playing who he is, being the guy who is calling the CEOs together or the insurance executives together,\" said Curt Anderson, a GOP strategist who advises Florida Gov. Rick Scott and multiple Republican lawmakers. \"The suit-and-tie guy behind the desk - that's who he is."
+  },
+  {
+   "blip_idx": 33,
+   "text": "\" --- AP Congressional Correspondent Erica Werner contributed to this report."
+  },
+  {
+   "blip_idx": 34,
+   "text": "--- Follow Julie Pace at http://twitter.com/jpaceDC and Ken Thomas at http://twitter.com/KThomasDC"
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 26,
+    "dist_old": 0.10170054401027946,
+    "dist_new": 0.10170054401027946
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 32,
+    "new": 32,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 34,
+    "new": 34,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 31,
+    "new": 31,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 29,
+    "new": 29,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 33,
+    "new": 33,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.2914889720668851,
+    "dist_new": 0.2914889720668851
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 30,
+    "new": 30,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 28,
+    "new": 28,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "deleted",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "added",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": [
+   19
+  ]
+ },
+ "document_old": "WASHINGTON (AP) -- Most mornings, President Donald Trump gathers business leaders, union executives or others at the White House for made-for-television meetings meant to project the image of a can-do chief executive. Trump sits at the center of one of the White House's ornate meeting rooms, offers brief remarks and invites assembled journalists to stick around to hear his guests praise his plans. Few tangible policy decisions emerge from the listening sessions. But the public parts of the meeting are carried in full on cable television, underscoring the ways in which an unconventional new president is using the traditional trappings of the office to his advantage. Playing the role of president is a crucial skill that doesn't always come easily to Oval Office occupants. The theater of the presidency can't fully mask policy fumbles or awkward disputes, but it can shape the way in which a commander in chief is perceived by the public and can help keep anxious political allies in line. That was particularly evident Tuesday night, when Trump delivered his first address to a joint session of Congress. The new president stepped into the House chamber with historically low public approval ratings after a turbulent start to his administration. Some Republicans are growing weary of his refusal - or inability - to stop hurling personal insults and his seeming unwillingness to focus on the GOP's ambitious domestic policy agenda. Trump responded by embracing both the traditional pomp and decorum of a presidential address. He delivered a restrained and largely optimistic speech, rarely veering off script. In an emotional high point, he singled out the widow of a fallen Navy SEAL who was sitting in the guest box and joined lawmakers in sustained applause for her husband's sacrifice. Republicans swooned. \"You saw an outsider last night sort of hit his stride,\" declared Sen. David Perdue of Georgia. Former Minnesota Gov. Tim Pawlenty called the address \"less Mad Max and more Ronald Reagan.\" \"It buys him some good will and some time to fill out more positions and the roadmap of where they want to go,\" Pawlenty said. To the president's critics, it was a frustrating reminder that Trump is often judged by a different standard and praised for stylistic shifts that rarely stick. \"For all the past talk of pivots that never happened, the reality is he's going to benefit like last night from the trappings of the presidency,\" said Brian Fallon, a former top communications aide to Hillary Clinton's campaign. The White House moved swiftly Wednesday to keep a good moment going. Plans to follow Trump's speech with the signing of a revamped, yet still controversial, travel ban executive order were delayed, so the administration avoided trampling on the looping highlight reel of Trump's speech on cable television. Press secretary Sean Spicer's daily briefing, which has become a must-watch television event, was switched to an off-camera gaggle. One of the surprising paradoxes of Trump's stunning political rise is that the former reality television star hasn't always succeeded on the biggest stages. He promised a high-wattage show at the Republican National Convention, but the four-day gathering was often disjointed and lacked star power. Trump gave uneven performances in his three debates against Clinton and he stepped on his own inaugural message by complaining that the crowd size wasn't being accurately covered. Some White House officials have privately acknowledged that Trump's tiffs with inauguration-crowd photographers, reporters and intelligence officers have overshadowed their policy focuses for the first 100 days. In an interview with Fox News before Tuesday night's address, Trump gave himself a grade of \"C'' or \"C+\" for his messaging - even while awarding himself an \"A'' for his achievements so far. The White House has tried to cast Trump as a president in perpetual motion, filling his days with back-to-back meetings and showcasing relatively minor bill signings and executive actions. Hours before he took the Speaker's rostrum in the House chamber, Trump signed executive actions requiring the review of a rule related to protecting small streams and wetlands and bills aimed at recruiting more women for the fields of science, technology, engineering and math. Neither was the stuff of legislative legacy, but they allowed him to appear with smiling onlookers in the Oval Office as he affixed his distinctively rigid signature and then showed off the paperwork to cameras. The steady, camera-friendly imagery calls to mind some of the same tactics used by past New York City mayors like Ed Koch and Rudy Giuliani, who were a constant presence on local television in Trump's hometown. And like boardroom scenes in \"The Apprentice,\" the photo ops put Trump in a favorable light, showing him as an alpha male in command. \"He's playing who he is, being the guy who is calling the CEOs together or the insurance executives together,\" said Curt Anderson, a GOP strategist who advises Florida Gov. Rick Scott and multiple Republican lawmakers. \"The suit-and-tie guy behind the desk - that's who he is. \" --- AP Congressional Correspondent Erica Werner contributed to this report. --- Follow Julie Pace at http://twitter.com/jpaceDC and Ken Thomas at http://twitter.com/KThomasDC",
+ "document_new": "WASHINGTON (AP) -- Most mornings, President Donald Trump gathers business leaders, union executives or others at the White House for made-for-television meetings meant to project the image of a can-do chief executive. Trump sits at the center of one of the White House's ornate meeting rooms, offers brief remarks and invites assembled journalists to stick around to hear his guests praise his plans. Few tangible policy decisions emerge from the listening sessions. But the public parts of the meeting are carried in full on cable television, underscoring the ways in which an unconventional new president is using the traditional trappings of the office to his advantage. Playing the role of president is a crucial skill that doesn't always come easily to Oval Office occupants. The theater of the presidency can't fully mask policy fumbles or awkward disputes, but it can shape the way in which a commander in chief is perceived by the public and can help keep anxious political allies in line. That was particularly evident Tuesday night, when Trump delivered his first address to a joint session of Congress. The new president stepped into the House chamber with historically low public approval ratings after a turbulent start to his administration. Some Republicans are growing weary of his refusal - or inability - to stop hurling personal insults and his seeming unwillingness to focus on the GOP's ambitious domestic policy agenda. Trump responded by embracing both the traditional pomp and decorum of a presidential address. He delivered a restrained and largely optimistic speech, rarely veering off script. In an emotional high point, he singled out the widow of a fallen Navy SEAL who was sitting in the guest box and joined lawmakers in sustained applause for her husband's sacrifice. Republicans swooned. \"You saw an outsider last night sort of hit his stride,\" declared Sen. David Perdue of Georgia. Former Minnesota Gov. Tim Pawlenty called the address \"less Mad Max and more Ronald Reagan.\" \"It buys him some good will and some time to fill out more positions and the roadmap of where they want to go,\" Pawlenty said. To the president's critics, it was a frustrating reminder that Trump is often judged by a different standard and praised for stylistic shifts that rarely stick. \"For all the past talk of pivots that never happened, the reality is he's going to benefit like last night from the trappings of the presidency,\" said Brian Fallon, a former top communications aide to Hillary Clinton's campaign. After celebrating the speech with the president over hot dogs and popcorn in the White House residence late Tuesday night, White House aides moved swiftly to keep a good moment going. Plans to follow Trump's speech with the signing of a revamped, yet still controversial, travel ban executive order on Wednesday were delayed, so the administration avoided trampling on the looping highlight reel of Trump's speech on cable television. Press secretary Sean Spicer's daily briefing, which has become a must-watch television event, was switched to an off-camera gaggle. One of the surprising paradoxes of Trump's stunning political rise is that the former reality television star hasn't always succeeded on the biggest stages. He promised a high-wattage show at the Republican National Convention, but the four-day gathering was often disjointed and lacked star power. Trump gave uneven performances in his three debates against Clinton and he stepped on his own inaugural message by complaining that the crowd size wasn't being accurately covered. Some White House officials have privately acknowledged that Trump's tiffs with inauguration-crowd photographers, reporters and intelligence officers have overshadowed their policy focuses for the first 100 days. In an interview with Fox News before Tuesday night's address, Trump gave himself a grade of \"C'' or \"C+\" for his messaging - even while awarding himself an \"A'' for his effort so far. The White House has tried to cast Trump as a president in perpetual motion, filling his days with back-to-back meetings and showcasing relatively minor bill signings and executive actions. Hours before he took the Speaker's rostrum in the House chamber, Trump signed executive actions requiring the review of a rule related to protecting small streams and wetlands and bills aimed at recruiting more women for the fields of science, technology, engineering and math. Neither was the stuff of legislative legacy, but they allowed him to appear with smiling onlookers in the Oval Office as he affixed his distinctively rigid signature and then showed off the paperwork to cameras. The steady, camera-friendly imagery calls to mind some of the same tactics used by past New York City mayors like Ed Koch and Rudy Giuliani, who were a constant presence on local television in Trump's hometown. And like boardroom scenes in \"The Apprentice,\" the photo ops put Trump in a favorable light, showing him as an alpha male in command. \"He's playing who he is, being the guy who is calling the CEOs together or the insurance executives together,\" said Curt Anderson, a GOP strategist who advises Florida Gov. Rick Scott and multiple Republican lawmakers. \"The suit-and-tie guy behind the desk - that's who he is. \" --- AP Congressional Correspondent Erica Werner contributed to this report. --- Follow Julie Pace at http://twitter.com/jpaceDC and Ken Thomas at http://twitter.com/KThomasDC",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "Who have privately acknowledged issues with Trump? Answer in as few words as possible."
+  },
+  {
+   "task_id": "bool_001",
+   "type": "boolean",
+   "prompt": "Were White House aides celebrating the president's speech with hot dogs and popcorn in the White House residence late Tuesday night? Answer Yes or No."
+  }
+ ]
+}

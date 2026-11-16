@@ -1,0 +1,360 @@
+{
+ "pair_id": "ap_8626_1_2",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "PARK CITY, Utah (AP) -- Democrat Hillary Clinton encouraged Mitt Romney to take a job as President Donald Trump's secretary of state, the former Republican presidential candidate said Friday."
+  },
+  {
+   "blip_idx": 1,
+   "text": "Romney, speaking to a high-powered gathering of GOP officials, top donors and business leaders at a luxury Utah resort, said that when Trump briefly considered him late last year for Clinton's former job, Romney called \"virtually all the former secretaries of state\" including Clinton."
+  },
+  {
+   "blip_idx": 2,
+   "text": "\"In each case, each of them said, 'Please, please take that job if it's offered to you,'\" Romney said, drawing laughs from the crowd."
+  },
+  {
+   "blip_idx": 3,
+   "text": "\"We would very much like to see you serve in that capacity.\" Romney had been one of Trump's most strident critics in the 2016 election, calling him a phony and a fraud."
+  },
+  {
+   "blip_idx": 4,
+   "text": "But he later seemed to embrace Trump when he was considered for the top diplomatic job."
+  },
+  {
+   "blip_idx": 5,
+   "text": "When the billionaire and reality TV star held a private dinner with Romney late last year, the former Massachusetts governor praised the president-elect."
+  },
+  {
+   "blip_idx": 6,
+   "text": "Romney said he was concerned that he and Trump were \"miles apart\" on foreign policy, disagreeing about approaches to Syria, NATO, North Korea, and China, but he hoped Trump would be open to other opinions."
+  },
+  {
+   "blip_idx": 7,
+   "text": "\"Why would I consider it?\" Romney said Friday."
+  },
+  {
+   "blip_idx": 8,
+   "text": "\"It's not as if I suddenly had a differing view at that point of the president and the things that I had felt about him in the past."
+  },
+  {
+   "blip_idx": 9,
+   "text": "\" Former Exxon Mobil CEO Rex Tillerson got the job and was a good choice, Romney said, adding that he thinks he was not the right person for the job because of how much he and Trump differed on the issues."
+  },
+  {
+   "blip_idx": 10,
+   "text": "Romney made the comments as he held court at the resort in the mountains of Park City where he hosts an annual meeting of largely Republican power players for a mix of hobnobbing, policy talks and outdoor excursions like alpine hikes with Romney, which the 70-year-old takes at a blistering pace."
+  },
+  {
+   "blip_idx": 11,
+   "text": "His business and policy-focused summit, tucked in the mountains about 2,000 miles (3,200 kilometers) from the swirl of Washington, drew top donors, executives and office holders like Republican Sens."
+  },
+  {
+   "blip_idx": 12,
+   "text": "Lindsey Graham of South Carolina and John McCain of Arizona."
+  },
+  {
+   "blip_idx": 13,
+   "text": "Romney did not directly mention the explosive testimony in Congress a day earlier where fired FBI director James Comey attacked Trump's credibility, but instead referred to the \"theater of Washington right now and the theater around the White House right now,\" saying he wasn't too concerned about that slowing down a chance for Republican priorities to be passed in Congress."
+  },
+  {
+   "blip_idx": 14,
+   "text": "Romney, who was criticized by Democrats in 2012 for saying Russia was America's \"No. 1 geopolitical foe,\" said Friday that he thinks Trump should have denounced Russia early when its meddling in the U.S. election was revealed, instead of continually referring to it as \"fake news.\" \"The more you stir a turd, the more it stinks,\" Romney quipped, quoting a former boss."
+  },
+  {
+   "blip_idx": 15,
+   "text": "Last year, heartburn in the Republican Party over Trump played out at the summit, with some like Romney warning the brash billionaire would be destructive for the party and country."
+  },
+  {
+   "blip_idx": 16,
+   "text": "Others like Reince Priebus, now Trump's chief of staff, urged Republicans to fall in line."
+  },
+  {
+   "blip_idx": 17,
+   "text": "Romney has hosted similar gatherings since 2012."
+  },
+  {
+   "blip_idx": 18,
+   "text": "But this year's event is the first held under a GOP administration, leaving attendees optimistic despite \"distractions\" that the White House was grappling with, according to Spencer Zwick, Paul Ryan's fundraising chief and Romney's former fundraising chief."
+  },
+  {
+   "blip_idx": 19,
+   "text": "Zwick said the group of about 230 largely GOP power players attending seemed hopeful that Republican priorities like overhauling the tax code and health care will get done, despite the cloud of Russia investigations and Comey that the White House was wrestling with."
+  },
+  {
+   "blip_idx": 20,
+   "text": "\"Overwhelmingly, I think people in this room are excited about both the legislative agenda and the agenda that's coming out of the White House."
+  },
+  {
+   "blip_idx": 21,
+   "text": "We can all point to distractions along the way, the president had pointed to distractions."
+  },
+  {
+   "blip_idx": 22,
+   "text": "I think it's one of the reasons that he's wanted to get some of this stuff behind him, so he can focus on the agenda,\" Zwick said."
+  },
+  {
+   "blip_idx": 23,
+   "text": "Zwick, co-founder of a private equity firm that sponsors Romney's business and politics summit, said there was no broad concern about GOP prospects in the 2018 midterm elections."
+  },
+  {
+   "blip_idx": 24,
+   "text": "Republican donors and business leaders believe they will pass legislation like tax reform through this year and members of Congress will take that home and campaign on it, he said."
+  },
+  {
+   "blip_idx": 25,
+   "text": "Trump declined an invitation to the gathering."
+  },
+  {
+   "blip_idx": 26,
+   "text": "But former Democratic Vice President Joe Biden was schedule to speak Friday night in a session closed to the media."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 27,
+    "dist_old": 0.1252471383517017,
+    "dist_new": 0.1252471383517017
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 26,
+    "dist_old": 0.18416024381460028,
+    "dist_new": 0.18416024381460028
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "edited"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "added",
+   "edited",
+   "edited"
+  ],
+  "added_new": [
+   25
+  ]
+ },
+ "document_old": "PARK CITY, Utah (AP) -- Democrat Hillary Clinton encouraged Mitt Romney to take a job as President Donald Trump's secretary of state, the former Republican presidential candidate said Friday. Romney, speaking to a high-powered gathering of GOP officials, top donors and business leaders at a luxury Utah resort, said that when Trump briefly considered him late last year for Clinton's former job, Romney called \"virtually all the former secretaries of state\" including Clinton. \"In each case, each of them said, 'Please, please take that job if it's offered to you,'\" Romney said, drawing laughs from the crowd. \"We would very much like to see you serve in that capacity.\" Romney had been one of Trump's most strident critics in the 2016 election, calling him a phony and a fraud. But he later seemed to embrace Trump when he was considered for the top diplomatic job. When the billionaire and reality TV star held a private dinner with Romney late last year, the former Massachusetts governor praised the president-elect. Romney said he was concerned that he and Trump were \"miles apart\" on foreign policy, disagreeing about approaches to Syria, NATO, North Korea, and China, but he hoped Trump would be open to other opinions. \"Why would I consider it?\" Romney said Friday. \"It's not as if I suddenly had a differing view at that point of the president and the things that I had felt about him in the past. \" Former Exxon Mobil CEO Rex Tillerson got the job and was a good choice, Romney said, adding that he thinks he was not the right person for the job because of how much he and Trump differed on the issues. Romney made the comments as he held court at the resort in the mountains of Park City where he hosts an annual meeting of largely Republican power players for a mix of hobnobbing, policy talks and outdoor excursions like alpine hikes with Romney, which the 70-year-old takes at a blistering pace. His business and policy-focused summit, tucked in the mountains about 2,000 miles (3,200 kilometers) from the swirl of Washington, drew top donors, executives and office holders like Republican Sens. Lindsey Graham of South Carolina and John McCain of Arizona. Romney did not directly mention the explosive testimony in Congress a day earlier where fired FBI director James Comey attacked Trump's credibility, but instead referred to the \"theater of Washington right now and the theater around the White House right now,\" saying he wasn't too concerned about that slowing down a chance for Republican priorities to be passed in Congress. Romney, who was criticized by Democrats in 2012 for saying Russia was America's \"No. 1 geopolitical foe,\" said Friday that he thinks Trump should have denounced Russia early when its meddling in the U.S. election was revealed, instead of continually referring to it as \"fake news.\" \"The more you stir a turd, the more it stinks,\" Romney quipped, quoting a former boss. Last year, heartburn in the Republican Party over Trump played out at the summit, with some like Romney warning the brash billionaire would be destructive for the party and country. Others like Reince Priebus, now Trump's chief of staff, urged Republicans to fall in line. Romney has hosted similar gatherings since 2012. But this year's event is the first held under a GOP administration, leaving attendees optimistic despite \"distractions\" that the White House was grappling with, according to Spencer Zwick, Paul Ryan's fundraising chief and Romney's former fundraising chief. Zwick said the group of about 230 largely GOP power players attending seemed hopeful that Republican priorities like overhauling the tax code and health care will get done, despite the cloud of Russia investigations and Comey that the White House was wrestling with. \"Overwhelmingly, I think people in this room are excited about both the legislative agenda and the agenda that's coming out of the White House. We can all point to distractions along the way, the president had pointed to distractions. I think it's one of the reasons that he's wanted to get some of this stuff behind him, so he can focus on the agenda,\" Zwick said. Zwick, co-founder of a private equity firm that sponsors Romney's business and politics summit, said there was no broad concern about GOP prospects in the 2018 midterm elections. Republican donors and business leaders believe they will pass legislation like tax reform through this year and members of Congress will take that home and campaign on it, he said. Trump declined an invitation to the gathering. But former Democratic Vice President Joe Biden was schedule to speak Friday night in a session closed to the media.",
+ "document_new": "PARK CITY, Utah (AP) -- Democrat Hillary Clinton encouraged Mitt Romney to take a job as President Donald Trump's secretary of state, the former Republican presidential candidate said Friday. Romney, speaking to a high-powered gathering of GOP officials, top donors and business leaders at a luxury Utah resort, said that when Trump briefly considered him late last year for Clinton's former job, Romney called \"virtually all the former secretaries of state\" including Clinton. \"In each case, each of them said, 'Please, please take that job if it's offered to you,'\" Romney said, drawing laughs from the crowd. \"We would very much like to see you serve in that capacity.\" Romney had been one of Trump's most strident critics in the 2016 election, calling him a phony and a fraud. But he later seemed to embrace Trump when he was considered for the top diplomatic job. When the billionaire and reality TV star held a private dinner with Romney late last year, the former Massachusetts governor praised the president-elect. Romney said he was concerned that he and Trump were \"miles apart\" on foreign policy, disagreeing about approaches to Syria, NATO, North Korea, and China, but he hoped Trump would be open to other opinions. \"Why would I consider it?\" Romney said Friday. \"It's not as if I suddenly had a differing view at that point of the president and the things that I had felt about him in the past. \" Former Exxon Mobil CEO Rex Tillerson got the job and was a good choice, Romney said, adding that he thinks he was not the right person for the job because of how much he and Trump differed on the issues. Romney made the comments as he held court at the resort in the mountains of Park City where he hosts an annual meeting of largely Republican power players for a mix of hobnobbing, policy talks and outdoor excursions like alpine hikes with Romney, which the 70-year-old takes at a blistering pace. His business and policy-focused summit, tucked in the mountains about 2,000 miles (3,200 kilometers) from the swirl of Washington, drew top donors, executives and office holders like Republican Sens. Lindsey Graham of South Carolina and John McCain of Arizona. Romney did not directly mention the explosive testimony in Congress a day earlier where fired FBI director James Comey attacked Trump's credibility, but instead referred to the \"theater of Washington right now and the theater around the White House right now,\" saying he wasn't too concerned about that slowing down a chance for Republican priorities to be passed in Congress. Romney, who was criticized by Democrats in 2012 for saying Russia was America's \"No. 1 geopolitical foe,\" said Friday that he thinks Trump should have denounced Russia early when its meddling in the U.S. election was revealed, instead of continually referring to it as \"fake news.\" \"The more you stir a turd, the more it stinks,\" Romney quipped, quoting a former boss. Last year, heartburn in the Republican Party over Trump played out at the summit, with some like Romney warning the brash billionaire would be destructive for the party and country. Others like Reince Priebus, now Trump's chief of staff, urged Republicans to fall in line. Romney has hosted similar gatherings since 2012. But this year's event is the first held under a GOP administration, leaving attendees optimistic despite \"distractions\" that the White House was grappling with, according to Spencer Zwick, Paul Ryan's fundraising chief and Romney's former fundraising chief. Zwick said the group of about 230 largely GOP power players attending seemed hopeful that Republican priorities like overhauling the tax code and health care will get done, despite the cloud of Russia investigations and Comey that the White House was wrestling with. \"Overwhelmingly, I think people in this room are excited about both the legislative agenda and the agenda that's coming out of the White House. We can all point to distractions along the way, the president had pointed to distractions. I think it's one of the reasons that he's wanted to get some of this stuff behind him, so he can focus on the agenda,\" Zwick said. Zwick, co-founder of a private equity firm that sponsors Romney's business and politics summit, said there was no broad concern about GOP prospects in the 2018 midterm elections. Republican donors and business leaders believe they will pass legislation like tax reform through this year and members of Congress will take that home and campaign on it, he said. Graham, speaking Friday afternoon, was franker in his concerns but said he hoped Trump could tackle items on his agenda like infrastructure and tax cuts and \"still be a consequential president.\" \"But if he doesn't adjust the way he's behaving, if he doesn't let people help him,\" Graham said, \"he's going to lose the last best chance the Republican Party probably has to change America. \" Trump declined an invitation to the gathering. But former Democratic Vice President Joe Biden was scheduled to speak Friday night in a session closed to the media.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What did Trump do regarding the invitation to the gathering? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "What did Romney call Trump during the 2016 election? Answer in as few words as possible."
+  },
+  {
+   "task_id": "bool_001",
+   "type": "boolean",
+   "prompt": "Was Lindsey Graham speaking on Friday afternoon according to the statement about Trump and the Republican Party? Answer Yes or No."
+  }
+ ]
+}

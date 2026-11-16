@@ -1,0 +1,416 @@
+{
+ "pair_id": "ap_16251_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "WASHINGTON (AP) -- As far as Africa's concerned, Secretary of State Rex Tillerson and the Trump administration have some explaining to do."
+  },
+  {
+   "blip_idx": 1,
+   "text": "President Donald Trump's description of \"shithole countries\" in January was greeted with a mix of horror and outrage in Africa, where many don't know what to think about the U.S. president - or what he thinks of them."
+  },
+  {
+   "blip_idx": 2,
+   "text": "He's rarely spoken about priorities for the continent, which garnered a mere seven paragraphs on the very last pages of Trump's National Security Strategy."
+  },
+  {
+   "blip_idx": 3,
+   "text": "It falls to Tillerson to mend the damage as he travels to the continent on Tuesday, becoming the most senior U.S. official to set foot there since Trump took office more than a year ago."
+  },
+  {
+   "blip_idx": 4,
+   "text": "Tillerson, in a speech laying out the administration's Africa policy, said the continent's rapid economic growth and fast-rising populations mean its future is increasingly linked to America's."
+  },
+  {
+   "blip_idx": 5,
+   "text": "He said the U.S. was committed to helping, but that prosperity and basic stability would be impossible until the security situation is brought under control."
+  },
+  {
+   "blip_idx": 6,
+   "text": "\"My firm belief is that there is ample opportunity on the continent for economic growth, for greater prosperity, and for responding to global challenges through mutually respectful partnerships,\" Tillerson said."
+  },
+  {
+   "blip_idx": 7,
+   "text": "It's a starkly different message from the one Trump delivered in a meeting with U.S. lawmakers this year that soon became public, forcing humiliated U.S. ambassadors to apologize and Trump to send a letter to African leaders affirming his respect."
+  },
+  {
+   "blip_idx": 8,
+   "text": "Making Tillerson's job harder, he's showing up on the continent with few concrete goals or new actions to announce."
+  },
+  {
+   "blip_idx": 9,
+   "text": "As one senior State Department official briefing reporters on condition of anonymity put it: \"There's really no deliverables."
+  },
+  {
+   "blip_idx": 10,
+   "text": "\" Trump hasn't announced a signature initiative to help the continent, such as the PEPFAR program for HIV/AIDS that George W. Bush started, and many of his sweeping budget cuts affect overseas programs that disproportionately help Africa."
+  },
+  {
+   "blip_idx": 11,
+   "text": "Tillerson did announce Tuesday an additional $533 million in humanitarian assistance to help with famine and conflict-related needs in Ethiopia, Somalia, South Sudan and Nigeria, but it was unclear exactly where the money would come from."
+  },
+  {
+   "blip_idx": 12,
+   "text": "For Tillerson, who did not visit Africa during his first year as the top U.S. diplomat, it may be that the best way to show deference to a continent suspicious of Trump is to listen."
+  },
+  {
+   "blip_idx": 13,
+   "text": "State Department officials said Tillerson wanted to hear from leaders in Africa in what ways they're most eager to collaborate with the United States."
+  },
+  {
+   "blip_idx": 14,
+   "text": "\"It may be a listening tour for him, but it's also a watching tour\" for everyone else, said Witney Schneidman, a former Africa official at the State Department now at the Brookings Institution. \"When do we get to see the outlines of what the Trump Africa policy is?\" Fueling skepticism that Trump's administration has thought much about Africa is a long list of vacancies that made planning for his visit all the more difficult."
+  },
+  {
+   "blip_idx": 15,
+   "text": "Trump has not named an assistant secretary for Africa to oversee the continent, nor an ambassador to key countries like South Africa."
+  },
+  {
+   "blip_idx": 16,
+   "text": "It was unclear how many opportunities Tillerson would have to engage substantively with key leaders and African institutions such as the G5 Sahel joint counterterrorism force given the rapid pace and last-minute nature of his trip."
+  },
+  {
+   "blip_idx": 17,
+   "text": "Tillerson plans to arrive Wednesday in Addis Ababa, the capital of Ethiopia, currently under a state of emergency to control anti-government protests."
+  },
+  {
+   "blip_idx": 18,
+   "text": "The day before Tillerson's departure, about 100 protesters gathered outside Tillerson's office in Washington chanting against the government."
+  },
+  {
+   "blip_idx": 19,
+   "text": "He will spend about a week on the continent visiting countries that play key roles in addressing Africa's security challenges, including Nigeria, Chad and Djibouti, which houses the only permanent U.S. military base in Africa."
+  },
+  {
+   "blip_idx": 20,
+   "text": "In Djibouti, China's development of its first overseas military base just a few miles away has been cause for concern for the U.S., illustrating the military side of a broader competition between the U.S. and China playing out across the continent."
+  },
+  {
+   "blip_idx": 21,
+   "text": "Another top concern is African nations' growing indebtedness to Beijing, which is building infrastructure across the continent."
+  },
+  {
+   "blip_idx": 22,
+   "text": "Tillerson, in his speech, warned that China's approach to development in Africa \"encourages dependency\" that undermines its sovereignty and risks its stability."
+  },
+  {
+   "blip_idx": 23,
+   "text": "\"Chinese investment has the potential to address Africa's infrastructure gap, but its approach has led to mounting debt and few if any jobs in most countries,\" Tillerson said."
+  },
+  {
+   "blip_idx": 24,
+   "text": "Tillerson will also visit Kenya, where the political system is in turmoil over disputes related to President Uhuru Kenyatta's re-election."
+  },
+  {
+   "blip_idx": 25,
+   "text": "The government reacted aggressively when opposition leader Raila Odinga held a mock inauguration, shutting down TV stations and arresting opposition politicians, but the U.S. has largely voiced support for Kenyatta."
+  },
+  {
+   "blip_idx": 26,
+   "text": "Of the half-billion dollars Tillerson announced, about $184 million will help those affected by conflict in South Sudan and $110 million for those in Somalia, the State Department said."
+  },
+  {
+   "blip_idx": 27,
+   "text": "Another $110 million was destined for Ethiopia to help amid a drought."
+  },
+  {
+   "blip_idx": 28,
+   "text": "The U.S. planned to direct $128 million to help Nigeria and the Lake Chad region nations."
+  },
+  {
+   "blip_idx": 29,
+   "text": "Though he has yet to visit as diplomat, Tillerson is not a stranger to Africa, which he visited frequently in search of deals in his previous job as CEO of Exxon Mobil."
+  },
+  {
+   "blip_idx": 30,
+   "text": "The energy behemoth has significant business dealings in sub-Saharan Africa, including in Chad, Nigeria and Equatorial Guinea."
+  },
+  {
+   "blip_idx": 31,
+   "text": "--- Reach Josh Lederman on Twitter at http://twitter.com/joshledermanAP"
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 30,
+    "dist_old": 2.691052680246211e-07,
+    "dist_new": 2.691052680246211e-07
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 31,
+    "new": 35,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 30,
+    "new": 34,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 28,
+    "new": 32,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 29,
+    "new": 33,
+    "dist_old": 4.886172785629359e-07,
+    "dist_new": 4.886172785629359e-07
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 31,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "added",
+   "added",
+   "added",
+   "added",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": [
+   26,
+   27,
+   28,
+   29
+  ]
+ },
+ "document_old": "WASHINGTON (AP) -- As far as Africa's concerned, Secretary of State Rex Tillerson and the Trump administration have some explaining to do. President Donald Trump's description of \"shithole countries\" in January was greeted with a mix of horror and outrage in Africa, where many don't know what to think about the U.S. president - or what he thinks of them. He's rarely spoken about priorities for the continent, which garnered a mere seven paragraphs on the very last pages of Trump's National Security Strategy. It falls to Tillerson to mend the damage as he travels to the continent on Tuesday, becoming the most senior U.S. official to set foot there since Trump took office more than a year ago. Tillerson, in a speech laying out the administration's Africa policy, said the continent's rapid economic growth and fast-rising populations mean its future is increasingly linked to America's. He said the U.S. was committed to helping, but that prosperity and basic stability would be impossible until the security situation is brought under control. \"My firm belief is that there is ample opportunity on the continent for economic growth, for greater prosperity, and for responding to global challenges through mutually respectful partnerships,\" Tillerson said. It's a starkly different message from the one Trump delivered in a meeting with U.S. lawmakers this year that soon became public, forcing humiliated U.S. ambassadors to apologize and Trump to send a letter to African leaders affirming his respect. Making Tillerson's job harder, he's showing up on the continent with few concrete goals or new actions to announce. As one senior State Department official briefing reporters on condition of anonymity put it: \"There's really no deliverables. \" Trump hasn't announced a signature initiative to help the continent, such as the PEPFAR program for HIV/AIDS that George W. Bush started, and many of his sweeping budget cuts affect overseas programs that disproportionately help Africa. Tillerson did announce Tuesday an additional $533 million in humanitarian assistance to help with famine and conflict-related needs in Ethiopia, Somalia, South Sudan and Nigeria, but it was unclear exactly where the money would come from. For Tillerson, who did not visit Africa during his first year as the top U.S. diplomat, it may be that the best way to show deference to a continent suspicious of Trump is to listen. State Department officials said Tillerson wanted to hear from leaders in Africa in what ways they're most eager to collaborate with the United States. \"It may be a listening tour for him, but it's also a watching tour\" for everyone else, said Witney Schneidman, a former Africa official at the State Department now at the Brookings Institution. \"When do we get to see the outlines of what the Trump Africa policy is?\" Fueling skepticism that Trump's administration has thought much about Africa is a long list of vacancies that made planning for his visit all the more difficult. Trump has not named an assistant secretary for Africa to oversee the continent, nor an ambassador to key countries like South Africa. It was unclear how many opportunities Tillerson would have to engage substantively with key leaders and African institutions such as the G5 Sahel joint counterterrorism force given the rapid pace and last-minute nature of his trip. Tillerson plans to arrive Wednesday in Addis Ababa, the capital of Ethiopia, currently under a state of emergency to control anti-government protests. The day before Tillerson's departure, about 100 protesters gathered outside Tillerson's office in Washington chanting against the government. He will spend about a week on the continent visiting countries that play key roles in addressing Africa's security challenges, including Nigeria, Chad and Djibouti, which houses the only permanent U.S. military base in Africa. In Djibouti, China's development of its first overseas military base just a few miles away has been cause for concern for the U.S., illustrating the military side of a broader competition between the U.S. and China playing out across the continent. Another top concern is African nations' growing indebtedness to Beijing, which is building infrastructure across the continent. Tillerson, in his speech, warned that China's approach to development in Africa \"encourages dependency\" that undermines its sovereignty and risks its stability. \"Chinese investment has the potential to address Africa's infrastructure gap, but its approach has led to mounting debt and few if any jobs in most countries,\" Tillerson said. Tillerson will also visit Kenya, where the political system is in turmoil over disputes related to President Uhuru Kenyatta's re-election. The government reacted aggressively when opposition leader Raila Odinga held a mock inauguration, shutting down TV stations and arresting opposition politicians, but the U.S. has largely voiced support for Kenyatta. Of the half-billion dollars Tillerson announced, about $184 million will help those affected by conflict in South Sudan and $110 million for those in Somalia, the State Department said. Another $110 million was destined for Ethiopia to help amid a drought. The U.S. planned to direct $128 million to help Nigeria and the Lake Chad region nations. Though he has yet to visit as diplomat, Tillerson is not a stranger to Africa, which he visited frequently in search of deals in his previous job as CEO of Exxon Mobil. The energy behemoth has significant business dealings in sub-Saharan Africa, including in Chad, Nigeria and Equatorial Guinea. --- Reach Josh Lederman on Twitter at http://twitter.com/joshledermanAP",
+ "document_new": "WASHINGTON (AP) -- As far as Africa's concerned, Secretary of State Rex Tillerson and the Trump administration have some explaining to do. President Donald Trump's description of \"shithole countries\" in January was greeted with a mix of horror and outrage in Africa, where many don't know what to think about the U.S. president - or what he thinks of them. He's rarely spoken about priorities for the continent, which garnered a mere seven paragraphs on the very last pages of Trump's National Security Strategy. It falls to Tillerson to mend the damage as he travels to the continent on Tuesday, becoming the most senior U.S. official to set foot there since Trump took office more than a year ago. Tillerson, in a speech laying out the administration's Africa policy, said the continent's rapid economic growth and fast-rising populations mean its future is increasingly linked to America's. He said the U.S. was committed to helping, but that prosperity and basic stability would be impossible until the security situation is brought under control. \"My firm belief is that there is ample opportunity on the continent for economic growth, for greater prosperity, and for responding to global challenges through mutually respectful partnerships,\" Tillerson said. It's a starkly different message from the one Trump delivered in a meeting with U.S. lawmakers this year that soon became public, forcing humiliated U.S. ambassadors to apologize and Trump to send a letter to African leaders affirming his respect. Making Tillerson's job harder, he's showing up on the continent with few concrete goals or new actions to announce. As one senior State Department official briefing reporters on condition of anonymity put it: \"There's really no deliverables. \" Trump hasn't announced a signature initiative to help the continent, such as the PEPFAR program for HIV/AIDS that George W. Bush started, and many of his sweeping budget cuts affect overseas programs that disproportionately help Africa. Tillerson did announce Tuesday an additional $533 million in humanitarian assistance to help with famine and conflict-related needs in Ethiopia, Somalia, South Sudan and Nigeria, but it was unclear exactly where the money would come from. For Tillerson, who did not visit Africa during his first year as the top U.S. diplomat, it may be that the best way to show deference to a continent suspicious of Trump is to listen. State Department officials said Tillerson wanted to hear from leaders in Africa in what ways they're most eager to collaborate with the United States. \"It may be a listening tour for him, but it's also a watching tour\" for everyone else, said Witney Schneidman, a former Africa official at the State Department now at the Brookings Institution. \"When do we get to see the outlines of what the Trump Africa policy is?\" Fueling skepticism that Trump's administration has thought much about Africa is a long list of vacancies that made planning for his visit all the more difficult. Trump has not named an assistant secretary for Africa to oversee the continent, nor an ambassador to key countries like South Africa. It was unclear how many opportunities Tillerson would have to engage substantively with key leaders and African institutions such as the G5 Sahel joint counterterrorism force given the rapid pace and last-minute nature of his trip. Tillerson plans to arrive Wednesday in Addis Ababa, the capital of Ethiopia, currently under a state of emergency to control anti-government protests. The day before Tillerson's departure, about 100 protesters gathered outside Tillerson's office in Washington chanting against the government. He will spend about a week on the continent visiting countries that play key roles in addressing Africa's security challenges, including Nigeria, Chad and Djibouti, which houses the only permanent U.S. military base in Africa. In Djibouti, China's development of its first overseas military base just a few miles away has been cause for concern for the U.S., illustrating the military side of a broader competition between the U.S. and China playing out across the continent. Another top concern is African nations' growing indebtedness to Beijing, which is building infrastructure across the continent. Tillerson, in his speech, warned that China's approach to development in Africa \"encourages dependency\" that undermines its sovereignty and risks its stability. \"Chinese investment has the potential to address Africa's infrastructure gap, but its approach has led to mounting debt and few if any jobs in most countries,\" Tillerson said. Tillerson will also visit Kenya, where the political system is in turmoil over disputes related to President Uhuru Kenyatta's re-election. The government reacted aggressively when opposition leader Raila Odinga held a mock inauguration, shutting down TV stations and arresting opposition politicians, but the U.S. has largely voiced support for Kenyatta. The trip comes as the Trump administration reverses course - again - on whether to let Americans import the body parts of African elephants shot for recreation. In November, after the U.S. Fish and Wildlife Service said it would lift the Obama-era ban, Trump personally intervened to keep it in place. But word emerged Tuesday that the administration would start approving elephant trophy importing on a \"case-by-case\" basis. Of the half-billion dollars Tillerson announced, about $184 million will help those affected by conflict in South Sudan and $110 million for those in Somalia, the State Department said. Another $110 million was destined for Ethiopia to help amid a drought. The U.S. planned to direct $128 million to help Nigeria and the Lake Chad region nations. Though he has yet to visit as diplomat, Tillerson is not a stranger to Africa, which he visited frequently in search of deals in his previous job as CEO of Exxon Mobil. The energy behemoth has significant business dealings in sub-Saharan Africa, including in Chad, Nigeria and Equatorial Guinea. --- Reach Josh Lederman on Twitter at http://twitter.com/joshledermanAP",
+ "tasks": [
+  {
+   "task_id": "bool_001",
+   "type": "boolean",
+   "prompt": "Is the Trump administration reversing its stance on allowing Americans to import African elephant body parts again according to the statement? Answer Yes or No."
+  }
+ ]
+}

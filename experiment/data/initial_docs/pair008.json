@@ -1,0 +1,384 @@
+{
+ "pair_id": "ap_16943_3_4",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "WASHINGTON (AP) -- Ronny Jackson passed his screen test with President Donald Trump before casting even began."
+  },
+  {
+   "blip_idx": 1,
+   "text": "Jackson, the president's personal physician and surprise choice to lead the massive Department of Veterans Affairs, stood before the White House press corps in January to announce the results of the president's first physical in a performance that showed he was quick-witted, hard to throw off-kilter and unfailingly complimentary of Trump."
+  },
+  {
+   "blip_idx": 2,
+   "text": "Marveling at the 71-year-old president's good health, Jackson opined, \"It's just the way God made him."
+  },
+  {
+   "blip_idx": 3,
+   "text": "\" Now, the Navy doctor who has been entrusted with the health of the last three presidents is poised for a promotion, tapped to replace David Shulkin at an agency that has been badly bruised by scandal."
+  },
+  {
+   "blip_idx": 4,
+   "text": "Trump's unexpected pick is the latest example of the president's reliance on familiar faces."
+  },
+  {
+   "blip_idx": 5,
+   "text": "And it shows Jackson has succeeded at arguably the most important measure in the Trump administration: winning the president's trust."
+  },
+  {
+   "blip_idx": 6,
+   "text": "Trump, in a statement, called Jackson \"highly trained and qualified\" and said that, as a service member himself, Jackson \"has seen firsthand the tremendous sacrifice our veterans make and has a deep appreciation for the debt our great country owes them.\" Jackson's name was not among the roughly half-dozen candidates the White House was said to be actively reviewing in recent weeks."
+  },
+  {
+   "blip_idx": 7,
+   "text": "But Trump has formed a close bond with his doctor in the hours they've spent together at the White House and traveling on Air Force One."
+  },
+  {
+   "blip_idx": 8,
+   "text": "Dr."
+  },
+  {
+   "blip_idx": 9,
+   "text": "Richard Tubb, the longest-serving White House physician and the person who trained Jackson, said in a letter read at Jackson's star-turning briefing that members of the White House medical team have been \"figuratively Velcro-ed\" to Trump since the day after his election and that \"on January 20, 2017, Dr. Jackson became that Velcro."
+  },
+  {
+   "blip_idx": 10,
+   "text": "\" Tubb explained that Jackson's office is \"one of only a very few in the White House Residence proper,\" located directly across the hall from the president's private elevator."
+  },
+  {
+   "blip_idx": 11,
+   "text": "Trump has told aides and outside advisers that he is fond of Jackson personally, according to a person familiar with the president's thinking but not authorized to discuss private conversations."
+  },
+  {
+   "blip_idx": 12,
+   "text": "The president was also impressed with Jackson's performance at the podium in January, telling aides that he liked Jackson's smooth turn before the cameras and ability to field reporters' questions as he offered a glowing report on the president's physical and mental well-being."
+  },
+  {
+   "blip_idx": 13,
+   "text": "During the briefing, Jackson spent nearly an hour exhausting reporters' questions, extoling the president's \"incredible genes\" and joking that if only Trump had eaten a healthier diet over the last 20 years, \"he might live to be 200 years old.\" And he achieved a more consequential, if less noticed, goal: effectively stamping out questions that had been brewing about the president's mental fitness."
+  },
+  {
+   "blip_idx": 14,
+   "text": "A White House official said Shulkin himself had recommended Jackson for an undersecretary position at the VA last fall, and Trump ultimately decided he was more comfortable with Jackson than with other top candidates."
+  },
+  {
+   "blip_idx": 15,
+   "text": "The official was not authorized to discuss personnel matters and spoke on condition of anonymity."
+  },
+  {
+   "blip_idx": 16,
+   "text": "A native of Levelland, Texas, Jackson graduated from Texas A&"
+  },
+  {
+   "blip_idx": 17,
+   "text": "M with a degree in marine biology and went on to attend medical school at the University of Texas Medical Branch, graduating in 1995. From there, he headed to the Navy, where he attended the Navy's Undersea Medical Officer Program and served in a number of roles, including diving safety officer at the Naval Safety Center in Norfolk, Virginia."
+  },
+  {
+   "blip_idx": 18,
+   "text": "In 2005, he joined the 2nd Marines, Combat Logistics Regiment 25, and deployed in support of Operation Iraqi Freedom as the emergency medicine physician in charge of resuscitative medicine for a Surgical Shock Trauma Platoon, according to the White House."
+  },
+  {
+   "blip_idx": 19,
+   "text": "Ned Price, a National Security Council spokesman under President Barack Obama who was served by Jackson, described the doctor as \"the guy you always want to be around\" because he's affable and funny."
+  },
+  {
+   "blip_idx": 20,
+   "text": "But Price added that it was difficult to believe the nomination was unrelated to the \"glowing assessment\" of Trump's health that the doctor had provided."
+  },
+  {
+   "blip_idx": 21,
+   "text": "On Capitol Hill, Jackson's selection was praised by Sen."
+  },
+  {
+   "blip_idx": 22,
+   "text": "Lindsey Graham, R-S.C. \"If there ever was a home run pick, Adm."
+  },
+  {
+   "blip_idx": 23,
+   "text": "Jackson fits the bill - combat surgeon, career military officer who loves his country and will provide the highest quality health care and services to our wonderful veterans,\" he said."
+  },
+  {
+   "blip_idx": 24,
+   "text": "But a major veterans' organization worried about whether Jackson had the experience to run the huge department."
+  },
+  {
+   "blip_idx": 25,
+   "text": "\"The administration needs to be ready to prove that he's qualified to run such a massive agency, a $200 billion bureaucracy,\" said Joe Chenelly, the national executive director of AMVETS."
+  },
+  {
+   "blip_idx": 26,
+   "text": "--- Associated Press writers Jonathan Lemire, Hope Yen, Darlene Superville and Zeke Miller contributed to this report."
+  },
+  {
+   "blip_idx": 27,
+   "text": "--- Follow Colvin on Twitter at https://twitter.com/colvinj"
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.05288034928711805,
+    "dist_new": 0.05288034928711805
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "WASHINGTON (AP) -- Ronny Jackson passed his screen test with President Donald Trump before casting even began. Jackson, the president's personal physician and surprise choice to lead the massive Department of Veterans Affairs, stood before the White House press corps in January to announce the results of the president's first physical in a performance that showed he was quick-witted, hard to throw off-kilter and unfailingly complimentary of Trump. Marveling at the 71-year-old president's good health, Jackson opined, \"It's just the way God made him. \" Now, the Navy doctor who has been entrusted with the health of the last three presidents is poised for a promotion, tapped to replace David Shulkin at an agency that has been badly bruised by scandal. Trump's unexpected pick is the latest example of the president's reliance on familiar faces. And it shows Jackson has succeeded at arguably the most important measure in the Trump administration: winning the president's trust. Trump, in a statement, called Jackson \"highly trained and qualified\" and said that, as a service member himself, Jackson \"has seen firsthand the tremendous sacrifice our veterans make and has a deep appreciation for the debt our great country owes them.\" Jackson's name was not among the roughly half-dozen candidates the White House was said to be actively reviewing in recent weeks. But Trump has formed a close bond with his doctor in the hours they've spent together at the White House and traveling on Air Force One. Dr. Richard Tubb, the longest-serving White House physician and the person who trained Jackson, said in a letter read at Jackson's star-turning briefing that members of the White House medical team have been \"figuratively Velcro-ed\" to Trump since the day after his election and that \"on January 20, 2017, Dr. Jackson became that Velcro. \" Tubb explained that Jackson's office is \"one of only a very few in the White House Residence proper,\" located directly across the hall from the president's private elevator. Trump has told aides and outside advisers that he is fond of Jackson personally, according to a person familiar with the president's thinking but not authorized to discuss private conversations. The president was also impressed with Jackson's performance at the podium in January, telling aides that he liked Jackson's smooth turn before the cameras and ability to field reporters' questions as he offered a glowing report on the president's physical and mental well-being. During the briefing, Jackson spent nearly an hour exhausting reporters' questions, extoling the president's \"incredible genes\" and joking that if only Trump had eaten a healthier diet over the last 20 years, \"he might live to be 200 years old.\" And he achieved a more consequential, if less noticed, goal: effectively stamping out questions that had been brewing about the president's mental fitness. A White House official said Shulkin himself had recommended Jackson for an undersecretary position at the VA last fall, and Trump ultimately decided he was more comfortable with Jackson than with other top candidates. The official was not authorized to discuss personnel matters and spoke on condition of anonymity. A native of Levelland, Texas, Jackson graduated from Texas A& M with a degree in marine biology and went on to attend medical school at the University of Texas Medical Branch, graduating in 1995. From there, he headed to the Navy, where he attended the Navy's Undersea Medical Officer Program and served in a number of roles, including diving safety officer at the Naval Safety Center in Norfolk, Virginia. In 2005, he joined the 2nd Marines, Combat Logistics Regiment 25, and deployed in support of Operation Iraqi Freedom as the emergency medicine physician in charge of resuscitative medicine for a Surgical Shock Trauma Platoon, according to the White House. Ned Price, a National Security Council spokesman under President Barack Obama who was served by Jackson, described the doctor as \"the guy you always want to be around\" because he's affable and funny. But Price added that it was difficult to believe the nomination was unrelated to the \"glowing assessment\" of Trump's health that the doctor had provided. On Capitol Hill, Jackson's selection was praised by Sen. Lindsey Graham, R-S.C. \"If there ever was a home run pick, Adm. Jackson fits the bill - combat surgeon, career military officer who loves his country and will provide the highest quality health care and services to our wonderful veterans,\" he said. But a major veterans' organization worried about whether Jackson had the experience to run the huge department. \"The administration needs to be ready to prove that he's qualified to run such a massive agency, a $200 billion bureaucracy,\" said Joe Chenelly, the national executive director of AMVETS. --- Associated Press writers Jonathan Lemire, Hope Yen, Darlene Superville and Zeke Miller contributed to this report. --- Follow Colvin on Twitter at https://twitter.com/colvinj",
+ "document_new": "WASHINGTON (AP) -- Ronny Jackson passed his screen test with President Donald Trump before casting even began. Jackson, the president's personal physician and surprise choice to lead the massive Department of Veterans Affairs, stood before the White House press corps in January to announce the results of the president's first physical in a performance that showed he was quick-witted, hard to throw off-kilter and unfailingly complimentary of Trump. Marveling at the 71-year-old president's good health, Jackson opined, \"It's just the way God made him. \" Now, the Navy doctor who has been entrusted with the health of the past three presidents is poised for a promotion, tapped to replace David Shulkin at an agency that has been badly bruised by scandal. Trump's unexpected pick is the latest example of the president's reliance on familiar faces. And it shows Jackson has succeeded at arguably the most important measure in the Trump administration: winning the president's trust. Trump, in a statement, called Jackson \"highly trained and qualified\" and said that, as a service member himself, Jackson \"has seen firsthand the tremendous sacrifice our veterans make and has a deep appreciation for the debt our great country owes them.\" Jackson's name was not among the roughly half-dozen candidates the White House was said to be actively reviewing in recent weeks. But Trump has formed a close bond with his doctor in the hours they've spent together at the White House and traveling on Air Force One. Dr. Richard Tubb, the longest-serving White House physician and the person who trained Jackson, said in a letter read at Jackson's star-turning briefing that members of the White House medical team have been \"figuratively Velcro-ed\" to Trump since the day after his election and that \"on January 20, 2017, Dr. Jackson became that Velcro. \" Tubb explained that Jackson's office is \"one of only a very few in the White House Residence proper,\" located directly across the hall from the president's private elevator. Trump has told aides and outside advisers that he is fond of Jackson personally, according to a person familiar with the president's thinking but not authorized to discuss private conversations. The president was also impressed with Jackson's performance at the podium in January, telling aides that he liked Jackson's smooth turn before the cameras and ability to field reporters' questions as he offered a glowing report on the president's physical and mental well-being. During the briefing, Jackson spent nearly an hour exhausting reporters' questions, extoling the president's \"incredible genes\" and joking that if only Trump had eaten a healthier diet over the last 20 years, \"he might live to be 200 years old.\" And he achieved a more consequential, if less noticed, goal: effectively stamping out questions that had been brewing about the president's mental fitness. A White House official said Shulkin himself had recommended Jackson for an undersecretary position at the VA last fall, and Trump ultimately decided he was more comfortable with Jackson than with other top candidates. The official was not authorized to discuss personnel matters and spoke on condition of anonymity. A native of Levelland, Texas, Jackson graduated from Texas A& M with a degree in marine biology and went on to attend medical school at the University of Texas Medical Branch, graduating in 1995. From there, he headed to the Navy, where he attended the Navy's Undersea Medical Officer Program and served in a number of roles, including diving safety officer at the Naval Safety Center in Norfolk, Virginia. In 2005, he joined the 2nd Marines, Combat Logistics Regiment 25, and deployed in support of Operation Iraqi Freedom as the emergency medicine physician in charge of resuscitative medicine for a Surgical Shock Trauma Platoon, according to the White House. Ned Price, a National Security Council spokesman under President Barack Obama who was served by Jackson, described the doctor as \"the guy you always want to be around\" because he's affable and funny. But Price added that it was difficult to believe the nomination was unrelated to the \"glowing assessment\" of Trump's health that the doctor had provided. On Capitol Hill, Jackson's selection was praised by Sen. Lindsey Graham, R-S.C. \"If there ever was a home run pick, Adm. Jackson fits the bill - combat surgeon, career military officer who loves his country and will provide the highest quality health care and services to our wonderful veterans,\" he said. But a major veterans' organization worried about whether Jackson had the experience to run the huge department. \"The administration needs to be ready to prove that he's qualified to run such a massive agency, a $200 billion bureaucracy,\" said Joe Chenelly, the national executive director of AMVETS. --- Associated Press writers Jonathan Lemire, Hope Yen, Darlene Superville and Zeke Miller contributed to this report. --- Follow Colvin on Twitter at https://twitter.com/colvinj",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "How many presidents has the Navy doctor been entrusted with the health of? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "Who is the national executive director of AMVETS? Answer in as few words as possible."
+  },
+  {
+   "task_id": "bool_001",
+   "type": "boolean",
+   "prompt": "Has the Navy doctor been entrusted with the health of more than 2 presidents? Answer Yes or No."
+  },
+  {
+   "task_id": "bool_002",
+   "type": "boolean",
+   "prompt": "Has the Navy doctor been entrusted with the health of more than 4 presidents? Answer Yes or No."
+  },
+  {
+   "task_id": "bool_003",
+   "type": "boolean",
+   "prompt": "Is Joe Chenelly the national executive director of AMVETS? Answer Yes or No."
+  },
+  {
+   "task_id": "bool_004",
+   "type": "boolean",
+   "prompt": "Is Jane Smith the national executive director of AMVETS? Answer Yes or No."
+  }
+ ]
+}

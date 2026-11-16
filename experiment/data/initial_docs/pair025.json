@@ -1,0 +1,328 @@
+{
+ "pair_id": "ap_926_2_3",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "DALLAS (AP) -- The Boy Scouts of America announced Monday that it will allow transgender children who identify as boys to enroll in its boys only programs."
+  },
+  {
+   "blip_idx": 1,
+   "text": "The organization said it had made the decision to begin basing enrollment in its boys-only programs on the gender a child or parent lists on the application to become a scout."
+  },
+  {
+   "blip_idx": 2,
+   "text": "The Boy Scouts had previously held a policy that relied on the gender listed on a child's birth certificate for those programs."
+  },
+  {
+   "blip_idx": 3,
+   "text": "The organization's leadership had considered a recent case in Secaucus, New Jersey, where an 8-year-old transgender child had been asked to leave his Scout troop after parents and leaders found out he is transgender."
+  },
+  {
+   "blip_idx": 4,
+   "text": "But the statement issued Monday said the change was made because of the larger conversation about gender identity going on around the country."
+  },
+  {
+   "blip_idx": 5,
+   "text": "\"For more than 100 years, the Boy Scouts of America, along with schools, youth sports and other youth organizations, have ultimately deferred to the information on an individual's birth certificate to determine eligibility for our single-gender programs,\" the statement said. \"However, that approach is no longer sufficient as communities and state laws are interpreting gender identity differently, and these laws vary widely from state to state."
+  },
+  {
+   "blip_idx": 6,
+   "text": "\" Kristie Maldonado said she had mixed emotions Monday night when a representative of Boy Scouts of America called to tell her the organization would allow her son, Joe, to re-enroll in his troop after he was asked to leave last fall."
+  },
+  {
+   "blip_idx": 7,
+   "text": "Maldonado said she would like her son to rejoin the Secaucus troop, but only if the scout leader who made the previous decision leaves."
+  },
+  {
+   "blip_idx": 8,
+   "text": "She said Joe, who will turn 9 on Wednesday, has spoken publicly about the incident."
+  },
+  {
+   "blip_idx": 9,
+   "text": "She called him a \"ham\" and noted he had a big birthday party on Saturday with the mayor of Secaucus in attendance."
+  },
+  {
+   "blip_idx": 10,
+   "text": "\"I'm so grateful."
+  },
+  {
+   "blip_idx": 11,
+   "text": "I really am that they're accepting and that there won't be any issues."
+  },
+  {
+   "blip_idx": 12,
+   "text": "They (other transgender youth) won't have to go through what my son went through,\" Maldonado said when reached by phone Monday. \"It's a big change for everybody that all are accepted now ..."
+  },
+  {
+   "blip_idx": 13,
+   "text": "I'm so delighted that they finally called and they did say this, but I'm still angry."
+  },
+  {
+   "blip_idx": 14,
+   "text": "\" Maldonado said the earlier decision to remove her son from the troop made him feel different, and she wanted to make sure he knew the troop made a mistake."
+  },
+  {
+   "blip_idx": 15,
+   "text": "The Boys Scouts said the enrollment decision goes into effect immediately."
+  },
+  {
+   "blip_idx": 16,
+   "text": "\"Our organization's local councils will help find units that can provide for the best interest of the child,\" the statement said."
+  },
+  {
+   "blip_idx": 17,
+   "text": "Zach Wahls, co-founder of the groups Scouts for Equality, called the decision historic."
+  },
+  {
+   "blip_idx": 18,
+   "text": "\"The decision to allow transgender boys to participate in the Cub Scouts and the Boy Scouts is an important step forward for this American institution,\" he wrote in a statement posted to social media."
+  },
+  {
+   "blip_idx": 19,
+   "text": "\"We are incredibly proud of Joe Maldonado - the transgender boy from New Jersey whose expulsion last year ignited this controversy - and his mother Kristie for their courage in doing what they knew was right."
+  },
+  {
+   "blip_idx": 20,
+   "text": "We are also proud of the Boy Scouts for deciding to do the right thing."
+  },
+  {
+   "blip_idx": 21,
+   "text": "\" Boy Scouts of America leaders lifted a blanket ban on gay troop leaders and employees in July 2015 amid intense pressure."
+  },
+  {
+   "blip_idx": 22,
+   "text": "The group had, after heated internal debate, decided in 2013 to allow openly gay youth as scouts."
+  },
+  {
+   "blip_idx": 23,
+   "text": "The national Girl Scouts organization, which is not affiliated with the Boy Scouts, has accepted transgender members for years."
+  },
+  {
+   "blip_idx": 24,
+   "text": "--- Associated Press writer Josh Cornfield in Trenton, New Jersey, contributed to this report."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.1375800322959924,
+    "dist_new": 0.1375800322959924
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "DALLAS (AP) -- The Boy Scouts of America announced Monday that it will allow transgender children who identify as boys to enroll in its boys only programs. The organization said it had made the decision to begin basing enrollment in its boys-only programs on the gender a child or parent lists on the application to become a scout. The Boy Scouts had previously held a policy that relied on the gender listed on a child's birth certificate for those programs. The organization's leadership had considered a recent case in Secaucus, New Jersey, where an 8-year-old transgender child had been asked to leave his Scout troop after parents and leaders found out he is transgender. But the statement issued Monday said the change was made because of the larger conversation about gender identity going on around the country. \"For more than 100 years, the Boy Scouts of America, along with schools, youth sports and other youth organizations, have ultimately deferred to the information on an individual's birth certificate to determine eligibility for our single-gender programs,\" the statement said. \"However, that approach is no longer sufficient as communities and state laws are interpreting gender identity differently, and these laws vary widely from state to state. \" Kristie Maldonado said she had mixed emotions Monday night when a representative of Boy Scouts of America called to tell her the organization would allow her son, Joe, to re-enroll in his troop after he was asked to leave last fall. Maldonado said she would like her son to rejoin the Secaucus troop, but only if the scout leader who made the previous decision leaves. She said Joe, who will turn 9 on Wednesday, has spoken publicly about the incident. She called him a \"ham\" and noted he had a big birthday party on Saturday with the mayor of Secaucus in attendance. \"I'm so grateful. I really am that they're accepting and that there won't be any issues. They (other transgender youth) won't have to go through what my son went through,\" Maldonado said when reached by phone Monday. \"It's a big change for everybody that all are accepted now ... I'm so delighted that they finally called and they did say this, but I'm still angry. \" Maldonado said the earlier decision to remove her son from the troop made him feel different, and she wanted to make sure he knew the troop made a mistake. The Boys Scouts said the enrollment decision goes into effect immediately. \"Our organization's local councils will help find units that can provide for the best interest of the child,\" the statement said. Zach Wahls, co-founder of the groups Scouts for Equality, called the decision historic. \"The decision to allow transgender boys to participate in the Cub Scouts and the Boy Scouts is an important step forward for this American institution,\" he wrote in a statement posted to social media. \"We are incredibly proud of Joe Maldonado - the transgender boy from New Jersey whose expulsion last year ignited this controversy - and his mother Kristie for their courage in doing what they knew was right. We are also proud of the Boy Scouts for deciding to do the right thing. \" Boy Scouts of America leaders lifted a blanket ban on gay troop leaders and employees in July 2015 amid intense pressure. The group had, after heated internal debate, decided in 2013 to allow openly gay youth as scouts. The national Girl Scouts organization, which is not affiliated with the Boy Scouts, has accepted transgender members for years. --- Associated Press writer Josh Cornfield in Trenton, New Jersey, contributed to this report.",
+ "document_new": "DALLAS (AP) -- The Boy Scouts of America announced Monday that it will allow transgender children who identify as boys to enroll in its boys only programs. The organization said it had made the decision to begin basing enrollment in its boys-only programs on the gender a child or parent lists on the application to become a scout. The Boy Scouts had previously held a policy that relied on the gender listed on a child's birth certificate for those programs. The organization's leadership had considered a recent case in Secaucus, New Jersey, where an 8-year-old transgender child had been asked to leave his Scout troop after parents and leaders found out he is transgender. But the statement issued Monday said the change was made because of the larger conversation about gender identity going on around the country. \"For more than 100 years, the Boy Scouts of America, along with schools, youth sports and other youth organizations, have ultimately deferred to the information on an individual's birth certificate to determine eligibility for our single-gender programs,\" the statement said. \"However, that approach is no longer sufficient as communities and state laws are interpreting gender identity differently, and these laws vary widely from state to state. \" Kristie Maldonado said she had mixed emotions Monday night when a representative of Boy Scouts of America called to tell her the organization would allow her son, Joe, to re-enroll in his troop after he was asked to leave last fall. Maldonado said she would like her son to rejoin the Secaucus troop, but only if the scout leader who made the previous decision leaves. She said Joe, who will turn 9 on Wednesday, has spoken publicly about the incident. She called him a \"ham\" and noted he had a big birthday party on Saturday with the mayor of Secaucus in attendance. \"I'm so grateful. I really am that they're accepting and that there won't be any issues. They (other transgender youth) won't have to go through what my son went through,\" Maldonado said when reached by phone Monday. \"It's a big change for everybody that all are accepted now ... I'm so delighted that they finally called and they did say this, but I'm still angry. \" Maldonado said the earlier decision to remove her son from the troop made him feel different, and she wanted to make sure he knew the troop made a mistake. The Boy Scouts said the enrollment decision goes into effect immediately. \"Our organization's local councils will help find units that can provide for the best interest of the child,\" the statement said. Zach Wahls, co-founder of the groups Scouts for Equality, called the decision historic. \"The decision to allow transgender boys to participate in the Cub Scouts and the Boy Scouts is an important step forward for this American institution,\" he wrote in a statement posted to social media. \"We are incredibly proud of Joe Maldonado - the transgender boy from New Jersey whose expulsion last year ignited this controversy - and his mother Kristie for their courage in doing what they knew was right. We are also proud of the Boy Scouts for deciding to do the right thing. \" Boy Scouts of America leaders lifted a blanket ban on gay troop leaders and employees in July 2015 amid intense pressure. The group had, after heated internal debate, decided in 2013 to allow openly gay youth as scouts. The national Girl Scouts organization, which is not affiliated with the Boy Scouts, has accepted transgender members for years. --- Associated Press writer Josh Cornfield in Trenton, New Jersey, contributed to this report.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What is the name of the organization that made the enrollment decision? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "In which New Jersey town did the transgender child case occur? Answer in as few words as possible."
+  }
+ ]
+}

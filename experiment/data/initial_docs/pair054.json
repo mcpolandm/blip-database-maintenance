@@ -1,0 +1,388 @@
+{
+ "pair_id": "ap_1209_1_2",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "AUSTIN, Texas (AP) -- Texas Republicans were poised Wednesday to take a big step toward banning \"sanctuary cities\" in their state, debating a bill through which police chiefs and sheriffs could even be jailed for not cooperating fully with federal immigration authorities."
+  },
+  {
+   "blip_idx": 1,
+   "text": "Although Democrats don't have the votes in the Republican-controlled Legislature to stop the bill from going to Republican Gov."
+  },
+  {
+   "blip_idx": 2,
+   "text": "Greg Abbott, who made such a ban a priority, they vowed to fight it at every step, promising hours of emotionally charged debate on Wednesday before the Texas House votes."
+  },
+  {
+   "blip_idx": 3,
+   "text": "Under the bill, the state could withhold funding from local governments for acting as sanctuary cities, even as the Trump administration's efforts to do so nationally have hit roadblocks."
+  },
+  {
+   "blip_idx": 4,
+   "text": "Other Republican-controlled states have pushed for similar polices in recent years, just as more liberal ones have done the opposite."
+  },
+  {
+   "blip_idx": 5,
+   "text": "But Texas would be the first in which police chiefs and sheriffs could be jailed for not helping enforce immigration law."
+  },
+  {
+   "blip_idx": 6,
+   "text": "They could also lose their jobs."
+  },
+  {
+   "blip_idx": 7,
+   "text": "The bill is needed to \"keep the public safe and remove bad people from the street,\" said Rep."
+  },
+  {
+   "blip_idx": 8,
+   "text": "Charlie Geren of Fort Worth."
+  },
+  {
+   "blip_idx": 9,
+   "text": "\"The bill does not target or discriminate against illegal immigrants. This bill specifically targets criminals who happen to be here illegally,\" Geren said."
+  },
+  {
+   "blip_idx": 10,
+   "text": "The term \"sanctuary cities\" has no legal definition, but Republicans want local police to help federal authorities as part of a larger effort to crack down on criminal suspects who are in the U.S. illegally."
+  },
+  {
+   "blip_idx": 11,
+   "text": "The Texas House bill would allow local law enforcement officers to inquire about federal immigration status if someone is arrested."
+  },
+  {
+   "blip_idx": 12,
+   "text": "A version passed by the state Senate in March would allow immigration inquires of anyone who is detained, including during traffic stops."
+  },
+  {
+   "blip_idx": 13,
+   "text": "President Donald Trump is trying to withhold federal funding for sanctuary cities, but on Tuesday, a federal judge in California issued a preliminary injunction preventing him from doing so."
+  },
+  {
+   "blip_idx": 14,
+   "text": "Texas doesn't currently have any sanctuary cities, but that hasn't stopped Abbott and Republican legislative leaders from pushing aggressively for one."
+  },
+  {
+   "blip_idx": 15,
+   "text": "Sally Hernandez, the sheriff of Travis County, which includes liberal Austin, enraged conservatives by refusing to honor federal requests to hold suspects for possible deportation if the suspects weren't arrested for immigration offenses or serious crimes such as murder."
+  },
+  {
+   "blip_idx": 16,
+   "text": "But Hernandez softened her policy after Abbott cut funding to the county, saying decisions would be made on a case-by-case basis, and she's said she will conform to the state's ban if it becomes law."
+  },
+  {
+   "blip_idx": 17,
+   "text": "Fierce resistance has come from Texas Democrats and immigrants' rights organizations, as well as from some in law enforcement and top business lobbies."
+  },
+  {
+   "blip_idx": 18,
+   "text": "Opponents say it opens the door to discrimination and intimidation."
+  },
+  {
+   "blip_idx": 19,
+   "text": "Many sheriffs and police chiefs in heavily Democratic areas warn that it would make their jobs harder if immigrant communities - including crime victims and witnesses - become afraid of the police."
+  },
+  {
+   "blip_idx": 20,
+   "text": "\"This is a show me your papers law."
+  },
+  {
+   "blip_idx": 21,
+   "text": "This is what everybody's afraid of,\" said Rep."
+  },
+  {
+   "blip_idx": 22,
+   "text": "Cesar Blanco, a Democrat from the border city of El Paso."
+  },
+  {
+   "blip_idx": 23,
+   "text": "Though House Democrats don't have the votes to block the bill, they planned to file enough challenges to force hours of debate."
+  },
+  {
+   "blip_idx": 24,
+   "text": "\"I have seen the fear of children who worry their parents are going to be deported,\" said state Rep."
+  },
+  {
+   "blip_idx": 25,
+   "text": "Victoria Neave, of Dallas, who has staged a four-day fast to protest the bill."
+  },
+  {
+   "blip_idx": 26,
+   "text": "Abbott has made the issue one of his \"emergency\" items of the Texas legislative session, and Republicans have it on course to become state law regardless of what happens to Trump's federal order."
+  },
+  {
+   "blip_idx": 27,
+   "text": "House passage Wednesday wouldn't get it there yet."
+  },
+  {
+   "blip_idx": 28,
+   "text": "The state Senate previously passed a similar but different version and the two sides must compromise before sending a bill to Abbott."
+  },
+  {
+   "blip_idx": 29,
+   "text": "Similar efforts have collapsed in recent years."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 29,
+    "new": 29,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.08832630417155372,
+    "dist_new": 0.08832630417155374
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 28,
+    "new": 28,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "AUSTIN, Texas (AP) -- Texas Republicans were poised Wednesday to take a big step toward banning \"sanctuary cities\" in their state, debating a bill through which police chiefs and sheriffs could even be jailed for not cooperating fully with federal immigration authorities. Although Democrats don't have the votes in the Republican-controlled Legislature to stop the bill from going to Republican Gov. Greg Abbott, who made such a ban a priority, they vowed to fight it at every step, promising hours of emotionally charged debate on Wednesday before the Texas House votes. Under the bill, the state could withhold funding from local governments for acting as sanctuary cities, even as the Trump administration's efforts to do so nationally have hit roadblocks. Other Republican-controlled states have pushed for similar polices in recent years, just as more liberal ones have done the opposite. But Texas would be the first in which police chiefs and sheriffs could be jailed for not helping enforce immigration law. They could also lose their jobs. The bill is needed to \"keep the public safe and remove bad people from the street,\" said Rep. Charlie Geren of Fort Worth. \"The bill does not target or discriminate against illegal immigrants. This bill specifically targets criminals who happen to be here illegally,\" Geren said. The term \"sanctuary cities\" has no legal definition, but Republicans want local police to help federal authorities as part of a larger effort to crack down on criminal suspects who are in the U.S. illegally. The Texas House bill would allow local law enforcement officers to inquire about federal immigration status if someone is arrested. A version passed by the state Senate in March would allow immigration inquires of anyone who is detained, including during traffic stops. President Donald Trump is trying to withhold federal funding for sanctuary cities, but on Tuesday, a federal judge in California issued a preliminary injunction preventing him from doing so. Texas doesn't currently have any sanctuary cities, but that hasn't stopped Abbott and Republican legislative leaders from pushing aggressively for one. Sally Hernandez, the sheriff of Travis County, which includes liberal Austin, enraged conservatives by refusing to honor federal requests to hold suspects for possible deportation if the suspects weren't arrested for immigration offenses or serious crimes such as murder. But Hernandez softened her policy after Abbott cut funding to the county, saying decisions would be made on a case-by-case basis, and she's said she will conform to the state's ban if it becomes law. Fierce resistance has come from Texas Democrats and immigrants' rights organizations, as well as from some in law enforcement and top business lobbies. Opponents say it opens the door to discrimination and intimidation. Many sheriffs and police chiefs in heavily Democratic areas warn that it would make their jobs harder if immigrant communities - including crime victims and witnesses - become afraid of the police. \"This is a show me your papers law. This is what everybody's afraid of,\" said Rep. Cesar Blanco, a Democrat from the border city of El Paso. Though House Democrats don't have the votes to block the bill, they planned to file enough challenges to force hours of debate. \"I have seen the fear of children who worry their parents are going to be deported,\" said state Rep. Victoria Neave, of Dallas, who has staged a four-day fast to protest the bill. Abbott has made the issue one of his \"emergency\" items of the Texas legislative session, and Republicans have it on course to become state law regardless of what happens to Trump's federal order. House passage Wednesday wouldn't get it there yet. The state Senate previously passed a similar but different version and the two sides must compromise before sending a bill to Abbott. Similar efforts have collapsed in recent years.",
+ "document_new": "AUSTIN, Texas (AP) -- Texas Republicans were poised Wednesday to take a big step toward banning \"sanctuary cities\" in their state, debating a bill through which police chiefs and sheriffs could even be jailed for not cooperating fully with federal immigration authorities. Although Democrats don't have the votes in the Republican-controlled Legislature to stop the bill from going to Republican Gov. Greg Abbott, who made such a ban a priority, they vowed to fight it at every step, promising hours of emotionally charged debate on Wednesday before the Texas House votes. Under the bill, the state could withhold funding from local governments for acting as sanctuary cities, even as the Trump administration's efforts to do so nationally have hit roadblocks. Other Republican-controlled states have pushed for similar polices in recent years, just as more liberal ones have done the opposite. But Texas would be the first in which police chiefs and sheriffs could be jailed for not helping enforce immigration law. They could also lose their jobs. The bill is needed to \"keep the public safe and remove bad people from the street,\" said Rep. Charlie Geren of Fort Worth. \"The bill does not target or discriminate against illegal immigrants. This bill specifically targets criminals who happen to be here illegally,\" Geren said. The term \"sanctuary cities\" has no legal definition, but Republicans want local police to help federal authorities as part of a larger effort to crack down on criminal suspects who are in the U.S. illegally. The Texas House bill would allow local law enforcement officers to inquire about federal immigration status if someone is arrested. A version passed by the state Senate in March would allow immigration inquires of anyone who is detained, including during traffic stops. President Donald Trump is trying to withhold federal funding for sanctuary cities, but on Tuesday, a federal judge in California issued a preliminary injunction preventing him from doing so. Texas doesn't currently have any sanctuary cities, but that hasn't stopped Abbott and Republican legislative leaders from pushing aggressively for a ban. Sally Hernandez, the sheriff of Travis County, which includes liberal Austin, enraged conservatives by refusing to honor federal requests to hold suspects for possible deportation if the suspects weren't arrested for immigration offenses or serious crimes such as murder. But Hernandez softened her policy after Abbott cut funding to the county, saying decisions would be made on a case-by-case basis, and she's said she will conform to the state's ban if it becomes law. Fierce resistance has come from Texas Democrats and immigrants' rights organizations, as well as from some in law enforcement and top business lobbies. Opponents say it opens the door to discrimination and intimidation. Many sheriffs and police chiefs in heavily Democratic areas warn that it would make their jobs harder if immigrant communities - including crime victims and witnesses - become afraid of the police. \"This is a show me your papers law. This is what everybody's afraid of,\" said Rep. Cesar Blanco, a Democrat from the border city of El Paso. Though House Democrats don't have the votes to block the bill, they planned to file enough challenges to force hours of debate. \"I have seen the fear of children who worry their parents are going to be deported,\" said state Rep. Victoria Neave, of Dallas, who has staged a four-day fast to protest the bill. Abbott has made the issue one of his \"emergency\" items of the Texas legislative session, and Republicans have it on course to become state law regardless of what happens to Trump's federal order. House passage Wednesday wouldn't get it there yet. The state Senate previously passed a similar but different version and the two sides must compromise before sending a bill to Abbott. Similar efforts have collapsed in recent years.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What are Abbott and Republican legislative leaders pushing for in Texas? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "What must the two sides do before sending a bill to Abbott? Answer in as few words as possible."
+  }
+ ]
+}

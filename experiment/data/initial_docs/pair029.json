@@ -1,0 +1,343 @@
+{
+ "pair_id": "ap_814_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "KABUL, Afghanistan (AP) -- The only insurgent leader to sign a peace pact with Afghanistan's government will return to the country within weeks, his chief negotiator says, in a move that could shake up Afghan politics and complicate the much wider war against the Taliban."
+  },
+  {
+   "blip_idx": 1,
+   "text": "Gulbuddin Hekmatyar, a former warlord who battled U.S. forces after the 2001 invasion and nursed a bitter rivalry with other Afghan factions, agreed to lay down arms last year."
+  },
+  {
+   "blip_idx": 2,
+   "text": "Amin Karim, his chief negotiator, told The Associated Press earlier this week that he would return to the capital in \"a matter of weeks, not months.\" Hekmatyar is seen as a potential rival to President Ashraf Ghani and Chief Executive Abdullah Abdullah, who have governed the country through a shaky, U.S.-brokered power-sharing agreement since the disputed elections of 2014."
+  },
+  {
+   "blip_idx": 3,
+   "text": "His return could inject new political uncertainty as the government struggles to confront a reinvigorated Taliban that has been advancing on several fronts."
+  },
+  {
+   "blip_idx": 4,
+   "text": "The former warlord battled the Soviets in the 1980s and then took part in the civil war that erupted after their withdrawal, clashing with the so-called Northern Alliance, in which Abdullah was a leading figure."
+  },
+  {
+   "blip_idx": 5,
+   "text": "Hekmatyar was driven out when the Taliban seized power in 1996, but returned after the American invasion, vowing to resist the foreign \"occupation.\" His forces were largely confined to just two provinces, however, and have carried out few attacks in recent years."
+  },
+  {
+   "blip_idx": 6,
+   "text": "Last year he became the only insurgent leader to sign a peace agreement with the Afghan government, in what many hoped would provide a model for a wider reconciliation with the Taliban."
+  },
+  {
+   "blip_idx": 7,
+   "text": "But he has yet to return to the fold."
+  },
+  {
+   "blip_idx": 8,
+   "text": "His Hezb-e-Islami party wants his name taken off the U.N. and the U.S."
+  },
+  {
+   "blip_idx": 9,
+   "text": "Treasury lists of wanted terrorists."
+  },
+  {
+   "blip_idx": 10,
+   "text": "Karim declined to say whether Hekmatyar would return to Afghanistan without first being removed from the lists, and there has been no indication that the U.N. or Washington is considering his removal."
+  },
+  {
+   "blip_idx": 11,
+   "text": "Both Canada and Britain consider Hezb-i-Islami to be a terrorist group."
+  },
+  {
+   "blip_idx": 12,
+   "text": "Hekmatyar, like Ghani, hails from Afghanistan's ethnic Pashtun majority, and a revitalized Hezb-e-Islami could become a powerful player in the 2019 parliamentary elections, says Andrew Wilder, vice president of the Asia Program at the U.S."
+  },
+  {
+   "blip_idx": 13,
+   "text": "Institute of Peace."
+  },
+  {
+   "blip_idx": 14,
+   "text": "\"Hekmatyar's return to Kabul would certainly be significant,\" he said. \"But the significance of his return, if it happens, will have a lot more to do with the impact of an influential Pashtun political figure who had been sidelined re-entering the political fray, and much less to do with moving the peace process forward."
+  },
+  {
+   "blip_idx": 15,
+   "text": "The prospect of his return has already caused Abdullah's fractured Jamiat-e-Islami Party to try to unify its ranks in order to better compete, Wilder said in an email interview."
+  },
+  {
+   "blip_idx": 16,
+   "text": "Abdullah and Ghani are also political rivals, and traded accusations of fraud after the hard-fought election three years ago."
+  },
+  {
+   "blip_idx": 17,
+   "text": "No one expects Hekmatyar's return to end the 15-year-old war with the Taliban, who control large swathes of rural territory in the south and east, and rule eight districts outright."
+  },
+  {
+   "blip_idx": 18,
+   "text": "A three-way struggle for power among Ghani, Abdullah and Hekmatyar could further divide the government at a critical time."
+  },
+  {
+   "blip_idx": 19,
+   "text": "\"The Taliban has ample momentum on the battlefield and is gaining territory, while Hezb-i-Islami is a shadow of its former self and not particularly active,\" said Michael Kugelman, deputy director of the Washington-based Wilson Center's South Asia program."
+  },
+  {
+   "blip_idx": 20,
+   "text": "\"I simply don't think the Taliban will pay much mind to Hekmatyar and his peace deal with Kabul."
+  },
+  {
+   "blip_idx": 21,
+   "text": "\" Karim, who negotiated the peace pact, lives behind two cordons of security in a heavily guarded Kabul villa."
+  },
+  {
+   "blip_idx": 22,
+   "text": "He accused unnamed Afghan rivals and regional countries of trying to sabotage Hekmatyar's return, saying several Hezb-i-Islami commanders who ventured into the capital have been arrested."
+  },
+  {
+   "blip_idx": 23,
+   "text": "The government says it remains committed to the peace deal and Hekmatyar's return, which government spokesman Mohammad Haroon Chakhansuri said would be a \"positive\" step."
+  },
+  {
+   "blip_idx": 24,
+   "text": "---- Kabul writer Amir Shah contributed to this report."
+  },
+  {
+   "blip_idx": 25,
+   "text": "Follow Kathy Gannon at www.twitter.com/kathygannon"
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "added",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": [
+   6
+  ]
+ },
+ "document_old": "KABUL, Afghanistan (AP) -- The only insurgent leader to sign a peace pact with Afghanistan's government will return to the country within weeks, his chief negotiator says, in a move that could shake up Afghan politics and complicate the much wider war against the Taliban. Gulbuddin Hekmatyar, a former warlord who battled U.S. forces after the 2001 invasion and nursed a bitter rivalry with other Afghan factions, agreed to lay down arms last year. Amin Karim, his chief negotiator, told The Associated Press earlier this week that he would return to the capital in \"a matter of weeks, not months.\" Hekmatyar is seen as a potential rival to President Ashraf Ghani and Chief Executive Abdullah Abdullah, who have governed the country through a shaky, U.S.-brokered power-sharing agreement since the disputed elections of 2014. His return could inject new political uncertainty as the government struggles to confront a reinvigorated Taliban that has been advancing on several fronts. The former warlord battled the Soviets in the 1980s and then took part in the civil war that erupted after their withdrawal, clashing with the so-called Northern Alliance, in which Abdullah was a leading figure. Hekmatyar was driven out when the Taliban seized power in 1996, but returned after the American invasion, vowing to resist the foreign \"occupation.\" His forces were largely confined to just two provinces, however, and have carried out few attacks in recent years. Last year he became the only insurgent leader to sign a peace agreement with the Afghan government, in what many hoped would provide a model for a wider reconciliation with the Taliban. But he has yet to return to the fold. His Hezb-e-Islami party wants his name taken off the U.N. and the U.S. Treasury lists of wanted terrorists. Karim declined to say whether Hekmatyar would return to Afghanistan without first being removed from the lists, and there has been no indication that the U.N. or Washington is considering his removal. Both Canada and Britain consider Hezb-i-Islami to be a terrorist group. Hekmatyar, like Ghani, hails from Afghanistan's ethnic Pashtun majority, and a revitalized Hezb-e-Islami could become a powerful player in the 2019 parliamentary elections, says Andrew Wilder, vice president of the Asia Program at the U.S. Institute of Peace. \"Hekmatyar's return to Kabul would certainly be significant,\" he said. \"But the significance of his return, if it happens, will have a lot more to do with the impact of an influential Pashtun political figure who had been sidelined re-entering the political fray, and much less to do with moving the peace process forward. The prospect of his return has already caused Abdullah's fractured Jamiat-e-Islami Party to try to unify its ranks in order to better compete, Wilder said in an email interview. Abdullah and Ghani are also political rivals, and traded accusations of fraud after the hard-fought election three years ago. No one expects Hekmatyar's return to end the 15-year-old war with the Taliban, who control large swathes of rural territory in the south and east, and rule eight districts outright. A three-way struggle for power among Ghani, Abdullah and Hekmatyar could further divide the government at a critical time. \"The Taliban has ample momentum on the battlefield and is gaining territory, while Hezb-i-Islami is a shadow of its former self and not particularly active,\" said Michael Kugelman, deputy director of the Washington-based Wilson Center's South Asia program. \"I simply don't think the Taliban will pay much mind to Hekmatyar and his peace deal with Kabul. \" Karim, who negotiated the peace pact, lives behind two cordons of security in a heavily guarded Kabul villa. He accused unnamed Afghan rivals and regional countries of trying to sabotage Hekmatyar's return, saying several Hezb-i-Islami commanders who ventured into the capital have been arrested. The government says it remains committed to the peace deal and Hekmatyar's return, which government spokesman Mohammad Haroon Chakhansuri said would be a \"positive\" step. ---- Kabul writer Amir Shah contributed to this report. Follow Kathy Gannon at www.twitter.com/kathygannon",
+ "document_new": "KABUL, Afghanistan (AP) -- The only insurgent leader to sign a peace pact with Afghanistan's government will return to the country within weeks, his chief negotiator says, in a move that could shake up Afghan politics and complicate the much wider war against the Taliban. Gulbuddin Hekmatyar, a former warlord who battled U.S. forces after the 2001 invasion and nursed a bitter rivalry with other Afghan factions, agreed to lay down arms last year. Amin Karim, his chief negotiator, told The Associated Press earlier this week that he would return to the capital in \"a matter of weeks, not months.\" Hekmatyar is seen as a potential rival to President Ashraf Ghani and Chief Executive Abdullah Abdullah, who have governed the country through a shaky, U.S.-brokered power-sharing agreement since the disputed elections of 2014. His return could inject new political uncertainty as the government struggles to confront a reinvigorated Taliban that has been advancing on several fronts. The former warlord battled the Soviets in the 1980s and then took part in the civil war that erupted after their withdrawal, clashing with the so-called Northern Alliance, in which Abdullah was a leading figure. Hekmatyar was driven out when the Taliban seized power in 1996, but returned after the American invasion, vowing to resist the foreign \"occupation.\" His forces were largely confined to just two provinces, however, and have carried out few attacks in recent years. He is believed to be in hiding somewhere in the eastern Kunar province, where he enjoys popular support, and to make occasional trips into Pakistan across the nearby border. Last year he became the only insurgent leader to sign a peace agreement with the Afghan government, in what many hoped would provide a model for a wider reconciliation with the Taliban. But he has yet to return to the fold. His Hezb-e-Islami party wants his name taken off the U.N. and the U.S. Treasury lists of wanted terrorists. Karim declined to say whether Hekmatyar would return to Afghanistan without first being removed from the lists, and there has been no indication that the U.N. or Washington is considering his removal. Both Canada and Britain consider Hezb-i-Islami to be a terrorist group. Hekmatyar, like Ghani, hails from Afghanistan's ethnic Pashtun majority, and a revitalized Hezb-e-Islami could become a powerful player in the 2019 parliamentary elections, says Andrew Wilder, vice president of the Asia Program at the U.S. Institute of Peace. \"Hekmatyar's return to Kabul would certainly be significant,\" he said. \"But the significance of his return, if it happens, will have a lot more to do with the impact of an influential Pashtun political figure who had been sidelined re-entering the political fray, and much less to do with moving the peace process forward. The prospect of his return has already caused Abdullah's fractured Jamiat-e-Islami Party to try to unify its ranks in order to better compete, Wilder said in an email interview. Abdullah and Ghani are also political rivals, and traded accusations of fraud after the hard-fought election three years ago. No one expects Hekmatyar's return to end the 15-year-old war with the Taliban, who control large swathes of rural territory in the south and east, and rule eight districts outright. A three-way struggle for power among Ghani, Abdullah and Hekmatyar could further divide the government at a critical time. \"The Taliban has ample momentum on the battlefield and is gaining territory, while Hezb-i-Islami is a shadow of its former self and not particularly active,\" said Michael Kugelman, deputy director of the Washington-based Wilson Center's South Asia program. \"I simply don't think the Taliban will pay much mind to Hekmatyar and his peace deal with Kabul. \" Karim, who negotiated the peace pact, lives behind two cordons of security in a heavily guarded Kabul villa. He accused unnamed Afghan rivals and regional countries of trying to sabotage Hekmatyar's return, saying several Hezb-e-Islami commanders who ventured into the capital have been arrested. The government says it remains committed to the peace deal and Hekmatyar's return, which government spokesman Mohammad Haroon Chakhansuri said would be a \"positive\" step. ---- Kabul writer Amir Shah contributed to this report. Follow Kathy Gannon at www.twitter.com/kathygannon",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "Who agreed to lay down arms last year? Answer in as few words as possible."
+  },
+  {
+   "task_id": "bool_001",
+   "type": "boolean",
+   "prompt": "Is the eastern Kunar province mentioned as the location where the individual is believed to be hiding and making trips into Pakistan? Answer Yes or No."
+  }
+ ]
+}

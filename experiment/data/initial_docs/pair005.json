@@ -1,0 +1,266 @@
+{
+ "pair_id": "ap_13848_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "NEW YORK (AP) -- PBS has suspended radio and TV host Tavis Smiley after finding what it called \"troubling allegations\" of sexual misconduct, making him the second high-profile star to be ousted from a network known for its high-brow, genteel programming."
+  },
+  {
+   "blip_idx": 1,
+   "text": "The Public Broadcasting Service said Wednesday an independent investigation uncovered \"multiple, credible allegations of conduct that is inconsistent with the values and standards of PBS.\" His show's page at PBS was scrubbed on Thursday."
+  },
+  {
+   "blip_idx": 2,
+   "text": "Smiley shot back on Facebook, saying PBS \"overreacted\" and calling it \"a rush to judgment.\" He said he has never harassed anyone and claimed one relationship the network uncovered was consensual."
+  },
+  {
+   "blip_idx": 3,
+   "text": "\"If having a consensual relationship with a colleague years ago is the stuff that leads to this kind of public humiliation and personal destruction, heaven help us,\" he said."
+  },
+  {
+   "blip_idx": 4,
+   "text": "\"This has gone too far. And, I, for one, intend to fight back.\" The ouster comes weeks after PBS cut ties with anchor and talk show host Charlie Rose, citing \"extremely disturbing and intolerable behavior\" by him toward women at his PBS talk show."
+  },
+  {
+   "blip_idx": 5,
+   "text": "Smiley brought rare diversity to late-night TV and has drawn the ire of conservatives and liberals alike for some of his views."
+  },
+  {
+   "blip_idx": 6,
+   "text": "He has worked for six networks over a 30-year career."
+  },
+  {
+   "blip_idx": 7,
+   "text": "His radio program \"The Tavis Smiley Show\" was distributed by Public Radio International from 2005 to 2013."
+  },
+  {
+   "blip_idx": 8,
+   "text": "He has been with PBS for 14 seasons and some 3,000 episodes."
+  },
+  {
+   "blip_idx": 9,
+   "text": "Smiley also has a development deal with Warner Bros."
+  },
+  {
+   "blip_idx": 10,
+   "text": "Television and was working with J.J."
+  },
+  {
+   "blip_idx": 11,
+   "text": "Abrams to turn his new book about Michael Jackson's last days and death into a limited TV series."
+  },
+  {
+   "blip_idx": 12,
+   "text": "Smiley next month is expected to launch a nationwide 40-city tour of a theatrical production focusing on the last year of Martin Luther King Jr.'s life."
+  },
+  {
+   "blip_idx": 13,
+   "text": "\"Death of a King: A Live Theatrical Experience\" is based on Smiley's 2014 book of the same title and was to start Jan. 15, King's birthday."
+  },
+  {
+   "blip_idx": 14,
+   "text": "The dismissals of Smiley and Rose at PBS follow dozens of firings and suspensions of prominent men who have been accused of sexual misconduct or harassment."
+  },
+  {
+   "blip_idx": 15,
+   "text": "The wave began this fall with allegations lodged against Harvey Weinstein and has impacted numerous high-profile TV and media figures, with Matt Lauer, Garrison Keillor, journalist Mark Halperin, NPR news chief Michael Oreskes, reporter Glenn Thrush and New Republic editor Leon Wieseltier all felled, among others."
+  },
+  {
+   "blip_idx": 16,
+   "text": "According to Variety, the investigation into Smiley found that he had engaged in sexual relationships with multiple subordinates and \"creating a verbally abusive and threatening environment.\" Smiley in a Facebook post claims PBS \"refused to provide me the names of any accusers, refused to speak to my current staff, and refused to provide me any semblance of due process to defend myself against allegations from unknown sources.\""
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 6,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.4310355597674193,
+    "dist_new": 0.4310355597674193
+   },
+   {
+    "old": 7,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 20,
+    "dist_old": 0.06559133639268673,
+    "dist_new": 0.0641796003107112
+   },
+   {
+    "old": 13,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 6,
+    "dist_old": 0.42032605678450224,
+    "dist_new": 0.42032605678450224
+   },
+   {
+    "old": 8,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.26808073159311346,
+    "dist_new": 0.26808073159311346
+   },
+   {
+    "old": 10,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "split",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited"
+  ],
+  "new_status": [
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "split",
+   "added",
+   "split",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "added",
+   "added",
+   "unchanged",
+   "unchanged",
+   "edited"
+  ],
+  "added_new": [
+   5,
+   16,
+   17
+  ]
+ },
+ "document_old": "NEW YORK (AP) -- PBS has suspended radio and TV host Tavis Smiley after finding what it called \"troubling allegations\" of sexual misconduct, making him the second high-profile star to be ousted from a network known for its high-brow, genteel programming. The Public Broadcasting Service said Wednesday an independent investigation uncovered \"multiple, credible allegations of conduct that is inconsistent with the values and standards of PBS.\" His show's page at PBS was scrubbed on Thursday. Smiley shot back on Facebook, saying PBS \"overreacted\" and calling it \"a rush to judgment.\" He said he has never harassed anyone and claimed one relationship the network uncovered was consensual. \"If having a consensual relationship with a colleague years ago is the stuff that leads to this kind of public humiliation and personal destruction, heaven help us,\" he said. \"This has gone too far. And, I, for one, intend to fight back.\" The ouster comes weeks after PBS cut ties with anchor and talk show host Charlie Rose, citing \"extremely disturbing and intolerable behavior\" by him toward women at his PBS talk show. Smiley brought rare diversity to late-night TV and has drawn the ire of conservatives and liberals alike for some of his views. He has worked for six networks over a 30-year career. His radio program \"The Tavis Smiley Show\" was distributed by Public Radio International from 2005 to 2013. He has been with PBS for 14 seasons and some 3,000 episodes. Smiley also has a development deal with Warner Bros. Television and was working with J.J. Abrams to turn his new book about Michael Jackson's last days and death into a limited TV series. Smiley next month is expected to launch a nationwide 40-city tour of a theatrical production focusing on the last year of Martin Luther King Jr.'s life. \"Death of a King: A Live Theatrical Experience\" is based on Smiley's 2014 book of the same title and was to start Jan. 15, King's birthday. The dismissals of Smiley and Rose at PBS follow dozens of firings and suspensions of prominent men who have been accused of sexual misconduct or harassment. The wave began this fall with allegations lodged against Harvey Weinstein and has impacted numerous high-profile TV and media figures, with Matt Lauer, Garrison Keillor, journalist Mark Halperin, NPR news chief Michael Oreskes, reporter Glenn Thrush and New Republic editor Leon Wieseltier all felled, among others. According to Variety, the investigation into Smiley found that he had engaged in sexual relationships with multiple subordinates and \"creating a verbally abusive and threatening environment.\" Smiley in a Facebook post claims PBS \"refused to provide me the names of any accusers, refused to speak to my current staff, and refused to provide me any semblance of due process to defend myself against allegations from unknown sources.\"",
+ "document_new": "NEW YORK (AP) -- PBS has suspended radio and TV host Tavis Smiley after finding what it called \"troubling allegations\" of sexual misconduct, making him the second high-profile star to be ousted from a network known for its high-brow, genteel programming. The Public Broadcasting Service said Wednesday an independent investigation by a law firm uncovered \"multiple, credible allegations of conduct that is inconsistent with the values and standards of PBS.\" His show's page at PBS was scrubbed on Thursday. Smiley shot back on Facebook, saying PBS \"overreacted\" and calling it \"a rush to judgment.\" He said he has never harassed anyone and claimed one relationship the network uncovered was consensual. \"If having a consensual relationship with a colleague years ago is the stuff that leads to this kind of public humiliation and personal destruction, heaven help us,\" he said. \"This has gone too far. And, I, for one, intend to fight back.\" PBS responded to Smiley's accusations by saying it stands by the integrity of the investigation. \"The totality of the investigation, which included Mr. Smiley, revealed a pattern of multiple relationships with subordinates over many years,\" a PBS spokesperson said. The ouster comes weeks after PBS cut ties with anchor and talk show host Charlie Rose, citing \"extremely disturbing and intolerable behavior\" by him toward women at his PBS talk show. Smiley brought rare diversity to late-night TV and has drawn the ire of conservatives and liberals alike for some of his views. He has worked for six networks over a 30-year career. His radio program \"The Tavis Smiley Show\" was distributed by Public Radio International from 2005 to 2013. He has been with PBS for 14 seasons and some 3,000 episodes. Smiley also has a development deal with Warner Bros. Television and was working with J.J. Abrams to turn his new book about Michael Jackson's last days and death into a limited TV series. Smiley next month is expected to launch a nationwide 40-city tour of a theatrical production focusing on the last year of Martin Luther King Jr.'s life. \"Death of a King: A Live Theatrical Experience\" is based on Smiley's 2014 book of the same title and was to start Jan. 15, King's birthday. \"''Death of a King\" is being produced by Mills Entertainment and has sponsorship from Walmart. Neither Walmart nor Mills immediately responded Thursday to requests for comment. The dismissals of Smiley and Rose at PBS follow dozens of firings and suspensions of prominent men who have been accused of sexual misconduct or harassment. The wave began this fall with allegations lodged against Harvey Weinstein and has impacted numerous high-profile TV and media figures, with Matt Lauer, Garrison Keillor, journalist Mark Halperin, NPR news chief Michael Oreskes, reporter Glenn Thrush and New Republic editor Leon Wieseltier all felled, among others. According to Variety, the investigation into Smiley found that he had engaged in sexual relationships with multiple subordinates and \"creating a verbally abusive and threatening environment.\" Smiley in a Facebook post claims PBS \"refused to provide me the names of any accusers, refused to speak to my current staff, and refused to provide me any semblance of due process to defend myself against allegations from unknown sources.\" --- Mark Kennedy is at http://twitter.com/KennedyTwits",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What is the source of the investigation findings mentioned? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "How many networks has Smiley worked for? Answer in as few words as possible."
+  },
+  {
+   "task_id": "bool_001",
+   "type": "boolean",
+   "prompt": "Was the source of the investigation findings mentioned Variety? Answer Yes or No."
+  },
+  {
+   "task_id": "bool_002",
+   "type": "boolean",
+   "prompt": "Was the source of the investigation findings mentioned The New Yorker? Answer Yes or No."
+  },
+  {
+   "task_id": "bool_003",
+   "type": "boolean",
+   "prompt": "Has Smiley worked for more than 4 networks? Answer Yes or No."
+  },
+  {
+   "task_id": "bool_004",
+   "type": "boolean",
+   "prompt": "Has Smiley worked for more networks than 8? Answer Yes or No."
+  }
+ ]
+}

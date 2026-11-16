@@ -1,0 +1,455 @@
+{
+ "pair_id": "ap_6204_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "BOSTON (AP) -- The rate at which minorities are subjected to stops, searches and frisks by police doesn't appear to be improving in Boston in the year since the department claimed it was narrowing racial disparities in their tactics."
+  },
+  {
+   "blip_idx": 1,
+   "text": "At least 71 percent of all street level, police-civilian encounters from 2015 through early 2016 involved persons of color, while whites comprised about 22 percent, an Associated Press review of the most recently available data shows."
+  },
+  {
+   "blip_idx": 2,
+   "text": "That's only a slight decline from the 73 percent that minorities comprised in such street-level encounters between 2011 and early 2015, according to data the city made available last year."
+  },
+  {
+   "blip_idx": 3,
+   "text": "It's also higher than the roughly 63 percent that blacks comprised between 2007 and 2010, according to a report the department released in 2015."
+  },
+  {
+   "blip_idx": 4,
+   "text": "That report didn't include the tallies for other minority groups."
+  },
+  {
+   "blip_idx": 5,
+   "text": "And the gap between minorities and whites in the most recent reporting period is likely higher."
+  },
+  {
+   "blip_idx": 6,
+   "text": "Over 7 percent of all police-civilian encounters compiled in the department's 2015 to 2016 \"Field Interrogation, Observation, Frisk and/or Search\" reports don't list the civilian's race at all."
+  },
+  {
+   "blip_idx": 7,
+   "text": "Civil rights activists have complained for years that blacks, in particular, comprise a majority of these kinds of police interactions in Boston, despite accounting for about 25 percent of the population."
+  },
+  {
+   "blip_idx": 8,
+   "text": "The disparity matters because it affects how some residents in largely minority communities perceive police, said Carl Williams, of the Massachusetts chapter of the American Civil Liberties Union, which provided the recent police data the AP analyzed."
+  },
+  {
+   "blip_idx": 9,
+   "text": "\"People feel uncomfortable talking with police when they feel they're getting stopped unjustly,\" he said."
+  },
+  {
+   "blip_idx": 10,
+   "text": "Big city police departments vary in how they collect data on such encounters and how public they make it."
+  },
+  {
+   "blip_idx": 11,
+   "text": "New York City Police, prompted by a class action lawsuit, has been releasing quarterly reports for years, something the Massachusetts ACLU chapter has also sued Boston to provide."
+  },
+  {
+   "blip_idx": 12,
+   "text": "New York's data shows at least 83 percent of stops through the first three quarters of 2016 involved blacks or other minorities."
+  },
+  {
+   "blip_idx": 13,
+   "text": "From 2011 to 2014, they averaged roughly 84 percent of stops."
+  },
+  {
+   "blip_idx": 14,
+   "text": "Philadelphia police also provide regular data as part of a court order."
+  },
+  {
+   "blip_idx": 15,
+   "text": "The most recent report , which covers the first half of 2015, shows minorities accounted for 77 percent of stops during that time period."
+  },
+  {
+   "blip_idx": 16,
+   "text": "Boston Police spokesman Michael McCarthy argued the AP's review was \"not appropriate and quite frankly irresponsible\" because it didn't account for other variables."
+  },
+  {
+   "blip_idx": 17,
+   "text": "The department has said neighborhood crime statistics, a subject's prior arrests and gang affiliations, among other factors not addressed in the data, also should be considered."
+  },
+  {
+   "blip_idx": 18,
+   "text": "\"Anything short of that is a complete disservice,\" McCarthy said in an email."
+  },
+  {
+   "blip_idx": 19,
+   "text": "\"Too many reporters think they can look at this data set and accurately describe what it means.\" Last year, the department enlisted independent researchers to conduct a deeper study of the 2011 to 2015 data."
+  },
+  {
+   "blip_idx": 20,
+   "text": "Further analysis would bear out how police are making gains in perceived disparities in treatment, it said at the time."
+  },
+  {
+   "blip_idx": 21,
+   "text": "But that study won't be complete at least until this summer because researchers are seeking more information from police, said Anthony Braga, head of Northeastern University's criminal justice school and a researcher on that study."
+  },
+  {
+   "blip_idx": 22,
+   "text": "He also dismissed analysis of the raw data before that study was complete as \"overly simplistic, woefully incomplete, and, quite frankly, irresponsible.\" But Shea Cronin, a criminal justice professor at Boston University, who is not affiliated with the police data study, said the numbers were fairly clear cut."
+  },
+  {
+   "blip_idx": 23,
+   "text": "\"My reading of the statistics is that there has not been much change in the racial composition,\" he said."
+  },
+  {
+   "blip_idx": 24,
+   "text": "Cronin suggested the department should incorporate reviews of these and other statistics in their management evaluations to see whether specific officers, units or shifts use such tactics most often."
+  },
+  {
+   "blip_idx": 25,
+   "text": "In an improvement on past data, the latest numbers from Boston Police provide more detail about the reasons for the police-civilian encounters and some of the actions police took as a result."
+  },
+  {
+   "blip_idx": 26,
+   "text": "In about 21 percent of the incidents from 2015 to early 2016, for example, officers cited \"reasonable suspicion\" as the reason they engaged suspects."
+  },
+  {
+   "blip_idx": 27,
+   "text": "In 31 percent of the time, officer's cited \"probable cause.\" Generally, police need at least \"reasonable suspicion\" a crime has been, is being or will be committed in order to stop, briefly detain or frisk an individual."
+  },
+  {
+   "blip_idx": 28,
+   "text": "\"Probable cause\" is a higher legal threshold needed to arrest someone."
+  },
+  {
+   "blip_idx": 29,
+   "text": "Of the more than 17,300 total incidents, officers frisked civilians about 21 percent of the time, searched them or their vehicles over 16 percent of the time, and issued a summons 2 percent of the time."
+  },
+  {
+   "blip_idx": 30,
+   "text": "The data covering 2011 to early 2015, in contrast, provided little to no detail about why officers engaged with civilians, why a person was subsequently subjected to a search or frisk, and what the outcome of the encounters was, an AP review found."
+  },
+  {
+   "blip_idx": 31,
+   "text": "The new data, however, still lack details about what, if anything, came of the stops in terms of arrests or seizures."
+  },
+  {
+   "blip_idx": 32,
+   "text": "Civil rights groups have said such information is critical to gauging whether the methods are effective."
+  },
+  {
+   "blip_idx": 33,
+   "text": "\"The question remains: Are there aggressive tactics being used?\" said Darnell Williams, of the Urban League of Eastern Massachusetts. \"We're not here to second-guess what police are doing, but if there is a disproportionate amount of blacks being stopped for non-obvious reasons, then that's a concern."
+  },
+  {
+   "blip_idx": 34,
+   "text": "\" --- Follow Philip Marcelo at twitter.com/philmarcelo."
+  },
+  {
+   "blip_idx": 35,
+   "text": "His work can be found at http://bigstory.ap.org/journalist/philip-marcelo ."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 31,
+    "new": 31,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 33,
+    "new": 33,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 32,
+    "new": 32,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 30,
+    "new": 30,
+    "dist_old": 0.05894605719855028,
+    "dist_new": 0.05894605719855028
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 28,
+    "new": 28,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 34,
+    "new": 34,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 29,
+    "new": 29,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 35,
+    "new": 35,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "BOSTON (AP) -- The rate at which minorities are subjected to stops, searches and frisks by police doesn't appear to be improving in Boston in the year since the department claimed it was narrowing racial disparities in their tactics. At least 71 percent of all street level, police-civilian encounters from 2015 through early 2016 involved persons of color, while whites comprised about 22 percent, an Associated Press review of the most recently available data shows. That's only a slight decline from the 73 percent that minorities comprised in such street-level encounters between 2011 and early 2015, according to data the city made available last year. It's also higher than the roughly 63 percent that blacks comprised between 2007 and 2010, according to a report the department released in 2015. That report didn't include the tallies for other minority groups. And the gap between minorities and whites in the most recent reporting period is likely higher. Over 7 percent of all police-civilian encounters compiled in the department's 2015 to 2016 \"Field Interrogation, Observation, Frisk and/or Search\" reports don't list the civilian's race at all. Civil rights activists have complained for years that blacks, in particular, comprise a majority of these kinds of police interactions in Boston, despite accounting for about 25 percent of the population. The disparity matters because it affects how some residents in largely minority communities perceive police, said Carl Williams, of the Massachusetts chapter of the American Civil Liberties Union, which provided the recent police data the AP analyzed. \"People feel uncomfortable talking with police when they feel they're getting stopped unjustly,\" he said. Big city police departments vary in how they collect data on such encounters and how public they make it. New York City Police, prompted by a class action lawsuit, has been releasing quarterly reports for years, something the Massachusetts ACLU chapter has also sued Boston to provide. New York's data shows at least 83 percent of stops through the first three quarters of 2016 involved blacks or other minorities. From 2011 to 2014, they averaged roughly 84 percent of stops. Philadelphia police also provide regular data as part of a court order. The most recent report , which covers the first half of 2015, shows minorities accounted for 77 percent of stops during that time period. Boston Police spokesman Michael McCarthy argued the AP's review was \"not appropriate and quite frankly irresponsible\" because it didn't account for other variables. The department has said neighborhood crime statistics, a subject's prior arrests and gang affiliations, among other factors not addressed in the data, also should be considered. \"Anything short of that is a complete disservice,\" McCarthy said in an email. \"Too many reporters think they can look at this data set and accurately describe what it means.\" Last year, the department enlisted independent researchers to conduct a deeper study of the 2011 to 2015 data. Further analysis would bear out how police are making gains in perceived disparities in treatment, it said at the time. But that study won't be complete at least until this summer because researchers are seeking more information from police, said Anthony Braga, head of Northeastern University's criminal justice school and a researcher on that study. He also dismissed analysis of the raw data before that study was complete as \"overly simplistic, woefully incomplete, and, quite frankly, irresponsible.\" But Shea Cronin, a criminal justice professor at Boston University, who is not affiliated with the police data study, said the numbers were fairly clear cut. \"My reading of the statistics is that there has not been much change in the racial composition,\" he said. Cronin suggested the department should incorporate reviews of these and other statistics in their management evaluations to see whether specific officers, units or shifts use such tactics most often. In an improvement on past data, the latest numbers from Boston Police provide more detail about the reasons for the police-civilian encounters and some of the actions police took as a result. In about 21 percent of the incidents from 2015 to early 2016, for example, officers cited \"reasonable suspicion\" as the reason they engaged suspects. In 31 percent of the time, officer's cited \"probable cause.\" Generally, police need at least \"reasonable suspicion\" a crime has been, is being or will be committed in order to stop, briefly detain or frisk an individual. \"Probable cause\" is a higher legal threshold needed to arrest someone. Of the more than 17,300 total incidents, officers frisked civilians about 21 percent of the time, searched them or their vehicles over 16 percent of the time, and issued a summons 2 percent of the time. The data covering 2011 to early 2015, in contrast, provided little to no detail about why officers engaged with civilians, why a person was subsequently subjected to a search or frisk, and what the outcome of the encounters was, an AP review found. The new data, however, still lack details about what, if anything, came of the stops in terms of arrests or seizures. Civil rights groups have said such information is critical to gauging whether the methods are effective. \"The question remains: Are there aggressive tactics being used?\" said Darnell Williams, of the Urban League of Eastern Massachusetts. \"We're not here to second-guess what police are doing, but if there is a disproportionate amount of blacks being stopped for non-obvious reasons, then that's a concern. \" --- Follow Philip Marcelo at twitter.com/philmarcelo. His work can be found at http://bigstory.ap.org/journalist/philip-marcelo .",
+ "document_new": "BOSTON (AP) -- The rate at which minorities are subjected to stops, searches and frisks by police doesn't appear to be improving in Boston in the year since the department claimed it was narrowing racial disparities in their tactics. At least 71 percent of all street level, police-civilian encounters from 2015 through early 2016 involved persons of color, while whites comprised about 22 percent, an Associated Press review of the most recently available data shows. That's only a slight decline from the 73 percent that minorities comprised in such street-level encounters between 2011 and early 2015, according to data the city made available last year. It's also higher than the roughly 63 percent that blacks comprised between 2007 and 2010, according to a report the department released in 2015. That report didn't include the tallies for other minority groups. And the gap between minorities and whites in the most recent reporting period is likely higher. Over 7 percent of all police-civilian encounters compiled in the department's 2015 to 2016 \"Field Interrogation, Observation, Frisk and/or Search\" reports don't list the civilian's race at all. Civil rights activists have complained for years that blacks, in particular, comprise a majority of these kinds of police interactions in Boston, despite accounting for about 25 percent of the population. The disparity matters because it affects how some residents in largely minority communities perceive police, said Carl Williams, of the Massachusetts chapter of the American Civil Liberties Union, which provided the recent police data the AP analyzed. \"People feel uncomfortable talking with police when they feel they're getting stopped unjustly,\" he said. Big city police departments vary in how they collect data on such encounters and how public they make it. New York City Police, prompted by a class action lawsuit, has been releasing quarterly reports for years, something the Massachusetts ACLU chapter has also sued Boston to provide. New York's data shows at least 83 percent of stops through the first three quarters of 2016 involved blacks or other minorities. From 2011 to 2014, they averaged roughly 84 percent of stops. Philadelphia police also provide regular data as part of a court order. The most recent report , which covers the first half of 2015, shows minorities accounted for 77 percent of stops during that time period. Boston Police spokesman Michael McCarthy argued the AP's review was \"not appropriate and quite frankly irresponsible\" because it didn't account for other variables. The department has said neighborhood crime statistics, a subject's prior arrests and gang affiliations, among other factors not addressed in the data, also should be considered. \"Anything short of that is a complete disservice,\" McCarthy said in an email. \"Too many reporters think they can look at this data set and accurately describe what it means.\" Last year, the department enlisted independent researchers to conduct a deeper study of the 2011 to 2015 data. Further analysis would bear out how police are making gains in perceived disparities in treatment, it said at the time. But that study won't be complete at least until this summer because researchers are seeking more information from police, said Anthony Braga, head of Northeastern University's criminal justice school and a researcher on that study. He also dismissed analysis of the raw data before that study was complete as \"overly simplistic, woefully incomplete, and, quite frankly, irresponsible.\" But Shea Cronin, a criminal justice professor at Boston University, who is not affiliated with the police data study, said the numbers were fairly clear cut. \"My reading of the statistics is that there has not been much change in the racial composition,\" he said. Cronin suggested the department should incorporate reviews of these and other statistics in their management evaluations to see whether specific officers, units or shifts use such tactics most often. In an improvement on past data, the latest numbers from Boston Police provide more detail about the reasons for the police-civilian encounters and some of the actions police took as a result. In about 21 percent of the incidents from 2015 to early 2016, for example, officers cited \"reasonable suspicion\" as the reason they engaged suspects. In 31 percent of the time, officer's cited \"probable cause.\" Generally, police need at least \"reasonable suspicion\" a crime has been, is being or will be committed in order to stop, briefly detain or frisk an individual. \"Probable cause\" is a higher legal threshold needed to arrest someone. Of the more than 17,300 total incidents, officers frisked civilians about 21 percent of the time, searched them or their vehicles over 16 percent of the time, and issued a summons 2 percent of the time. The data covering 2011 to early 2015, in contrast, provided little to no detail about why officers engaged with civilians, why a person was subsequently subjected to a search or frisk, and what the outcome of the encounters was, a previous AP review found. The new data, however, still lack details about what, if anything, came of the stops in terms of arrests or seizures. Civil rights groups have said such information is critical to gauging whether the methods are effective. \"The question remains: Are there aggressive tactics being used?\" said Darnell Williams, of the Urban League of Eastern Massachusetts. \"We're not here to second-guess what police are doing, but if there is a disproportionate amount of blacks being stopped for non-obvious reasons, then that's a concern. \" --- Follow Philip Marcelo at twitter.com/philmarcelo. His work can be found at http://bigstory.ap.org/journalist/philip-marcelo .",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "At least what percentage of street level police-civilian encounters involved persons of color from 2015 through early 2016? Answer with the number only."
+  }
+ ]
+}

@@ -1,0 +1,280 @@
+{
+ "pair_id": "ap_5760_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "LONDON (AP) -- British Prime Minister Theresa May on Tuesday called for an early general election to be held June 8. Here is a brief glance of May and her five most recent predecessors: --- THERESA MAY Conservative: 2016- May took power after the vote to leave the European Union in June of last year after the resignation of former leader David Cameron, who had campaigned to stay in."
+  },
+  {
+   "blip_idx": 1,
+   "text": "Her decision Tuesday to call for an early election reflects an effort on her part to shore up her power base before the tough Brexit negotiations ahead."
+  },
+  {
+   "blip_idx": 2,
+   "text": "Last month, May formerly triggered the two-year process by which Britain will leave the EU."
+  },
+  {
+   "blip_idx": 3,
+   "text": "--- DAVID CAMERON Conservative: 2010-2016 Though his Conservative Party failed to win the 2010 general outright, Cameron led a coalition government with the much-smaller Liberal Democrats that enforced fiscal austerity designed to get Britain's public finances into shape following the global financial crisis."
+  },
+  {
+   "blip_idx": 4,
+   "text": "His legacy, though, will be his decision to hold the referendum on British membership of the EU that made Brexit possible."
+  },
+  {
+   "blip_idx": 5,
+   "text": "Cameron, who promised the referendum in his party's 2015 election manifesto, campaigned for Britain to remain part of the EU."
+  },
+  {
+   "blip_idx": 6,
+   "text": "He stepped down when the country voted to leave."
+  },
+  {
+   "blip_idx": 7,
+   "text": "--- GORDON BROWN Labour: 2007-2010 After 10 years as the country's finance minister, Brown's premiership will always be marked out by the global financial crisis and the recession that followed."
+  },
+  {
+   "blip_idx": 8,
+   "text": "He bailed out Britain's banks, and in April 2009, hosted the summit of the Group of 20 leaders in London where world leaders pledged $1.1 trillion to help the world economy through the crisis."
+  },
+  {
+   "blip_idx": 9,
+   "text": "They also pledged to improve financial supervision and regulation."
+  },
+  {
+   "blip_idx": 10,
+   "text": "Unlike May, Brown failed to call a snap general election to earn his own mandate following Blair's resignation."
+  },
+  {
+   "blip_idx": 11,
+   "text": "--- TONY BLAIR Labour: 1997-2007 Blair's defining moment came in the aftermath of the Sept. 11 attacks in the U.S."
+  },
+  {
+   "blip_idx": 12,
+   "text": "His decision to back President George W. Bush in the Iraq war proved hugely controversial, in part because the case for war was built around the idea that Saddam Hussein had weapons of mass destruction."
+  },
+  {
+   "blip_idx": 13,
+   "text": "When none were found, Blair faced widespread criticism and his popularity, which saw him lead the Labour Party to three straight election victories, eroded."
+  },
+  {
+   "blip_idx": 14,
+   "text": "--- JOHN MAJOR Conservative: 1990-1997 Major won a surprising victory in the 1992 election in the face of recession, but his party soon descended into internecine squabbling over Britain's place in Europe."
+  },
+  {
+   "blip_idx": 15,
+   "text": "His government may be best-remembered for what it didn't do: join the euro currency."
+  },
+  {
+   "blip_idx": 16,
+   "text": "He also played a key role in starting the Northern Ireland peace process."
+  },
+  {
+   "blip_idx": 17,
+   "text": "--- MARGARET THATCHER Conservative: 1979-1990 Thatcher was Britain's first female British prime minister and the country's longest serving leader for more than 150 years."
+  },
+  {
+   "blip_idx": 18,
+   "text": "She bolstered her reputation by leading the country to war against Argentina to reclaim the Falkland Islands."
+  },
+  {
+   "blip_idx": 19,
+   "text": "Her government followed a radical program of privatization and deregulation that profoundly changed the country."
+  },
+  {
+   "blip_idx": 20,
+   "text": "Internationally prominent, she was known for her chummy relationship with President Ronald Reagan and for earning praise from Soviet leader Mikhail Gorbachev."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.09682731195222608,
+    "dist_new": 0.09682731195222603
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "LONDON (AP) -- British Prime Minister Theresa May on Tuesday called for an early general election to be held June 8. Here is a brief glance of May and her five most recent predecessors: --- THERESA MAY Conservative: 2016- May took power after the vote to leave the European Union in June of last year after the resignation of former leader David Cameron, who had campaigned to stay in. Her decision Tuesday to call for an early election reflects an effort on her part to shore up her power base before the tough Brexit negotiations ahead. Last month, May formerly triggered the two-year process by which Britain will leave the EU. --- DAVID CAMERON Conservative: 2010-2016 Though his Conservative Party failed to win the 2010 general outright, Cameron led a coalition government with the much-smaller Liberal Democrats that enforced fiscal austerity designed to get Britain's public finances into shape following the global financial crisis. His legacy, though, will be his decision to hold the referendum on British membership of the EU that made Brexit possible. Cameron, who promised the referendum in his party's 2015 election manifesto, campaigned for Britain to remain part of the EU. He stepped down when the country voted to leave. --- GORDON BROWN Labour: 2007-2010 After 10 years as the country's finance minister, Brown's premiership will always be marked out by the global financial crisis and the recession that followed. He bailed out Britain's banks, and in April 2009, hosted the summit of the Group of 20 leaders in London where world leaders pledged $1.1 trillion to help the world economy through the crisis. They also pledged to improve financial supervision and regulation. Unlike May, Brown failed to call a snap general election to earn his own mandate following Blair's resignation. --- TONY BLAIR Labour: 1997-2007 Blair's defining moment came in the aftermath of the Sept. 11 attacks in the U.S. His decision to back President George W. Bush in the Iraq war proved hugely controversial, in part because the case for war was built around the idea that Saddam Hussein had weapons of mass destruction. When none were found, Blair faced widespread criticism and his popularity, which saw him lead the Labour Party to three straight election victories, eroded. --- JOHN MAJOR Conservative: 1990-1997 Major won a surprising victory in the 1992 election in the face of recession, but his party soon descended into internecine squabbling over Britain's place in Europe. His government may be best-remembered for what it didn't do: join the euro currency. He also played a key role in starting the Northern Ireland peace process. --- MARGARET THATCHER Conservative: 1979-1990 Thatcher was Britain's first female British prime minister and the country's longest serving leader for more than 150 years. She bolstered her reputation by leading the country to war against Argentina to reclaim the Falkland Islands. Her government followed a radical program of privatization and deregulation that profoundly changed the country. Internationally prominent, she was known for her chummy relationship with President Ronald Reagan and for earning praise from Soviet leader Mikhail Gorbachev.",
+ "document_new": "LONDON (AP) -- British Prime Minister Theresa May on Tuesday called for an early general election to be held on June 8. Here are brief profiles of May and her five most recent predecessors: --- THERESA MAY Conservative: 2016- May took power after the vote to leave the European Union in June of last year after the resignation of former leader David Cameron, who had campaigned to stay in. Her decision Tuesday to call for an early election reflects an effort on her part to shore up her power base before the tough Brexit negotiations ahead. Last month, May formerly triggered the two-year process by which Britain will leave the EU. --- DAVID CAMERON Conservative: 2010-2016 Though his Conservative Party failed to win the 2010 general outright, Cameron led a coalition government with the much-smaller Liberal Democrats that enforced fiscal austerity designed to get Britain's public finances into shape following the global financial crisis. His legacy, though, will be his decision to hold the referendum on British membership of the EU that made Brexit possible. Cameron, who promised the referendum in his party's 2015 election manifesto, campaigned for Britain to remain part of the EU. He stepped down when the country voted to leave. --- GORDON BROWN Labour: 2007-2010 After 10 years as the country's finance minister, Brown's premiership will always be marked out by the global financial crisis and the recession that followed. He bailed out Britain's banks, and in April 2009, hosted the summit of the Group of 20 leaders in London where world leaders pledged $1.1 trillion to help the world economy through the crisis. They also pledged to improve financial supervision and regulation. Unlike May, Brown failed to call a snap general election to earn his own mandate following Blair's resignation. --- TONY BLAIR Labour: 1997-2007 Blair's defining moment came in the aftermath of the Sept. 11 attacks in the U.S. His decision to back President George W. Bush in the Iraq war proved hugely controversial, in part because the case for war was built around the idea that Saddam Hussein had weapons of mass destruction. When none were found, Blair faced widespread criticism and his popularity, which saw him lead the Labour Party to three straight election victories, eroded. --- JOHN MAJOR Conservative: 1990-1997 Major won a surprising victory in the 1992 election in the face of recession, but his party soon descended into internecine squabbling over Britain's place in Europe. His government may be best-remembered for what it didn't do: join the euro currency. He also played a key role in starting the Northern Ireland peace process. --- MARGARET THATCHER Conservative: 1979-1990 Thatcher was Britain's first female British prime minister and the country's longest serving leader for more than 150 years. She bolstered her reputation by leading the country to war against Argentina to reclaim the Falkland Islands. Her government followed a radical program of privatization and deregulation that profoundly changed the country. Internationally prominent, she was known for her chummy relationship with President Ronald Reagan and for earning praise from Soviet leader Mikhail Gorbachev.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What is the date of the early general election called for by Theresa May? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "Who was Britain's first female prime minister? Answer in as few words as possible."
+  }
+ ]
+}

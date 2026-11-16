@@ -1,0 +1,448 @@
+{
+ "pair_id": "ap_8254_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "DAMASCUS, Syria (AP) -- In Syria's capital these days, people are breathing a little easier."
+  },
+  {
+   "blip_idx": 1,
+   "text": "Across Damascus, new shops are sprouting up, business is brisk, and some people who fled the civil war years ago are contemplating a return."
+  },
+  {
+   "blip_idx": 2,
+   "text": "The Syrian war is likely to drag on for years, sustained largely by the intervention and rivalries of foreign powers."
+  },
+  {
+   "blip_idx": 3,
+   "text": "But in the seat of President Bashar Assad's government, there is a general feeling that the six-year conflict is winding down."
+  },
+  {
+   "blip_idx": 4,
+   "text": "\"I haven't slept so well in weeks,\" said Alya, a 27-year-old teacher at a Damascus kindergarten who, in her spare time, volunteers with an organization that tends to displaced people around the capital."
+  },
+  {
+   "blip_idx": 5,
+   "text": "She recalls cowering in the bathroom with her mother and sister only two months ago, when fierce clashes broke out in the capital after insurgents and suicide bombers infiltrated the city through tunnels from the rebel-held neighborhood of Qaboun and nearby areas."
+  },
+  {
+   "blip_idx": 6,
+   "text": "The attack was a surprise breach of Damascus' security perimeter and lasted several days, disrupting businesses and terrifying residents who have been relatively insulated from the catastrophic destruction that has been inflicted on opposition-held parts of the country."
+  },
+  {
+   "blip_idx": 7,
+   "text": "The government has since then regained full control of all but one opposition-held neighborhood on the capital's periphery from where rebels regularly lobbed mortars into the crowded city."
+  },
+  {
+   "blip_idx": 8,
+   "text": "This week, the last group of opposition fighters and their families cleared the northeastern neighborhood of Barzeh, completing a series of similar evacuation deals in the area that leaves Assad's government firmly in control of the capital, once encircled by rebels, for the first time since 2012. \"We haven't heard the sound of a shell for a while now,\" said Alya, giving only her first name, in line with the regulations of the organization where she volunteers."
+  },
+  {
+   "blip_idx": 9,
+   "text": "This Ramadan, she said her older siblings - who left for the safety of Europe in 2013 - were visiting them in Damascus for the first time in four years and were considering a more permanent return to the city."
+  },
+  {
+   "blip_idx": 10,
+   "text": "In the capital, many are struggling to survive amid rampant inflation, and residents remain deeply apprehensive about the future."
+  },
+  {
+   "blip_idx": 11,
+   "text": "Tens of thousands of young men who left the country will not return as long as the war rages on, fearing they would be enlisted in the army."
+  },
+  {
+   "blip_idx": 12,
+   "text": "More than 400,000 people have been killed, the country is beyond fractured, entire cities stand in ruins and half the country's population is displaced."
+  },
+  {
+   "blip_idx": 13,
+   "text": "But the government's recapture of eastern Aleppo late last year was in many ways a turning point."
+  },
+  {
+   "blip_idx": 14,
+   "text": "In the past months, the military, aided by allies Russia and Iran, has recovered rebel strongholds around the capital."
+  },
+  {
+   "blip_idx": 15,
+   "text": "Many are now convinced that Assad is here to stay, despite President Donald Trump's posturing and retaliatory bombardment of a Syrian army base in April, following a chemical weapons attack that the West blamed on Assad's forces."
+  },
+  {
+   "blip_idx": 16,
+   "text": "The Syrian government now controls the country's four largest cities, and many feel the conflict has been at least contained to the north, where various groups are fighting the Islamic State group and each other for leverage."
+  },
+  {
+   "blip_idx": 17,
+   "text": "Across the capital, new restaurants, sidewalk cafes and other businesses are spreading out."
+  },
+  {
+   "blip_idx": 18,
+   "text": "On the east end of Old Damascus in Bab Sharqi - one of seven Roman gates of the Old City- there's a strip of new bars lining the historic street known as Mustaqim, or the Straight Street."
+  },
+  {
+   "blip_idx": 19,
+   "text": "Music and laughter fill the narrow street as young, cocktail-drinking Syrians go bar-hopping and dancing - scenes unthinkable only two years ago when most if not all those places were non-existent."
+  },
+  {
+   "blip_idx": 20,
+   "text": "It's become the equivalent of neighboring Lebanon's famous bar-lined Gemmayzeh strip."
+  },
+  {
+   "blip_idx": 21,
+   "text": "\"The wound and the pain of all the martyrs who have died are always with us, but we are trying to escape. There is a big difference between trying to escape and being indifferent,\" says Amro Touzani, 33. Touzani left his job in shipping and clearance a couple of years ago and in the past 14 months, opened up four pubs in Bab Sharqi."
+  },
+  {
+   "blip_idx": 22,
+   "text": "He says he is not oblivious to the death and suffering happening only two miles away, but wanted to show that there is another side to Syria besides war."
+  },
+  {
+   "blip_idx": 23,
+   "text": "\"Maybe I can't carry a gun and fight, but I can fight with something else,\" he said, speaking at his most recently opened pub, Cosette."
+  },
+  {
+   "blip_idx": 24,
+   "text": "Wissam Halaqi, a 36-year-old pharmacist, said he has never once thought about leaving Syria."
+  },
+  {
+   "blip_idx": 25,
+   "text": "\"I've got 'Made in Syria' written on my heart,\" he said, putting a hand over his heart and smiling as he spoke over loud thumping music on a recent night."
+  },
+  {
+   "blip_idx": 26,
+   "text": "\"The war will end one way or another because we are a vibrant, strategic country. Syria will be back, as it was and stronger,\" he said."
+  },
+  {
+   "blip_idx": 27,
+   "text": "Others struggle to share this kind of optimism, and in areas recaptured by the Syrian government, it is easy to see why."
+  },
+  {
+   "blip_idx": 28,
+   "text": "In the former rebel-held bastion of Zabadani, only an hour's drive from Damascus, the devastation is shocking."
+  },
+  {
+   "blip_idx": 29,
+   "text": "What used to be a vibrant tourist attraction is now a deserted wasteland where every building is either collapsed or scarred beyond recognition."
+  },
+  {
+   "blip_idx": 30,
+   "text": "Most of its predominantly Muslim Sunni inhabitants - Sunnis form the backbone of the rebellion against Assad - will not dare return."
+  },
+  {
+   "blip_idx": 31,
+   "text": "\"I don't think it can ever be like it was before,\" said Fayez Ghosn, standing amid the ruins of his house in Zabadani recently. \"So many people have immigrated, so many people have died, so much has been lost,\" he added, choking on those last words."
+  },
+  {
+   "blip_idx": 32,
+   "text": "After he recovers, he adds: \"It needs time but hopefully the people will come back, eventually ..."
+  },
+  {
+   "blip_idx": 33,
+   "text": "There's nothing like one's home, no matter what."
+  },
+  {
+   "blip_idx": 34,
+   "text": "\" --- Associated Press writer Albert Aji contributed to this report."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 30,
+    "new": 30,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 34,
+    "new": 34,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.08395515848726925,
+    "dist_new": 0.08395515848726925
+   },
+   {
+    "old": 28,
+    "new": 28,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 29,
+    "new": 29,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 31,
+    "new": 31,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 33,
+    "new": 33,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 32,
+    "new": 32,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "DAMASCUS, Syria (AP) -- In Syria's capital these days, people are breathing a little easier. Across Damascus, new shops are sprouting up, business is brisk, and some people who fled the civil war years ago are contemplating a return. The Syrian war is likely to drag on for years, sustained largely by the intervention and rivalries of foreign powers. But in the seat of President Bashar Assad's government, there is a general feeling that the six-year conflict is winding down. \"I haven't slept so well in weeks,\" said Alya, a 27-year-old teacher at a Damascus kindergarten who, in her spare time, volunteers with an organization that tends to displaced people around the capital. She recalls cowering in the bathroom with her mother and sister only two months ago, when fierce clashes broke out in the capital after insurgents and suicide bombers infiltrated the city through tunnels from the rebel-held neighborhood of Qaboun and nearby areas. The attack was a surprise breach of Damascus' security perimeter and lasted several days, disrupting businesses and terrifying residents who have been relatively insulated from the catastrophic destruction that has been inflicted on opposition-held parts of the country. The government has since then regained full control of all but one opposition-held neighborhood on the capital's periphery from where rebels regularly lobbed mortars into the crowded city. This week, the last group of opposition fighters and their families cleared the northeastern neighborhood of Barzeh, completing a series of similar evacuation deals in the area that leaves Assad's government firmly in control of the capital, once encircled by rebels, for the first time since 2012. \"We haven't heard the sound of a shell for a while now,\" said Alya, giving only her first name, in line with the regulations of the organization where she volunteers. This Ramadan, she said her older siblings - who left for the safety of Europe in 2013 - were visiting them in Damascus for the first time in four years and were considering a more permanent return to the city. In the capital, many are struggling to survive amid rampant inflation, and residents remain deeply apprehensive about the future. Tens of thousands of young men who left the country will not return as long as the war rages on, fearing they would be enlisted in the army. More than 400,000 people have been killed, the country is beyond fractured, entire cities stand in ruins and half the country's population is displaced. But the government's recapture of eastern Aleppo late last year was in many ways a turning point. In the past months, the military, aided by allies Russia and Iran, has recovered rebel strongholds around the capital. Many are now convinced that Assad is here to stay, despite President Donald Trump's posturing and retaliatory bombardment of a Syrian army base in April, following a chemical weapons attack that the West blamed on Assad's forces. The Syrian government now controls the country's four largest cities, and many feel the conflict has been at least contained to the north, where various groups are fighting the Islamic State group and each other for leverage. Across the capital, new restaurants, sidewalk cafes and other businesses are spreading out. On the east end of Old Damascus in Bab Sharqi - one of seven Roman gates of the Old City- there's a strip of new bars lining the historic street known as Mustaqim, or the Straight Street. Music and laughter fill the narrow street as young, cocktail-drinking Syrians go bar-hopping and dancing - scenes unthinkable only two years ago when most if not all those places were non-existent. It's become the equivalent of neighboring Lebanon's famous bar-lined Gemmayzeh strip. \"The wound and the pain of all the martyrs who have died are always with us, but we are trying to escape. There is a big difference between trying to escape and being indifferent,\" says Amro Touzani, 33. Touzani left his job in shipping and clearance a couple of years ago and in the past 14 months, opened up four pubs in Bab Sharqi. He says he is not oblivious to the death and suffering happening only two miles away, but wanted to show that there is another side to Syria besides war. \"Maybe I can't carry a gun and fight, but I can fight with something else,\" he said, speaking at his most recently opened pub, Cosette. Wissam Halaqi, a 36-year-old pharmacist, said he has never once thought about leaving Syria. \"I've got 'Made in Syria' written on my heart,\" he said, putting a hand over his heart and smiling as he spoke over loud thumping music on a recent night. \"The war will end one way or another because we are a vibrant, strategic country. Syria will be back, as it was and stronger,\" he said. Others struggle to share this kind of optimism, and in areas recaptured by the Syrian government, it is easy to see why. In the former rebel-held bastion of Zabadani, only an hour's drive from Damascus, the devastation is shocking. What used to be a vibrant tourist attraction is now a deserted wasteland where every building is either collapsed or scarred beyond recognition. Most of its predominantly Muslim Sunni inhabitants - Sunnis form the backbone of the rebellion against Assad - will not dare return. \"I don't think it can ever be like it was before,\" said Fayez Ghosn, standing amid the ruins of his house in Zabadani recently. \"So many people have immigrated, so many people have died, so much has been lost,\" he added, choking on those last words. After he recovers, he adds: \"It needs time but hopefully the people will come back, eventually ... There's nothing like one's home, no matter what. \" --- Associated Press writer Albert Aji contributed to this report.",
+ "document_new": "DAMASCUS, Syria (AP) -- In Syria's capital these days, people are breathing a little easier. Across Damascus, new shops are sprouting up, business is brisk, and some people who fled the civil war years ago are contemplating a return. The Syrian war is likely to drag on for years, sustained largely by the intervention and rivalries of foreign powers. But in the seat of President Bashar Assad's government, there is a general feeling that the six-year conflict is winding down. \"I haven't slept so well in weeks,\" said Alya, a 27-year-old teacher at a Damascus kindergarten who, in her spare time, volunteers with an organization that tends to displaced people around the capital. She recalls cowering in the bathroom with her mother and sister only two months ago, when fierce clashes broke out in the capital after insurgents and suicide bombers infiltrated the city through tunnels from the rebel-held neighborhood of Qaboun and nearby areas. The attack was a surprise breach of Damascus' security perimeter and lasted several days, disrupting businesses and terrifying residents who have been relatively insulated from the catastrophic destruction that has been inflicted on opposition-held parts of the country. The government has since then regained full control of all but one opposition-held neighborhood on the capital's periphery from where rebels regularly lobbed mortars into the crowded city. This week, the last group of opposition fighters and their families cleared the northeastern neighborhood of Barzeh, completing a series of similar evacuation deals in the area that leaves Assad's government firmly in control of the capital, once encircled by rebels, for the first time since 2012. \"We haven't heard the sound of a shell for a while now,\" said Alya, giving only her first name, in line with the regulations of the organization where she volunteers. This Ramadan, she said her older siblings - who left for the safety of Europe in 2013 - were visiting them in Damascus for the first time in four years and were considering a more permanent return to the city. In the capital, many are struggling to survive amid rampant inflation, and residents remain deeply apprehensive about the future. Tens of thousands of young men who left the country will not return as long as the war rages on, fearing they would be enlisted in the army. More than 400,000 people have been killed, the country is beyond fractured, entire cities stand in ruins and half the country's population is displaced. But the government's recapture of eastern Aleppo late last year was in many ways a turning point. In the past months, the military, aided by allies Russia and Iran, has recovered rebel strongholds around the capital. Many are now convinced that Assad is here to stay, despite President Donald Trump's posturing and retaliatory bombardment of a Syrian army base in April, following a chemical weapons attack that the West blamed on Assad's forces. The Syrian government now controls the country's four largest cities, and many feel the conflict has been at least contained to the north, where various groups are fighting the Islamic State group and each other for leverage. Across the capital, new restaurants, sidewalk cafes and other businesses are spreading out. On the east end of Old Damascus in Bab Sharqi - one of seven Roman gates of the Old City- there's a strip of new bars lining the historic street known as Mustaqim, or the Straight Street. Music and laughter fill the narrow street as young, cocktail-drinking Syrians go bar-hopping and dancing - scenes unthinkable only two years ago when most if not all those places were non-existent. It's become the equivalent of neighboring Lebanon's famous bar-lined Gemmayzeh strip. \"The wound and the pain of all the martyrs who have died are always with us, but we are trying to escape. There is a big difference between trying to escape and being indifferent,\" says Amro Tozan, 33. Tozan left his job in shipping and clearance a couple of years ago and in the past 14 months, opened up four pubs in Bab Sharqi. He says he is not oblivious to the death and suffering happening only two miles away, but wanted to show that there is another side to Syria besides war. \"Maybe I can't carry a gun and fight, but I can fight with something else,\" he said, speaking at his most recently opened pub, Cosette. Wissam Halaqi, a 36-year-old pharmacist, said he has never once thought about leaving Syria. \"I've got 'Made in Syria' written on my heart,\" he said, putting a hand over his heart and smiling as he spoke over loud thumping music on a recent night. \"The war will end one way or another because we are a vibrant, strategic country. Syria will be back, as it was and stronger,\" he said. Others struggle to share this kind of optimism, and in areas recaptured by the Syrian government, it is easy to see why. In the former rebel-held bastion of Zabadani, only an hour's drive from Damascus, the devastation is shocking. What used to be a vibrant tourist attraction is now a deserted wasteland where every building is either collapsed or scarred beyond recognition. Most of its predominantly Muslim Sunni inhabitants - Sunnis form the backbone of the rebellion against Assad - will not dare return. \"I don't think it can ever be like it was before,\" said Fayez Ghosn, standing amid the ruins of his house in Zabadani recently. \"So many people have immigrated, so many people have died, so much has been lost,\" he added, choking on those last words. After he recovers, he adds: \"It needs time but hopefully the people will come back, eventually ... There's nothing like one's home, no matter what. \" --- Associated Press writer Albert Aji contributed to this report.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What is the full name of the person who opened four pubs in Bab Sharqi? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "What is Alya's profession? Answer in as few words as possible."
+  }
+ ]
+}

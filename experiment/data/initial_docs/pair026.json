@@ -1,0 +1,220 @@
+{
+ "pair_id": "ap_6389_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "SAN FRANCISCO (AP) -- A hacker claims to have stolen the upcoming season of Netflix's hit series \"Orange Is The New Black,\" and is demanding that the video streaming service pay an unspecified ransom to prevent all the new episodes from being prematurely released online."
+  },
+  {
+   "blip_idx": 1,
+   "text": "The hacker, operating under the name The Dark Overlord, has already purportedly uploaded the first episode to an illegal file-sharing service."
+  },
+  {
+   "blip_idx": 2,
+   "text": "The Associated Press could not legally confirm the authenticity of that uploaded file."
+  },
+  {
+   "blip_idx": 3,
+   "text": "New episodes of \"Orange\" are scheduled for official release on June 9. Netflix said that a small production vendor that works with several major TV studios had suffered a breach."
+  },
+  {
+   "blip_idx": 4,
+   "text": "The Los Gatos, California, company described it as an \"active situation\" that's being investigated by the FBI and other authorities."
+  },
+  {
+   "blip_idx": 5,
+   "text": "Pirated copies of \"Orange\" could dent Netflix's subscriber growth and the company's stock price."
+  },
+  {
+   "blip_idx": 6,
+   "text": "In the ransom note, The Dark Overlord claimed to have stolen series from other studios, too, by breaking into a single company."
+  },
+  {
+   "blip_idx": 7,
+   "text": "The purported hacker promised to also release those titles unless \"modest\" ransoms are paid."
+  },
+  {
+   "blip_idx": 8,
+   "text": "Rumors of a massive leak of Hollywood films and TV episodes have been circulating online for months, fed by purported screenshots of the footage and a copy of a proposed deal to delete the stolen material in return for tens of thousands of dollars in electronic currency."
+  },
+  {
+   "blip_idx": 9,
+   "text": "When the AP contacted The Dark Overlord in February, the hacker said the purloined video wouldn't be made publicly available after all, making the far-fetched claim that \"no one really"
+  },
+  {
+   "blip_idx": 10,
+   "text": "(cares) about unreleased movies and TV show episodes."
+  },
+  {
+   "blip_idx": 11,
+   "text": "\" It's not clear what triggered The Dark Overload's renewed ransom demands."
+  },
+  {
+   "blip_idx": 12,
+   "text": "Netflix is counting on \"Orange\" to help it add 3.2 million subscribers from April through June."
+  },
+  {
+   "blip_idx": 13,
+   "text": "That's substantially higher than the company's average gain of 1.8 million subscribers in the same period over the past five years."
+  },
+  {
+   "blip_idx": 14,
+   "text": "Whenever Netflix's quarterly subscriber gains fall shy of management's projections, the company's stock usually plunges."
+  },
+  {
+   "blip_idx": 15,
+   "text": "--- Associated Press writer Raphael Satter in Paris contributed to this story."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.09989547827185226,
+    "dist_new": 0.09989547827185223
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "SAN FRANCISCO (AP) -- A hacker claims to have stolen the upcoming season of Netflix's hit series \"Orange Is The New Black,\" and is demanding that the video streaming service pay an unspecified ransom to prevent all the new episodes from being prematurely released online. The hacker, operating under the name The Dark Overlord, has already purportedly uploaded the first episode to an illegal file-sharing service. The Associated Press could not legally confirm the authenticity of that uploaded file. New episodes of \"Orange\" are scheduled for official release on June 9. Netflix said that a small production vendor that works with several major TV studios had suffered a breach. The Los Gatos, California, company described it as an \"active situation\" that's being investigated by the FBI and other authorities. Pirated copies of \"Orange\" could dent Netflix's subscriber growth and the company's stock price. In the ransom note, The Dark Overlord claimed to have stolen series from other studios, too, by breaking into a single company. The purported hacker promised to also release those titles unless \"modest\" ransoms are paid. Rumors of a massive leak of Hollywood films and TV episodes have been circulating online for months, fed by purported screenshots of the footage and a copy of a proposed deal to delete the stolen material in return for tens of thousands of dollars in electronic currency. When the AP contacted The Dark Overlord in February, the hacker said the purloined video wouldn't be made publicly available after all, making the far-fetched claim that \"no one really (cares) about unreleased movies and TV show episodes. \" It's not clear what triggered The Dark Overload's renewed ransom demands. Netflix is counting on \"Orange\" to help it add 3.2 million subscribers from April through June. That's substantially higher than the company's average gain of 1.8 million subscribers in the same period over the past five years. Whenever Netflix's quarterly subscriber gains fall shy of management's projections, the company's stock usually plunges. --- Associated Press writer Raphael Satter in Paris contributed to this story.",
+ "document_new": "SAN FRANCISCO (AP) -- A hacker claims to have stolen the upcoming season of Netflix's hit series \"Orange Is The New Black,\" and is demanding that the video streaming service pay an unspecified ransom to prevent all the new episodes from being prematurely released online. The hacker, operating under the name The Dark Overlord, has already purportedly uploaded the first episode to an illegal file-sharing service. The Associated Press could not legally confirm the authenticity of that uploaded file. New episodes of \"Orange\" are scheduled for official release on June 9. Netflix said that a small production vendor that works with several major TV studios had suffered a breach. The Los Gatos, California, company described it as an \"active situation\" that's being investigated by the FBI and other authorities. Pirated copies of \"Orange\" could dent Netflix's subscriber growth and the company's stock price. In the ransom note, The Dark Overlord claimed to have stolen series from other studios, too, by breaking into a single company. The purported hacker promised to also release those titles unless \"modest\" ransoms are paid. Rumors of a massive leak of Hollywood films and TV episodes have been circulating online for months, fed by purported screenshots of the footage and a copy of a proposed deal to delete the stolen material in return for tens of thousands of dollars in electronic currency. When the AP contacted The Dark Overlord in February, the hacker said the purloined video wouldn't be made publicly available after all, making the far-fetched claim that \"no one really (cares) about unreleased movies and TV show episodes. \" It's not clear what triggered The Dark Overload's renewed ransom demands. Netflix is counting on \"Orange\" to help it add 3.2 million subscribers from April through June. That's substantially higher than the company's average gain of 1.8 million subscribers in the same period over the past five years. Whenever Netflix's quarterly subscriber gains fall short of management's projections, the company's stock usually plunges. --- Associated Press writer Raphael Satter in Paris contributed to this story.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "When Netflix's stock plummets, the subscriber gains do what of predictions? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "When are new episodes of 'Orange' scheduled for release? Answer in as few words as possible."
+  }
+ ]
+}

@@ -1,0 +1,268 @@
+{
+ "pair_id": "ap_4886_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "NEW DELHI (AP) -- From Bollywood superstars to political heavyweights, the Regal theater hosted some of India's biggest names over more than eight decades."
+  },
+  {
+   "blip_idx": 1,
+   "text": "But with nostalgic theater-goers singing their way to the exits after a final showing of a Bollywood classic, the iconic New Delhi theater has closed its doors to make way for a multiplex."
+  },
+  {
+   "blip_idx": 2,
+   "text": "\"It's the end of an era."
+  },
+  {
+   "blip_idx": 3,
+   "text": "It's very sad,\" said Nanak, who had worked at the theater since 1979."
+  },
+  {
+   "blip_idx": 4,
+   "text": "Nanak, whose grandfather and father were part of the Regal's management team in the 1950s and '60s, uses one name."
+  },
+  {
+   "blip_idx": 5,
+   "text": "With its corridors studded with black-and-white images of Bollywood stars such as Nargis, Madhubala, Meena Kumari, Dev Anand and Raj Kapoor, the magic of a bygone era was visible throughout the theater."
+  },
+  {
+   "blip_idx": 6,
+   "text": "For its final screening, the Regal showed \"Sangam,\" or \"Union of Two Hearts,\" on Thursday night in a tribute to producer-director Kapoor, Bollywood's biggest showman, who premiered his movies at the theater from the 1950s to the '70s."
+  },
+  {
+   "blip_idx": 7,
+   "text": "Around 600 movie buffs cheered the 1964 Bollywood classic at the final screening."
+  },
+  {
+   "blip_idx": 8,
+   "text": "Some young movie lovers came with their parents and grandparents, and many were singing the film's songs as they left the theater."
+  },
+  {
+   "blip_idx": 9,
+   "text": "\"There was nostalgia,\" said Sudhir Dutta, 75, recalling that he had seen \"A Tale of Two Cities\" in 1958 in his first visit to the Regal."
+  },
+  {
+   "blip_idx": 10,
+   "text": "India's first prime minister, Jawaharlal Nehru, and his daughter, Indira Gandhi, also used to watch movies there, said Bhoop Singh, a theater executive."
+  },
+  {
+   "blip_idx": 11,
+   "text": "The Regal opened in 1932, built by Sobha Singh, an Indian civil contractor and real estate owner."
+  },
+  {
+   "blip_idx": 12,
+   "text": "At first, the theater hosted mainly Indian stage shows."
+  },
+  {
+   "blip_idx": 13,
+   "text": "Then came performances by Western classical musical artists, Russian ballets and British theater groups."
+  },
+  {
+   "blip_idx": 14,
+   "text": "Finally, movies were shown."
+  },
+  {
+   "blip_idx": 15,
+   "text": "The 1931 Bollywood film \"Alam Ara,\" the first Indian movie with sound, was the first Hindi movie screened at the Regal."
+  },
+  {
+   "blip_idx": 16,
+   "text": "The theater, part of an 84-year-old shopping hub known as Connaught Place, is in one of the main commercial areas of New Delhi, built during British colonial rule."
+  },
+  {
+   "blip_idx": 17,
+   "text": "A decision to shut the theater was prompted by a craze for multiplexes in India."
+  },
+  {
+   "blip_idx": 18,
+   "text": "Also, the recent caving in of portions of the roofs of two buildings in the area raised concerns about the Regal's safety."
+  },
+  {
+   "blip_idx": 19,
+   "text": "Building a multiplex is a better option than renovating such an old building, Bhoop Singh said, adding, \"We may resume screening movies in the multiplex within two years.\""
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.13835128828508458,
+    "dist_new": 0.13835128828508458
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "NEW DELHI (AP) -- From Bollywood superstars to political heavyweights, the Regal theater hosted some of India's biggest names over more than eight decades. But with nostalgic theater-goers singing their way to the exits after a final showing of a Bollywood classic, the iconic New Delhi theater has closed its doors to make way for a multiplex. \"It's the end of an era. It's very sad,\" said Nanak, who had worked at the theater since 1979. Nanak, whose grandfather and father were part of the Regal's management team in the 1950s and '60s, uses one name. With its corridors studded with black-and-white images of Bollywood stars such as Nargis, Madhubala, Meena Kumari, Dev Anand and Raj Kapoor, the magic of a bygone era was visible throughout the theater. For its final screening, the Regal showed \"Sangam,\" or \"Union of Two Hearts,\" on Thursday night in a tribute to producer-director Kapoor, Bollywood's biggest showman, who premiered his movies at the theater from the 1950s to the '70s. Around 600 movie buffs cheered the 1964 Bollywood classic at the final screening. Some young movie lovers came with their parents and grandparents, and many were singing the film's songs as they left the theater. \"There was nostalgia,\" said Sudhir Dutta, 75, recalling that he had seen \"A Tale of Two Cities\" in 1958 in his first visit to the Regal. India's first prime minister, Jawaharlal Nehru, and his daughter, Indira Gandhi, also used to watch movies there, said Bhoop Singh, a theater executive. The Regal opened in 1932, built by Sobha Singh, an Indian civil contractor and real estate owner. At first, the theater hosted mainly Indian stage shows. Then came performances by Western classical musical artists, Russian ballets and British theater groups. Finally, movies were shown. The 1931 Bollywood film \"Alam Ara,\" the first Indian movie with sound, was the first Hindi movie screened at the Regal. The theater, part of an 84-year-old shopping hub known as Connaught Place, is in one of the main commercial areas of New Delhi, built during British colonial rule. A decision to shut the theater was prompted by a craze for multiplexes in India. Also, the recent caving in of portions of the roofs of two buildings in the area raised concerns about the Regal's safety. Building a multiplex is a better option than renovating such an old building, Bhoop Singh said, adding, \"We may resume screening movies in the multiplex within two years.\"",
+ "document_new": "NEW DELHI (AP) -- From Bollywood superstars to political heavyweights, the Regal theater hosted some of India's biggest names over more than eight decades. But with nostalgic theater-goers singing their way to the exits after a final showing of a Bollywood classic, the iconic New Delhi theater has closed its doors to make way for a multiplex. \"It's the end of an era. It's very sad,\" said Nanak, who had worked at the theater since 1979. Nanak, whose grandfather and father were part of the Regal's management team in the 1950s and '60s, uses one name. With its corridors studded with black-and-white images of Bollywood stars such as Nargis, Madhubala, Meena Kumari, Dev Anand and Raj Kapoor, the magic of a bygone era was visible throughout the theater. For its final screening, the Regal showed \"Sangam,\" or \"Union of Two Hearts,\" on Thursday night in a tribute to producer-director Kapoor, Bollywood's biggest showman, who premiered his movies at the theater from the 1950s to the '70s. Around 600 movie buffs cheered the 1964 Bollywood classic at the final screening. Some young movie lovers came with their parents and grandparents, and many were singing the film's songs as they left the theater. \"There was nostalgia,\" said Sudhir Dutta, 75, recalling that he had seen \"A Tale of Two Cities\" in 1958 in his first visit to the Regal. India's first prime minister, Jawaharlal Nehru, and his daughter, Indira Gandhi, also used to watch movies there, said Bhoop Singh, a theater executive. The Regal opened in 1932, built by Sobha Singh, an Indian civil contractor and real estate owner. At first, the theater hosted mainly Indian stage shows. Then came performances by Western classical musical artists, Russian ballets and British theater groups. Finally, movies were shown. The 1931 Bollywood film \"Alam Ara,\" the first Indian movie with sound, was the first Hindi movie screened at the Regal. The theater, part of an 84-year-old shopping hub known as Connaught Place, is in one of the main commercial areas of New Delhi, built during British colonial rule. A decision to close the theater was prompted by a craze for multiplexes in India. Also, the recent caving in of portions of the roofs of two buildings in the area raised concerns about the Regal's safety. Building a multiplex is a better option than renovating such an old building, Bhoop Singh said, adding, \"We may resume screening movies in the multiplex within two years.\"",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What action was taken regarding the theater? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "How long had Nanak worked at the theater? Answer in as few words as possible."
+  }
+ ]
+}

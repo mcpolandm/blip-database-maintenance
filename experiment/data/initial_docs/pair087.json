@@ -1,0 +1,370 @@
+{
+ "pair_id": "ap_11183_1_2",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "LONDON (AP) -- The allegation of electoral fraud in Venezuela was brought by an electronic voting company headquartered in England that counts the Latin American country as one of its oldest clients and promotes its technology as a way to ensure legitimate elections."
+  },
+  {
+   "blip_idx": 1,
+   "text": "Smartmatic, whose chairman is a former deputy secretary-general of the United Nations and a current member of Britain's House of Lords, has provided election services to Venezuela since 2004, but never questioned the results of an election there until Wednesday."
+  },
+  {
+   "blip_idx": 2,
+   "text": "\"Even in moments of deep political conflict and division, we have been satisfied that the voting process and the count has been completely accurate,\" CEO Antonio Mugica told reporters while announcing the company had determined the turnout figures for Sunday's election for a constitutional assembly in Venezuela were tampered with."
+  },
+  {
+   "blip_idx": 3,
+   "text": "Tibisay Lucena, the head of Venezuela's National Electoral Council, denied Smartmatic's allegation of vote-tampering."
+  },
+  {
+   "blip_idx": 4,
+   "text": "He said the company played only a secondary role in the election and did not have access to complete data."
+  },
+  {
+   "blip_idx": 5,
+   "text": "Smartmatic was created by Venezuelans to provide electronic voting machines used during the administration of the late President Hugo Chavez."
+  },
+  {
+   "blip_idx": 6,
+   "text": "It has branched out in recent years to provide the same services to countries around the world."
+  },
+  {
+   "blip_idx": 7,
+   "text": "Mugica and President Roger Pinate are both Venezuelans."
+  },
+  {
+   "blip_idx": 8,
+   "text": "The company is part of SGO Group, headquartered in London, which describes itself as \"a family of ventures\" that is also working on technology to address issues such as identity verification, air pollution and government efficiency."
+  },
+  {
+   "blip_idx": 9,
+   "text": "SGO reported a profit of $10.3 million on revenues of $129.2 million in 2015, the latest figures on file at Britain's Companies House."
+  },
+  {
+   "blip_idx": 10,
+   "text": "Smartmatic, which says it has counted 3.7 billion votes on five continents, has a core mission to stop voter fraud."
+  },
+  {
+   "blip_idx": 11,
+   "text": "Its clients range from Belgium and Estonia to Armenia, the Philippines and Haiti."
+  },
+  {
+   "blip_idx": 12,
+   "text": "\"Legitimate elections are essential to any modern democracy,\" the company says on its website."
+  },
+  {
+   "blip_idx": 13,
+   "text": "Mugica said there was a discrepancy of \"at least 1 million votes\" between the turnout figure announced by the Venezuelan government and those recorded by Smartmatic's systems."
+  },
+  {
+   "blip_idx": 14,
+   "text": "He didn't specify whether Smartmatic's turnout figures were 1 million higher or lower than the more than 8 million votes announced by the government."
+  },
+  {
+   "blip_idx": 15,
+   "text": "While the company's systems can identify possible manipulation, people are needed to watch for evidence of electoral fraud, Mugica said."
+  },
+  {
+   "blip_idx": 16,
+   "text": "In previous Venezuelan elections, representatives from all political parties audited the vote count."
+  },
+  {
+   "blip_idx": 17,
+   "text": "On Sunday, no representatives of the parties were present, he said."
+  },
+  {
+   "blip_idx": 18,
+   "text": "\"Based on the robustness of our system, we know without any doubt that the turnout of a recent election for a National Constituent Assembly was manipulated,\" Mugica said."
+  },
+  {
+   "blip_idx": 19,
+   "text": "Venezuelan President Nicolas Maduro called the July 30 vote after weeks of protests fed by anger over food shortages, triple-digit inflation and high crime."
+  },
+  {
+   "blip_idx": 20,
+   "text": "The newly elected assembly will have nearly unlimited powers to install an even more staunchly socialist state."
+  },
+  {
+   "blip_idx": 21,
+   "text": "Tensions have escalated in the troubled Latin American country since government-allied election authorities announced their vote total."
+  },
+  {
+   "blip_idx": 22,
+   "text": "Opposition figures, who called for a boycott of the election, disputed the turnout figure, saying they estimated that 2 million to 3 million people cast ballots."
+  },
+  {
+   "blip_idx": 23,
+   "text": "Mugica said Smartmatic announced its findings before informing the government."
+  },
+  {
+   "blip_idx": 24,
+   "text": "\"The authorities would not be sympathetic\" to the company's announcement, he said."
+  },
+  {
+   "blip_idx": 25,
+   "text": "Smartmatic Chairman Mark Malloch-Brown is a former deputy secretary general of the United Nations and a former vice president of the World Bank."
+  },
+  {
+   "blip_idx": 26,
+   "text": "Malloch-Brown is currently a member of Britain's House of Lords and a member of the global board of George Soros' Open Society Foundation."
+  },
+  {
+   "blip_idx": 27,
+   "text": "Andr"
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 29,
+    "dist_old": 0.3866056626099985,
+    "dist_new": 0.3866056626099985
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "added",
+   "added",
+   "unchanged",
+   "added",
+   "added",
+   "added"
+  ],
+  "added_new": [
+   27,
+   28,
+   30,
+   31,
+   32
+  ]
+ },
+ "document_old": "LONDON (AP) -- The allegation of electoral fraud in Venezuela was brought by an electronic voting company headquartered in England that counts the Latin American country as one of its oldest clients and promotes its technology as a way to ensure legitimate elections. Smartmatic, whose chairman is a former deputy secretary-general of the United Nations and a current member of Britain's House of Lords, has provided election services to Venezuela since 2004, but never questioned the results of an election there until Wednesday. \"Even in moments of deep political conflict and division, we have been satisfied that the voting process and the count has been completely accurate,\" CEO Antonio Mugica told reporters while announcing the company had determined the turnout figures for Sunday's election for a constitutional assembly in Venezuela were tampered with. Tibisay Lucena, the head of Venezuela's National Electoral Council, denied Smartmatic's allegation of vote-tampering. He said the company played only a secondary role in the election and did not have access to complete data. Smartmatic was created by Venezuelans to provide electronic voting machines used during the administration of the late President Hugo Chavez. It has branched out in recent years to provide the same services to countries around the world. Mugica and President Roger Pinate are both Venezuelans. The company is part of SGO Group, headquartered in London, which describes itself as \"a family of ventures\" that is also working on technology to address issues such as identity verification, air pollution and government efficiency. SGO reported a profit of $10.3 million on revenues of $129.2 million in 2015, the latest figures on file at Britain's Companies House. Smartmatic, which says it has counted 3.7 billion votes on five continents, has a core mission to stop voter fraud. Its clients range from Belgium and Estonia to Armenia, the Philippines and Haiti. \"Legitimate elections are essential to any modern democracy,\" the company says on its website. Mugica said there was a discrepancy of \"at least 1 million votes\" between the turnout figure announced by the Venezuelan government and those recorded by Smartmatic's systems. He didn't specify whether Smartmatic's turnout figures were 1 million higher or lower than the more than 8 million votes announced by the government. While the company's systems can identify possible manipulation, people are needed to watch for evidence of electoral fraud, Mugica said. In previous Venezuelan elections, representatives from all political parties audited the vote count. On Sunday, no representatives of the parties were present, he said. \"Based on the robustness of our system, we know without any doubt that the turnout of a recent election for a National Constituent Assembly was manipulated,\" Mugica said. Venezuelan President Nicolas Maduro called the July 30 vote after weeks of protests fed by anger over food shortages, triple-digit inflation and high crime. The newly elected assembly will have nearly unlimited powers to install an even more staunchly socialist state. Tensions have escalated in the troubled Latin American country since government-allied election authorities announced their vote total. Opposition figures, who called for a boycott of the election, disputed the turnout figure, saying they estimated that 2 million to 3 million people cast ballots. Mugica said Smartmatic announced its findings before informing the government. \"The authorities would not be sympathetic\" to the company's announcement, he said. Smartmatic Chairman Mark Malloch-Brown is a former deputy secretary general of the United Nations and a former vice president of the World Bank. Malloch-Brown is currently a member of Britain's House of Lords and a member of the global board of George Soros' Open Society Foundation. Andr",
+ "document_new": "LONDON (AP) -- The allegation of electoral fraud in Venezuela was brought by an electronic voting company headquartered in England that counts the Latin American country as one of its oldest clients and promotes its technology as a way to ensure legitimate elections. Smartmatic, whose chairman is a former deputy secretary-general of the United Nations and a current member of Britain's House of Lords, has provided election services to Venezuela since 2004, but never questioned the results of an election there until Wednesday. \"Even in moments of deep political conflict and division, we have been satisfied that the voting process and the count has been completely accurate,\" CEO Antonio Mugica told reporters while announcing the company had determined the turnout figures for Sunday's election for a constitutional assembly in Venezuela were tampered with. Tibisay Lucena, the head of Venezuela's National Electoral Council, denied Smartmatic's allegation of vote-tampering. He said the company played only a secondary role in the election and did not have access to complete data. Smartmatic was created by Venezuelans to provide electronic voting machines used during the administration of the late President Hugo Chavez. It has branched out in recent years to provide the same services to countries around the world. Mugica and President Roger Pinate are both Venezuelans. The company is part of SGO Group, headquartered in London, which describes itself as \"a family of ventures\" that is also working on technology to address issues such as identity verification, air pollution and government efficiency. SGO reported a profit of $10.3 million on revenues of $129.2 million in 2015, the latest figures on file at Britain's Companies House. Smartmatic, which says it has counted 3.7 billion votes on five continents, has a core mission to stop voter fraud. Its clients range from Belgium and Estonia to Armenia, the Philippines and Haiti. \"Legitimate elections are essential to any modern democracy,\" the company says on its website. Mugica said there was a discrepancy of \"at least 1 million votes\" between the turnout figure announced by the Venezuelan government and those recorded by Smartmatic's systems. He didn't specify whether Smartmatic's turnout figures were 1 million higher or lower than the more than 8 million votes announced by the government. While the company's systems can identify possible manipulation, people are needed to watch for evidence of electoral fraud, Mugica said. In previous Venezuelan elections, representatives from all political parties audited the vote count. On Sunday, no representatives of the parties were present, he said. \"Based on the robustness of our system, we know without any doubt that the turnout of a recent election for a National Constituent Assembly was manipulated,\" Mugica said. Venezuelan President Nicolas Maduro called the July 30 vote after weeks of protests fed by anger over food shortages, triple-digit inflation and high crime. The newly elected assembly will have nearly unlimited powers to install an even more staunchly socialist state. Tensions have escalated in the troubled Latin American country since government-allied election authorities announced their vote total. Opposition figures, who called for a boycott of the election, disputed the turnout figure, saying they estimated that 2 million to 3 million people cast ballots. Mugica said Smartmatic announced its findings before informing the government. \"The authorities would not be sympathetic\" to the company's announcement, he said. Smartmatic Chairman Mark Malloch-Brown is a former deputy secretary general of the United Nations and a former vice president of the World Bank. Malloch-Brown is currently a member of Britain's House of Lords and a member of the global board of George Soros' Open Society Foundation. Andrés Mejía Acosta, an expert on Venezuela in the Department of International Development at King's College London, said the discrepancy aired publicly suggests divisions within the government. The fact that Mugica chose to speak in London suggests the real point was to inform the outside world, rather than Venezuelans. \"The basic issue is one of legitimacy,\" he said. \"My interpretation is that there is an internal settling of accounts from competing groups, two different factions contesting power within the group. They are starting to speak out. By doing this, they undermine (Maduro's) legitimacy to the outside world.",
+ "tasks": [
+  {
+   "task_id": "bool_001",
+   "type": "boolean",
+   "prompt": "Is Andrés Mejía Acosta an expert on Venezuela in the Department of International Development at King's College London according to the statement? Answer Yes or No."
+  }
+ ]
+}

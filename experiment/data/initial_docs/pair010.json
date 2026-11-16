@@ -1,0 +1,252 @@
+{
+ "pair_id": "ap_20454_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "FREDERICK, Colo."
+  },
+  {
+   "blip_idx": 1,
+   "text": "(AP) - A Colorado has judge denied a request by a defense attorney for a man accused of killing his pregnant wife and two daughters to require a coroner to collect DNA from the necks of the young girls."
+  },
+  {
+   "blip_idx": 2,
+   "text": "The judge said in an order Friday he would not tell the medical examiner's office involved in the case how to do its job, KMGH-TV and the Daily Camera newspaper in Boulder reported."
+  },
+  {
+   "blip_idx": 3,
+   "text": "Autopsies were completed Friday on Shanann Watts, 34, and her daughters, 4-year-old Bella and 3-year-old Celeste."
+  },
+  {
+   "blip_idx": 4,
+   "text": "The cause of their deaths has not been made public."
+  },
+  {
+   "blip_idx": 5,
+   "text": "The motion seeking the DNA samples from the girls' necks suggested that they may have been strangled."
+  },
+  {
+   "blip_idx": 6,
+   "text": "Police arrested Chris Watts, 33, late Wednesday on suspicion of killing his wife and children."
+  },
+  {
+   "blip_idx": 7,
+   "text": "Their bodies were found on Thursday on property owned by Andarko Petroleum, one of Colorado's largest oil and gas drillers, where Watts worked as an operator."
+  },
+  {
+   "blip_idx": 8,
+   "text": "Court documents filed by defense lawyer James Merson said the girls had been submerged in crude oil for four days."
+  },
+  {
+   "blip_idx": 9,
+   "text": "Weld County prosecutors said Watts was jailed in protective custody and that charges were expected to be filed on Monday."
+  },
+  {
+   "blip_idx": 10,
+   "text": "Outside the family's home in Frederick, north of Denver, a memorial of stuffed animals, balloons, flowers and messages grew and a candlelight vigil drew dozens of people Friday night."
+  },
+  {
+   "blip_idx": 11,
+   "text": "\"This is to celebrate, mourn and get closure for a family that didn't deserve this,\" said vigil organizer Kelley Trippy. \"This is a horrible, horrible, horrible story."
+  },
+  {
+   "blip_idx": 12,
+   "text": "It's affected us all whether you do know them or don't know them."
+  },
+  {
+   "blip_idx": 13,
+   "text": "\" Christine Gentert said a prayer, adding that she wanted Shanann Watts to be remembered for her smile and her love for others."
+  },
+  {
+   "blip_idx": 14,
+   "text": "\"I don't want the horror to replace how beautiful she was,\" Gentert said."
+  },
+  {
+   "blip_idx": 15,
+   "text": "Ashley Bell, a friend of Shanann Watts, said Shanann had planned a party Saturday to reveal the gender of her baby."
+  },
+  {
+   "blip_idx": 16,
+   "text": "Frankie Rzucek said his sister planned to name her baby boy Niko."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.05983184041135711,
+    "dist_new": 0.05983184041135711
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "FREDERICK, Colo. (AP) — A Colorado has judge denied a request by a defense attorney for a man accused of killing his pregnant wife and two daughters to require a coroner to collect DNA from the necks of the young girls. The judge said in an order Friday he would not tell the medical examiner's office involved in the case how to do its job, KMGH-TV and the Daily Camera newspaper in Boulder reported. Autopsies were completed Friday on Shanann Watts, 34, and her daughters, 4-year-old Bella and 3-year-old Celeste. The cause of their deaths has not been made public. The motion seeking the DNA samples from the girls' necks suggested that they may have been strangled. Police arrested Chris Watts, 33, late Wednesday on suspicion of killing his wife and children. Their bodies were found on Thursday on property owned by Andarko Petroleum, one of Colorado's largest oil and gas drillers, where Watts worked as an operator. Court documents filed by defense lawyer James Merson said the girls had been submerged in crude oil for four days. Weld County prosecutors said Watts was jailed in protective custody and that charges were expected to be filed on Monday. Outside the family's home in Frederick, north of Denver, a memorial of stuffed animals, balloons, flowers and messages grew and a candlelight vigil drew dozens of people Friday night. \"This is to celebrate, mourn and get closure for a family that didn't deserve this,\" said vigil organizer Kelley Trippy. \"This is a horrible, horrible, horrible story. It's affected us all whether you do know them or don't know them. \" Christine Gentert said a prayer, adding that she wanted Shanann Watts to be remembered for her smile and her love for others. \"I don't want the horror to replace how beautiful she was,\" Gentert said. Ashley Bell, a friend of Shanann Watts, said Shanann had planned a party Saturday to reveal the gender of her baby. Frankie Rzucek said his sister planned to name her baby boy Niko.",
+ "document_new": "FREDERICK, Colo. (AP) — A Colorado judge has denied a request by a defense attorney for a man accused of killing his pregnant wife and two daughters to require a coroner to collect DNA from the necks of the young girls. The judge said in an order Friday he would not tell the medical examiner's office involved in the case how to do its job, KMGH-TV and the Daily Camera newspaper in Boulder reported. Autopsies were completed Friday on Shanann Watts, 34, and her daughters, 4-year-old Bella and 3-year-old Celeste. The cause of their deaths has not been made public. The motion seeking the DNA samples from the girls' necks suggested that they may have been strangled. Police arrested Chris Watts, 33, late Wednesday on suspicion of killing his wife and children. Their bodies were found on Thursday on property owned by Andarko Petroleum, one of Colorado's largest oil and gas drillers, where Watts worked as an operator. Court documents filed by defense lawyer James Merson said the girls had been submerged in crude oil for four days. Weld County prosecutors said Watts was jailed in protective custody and that charges were expected to be filed on Monday. Outside the family's home in Frederick, north of Denver, a memorial of stuffed animals, balloons, flowers and messages grew and a candlelight vigil drew dozens of people Friday night. \"This is to celebrate, mourn and get closure for a family that didn't deserve this,\" said vigil organizer Kelley Trippy. \"This is a horrible, horrible, horrible story. It's affected us all whether you do know them or don't know them. \" Christine Gentert said a prayer, adding that she wanted Shanann Watts to be remembered for her smile and her love for others. \"I don't want the horror to replace how beautiful she was,\" Gentert said. Ashley Bell, a friend of Shanann Watts, said Shanann had planned a party Saturday to reveal the gender of her baby. Frankie Rzucek said his sister planned to name her baby boy Niko.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What state's judge denied the request? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "What is Chris Watts' age? Answer with the number only."
+  },
+  {
+   "task_id": "bool_001",
+   "type": "boolean",
+   "prompt": "Was the request denied by a judge in Colorado? Answer Yes or No."
+  },
+  {
+   "task_id": "bool_002",
+   "type": "boolean",
+   "prompt": "Was the request denied by a judge in Arizona? Answer Yes or No."
+  },
+  {
+   "task_id": "bool_003",
+   "type": "boolean",
+   "prompt": "Is Chris Watts' age greater than 25? Answer Yes or No."
+  },
+  {
+   "task_id": "bool_004",
+   "type": "boolean",
+   "prompt": "Is Chris Watts' age greater than 41? Answer Yes or No."
+  }
+ ]
+}

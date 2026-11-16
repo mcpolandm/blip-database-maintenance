@@ -1,0 +1,342 @@
+{
+ "pair_id": "ap_17824_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "WASHINGTON (AP) -- A furious President Donald Trump on Saturday called for the resignation of the Democratic senator who assembled and released what he called \"false\" allegations that scuttled the nomination of the White House doctor who'd been in line to lead the Department of Veterans Affairs."
+  },
+  {
+   "blip_idx": 1,
+   "text": "Trump stepped up his criticism of Montana's Jon Tester, top Democrat on the Senate Veterans' Committee, in two tweets days after asserting that Tester \"has to have a big price to pay\" politically in the GOP friendly state for his leading role in Ronny Jackson's failed VA bid."
+  },
+  {
+   "blip_idx": 2,
+   "text": "Tester faces a competitive re-election race this year."
+  },
+  {
+   "blip_idx": 3,
+   "text": "At issue are allegations that Tester has said were brought to his attention by more than 20 military and retired military personnel who've worked with Jackson."
+  },
+  {
+   "blip_idx": 4,
+   "text": "Tester said not investigating would have been \"a dereliction of duty\" and said making them public was important for the sake of transparency."
+  },
+  {
+   "blip_idx": 5,
+   "text": "The charges against Jackson raised questions about his prescribing practices and leadership ability, including accusations of drunkenness on the job."
+  },
+  {
+   "blip_idx": 6,
+   "text": "Tester's office collected the allegations, which included a claim that Jackson \"got drunk and wrecked a government vehicle\" at a Secret Service going-away party."
+  },
+  {
+   "blip_idx": 7,
+   "text": "Trump tweeted Saturday that the allegations \"are proving false."
+  },
+  {
+   "blip_idx": 8,
+   "text": "The Secret Service is unable to confirm (in fact they deny) any of the phony Democrat charges which have absolutely devastated the wonderful Jackson family."
+  },
+  {
+   "blip_idx": 9,
+   "text": "Tester should resign."
+  },
+  {
+   "blip_idx": 10,
+   "text": "\" Trump said people in Montana, a state he won by 20 percentage points in 2016, \"will not stand for this kind of slander.\" He called Jackson \"the kind of man that those in Montana would most respect and admire, and now, for no reason whatsoever, his reputation has been shattered. Not fair, Tester!\" There was no immediate response from Tester's office to telephone messages and emails seeking comments."
+  },
+  {
+   "blip_idx": 11,
+   "text": "The White House said Friday, one day after Jackson withdrew his nomination, that internal records raise doubt about some of the most serious accusations."
+  },
+  {
+   "blip_idx": 12,
+   "text": "The White House said its records, including police reports, show Jackson was in three minor incidents in government vehicles during the past five years, but none involved the use of alcohol and he was not found to be at fault."
+  },
+  {
+   "blip_idx": 13,
+   "text": "In one case, a side-view mirror was clipped by a passing truck."
+  },
+  {
+   "blip_idx": 14,
+   "text": "In another incident an enraged driver in Montgomery County, Maryland, allegedly punched out Jackson's window during a morning drive to Camp David."
+  },
+  {
+   "blip_idx": 15,
+   "text": "The White House medical unit that Jackson ran successfully passed regular controlled substance audits, according to the records for the last three years."
+  },
+  {
+   "blip_idx": 16,
+   "text": "The reviews did recommend improvements to the medical unit's handling of controlled substances, but did not find misconduct."
+  },
+  {
+   "blip_idx": 17,
+   "text": "The Associated Press reviewed the documents Friday."
+  },
+  {
+   "blip_idx": 18,
+   "text": "They were the result of an internal White House review of allegations raised against Jackson during his brief confirmation process."
+  },
+  {
+   "blip_idx": 19,
+   "text": "The White House says the records disprove the allegations."
+  },
+  {
+   "blip_idx": 20,
+   "text": "Tester's office has not specified the time frame during which the alleged misconduct occurred, and a spokeswoman on Friday said the office would not comment until it knew more about the White House records."
+  },
+  {
+   "blip_idx": 21,
+   "text": "Separately, the Secret Service said it has no evidence to support an allegation that its personnel intervened to prevent Jackson from disturbing former President Barack Obama during a foreign trip in 2015. In a statement dated Thursday, the Secret Service said it had conducted a \"thorough review\" of internal documents related to Obama's foreign trips in 2015 and interviewed people who were present."
+  },
+  {
+   "blip_idx": 22,
+   "text": "The agency said it has found \"no information that would indicate the allegation is accurate\" and no record of any incident involving Jackson."
+  },
+  {
+   "blip_idx": 23,
+   "text": "CNN had reported allegations that Jackson drunkenly banged on the hotel room door of a female employee and that Secret Service personnel intervened out of concern that he would wake Obama."
+  },
+  {
+   "blip_idx": 24,
+   "text": "Jackson has denied the accusations, calling them \"baseless and anonymous attacks\" on his character and integrity that are \"completely false and fabricated.\" The Democratic staff on the Senate committee also claimed Jackson had doled out such a large supply of a prescription opioid that staffers panicked because they thought the drugs were missing."
+  },
+  {
+   "blip_idx": 25,
+   "text": "They said their allegations were based on conversations with 23 of Jackson's current and former colleagues at the White House Medical Unit."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 28,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.1222497100973841,
+    "dist_new": 0.12207021799834505
+   },
+   {
+    "old": 19,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 14,
+    "dist_old": 0.4205565266800671,
+    "dist_new": 0.4205565266800671
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "added",
+   "added",
+   "added",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": [
+   11,
+   12,
+   13
+  ]
+ },
+ "document_old": "WASHINGTON (AP) -- A furious President Donald Trump on Saturday called for the resignation of the Democratic senator who assembled and released what he called \"false\" allegations that scuttled the nomination of the White House doctor who'd been in line to lead the Department of Veterans Affairs. Trump stepped up his criticism of Montana's Jon Tester, top Democrat on the Senate Veterans' Committee, in two tweets days after asserting that Tester \"has to have a big price to pay\" politically in the GOP friendly state for his leading role in Ronny Jackson's failed VA bid. Tester faces a competitive re-election race this year. At issue are allegations that Tester has said were brought to his attention by more than 20 military and retired military personnel who've worked with Jackson. Tester said not investigating would have been \"a dereliction of duty\" and said making them public was important for the sake of transparency. The charges against Jackson raised questions about his prescribing practices and leadership ability, including accusations of drunkenness on the job. Tester's office collected the allegations, which included a claim that Jackson \"got drunk and wrecked a government vehicle\" at a Secret Service going-away party. Trump tweeted Saturday that the allegations \"are proving false. The Secret Service is unable to confirm (in fact they deny) any of the phony Democrat charges which have absolutely devastated the wonderful Jackson family. Tester should resign. \" Trump said people in Montana, a state he won by 20 percentage points in 2016, \"will not stand for this kind of slander.\" He called Jackson \"the kind of man that those in Montana would most respect and admire, and now, for no reason whatsoever, his reputation has been shattered. Not fair, Tester!\" There was no immediate response from Tester's office to telephone messages and emails seeking comments. The White House said Friday, one day after Jackson withdrew his nomination, that internal records raise doubt about some of the most serious accusations. The White House said its records, including police reports, show Jackson was in three minor incidents in government vehicles during the past five years, but none involved the use of alcohol and he was not found to be at fault. In one case, a side-view mirror was clipped by a passing truck. In another incident an enraged driver in Montgomery County, Maryland, allegedly punched out Jackson's window during a morning drive to Camp David. The White House medical unit that Jackson ran successfully passed regular controlled substance audits, according to the records for the last three years. The reviews did recommend improvements to the medical unit's handling of controlled substances, but did not find misconduct. The Associated Press reviewed the documents Friday. They were the result of an internal White House review of allegations raised against Jackson during his brief confirmation process. The White House says the records disprove the allegations. Tester's office has not specified the time frame during which the alleged misconduct occurred, and a spokeswoman on Friday said the office would not comment until it knew more about the White House records. Separately, the Secret Service said it has no evidence to support an allegation that its personnel intervened to prevent Jackson from disturbing former President Barack Obama during a foreign trip in 2015. In a statement dated Thursday, the Secret Service said it had conducted a \"thorough review\" of internal documents related to Obama's foreign trips in 2015 and interviewed people who were present. The agency said it has found \"no information that would indicate the allegation is accurate\" and no record of any incident involving Jackson. CNN had reported allegations that Jackson drunkenly banged on the hotel room door of a female employee and that Secret Service personnel intervened out of concern that he would wake Obama. Jackson has denied the accusations, calling them \"baseless and anonymous attacks\" on his character and integrity that are \"completely false and fabricated.\" The Democratic staff on the Senate committee also claimed Jackson had doled out such a large supply of a prescription opioid that staffers panicked because they thought the drugs were missing. They said their allegations were based on conversations with 23 of Jackson's current and former colleagues at the White House Medical Unit.",
+ "document_new": "WASHINGTON (AP) -- A furious President Donald Trump on Saturday called for the resignation of the Democratic senator who assembled and released what he called \"false\" allegations that scuttled the nomination of the White House doctor who'd been in line to lead the Department of Veterans Affairs. Trump stepped up his criticism of Montana's Jon Tester, the top Democrat on the Senate Veterans' Committee, in two tweets days after asserting that Tester \"has to have a big price to pay\" politically in the GOP friendly state for his leading role in Ronny Jackson's failed VA bid. Tester faces a competitive re-election race this year. At issue are allegations that Tester has said were brought to his attention by more than 20 military and retired military personnel who've worked with Jackson. Tester said not investigating would have been \"a dereliction of duty\" and said making them public was important for the sake of transparency. The charges against Jackson raised questions about his prescribing practices and leadership ability, including accusations of drunkenness on the job. Tester's office collected the allegations, which included a claim that Jackson \"got drunk and wrecked a government vehicle\" at a Secret Service going-away party. Trump tweeted Saturday that the allegations \"are proving false. The Secret Service is unable to confirm (in fact they deny) any of the phony Democrat charges which have absolutely devastated the wonderful Jackson family. Tester should resign. \" Trump said people in Montana, a state he won by 20 percentage points in 2016, \"will not stand for this kind of slander.\" He called Jackson \"the kind of man that those in Montana would most respect and admire, and now, for no reason whatsoever, his reputation has been shattered. Not fair, Tester!\" There was no immediate response from Tester's office to telephone messages and emails seeking comments. A spokeswoman for the committee chairman, Sen. Johnny Isakson, R-Ga. , declined comment Saturday on Trump's tweets. When Amanda Maddox was asked whether Isakson was troubled by Tester's release of the allegations, she cited comments the chairman made Thursday: \"Everyone has an obligation if they make a charge to release it. And everyone who is charged has a right to have a day in court to be heard.\" The White House said Friday, one day after Jackson withdrew his nomination, that internal records raise doubt about some of the most serious accusations. The White House said its records, including police reports, show Jackson was in three minor incidents in government vehicles during the past five years, but none involved the use of alcohol and he was not found to be at fault. In one case, a side-view mirror was clipped by a passing truck. In another incident an enraged driver in Montgomery County, Maryland, allegedly punched out Jackson's window during a morning drive to Camp David. The White House medical unit that Jackson ran successfully passed regular controlled substance audits, according to the records for the last three years. The reviews did recommend improvements to the medical unit's handling of controlled substances, but did not find misconduct. The Associated Press reviewed the documents Friday. They were the result of an internal White House review of allegations raised against Jackson during his brief confirmation process. The White House says the records disprove the allegations. Tester's office has not specified the time frame during which the alleged misconduct occurred, and a spokeswoman on Friday said the office would not comment until it knew more about the White House records. Separately, the Secret Service said it has no evidence to support an allegation that its personnel intervened to prevent Jackson from disturbing former President Barack Obama during a foreign trip in 2015. In a statement dated Thursday, the Secret Service said it had conducted a \"thorough review\" of internal documents related to Obama's foreign trips in 2015 and interviewed people who were present. The agency said it has found \"no information that would indicate the allegation is accurate\" and no record of any incident involving Jackson. CNN had reported allegations that Jackson drunkenly banged on the hotel room door of a female employee and that Secret Service personnel intervened out of concern that he would wake Obama. Jackson has denied the accusations, calling them \"baseless and anonymous attacks\" on his character and integrity that are \"completely false and fabricated.\" The Democratic staff on the Senate committee also claimed Jackson had doled out such a large supply of a prescription opioid that staffers panicked because they thought the drugs were missing. They said their allegations were based on conversations with 23 of Jackson's current and former colleagues at the White House Medical Unit.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "How many colleagues provided information for the allegations? Answer with the number only."
+  }
+ ]
+}

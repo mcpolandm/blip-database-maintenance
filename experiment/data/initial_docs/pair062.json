@@ -1,0 +1,436 @@
+{
+ "pair_id": "ap_3558_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "DETROIT (AP) -- On a milestone night for female boxers, Claressa Shields gave herself rave reviews."
+  },
+  {
+   "blip_idx": 1,
+   "text": "Shields became the first woman to headline a fight card on premium cable, stopping Szilvia Szabados in the fourth round Friday night in their fight for the NABF middleweight championship on Showtime."
+  },
+  {
+   "blip_idx": 2,
+   "text": "Referee Harvey Dock stopped the fight 1:30 into the fourth, after Shields had landed a strong left-handed punch to the head of Szabados."
+  },
+  {
+   "blip_idx": 3,
+   "text": "\"I put on a good show."
+  },
+  {
+   "blip_idx": 4,
+   "text": "I used some good technique."
+  },
+  {
+   "blip_idx": 5,
+   "text": "I wasn't just out there brawling with her,\" Shields said. \"I showed my skill, I showed my power, and I showed how I box like Sugar Ray Robinson and Joe Louis mixed together."
+  },
+  {
+   "blip_idx": 6,
+   "text": "\" Shields (2-0) controlled the fight from the outset in front of a boisterous crowd in her home state of Michigan."
+  },
+  {
+   "blip_idx": 7,
+   "text": "The two-time Olympic champion from Flint landed 95 punches to 11 by Szabados."
+  },
+  {
+   "blip_idx": 8,
+   "text": "When it came to power punches, the margin was 88-10. Szabados (15-9) did well to avoid being knocked down."
+  },
+  {
+   "blip_idx": 9,
+   "text": "The Hungarian was still on her feet when the fight was stopped, and she shook her head a bit in apparent disbelief that it was over."
+  },
+  {
+   "blip_idx": 10,
+   "text": "\"I'm very sad and heartbroken right now because I only went four rounds and I could have kept going,\" Szabados said."
+  },
+  {
+   "blip_idx": 11,
+   "text": "Szabados said she'd have to live with the referee's decision."
+  },
+  {
+   "blip_idx": 12,
+   "text": "\"Her hits were not painful,\" Szabados said."
+  },
+  {
+   "blip_idx": 13,
+   "text": "\"Her right hook got me a lot, I know. I could feel that one.\" Shields, who won gold medals in London and Rio de Janeiro, made her pro debut in November when she won a decision over Franchon Crews in a four-round super middleweight fight."
+  },
+  {
+   "blip_idx": 14,
+   "text": "She entered the ring against Szabados to a huge cheer from a crowd that packed the ballroom at the MGM Grand."
+  },
+  {
+   "blip_idx": 15,
+   "text": "The venue held about 1,000 people, and the atmosphere was spirited, especially when Shields landed a couple solid right hands in the first round to take control."
+  },
+  {
+   "blip_idx": 16,
+   "text": "\"That girl could take a lot of punishment,\" said Shields, who turns 22 next week."
+  },
+  {
+   "blip_idx": 17,
+   "text": "\"She's tough."
+  },
+  {
+   "blip_idx": 18,
+   "text": "She's a really tough girl."
+  },
+  {
+   "blip_idx": 19,
+   "text": "I'm just more skilled and a better fighter."
+  },
+  {
+   "blip_idx": 20,
+   "text": "\" Shields attempted 56 power punches in the first round and landed 28. \"I knew she was going to see if I was as tough as her, and I knew she wasn't going to back down if she was backing me up,\" Shields said. \"I wanted to put that power on to let her know, 'Every time you try to come in here and hit me, I've got something for you."
+  },
+  {
+   "blip_idx": 21,
+   "text": "First, second, third, fourth - however many rounds you want to make this go, I've got something for you every round."
+  },
+  {
+   "blip_idx": 22,
+   "text": "'\" Shields said she turned pro in part because she wanted to help women's boxing grow , and her brash-but-engaging attitude could help her become the type of star the sport could definitely use."
+  },
+  {
+   "blip_idx": 23,
+   "text": "Shields said confidently before this fight that she wouldn't need all six rounds to defeat Szabados, and that prediction turned out to be accurate."
+  },
+  {
+   "blip_idx": 24,
+   "text": "\"I wanted to get a knockout - like, make her go to sleep."
+  },
+  {
+   "blip_idx": 25,
+   "text": "But she was taking a whole lot of punishment."
+  },
+  {
+   "blip_idx": 26,
+   "text": "That's the ref's job, is to protect the fighter,\" Shields said. \"I'll get a KO someday, but right now I'll just stick with the TKO."
+  },
+  {
+   "blip_idx": 27,
+   "text": "It's fine."
+  },
+  {
+   "blip_idx": 28,
+   "text": "I'm cool with it."
+  },
+  {
+   "blip_idx": 29,
+   "text": "No pressure."
+  },
+  {
+   "blip_idx": 30,
+   "text": "\" In the co-main event, Nikolay Potapov (17-0-1) of Russia defeated Antonio Nieves (17-1-2) of Cleveland in a split decision for the NABO bantamweight title."
+  },
+  {
+   "blip_idx": 31,
+   "text": "Earlier on the undercard, Wesley Tucker (14-0) of Toledo, Ohio, outpointed Ed Williams (12-2-1) of Detroit in an eight-round welterweight bout, and Joshua Greer Jr."
+  },
+  {
+   "blip_idx": 32,
+   "text": "(12-1-1) of Chicago stopped James Gordon Smith (11-1) of Detroit in the sixth round of a bantamweight fight."
+  },
+  {
+   "blip_idx": 33,
+   "text": "--- Follow Noah Trister at www.Twitter.com/noahtrister"
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 32,
+    "new": 32,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 33,
+    "new": 33,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 31,
+    "new": 31,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 30,
+    "new": 30,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 29,
+    "new": 29,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.049361355307301465,
+    "dist_new": 0.049361355307301465
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 28,
+    "new": 28,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "DETROIT (AP) -- On a milestone night for female boxers, Claressa Shields gave herself rave reviews. Shields became the first woman to headline a fight card on premium cable, stopping Szilvia Szabados in the fourth round Friday night in their fight for the NABF middleweight championship on Showtime. Referee Harvey Dock stopped the fight 1:30 into the fourth, after Shields had landed a strong left-handed punch to the head of Szabados. \"I put on a good show. I used some good technique. I wasn't just out there brawling with her,\" Shields said. \"I showed my skill, I showed my power, and I showed how I box like Sugar Ray Robinson and Joe Louis mixed together. \" Shields (2-0) controlled the fight from the outset in front of a boisterous crowd in her home state of Michigan. The two-time Olympic champion from Flint landed 95 punches to 11 by Szabados. When it came to power punches, the margin was 88-10. Szabados (15-9) did well to avoid being knocked down. The Hungarian was still on her feet when the fight was stopped, and she shook her head a bit in apparent disbelief that it was over. \"I'm very sad and heartbroken right now because I only went four rounds and I could have kept going,\" Szabados said. Szabados said she'd have to live with the referee's decision. \"Her hits were not painful,\" Szabados said. \"Her right hook got me a lot, I know. I could feel that one.\" Shields, who won gold medals in London and Rio de Janeiro, made her pro debut in November when she won a decision over Franchon Crews in a four-round super middleweight fight. She entered the ring against Szabados to a huge cheer from a crowd that packed the ballroom at the MGM Grand. The venue held about 1,000 people, and the atmosphere was spirited, especially when Shields landed a couple solid right hands in the first round to take control. \"That girl could take a lot of punishment,\" said Shields, who turns 22 next week. \"She's tough. She's a really tough girl. I'm just more skilled and a better fighter. \" Shields attempted 56 power punches in the first round and landed 28. \"I knew she was going to see if I was as tough as her, and I knew she wasn't going to back down if she was backing me up,\" Shields said. \"I wanted to put that power on to let her know, 'Every time you try to come in here and hit me, I've got something for you. First, second, third, fourth - however many rounds you want to make this go, I've got something for you every round. '\" Shields said she turned pro in part because she wanted to help women's boxing grow , and her brash-but-engaging attitude could help her become the type of star the sport could definitely use. Shields said confidently before this fight that she wouldn't need all six rounds to defeat Szabados, and that prediction turned out to be accurate. \"I wanted to get a knockout - like, make her go to sleep. But she was taking a whole lot of punishment. That's the ref's job, is to protect the fighter,\" Shields said. \"I'll get a KO someday, but right now I'll just stick with the TKO. It's fine. I'm cool with it. No pressure. \" In the co-main event, Nikolay Potapov (17-0-1) of Russia defeated Antonio Nieves (17-1-2) of Cleveland in a split decision for the NABO bantamweight title. Earlier on the undercard, Wesley Tucker (14-0) of Toledo, Ohio, outpointed Ed Williams (12-2-1) of Detroit in an eight-round welterweight bout, and Joshua Greer Jr. (12-1-1) of Chicago stopped James Gordon Smith (11-1) of Detroit in the sixth round of a bantamweight fight. --- Follow Noah Trister at www.Twitter.com/noahtrister",
+ "document_new": "DETROIT (AP) -- On a milestone night for female boxers, Claressa Shields gave herself rave reviews. Shields became the first woman to headline a fight card on premium cable, stopping Szilvia Szabados in the fourth round Friday night in their fight for the NABF middleweight championship on Showtime. Referee Harvey Dock stopped the fight 1:30 into the fourth, after Shields had landed a strong left-handed punch to the head of Szabados. \"I put on a good show. I used some good technique. I wasn't just out there brawling with her,\" Shields said. \"I showed my skill, I showed my power, and I showed how I box like Sugar Ray Robinson and Joe Louis mixed together. \" Shields (2-0) controlled the fight from the outset in front of a boisterous crowd in her home state of Michigan. The two-time Olympic champion from Flint landed 95 punches to 11 by Szabados. When it came to power punches, the margin was 88-10. Szabados (15-9) did well to avoid being knocked down. The Hungarian was still on her feet when the fight was stopped, and she shook her head a bit in apparent disbelief that it was over. \"I'm very sad and heartbroken right now because I only went four rounds and I could have kept going,\" Szabados said. Szabados said she'd have to live with the referee's decision. \"Her hits were not painful,\" Szabados said. \"Her right hook got me a lot, I know. I could feel that one.\" Shields, who won gold medals in London and Rio de Janeiro, made her pro debut in November when she won a decision over Franchon Crews in a four-round super middleweight fight. She entered the ring against Szabados to a huge cheer from a crowd that packed the ballroom at the MGM Grand. The venue held about 1,000 people, and the atmosphere was spirited, especially when Shields landed a couple solid right hands in the first round to take control. \"That girl could take a lot of punishment,\" said Shields, who turns 22 next week. \"She's tough. She's a really tough girl. I'm just more skilled and a better fighter. \" Shields attempted 56 power punches in the first round and landed 28. \"I knew she was going to see if I was as tough as her, and I knew she wasn't going to back down if she was backing me up,\" Shields said. \"I wanted to put that power on to let her know, 'Every time you try to come in here and hit me, I've got something for you. First, second, third, fourth - however many rounds you want to make this go, I've got something for you every round. '\" Shields said she turned pro in part because she wanted to help women's boxing grow , and her brash-but-engaging attitude could help her become the type of star the sport definitely could use. Shields said confidently before this fight that she wouldn't need all six rounds to defeat Szabados, and that prediction turned out to be accurate. \"I wanted to get a knockout - like, make her go to sleep. But she was taking a whole lot of punishment. That's the ref's job, is to protect the fighter,\" Shields said. \"I'll get a KO someday, but right now I'll just stick with the TKO. It's fine. I'm cool with it. No pressure. \" In the co-main event, Nikolay Potapov (17-0-1) of Russia defeated Antonio Nieves (17-1-2) of Cleveland in a split decision for the NABO bantamweight title. Earlier on the undercard, Wesley Tucker (14-0) of Toledo, Ohio, outpointed Ed Williams (12-2-1) of Detroit in an eight-round welterweight bout, and Joshua Greer Jr. (12-1-1) of Chicago stopped James Gordon Smith (11-1) of Detroit in the sixth round of a bantamweight fight. --- Follow Noah Trister at www.Twitter.com/noahtrister",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What did Shields say could help her become the type of star the sport could use? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "When did the referee stop the fight? Answer in as few words as possible."
+  }
+ ]
+}

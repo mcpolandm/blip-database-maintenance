@@ -1,0 +1,352 @@
+{
+ "pair_id": "ap_11354_2_3",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "MANILA, Philippines (AP) -- Armed with extraordinary new U.N. sanctions, nations raced Monday to ensure that North Korea's biggest trading partners actually carry them out, an elusive task that has undercut past attempts to strong-arm Pyongyang into abandoning its nuclear weapons."
+  },
+  {
+   "blip_idx": 1,
+   "text": "As President Donald Trump demanded full and speedy implementation of the new penalties, his top diplomat laid out a narrow path for the North to return to negotiations that could ultimately see sanctions lifted."
+  },
+  {
+   "blip_idx": 2,
+   "text": "Stop testing missiles for an \"extended period,\" Secretary of State Rex Tillerson said, and the U.S. might deem North Korea ready to talk."
+  },
+  {
+   "blip_idx": 3,
+   "text": "\"We'll know it when we see it,\" Tillerson said. \"This is not a 'give me 30 days and we are ready to talk.' It's not quite that simple."
+  },
+  {
+   "blip_idx": 4,
+   "text": "So it is all about how we see their attitude towards approaching a dialogue with us."
+  },
+  {
+   "blip_idx": 5,
+   "text": "\" Even as they celebrate a diplomatic victory in persuading China and Russia to sign on to cutting new sanctions, the U.S. and other countries are deeply concerned that failure to rigorously enforce them could significantly blunt their impact."
+  },
+  {
+   "blip_idx": 6,
+   "text": "Since Saturday's U.N."
+  },
+  {
+   "blip_idx": 7,
+   "text": "Security Council vote, Washington has put Beijing in particular on notice that it's watching closely to ensure China doesn't repeat its pattern of carrying out sanctions for a while, then returning to business as usual with the pariah nation on its border."
+  },
+  {
+   "blip_idx": 8,
+   "text": "Such concerns were on display Sunday in a dizzying display of fast-paced diplomacy spanning multiple continents."
+  },
+  {
+   "blip_idx": 9,
+   "text": "South Korea's foreign minister joined her counterparts from the U.S. and Japan for a meeting in the Philippines in which Tillerson touted efforts to persuade nations to stop using North Korean labor."
+  },
+  {
+   "blip_idx": 10,
+   "text": "The American and Japanese diplomats held another three-way session with Australia."
+  },
+  {
+   "blip_idx": 11,
+   "text": "The South Korean envoy held a rare but brief meeting in Manila with North Korea's top diplomat, who also spoke by phone with Russian Foreign Minister Sergey Lavrov, who had discussed the sanctions with Tillerson a day before."
+  },
+  {
+   "blip_idx": 12,
+   "text": "In a phone call requested by Seoul, Trump and newly installed South Korean President Moon Jae-in committed jointly to \"fully implement all relevant resolutions and to urge the international community to do so as well,\" the White House said."
+  },
+  {
+   "blip_idx": 13,
+   "text": "Moon's office said that he and Trump had agreed to apply \"the maximum pressure and sanction.\" The penalties, approved unanimously Saturday by the Security Council, aim to cut off roughly one-third of North Korea's estimated $3 billion in annual exports, ostensibly denying the nation funds for its weapons programs."
+  },
+  {
+   "blip_idx": 14,
+   "text": "All countries are now banned from importing North Korean coal, iron, lead and seafood products, and from letting in more North Korean laborers whose remittances help fund Kim Jong Un's regime."
+  },
+  {
+   "blip_idx": 15,
+   "text": "Yet already, there are signs that nations with the strongest ties to North Korea may fall short of the stringent enforcement that Trump and others seek."
+  },
+  {
+   "blip_idx": 16,
+   "text": "Although Russia voted for the sanctions, its U.N. ambassador, Vasily Nebenzya, told the Security Council that sanctions \"cannot be a goal in itself\" and \"shall not be used for economic strangling\" of North Korea, according to the Russian state news agency Tass."
+  },
+  {
+   "blip_idx": 17,
+   "text": "Still, the key concern is over China, the North's economic lifeline and biggest trading partner."
+  },
+  {
+   "blip_idx": 18,
+   "text": "John Delury, a China and North Korea expert at Yonsei University in Seoul, noted that the Chinese population that lives along the 800-mile (1,300-km) border with North Korea is already struggling financially."
+  },
+  {
+   "blip_idx": 19,
+   "text": "Triggering an economic meltdown in North Korea would inevitably produce a spillover effect in China, he said."
+  },
+  {
+   "blip_idx": 20,
+   "text": "\"They're almost going from sanctions to embargo and really trying to slam the North Korean economy,\" Delury said. \"If you really start to go down that path, I'm not sure how far the Chinese will go down with you."
+  },
+  {
+   "blip_idx": 21,
+   "text": "\" The other mounting concern: that by the time the sanctions really start cutting into the North's economy, potentially changing the government's thinking about the wisdom of pursuing nuclear weapons, it may be too late."
+  },
+  {
+   "blip_idx": 22,
+   "text": "Two unprecedented tests of intercontinental ballistic missiles by North Korea last month were the latest signs that its weapons program is approaching the point of no return."
+  },
+  {
+   "blip_idx": 23,
+   "text": "While the North now boasts missiles it says can reach major U.S. cities, it is not believed to have mastered the ability to cap them with nuclear warheads, but that step may not be far off."
+  },
+  {
+   "blip_idx": 24,
+   "text": "Tillerson conceded there would likely be a lag period before the sanctions \"actually have a practical bite on their revenues.\" \"I think perhaps the more important element to that is just the message that this sends to North Korea about the unacceptability the entire international community finds what they're doing to be,\" he said."
+  },
+  {
+   "blip_idx": 25,
+   "text": "--- Associated Press writer Hyung-jin Kim in Seoul, South Korea, contributed to this report."
+  },
+  {
+   "blip_idx": 26,
+   "text": "--- Reach Josh Lederman on Twitter at http://twitter.com/joshledermanAP"
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 1,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 16,
+    "dist_old": 0.198666172609746,
+    "dist_new": 0.198666172609746
+   },
+   {
+    "old": 13,
+    "new": 15,
+    "dist_old": 0.08385070159188142,
+    "dist_new": 0.08385070159188142
+   },
+   {
+    "old": 23,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 28,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "added",
+   "added",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": [
+   1,
+   2
+  ]
+ },
+ "document_old": "MANILA, Philippines (AP) -- Armed with extraordinary new U.N. sanctions, nations raced Monday to ensure that North Korea's biggest trading partners actually carry them out, an elusive task that has undercut past attempts to strong-arm Pyongyang into abandoning its nuclear weapons. As President Donald Trump demanded full and speedy implementation of the new penalties, his top diplomat laid out a narrow path for the North to return to negotiations that could ultimately see sanctions lifted. Stop testing missiles for an \"extended period,\" Secretary of State Rex Tillerson said, and the U.S. might deem North Korea ready to talk. \"We'll know it when we see it,\" Tillerson said. \"This is not a 'give me 30 days and we are ready to talk.' It's not quite that simple. So it is all about how we see their attitude towards approaching a dialogue with us. \" Even as they celebrate a diplomatic victory in persuading China and Russia to sign on to cutting new sanctions, the U.S. and other countries are deeply concerned that failure to rigorously enforce them could significantly blunt their impact. Since Saturday's U.N. Security Council vote, Washington has put Beijing in particular on notice that it's watching closely to ensure China doesn't repeat its pattern of carrying out sanctions for a while, then returning to business as usual with the pariah nation on its border. Such concerns were on display Sunday in a dizzying display of fast-paced diplomacy spanning multiple continents. South Korea's foreign minister joined her counterparts from the U.S. and Japan for a meeting in the Philippines in which Tillerson touted efforts to persuade nations to stop using North Korean labor. The American and Japanese diplomats held another three-way session with Australia. The South Korean envoy held a rare but brief meeting in Manila with North Korea's top diplomat, who also spoke by phone with Russian Foreign Minister Sergey Lavrov, who had discussed the sanctions with Tillerson a day before. In a phone call requested by Seoul, Trump and newly installed South Korean President Moon Jae-in committed jointly to \"fully implement all relevant resolutions and to urge the international community to do so as well,\" the White House said. Moon's office said that he and Trump had agreed to apply \"the maximum pressure and sanction.\" The penalties, approved unanimously Saturday by the Security Council, aim to cut off roughly one-third of North Korea's estimated $3 billion in annual exports, ostensibly denying the nation funds for its weapons programs. All countries are now banned from importing North Korean coal, iron, lead and seafood products, and from letting in more North Korean laborers whose remittances help fund Kim Jong Un's regime. Yet already, there are signs that nations with the strongest ties to North Korea may fall short of the stringent enforcement that Trump and others seek. Although Russia voted for the sanctions, its U.N. ambassador, Vasily Nebenzya, told the Security Council that sanctions \"cannot be a goal in itself\" and \"shall not be used for economic strangling\" of North Korea, according to the Russian state news agency Tass. Still, the key concern is over China, the North's economic lifeline and biggest trading partner. John Delury, a China and North Korea expert at Yonsei University in Seoul, noted that the Chinese population that lives along the 800-mile (1,300-km) border with North Korea is already struggling financially. Triggering an economic meltdown in North Korea would inevitably produce a spillover effect in China, he said. \"They're almost going from sanctions to embargo and really trying to slam the North Korean economy,\" Delury said. \"If you really start to go down that path, I'm not sure how far the Chinese will go down with you. \" The other mounting concern: that by the time the sanctions really start cutting into the North's economy, potentially changing the government's thinking about the wisdom of pursuing nuclear weapons, it may be too late. Two unprecedented tests of intercontinental ballistic missiles by North Korea last month were the latest signs that its weapons program is approaching the point of no return. While the North now boasts missiles it says can reach major U.S. cities, it is not believed to have mastered the ability to cap them with nuclear warheads, but that step may not be far off. Tillerson conceded there would likely be a lag period before the sanctions \"actually have a practical bite on their revenues.\" \"I think perhaps the more important element to that is just the message that this sends to North Korea about the unacceptability the entire international community finds what they're doing to be,\" he said. --- Associated Press writer Hyung-jin Kim in Seoul, South Korea, contributed to this report. --- Reach Josh Lederman on Twitter at http://twitter.com/joshledermanAP",
+ "document_new": "MANILA, Philippines (AP) -- Armed with extraordinary new U.N. sanctions, nations raced Monday to ensure that North Korea's biggest trading partners actually carry them out, an elusive task that has undercut past attempts to strong-arm Pyongyang into abandoning its nuclear weapons. North Korea reacted angrily, vowing to bolster its nuclear arsenal and launch \"thousands-fold\" revenge against the United States. In a statement carried by state media, Kim Jong Un's government called the sanctions a \"violent infringement of its sovereignty\" caused by a \"heinous U.S. plot to isolate and stifle\" North Korea. As President Donald Trump demanded full and speedy implementation of the new penalties, his top diplomat laid out a narrow path for the North to return to negotiations that could ultimately see sanctions lifted. Stop testing missiles for an \"extended period,\" Secretary of State Rex Tillerson said, and the U.S. might deem North Korea ready to talk. \"We'll know it when we see it,\" Tillerson said. \"This is not a 'give me 30 days and we are ready to talk.' It's not quite that simple. So it is all about how we see their attitude towards approaching a dialogue with us. \" Even as they celebrate a diplomatic victory in persuading China and Russia to sign on to cutting new sanctions, the U.S. and other countries are deeply concerned that failure to rigorously enforce them could significantly blunt their impact. Since Saturday's U.N. Security Council vote, Washington has put Beijing in particular on notice that it's watching closely to ensure China doesn't repeat its pattern of carrying out sanctions for a while, then returning to business as usual with the pariah nation on its border. Such concerns were on display Sunday in a dizzying display of fast-paced diplomacy spanning multiple continents. South Korea's foreign minister joined her counterparts from the U.S. and Japan for a meeting in the Philippines in which Tillerson touted efforts to persuade nations to stop using North Korean labor. The American and Japanese diplomats held another three-way session with Australia. The South Korean envoy held a rare but brief meeting in Manila with North Korea's top diplomat, who also spoke by phone with Russian Foreign Minister Sergey Lavrov, who had discussed the sanctions with Tillerson a day before. In a phone call requested by Seoul, Trump and newly installed South Korean President Moon Jae-in committed jointly to \"fully implement all relevant resolutions and to urge the international community to do so as well,\" the White House said. Moon's office said that he and Trump had agreed to apply \"the maximum pressure and sanction.\" The penalties, approved unanimously Saturday by the Security Council, aim to cut off roughly one-third of North Korea's estimated $3 billion in annual exports, ostensibly starving the nation of funds for its weapons programs. All countries are now banned from importing North Korean coal, iron, lead and seafood products, and from letting in more North Korean laborers who sent remittances back into the country. Yet already, there are signs that nations with the strongest ties to North Korea may fall short of the stringent enforcement that Trump and others seek. Although Russia voted for the sanctions, its U.N. ambassador, Vasily Nebenzya, told the Security Council that sanctions \"cannot be a goal in itself\" and \"shall not be used for economic strangling\" of North Korea, according to the Russian state news agency Tass. Still, the key concern is over China, the North's economic lifeline and biggest trading partner. John Delury, a China and North Korea expert at Yonsei University in Seoul, noted that the Chinese population that lives along the 800-mile (1,300-km) border with North Korea is already struggling financially. Triggering an economic meltdown in North Korea would inevitably produce a spillover effect in China, he said. \"They're almost going from sanctions to embargo and really trying to slam the North Korean economy,\" Delury said. \"If you really start to go down that path, I'm not sure how far the Chinese will go down with you. \" The other mounting concern: that by the time the sanctions really start cutting into the North's economy, potentially changing the government's thinking about the wisdom of pursuing nuclear weapons, it may be too late. Two unprecedented tests of intercontinental ballistic missiles by North Korea last month were the latest signs that its weapons program is approaching the point of no return. While the North now boasts missiles it says can reach major U.S. cities, it is not believed to have mastered the ability to cap them with nuclear warheads, but that step may not be far off. Tillerson conceded there would likely be a lag period before the sanctions \"actually have a practical bite on their revenues.\" \"I think perhaps the more important element to that is just the message that this sends to North Korea about the unacceptability the entire international community finds what they're doing to be,\" he said. --- Associated Press writer Hyung-jin Kim in Seoul, South Korea, contributed to this report. --- Reach Josh Lederman on Twitter at http://twitter.com/joshledermanAP",
+ "tasks": [
+  {
+   "task_id": "bool_001",
+   "type": "boolean",
+   "prompt": "Did North Korea vow to launch thousands-fold revenge against the United States? Answer Yes or No."
+  }
+ ]
+}

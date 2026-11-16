@@ -1,0 +1,323 @@
+{
+ "pair_id": "ap_17471_3_4",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "BATON ROUGE, La."
+  },
+  {
+   "blip_idx": 1,
+   "text": "(AP) -- Scientists working on new ways to battle the erosion that threatens Louisiana's coastline have a dramatic new tool: a massive replica of the lower Mississippi River."
+  },
+  {
+   "blip_idx": 2,
+   "text": "The Louisiana State University's Center for River Studies is home to the newly opened Lower Mississippi River Physical Model, a 10,000-square-foot (930-square-meter) reproduction of nearly 200 miles (322 kilometers) of the lower Mississippi from the town of Donaldsonville northwest of New Orleans to the Gulf of Mexico."
+  },
+  {
+   "blip_idx": 3,
+   "text": "The model will help experts study one of the most important rivers in North America and how sediment from it can be used to fight coastal erosion."
+  },
+  {
+   "blip_idx": 4,
+   "text": "\"Not only can we model the flows and the water stages of the water levels in the Mississippi River, we can also model or simulate the transport or the movement of the Mississippi River sand down the river, and we can do all that in roughly one hour to replicate one year on the river,\" said Clint Willson, the LSU professor who heads the Center for River Studies."
+  },
+  {
+   "blip_idx": 5,
+   "text": "Louisiana is in a race to protect and rebuild its fragile coastline from decades of erosion while also facing rising seas from climate change."
+  },
+  {
+   "blip_idx": 6,
+   "text": "It's estimated to have lost 2,000 square miles (5,180 square kilometers) of coastline since the 1930s, according to Rudy Simoneaux of the state's Coastal Protection and Restoration Authority."
+  },
+  {
+   "blip_idx": 7,
+   "text": "That's about the size of Delaware."
+  },
+  {
+   "blip_idx": 8,
+   "text": "To fight back, Louisiana developed a plan that relies in part on slicing channels or diversions at various locations into the levees that keep the Mississippi River in its course and letting some of the sediment in the river into the rapidly eroding wetlands to rebuild land."
+  },
+  {
+   "blip_idx": 9,
+   "text": "The idea, said Simoneaux, is to \"put the river back to work to rebuild what it once built on its own.\" The Delta region of southeastern Louisiana was built over centuries on sediment that washed down the river."
+  },
+  {
+   "blip_idx": 10,
+   "text": "But levees built along the river to prevent flooding mean the sediment basically washes into the Gulf."
+  },
+  {
+   "blip_idx": 11,
+   "text": "As part of its efforts to study the sediment diversions, the CPRA created the $18 million model and Center for River Studies, replacing an older, smaller river model that was decommissioned in 2009. The new model, housed just a stone's throw from the actual Mississippi River, is designed to help researchers answer such questions as: How does opening one diversion affect the river's flow?"
+  },
+  {
+   "blip_idx": 12,
+   "text": "How do the diversions affect the dredging done by the U.S."
+  },
+  {
+   "blip_idx": 13,
+   "text": "Army Corps of Engineers?"
+  },
+  {
+   "blip_idx": 14,
+   "text": "How do multiple diversions along the river affect each other? \"What you do in one place has an impact on another, and so the idea of looking at larger-scale impacts or larger-scale processes is critical to looking at what the potential impacts are or the unintended consequences of projects, and so a model of this scale allows you to do that,\" said Willson."
+  },
+  {
+   "blip_idx": 15,
+   "text": "The model was made of high density foam panels strong enough for people to walk on."
+  },
+  {
+   "blip_idx": 16,
+   "text": "Data about the dimensions and shape of the Mississippi River and surrounding topography were put into a computer and then used to cut the panels."
+  },
+  {
+   "blip_idx": 17,
+   "text": "The panels, combined with the steel cables and jacks underneath, weigh about as much as one of the 737 jets flown by Southwest Airlines, Simoneaux said."
+  },
+  {
+   "blip_idx": 18,
+   "text": "When visitors walk into the second floor to look down onto the model, they can feel the moisture coming from the roughly 6,000 gallons (33,710 liters) of water floating on the model that replicate the river, the Gulf of Mexico and the various lakes and bayous along the coast."
+  },
+  {
+   "blip_idx": 19,
+   "text": "Tiny particles of plastic injected into the water mimic the sediment coursing through the Mississippi River."
+  },
+  {
+   "blip_idx": 20,
+   "text": "And they can raise the water level to replicate rising seas."
+  },
+  {
+   "blip_idx": 21,
+   "text": "Officials are hopeful that lessons learned at the center can be shared with other countries and regions struggling with similar problems as Louisiana."
+  },
+  {
+   "blip_idx": 22,
+   "text": "\"An image like this model tells the story in a way that is way more powerful than a slide show, than a numerical modeling,\" said Justin R. Ehrenwerth, who heads the Water Institute of the Gulf , a Baton Rouge-based research organization that studies and helps coastal areas affected by problems like rising seas and subsidence."
+  },
+  {
+   "blip_idx": 23,
+   "text": "-- Follow Santana on Twitter @ruskygal."
+  },
+  {
+   "blip_idx": 24,
+   "text": "-- Associated Press reporter Stacey Plaisance contributed to this report."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.03304909169878538,
+    "dist_new": 0.03304909169878538
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "BATON ROUGE, La. (AP) -- Scientists working on new ways to battle the erosion that threatens Louisiana's coastline have a dramatic new tool: a massive replica of the lower Mississippi River. The Louisiana State University's Center for River Studies is home to the newly opened Lower Mississippi River Physical Model, a 10,000-square-foot (930-square-meter) reproduction of nearly 200 miles (322 kilometers) of the lower Mississippi from the town of Donaldsonville northwest of New Orleans to the Gulf of Mexico. The model will help experts study one of the most important rivers in North America and how sediment from it can be used to fight coastal erosion. \"Not only can we model the flows and the water stages of the water levels in the Mississippi River, we can also model or simulate the transport or the movement of the Mississippi River sand down the river, and we can do all that in roughly one hour to replicate one year on the river,\" said Clint Willson, the LSU professor who heads the Center for River Studies. Louisiana is in a race to protect and rebuild its fragile coastline from decades of erosion while also facing rising seas from climate change. It's estimated to have lost 2,000 square miles (5,180 square kilometers) of coastline since the 1930s, according to Rudy Simoneaux of the state's Coastal Protection and Restoration Authority. That's about the size of Delaware. To fight back, Louisiana developed a plan that relies in part on slicing channels or diversions at various locations into the levees that keep the Mississippi River in its course and letting some of the sediment in the river into the rapidly eroding wetlands to rebuild land. The idea, said Simoneaux, is to \"put the river back to work to rebuild what it once built on its own.\" The Delta region of southeastern Louisiana was built over centuries on sediment that washed down the river. But levees built along the river to prevent flooding mean the sediment basically washes into the Gulf. As part of its efforts to study the sediment diversions, the CPRA created the $18 million model and Center for River Studies, replacing an older, smaller river model that was decommissioned in 2009. The new model, housed just a stone's throw from the actual Mississippi River, is designed to help researchers answer such questions as: How does opening one diversion affect the river's flow? How do the diversions affect the dredging done by the U.S. Army Corps of Engineers? How do multiple diversions along the river affect each other? \"What you do in one place has an impact on another, and so the idea of looking at larger-scale impacts or larger-scale processes is critical to looking at what the potential impacts are or the unintended consequences of projects, and so a model of this scale allows you to do that,\" said Willson. The model was made of high density foam panels strong enough for people to walk on. Data about the dimensions and shape of the Mississippi River and surrounding topography were put into a computer and then used to cut the panels. The panels, combined with the steel cables and jacks underneath, weigh about as much as one of the 737 jets flown by Southwest Airlines, Simoneaux said. When visitors walk into the second floor to look down onto the model, they can feel the moisture coming from the roughly 6,000 gallons (33,710 liters) of water floating on the model that replicate the river, the Gulf of Mexico and the various lakes and bayous along the coast. Tiny particles of plastic injected into the water mimic the sediment coursing through the Mississippi River. And they can raise the water level to replicate rising seas. Officials are hopeful that lessons learned at the center can be shared with other countries and regions struggling with similar problems as Louisiana. \"An image like this model tells the story in a way that is way more powerful than a slide show, than a numerical modeling,\" said Justin R. Ehrenwerth, who heads the Water Institute of the Gulf , a Baton Rouge-based research organization that studies and helps coastal areas affected by problems like rising seas and subsidence. -- Follow Santana on Twitter @ruskygal. -- Associated Press reporter Stacey Plaisance contributed to this report.",
+ "document_new": "BATON ROUGE, La. (AP) -- Scientists working on new ways to battle the erosion that threatens Louisiana's coastline have a dramatic new tool: a massive replica of the lower Mississippi River. The Louisiana State University's Center for River Studies is home to the newly opened Lower Mississippi River Physical Model, a 10,000-square-foot (930-square-meter) reproduction of nearly 200 miles (320 kilometers) of the lower Mississippi from the town of Donaldsonville northwest of New Orleans to the Gulf of Mexico. The model will help experts study one of the most important rivers in North America and how sediment from it can be used to fight coastal erosion. \"Not only can we model the flows and the water stages of the water levels in the Mississippi River, we can also model or simulate the transport or the movement of the Mississippi River sand down the river, and we can do all that in roughly one hour to replicate one year on the river,\" said Clint Willson, the LSU professor who heads the Center for River Studies. Louisiana is in a race to protect and rebuild its fragile coastline from decades of erosion while also facing rising seas from climate change. It's estimated to have lost 2,000 square miles (5,180 square kilometers) of coastline since the 1930s, according to Rudy Simoneaux of the state's Coastal Protection and Restoration Authority. That's about the size of Delaware. To fight back, Louisiana developed a plan that relies in part on slicing channels or diversions at various locations into the levees that keep the Mississippi River in its course and letting some of the sediment in the river into the rapidly eroding wetlands to rebuild land. The idea, said Simoneaux, is to \"put the river back to work to rebuild what it once built on its own.\" The Delta region of southeastern Louisiana was built over centuries on sediment that washed down the river. But levees built along the river to prevent flooding mean the sediment basically washes into the Gulf. As part of its efforts to study the sediment diversions, the CPRA created the $18 million model and Center for River Studies, replacing an older, smaller river model that was decommissioned in 2009. The new model, housed just a stone's throw from the actual Mississippi River, is designed to help researchers answer such questions as: How does opening one diversion affect the river's flow? How do the diversions affect the dredging done by the U.S. Army Corps of Engineers? How do multiple diversions along the river affect each other? \"What you do in one place has an impact on another, and so the idea of looking at larger-scale impacts or larger-scale processes is critical to looking at what the potential impacts are or the unintended consequences of projects, and so a model of this scale allows you to do that,\" said Willson. The model was made of high density foam panels strong enough for people to walk on. Data about the dimensions and shape of the Mississippi River and surrounding topography were put into a computer and then used to cut the panels. The panels, combined with the steel cables and jacks underneath, weigh about as much as one of the 737 jets flown by Southwest Airlines, Simoneaux said. When visitors walk into the second floor to look down onto the model, they can feel the moisture coming from the roughly 6,000 gallons (33,710 liters) of water floating on the model that replicate the river, the Gulf of Mexico and the various lakes and bayous along the coast. Tiny particles of plastic injected into the water mimic the sediment coursing through the Mississippi River. And they can raise the water level to replicate rising seas. Officials are hopeful that lessons learned at the center can be shared with other countries and regions struggling with similar problems as Louisiana. \"An image like this model tells the story in a way that is way more powerful than a slide show, than a numerical modeling,\" said Justin R. Ehrenwerth, who heads the Water Institute of the Gulf , a Baton Rouge-based research organization that studies and helps coastal areas affected by problems like rising seas and subsidence. -- Follow Santana on Twitter @ruskygal. -- Associated Press reporter Stacey Plaisance contributed to this report.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "How many kilometers does the Lower Mississippi River Physical Model reproduce? Answer in as few words as possible."
+  }
+ ]
+}

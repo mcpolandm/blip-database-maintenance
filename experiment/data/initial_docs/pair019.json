@@ -1,0 +1,400 @@
+{
+ "pair_id": "ap_2139_3_4",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "LOS ANGELES (AP) -- A close friend who for years didn't want to believe Robert Durst was capable of homicide dropped a bombshell Thursday implicating the real estate heir in two killings."
+  },
+  {
+   "blip_idx": 1,
+   "text": "Nathan \"Nick\" Chavin testified in Los Angeles Superior Court that their mutual friend, Susan Berman, told him years ago that Durst confided in her that he killed his first wife, Kathleen Durst, who disappeared in 1982 and has never been found."
+  },
+  {
+   "blip_idx": 2,
+   "text": "Chavin said Durst admitted to him that he killed Berman in 2000. \"I had to,\" Durst said, according to Chavin."
+  },
+  {
+   "blip_idx": 3,
+   "text": "\"It was her or me, I had no choice.\" The brief remark on a New York City sidewalk after the two had dinner in 2014 put to rest years of doubts Chavin harbored about the culpability of the best friend who stood up for him at his wedding and had given him a big boost in his advertising career."
+  },
+  {
+   "blip_idx": 4,
+   "text": "Chavin, who became emotional during the testimony and reached for a tissue to blow his nose, said he still has warm feelings for Durst."
+  },
+  {
+   "blip_idx": 5,
+   "text": "\"It sounds ridiculous,\" Chavin said."
+  },
+  {
+   "blip_idx": 6,
+   "text": "\"This was a best friend who admitted to killing my other best friend.\" Durst, wearing headphones to better hear the witness, stared straight at his friend through a pair of large eyeglasses and showed no emotion."
+  },
+  {
+   "blip_idx": 7,
+   "text": "Durst, 73, has pleaded not guilty to murder in the fatal shooting of Berman in her Los Angeles home."
+  },
+  {
+   "blip_idx": 8,
+   "text": "Authorities have long suspected he killed Kathleen Durst, but he's never been charged with any crime related to her disappearance."
+  },
+  {
+   "blip_idx": 9,
+   "text": "Chavin's testimony is the most direct evidence revealed so far implicating Durst in Berman's killing and provides a motive for the crime."
+  },
+  {
+   "blip_idx": 10,
+   "text": "Prosecutors have said Durst wanted to silence her to keep her from talking with police about Kathleen Durst's disappearance after the investigation was reopened in 2000. Handwriting on a letter Durst sent Berman appears to be identical and includes the same misspelling as an anonymous note police received alerting them to a \"cadaver\" at Berman's house after she was killed."
+  },
+  {
+   "blip_idx": 11,
+   "text": "Durst was arrested in New Orleans in 2015 just before the final episode of the six-part HBO series \"The Jinx: The Life and Deaths of Robert Durst\" aired in which he is heard muttering to himself on a live microphone: \"You're caught!"
+  },
+  {
+   "blip_idx": 12,
+   "text": "What the hell did I do?"
+  },
+  {
+   "blip_idx": 13,
+   "text": "Killed them all, of course."
+  },
+  {
+   "blip_idx": 14,
+   "text": "\" Chavin, 72, was called as a witness in a rare hearing to record testimony in case he is unavailable if Durst is ordered to trial."
+  },
+  {
+   "blip_idx": 15,
+   "text": "A Los Angeles Superior Court judge has allowed testimony from witnesses who are elderly or fear for their safety."
+  },
+  {
+   "blip_idx": 16,
+   "text": "Prosecutors have suggested that with Durst's estimated $100 million fortune, he could have witnesses knocked off."
+  },
+  {
+   "blip_idx": 17,
+   "text": "The defense said that suggestion is absurd and have pointed to Durst's frail condition and the fact he's in jail where his phone conversations are recorded."
+  },
+  {
+   "blip_idx": 18,
+   "text": "Before he took the stand, Chavin's identity had been kept a secret, and he entered the courtroom through a back door with a personal security detail."
+  },
+  {
+   "blip_idx": 19,
+   "text": "Chavin said he did not believe Berman when she told him Durst had killed his wife."
+  },
+  {
+   "blip_idx": 20,
+   "text": "\"Susan said to me specifically that Bob killed Kathie, and I said, 'No, he didn't,'\" Chavin said."
+  },
+  {
+   "blip_idx": 21,
+   "text": "Berman said Durst told her he killed his wife."
+  },
+  {
+   "blip_idx": 22,
+   "text": "She said now that Kathie was gone, \"we need to protect Bob.\" In a recording played in court, Chavin told prosecutors he initially dismissed what Berman told him because she often exaggerated and lied and was \"a real fantasy writer.\" \"I couldn't believe he would have committed a crime like that,\" Chavin said."
+  },
+  {
+   "blip_idx": 23,
+   "text": "His belief in Durst's innocence began to erode after Berman's death and further after learning that Durst, charged with killing an elderly neighbor in Galveston, Texas, in 2001, had conceded he chopped up the man's body and tossed it in the sea."
+  },
+  {
+   "blip_idx": 24,
+   "text": "Durst was acquitted of murder after testifying that he killed Morris Black in self-defense."
+  },
+  {
+   "blip_idx": 25,
+   "text": "He said he was in \"extreme shock\" and never would have thought Durst could have done such a thing."
+  },
+  {
+   "blip_idx": 26,
+   "text": "\"One of the primary foundations of my belief that Bob was not responsible for Kathie's disappearance and what happened to Susan was that I didn't think he was capable of hands-on violence of that extreme,\" Chavin said. \"Now it was like taking the gloves off."
+  },
+  {
+   "blip_idx": 27,
+   "text": "\" Chavin said he was reluctant to tell prosecutors what he knew about Durst because of a deep bond and loyalty - a similar kinship he had for Berman, who was like a second mother to his daughter."
+  },
+  {
+   "blip_idx": 28,
+   "text": "\"I feel like there's two scales,\" he said. \"One is a betrayal of Bob Durst and another is a betrayal of Susan Berman."
+  },
+  {
+   "blip_idx": 29,
+   "text": "\" The scales tipped strongly in Berman's favor Thursday."
+  },
+  {
+   "blip_idx": 30,
+   "text": "Chavin said it was something he had to do."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 28,
+    "new": 28,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 30,
+    "new": 30,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.12388796958258347,
+    "dist_new": 0.12388796958258347
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 29,
+    "new": 29,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "LOS ANGELES (AP) -- A close friend who for years didn't want to believe Robert Durst was capable of homicide dropped a bombshell Thursday implicating the real estate heir in two killings. Nathan \"Nick\" Chavin testified in Los Angeles Superior Court that their mutual friend, Susan Berman, told him years ago that Durst confided in her that he killed his first wife, Kathleen Durst, who disappeared in 1982 and has never been found. Chavin said Durst admitted to him that he killed Berman in 2000. \"I had to,\" Durst said, according to Chavin. \"It was her or me, I had no choice.\" The brief remark on a New York City sidewalk after the two had dinner in 2014 put to rest years of doubts Chavin harbored about the culpability of the best friend who stood up for him at his wedding and had given him a big boost in his advertising career. Chavin, who became emotional during the testimony and reached for a tissue to blow his nose, said he still has warm feelings for Durst. \"It sounds ridiculous,\" Chavin said. \"This was a best friend who admitted to killing my other best friend.\" Durst, wearing headphones to better hear the witness, stared straight at his friend through a pair of large eyeglasses and showed no emotion. Durst, 73, has pleaded not guilty to murder in the fatal shooting of Berman in her Los Angeles home. Authorities have long suspected he killed Kathleen Durst, but he's never been charged with any crime related to her disappearance. Chavin's testimony is the most direct evidence revealed so far implicating Durst in Berman's killing and provides a motive for the crime. Prosecutors have said Durst wanted to silence her to keep her from talking with police about Kathleen Durst's disappearance after the investigation was reopened in 2000. Handwriting on a letter Durst sent Berman appears to be identical and includes the same misspelling as an anonymous note police received alerting them to a \"cadaver\" at Berman's house after she was killed. Durst was arrested in New Orleans in 2015 just before the final episode of the six-part HBO series \"The Jinx: The Life and Deaths of Robert Durst\" aired in which he is heard muttering to himself on a live microphone: \"You're caught! What the hell did I do? Killed them all, of course. \" Chavin, 72, was called as a witness in a rare hearing to record testimony in case he is unavailable if Durst is ordered to trial. A Los Angeles Superior Court judge has allowed testimony from witnesses who are elderly or fear for their safety. Prosecutors have suggested that with Durst's estimated $100 million fortune, he could have witnesses knocked off. The defense said that suggestion is absurd and have pointed to Durst's frail condition and the fact he's in jail where his phone conversations are recorded. Before he took the stand, Chavin's identity had been kept a secret, and he entered the courtroom through a back door with a personal security detail. Chavin said he did not believe Berman when she told him Durst had killed his wife. \"Susan said to me specifically that Bob killed Kathie, and I said, 'No, he didn't,'\" Chavin said. Berman said Durst told her he killed his wife. She said now that Kathie was gone, \"we need to protect Bob.\" In a recording played in court, Chavin told prosecutors he initially dismissed what Berman told him because she often exaggerated and lied and was \"a real fantasy writer.\" \"I couldn't believe he would have committed a crime like that,\" Chavin said. His belief in Durst's innocence began to erode after Berman's death and further after learning that Durst, charged with killing an elderly neighbor in Galveston, Texas, in 2001, had conceded he chopped up the man's body and tossed it in the sea. Durst was acquitted of murder after testifying that he killed Morris Black in self-defense. He said he was in \"extreme shock\" and never would have thought Durst could have done such a thing. \"One of the primary foundations of my belief that Bob was not responsible for Kathie's disappearance and what happened to Susan was that I didn't think he was capable of hands-on violence of that extreme,\" Chavin said. \"Now it was like taking the gloves off. \" Chavin said he was reluctant to tell prosecutors what he knew about Durst because of a deep bond and loyalty - a similar kinship he had for Berman, who was like a second mother to his daughter. \"I feel like there's two scales,\" he said. \"One is a betrayal of Bob Durst and another is a betrayal of Susan Berman. \" The scales tipped strongly in Berman's favor Thursday. Chavin said it was something he had to do.",
+ "document_new": "LOS ANGELES (AP) -- A close friend who for years didn't want to believe Robert Durst was capable of homicide dropped a bombshell in court implicating the real estate heir in two killings. Nathan \"Nick\" Chavin testified in Los Angeles Superior Court that their mutual friend, Susan Berman, told him years ago that Durst confided in her that he killed his first wife, Kathleen Durst, who disappeared in 1982 and has never been found. Chavin said Durst admitted to him that he killed Berman in 2000. \"I had to,\" Durst said, according to Chavin. \"It was her or me, I had no choice.\" The brief remark on a New York City sidewalk after the two had dinner in 2014 put to rest years of doubts Chavin harbored about the culpability of the best friend who stood up for him at his wedding and had given him a big boost in his advertising career. Chavin, who became emotional during the testimony and reached for a tissue to blow his nose, said he still has warm feelings for Durst. \"It sounds ridiculous,\" Chavin said. \"This was a best friend who admitted to killing my other best friend.\" Durst, wearing headphones to better hear the witness, stared straight at his friend through a pair of large eyeglasses and showed no emotion. Durst, 73, has pleaded not guilty to murder in the fatal shooting of Berman in her Los Angeles home. Authorities have long suspected he killed Kathleen Durst, but he's never been charged with any crime related to her disappearance. Chavin's testimony is the most direct evidence revealed so far implicating Durst in Berman's killing and provides a motive for the crime. Prosecutors have said Durst wanted to silence her to keep her from talking with police about Kathleen Durst's disappearance after the investigation was reopened in 2000. Handwriting on a letter Durst sent Berman appears to be identical and includes the same misspelling as an anonymous note police received alerting them to a \"cadaver\" at Berman's house after she was killed. Durst was arrested in New Orleans in 2015 just before the final episode of the six-part HBO series \"The Jinx: The Life and Deaths of Robert Durst\" aired in which he is heard muttering to himself on a live microphone: \"You're caught! What the hell did I do? Killed them all, of course. \" Chavin, 72, was called as a witness in a rare hearing to record testimony in case he is unavailable if Durst is ordered to trial. A Los Angeles Superior Court judge has allowed testimony from witnesses who are elderly or fear for their safety. Prosecutors have suggested that with Durst's estimated $100 million fortune, he could have witnesses knocked off. The defense said that suggestion is absurd and have pointed to Durst's frail condition and the fact he's in jail where his phone conversations are recorded. Before he took the stand, Chavin's identity had been kept a secret, and he entered the courtroom through a back door with a personal security detail. Chavin said he did not believe Berman when she told him Durst had killed his wife. \"Susan said to me specifically that Bob killed Kathie, and I said, 'No, he didn't,'\" Chavin said. Berman said Durst told her he killed his wife. She said now that Kathie was gone, \"we need to protect Bob.\" In a recording played in court, Chavin told prosecutors he initially dismissed what Berman told him because she often exaggerated and lied and was \"a real fantasy writer.\" \"I couldn't believe he would have committed a crime like that,\" Chavin said. His belief in Durst's innocence began to erode after Berman's death and further after learning that Durst, charged with killing an elderly neighbor in Galveston, Texas, in 2001, had conceded he chopped up the man's body and tossed it in the sea. Durst was acquitted of murder after testifying that he killed Morris Black in self-defense. He said he was in \"extreme shock\" and never would have thought Durst could have done such a thing. \"One of the primary foundations of my belief that Bob was not responsible for Kathie's disappearance and what happened to Susan was that I didn't think he was capable of hands-on violence of that extreme,\" Chavin said. \"Now it was like taking the gloves off. \" Chavin said he was reluctant to tell prosecutors what he knew about Durst because of a deep bond and loyalty - a similar kinship he had for Berman, who was like a second mother to his daughter. \"I feel like there's two scales,\" he said. \"One is a betrayal of Bob Durst and another is a betrayal of Susan Berman. \" The scales tipped strongly in Berman's favor Thursday. Chavin said it was something he had to do.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "Where did the friend drop the bombshell? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "What did Durst admit to doing with the body? Answer in as few words as possible."
+  }
+ ]
+}

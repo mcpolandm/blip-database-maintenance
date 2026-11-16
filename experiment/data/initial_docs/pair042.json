@@ -1,0 +1,592 @@
+{
+ "pair_id": "ap_5865_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "NEW YORK (AP) -- With its biggest star departing in another blowup over sexual harassment, Fox News faces some big challenges."
+  },
+  {
+   "blip_idx": 1,
+   "text": "It now has to show that it can hang on to its loyal army of conservative viewers, improve its working culture, and still continue to make big bucks for its corporate parent."
+  },
+  {
+   "blip_idx": 2,
+   "text": "The company said Wednesday that it had parted ways with longtime host Bill O'Reilly after a \"thorough and careful review of allegations against him.\" Dozens of advertisers ditched \"The O'Reilly Factor\" after a New York Times report detailed $13 million in payouts to five women over his alleged unpleasant behavior;"
+  },
+  {
+   "blip_idx": 3,
+   "text": "more allegations subsequently emerged."
+  },
+  {
+   "blip_idx": 4,
+   "text": "(O'Reilly denied the accusations."
+  },
+  {
+   "blip_idx": 5,
+   "text": ") O'Reilly's departure is the second major blow for the right-leaning news network in nine months."
+  },
+  {
+   "blip_idx": 6,
+   "text": "Fox's longtime CEO Roger Ailes resigned abruptly amid similar sexual harassment charges last July."
+  },
+  {
+   "blip_idx": 7,
+   "text": "Its leading female star, Megyn Kelly, decamped for NBC in January."
+  },
+  {
+   "blip_idx": 8,
+   "text": "The network's parent company, entertainment giant 21st Century Fox, insisted that Fox News will weather the current storm, noting in a statement the \"strength of its talent bench\" and expressing \"full confidence that the network will continue to be a powerhouse in cable news.\" That certainly could happen, though it probably won't be easy."
+  },
+  {
+   "blip_idx": 9,
+   "text": "MONEY MACHINE Some analysts believe that James and Lachlan Murdoch - the sons of 21st Century Fox executive chairman Rupert Murdoch - made the call on O'Reilly to change the Ailesian culture at the network and to cement their control following his departure."
+  },
+  {
+   "blip_idx": 10,
+   "text": "\"Getting rid of the old guard is a way to do that,\" said Dan Cassino, a professor at Fairleigh Dickinson University and the author of \"Fox News &"
+  },
+  {
+   "blip_idx": 11,
+   "text": "American Politics: How One Channel Shapes American Politics &"
+  },
+  {
+   "blip_idx": 12,
+   "text": "Society."
+  },
+  {
+   "blip_idx": 13,
+   "text": "\" But O'Reilly has been on Fox News for more than two decades."
+  },
+  {
+   "blip_idx": 14,
+   "text": "\"The O'Reilly Factor\" has generated a huge ad bonanza for Fox, one that yielded more than $178 million in 2015."
+  },
+  {
+   "blip_idx": 15,
+   "text": "It's the top-rated show on the No. 1 cable network - one that, according to the investment bank Nomura's estimates, accounts for fully 20 percent of profits at 21st Century Fox."
+  },
+  {
+   "blip_idx": 16,
+   "text": "Now, the top ratings for O'Reilly's time slot - and Fox's other prime-time shows - could be at risk."
+  },
+  {
+   "blip_idx": 17,
+   "text": "\"He's been the linchpin\" of the lineup, said Jane Hall, an American University professor and former Fox contributor, who noted that it will take a while to see whether his loyal audience sticks with O'Reilly's replacement."
+  },
+  {
+   "blip_idx": 18,
+   "text": "That will be Tucker Carlson, whose show is moving to the 8 p.m. slot on Fox."
+  },
+  {
+   "blip_idx": 19,
+   "text": "O'Reilly's ratings overshadow Carlson's, and his show's viewership fell this week while he was on vacation and other Fox hosts subbed in."
+  },
+  {
+   "blip_idx": 20,
+   "text": "Others figure that O'Reilly's firing won't be a sticking point for most Fox viewers."
+  },
+  {
+   "blip_idx": 21,
+   "text": "\"When we look at data, at what programs people report watching, you just don't find people who watch Bill O'Reilly and nothing else on Fox,\" Cassino said."
+  },
+  {
+   "blip_idx": 22,
+   "text": "Fox also has a big financial safety cushion in the fees cable companies pay the network, which dwarf its ad revenue, according to Nomura media analyst Anthony DiClemente."
+  },
+  {
+   "blip_idx": 23,
+   "text": "Even if there's some disruption in ad rates or spots, he said, there's a \"massive backstop\" in those payments, which are long-term deals."
+  },
+  {
+   "blip_idx": 24,
+   "text": "BROADER AMBITIONS Fox might also have found it financially risky let O'Reilly remain."
+  },
+  {
+   "blip_idx": 25,
+   "text": "Otherwise, the network risked developing \"a reputation as unfriendly to women, potentially turning off a lot of people,\" said Charles Taylor, a marketing professor at Villanova University."
+  },
+  {
+   "blip_idx": 26,
+   "text": "Advertisers may have been reluctant to return if there were continuing harassment complaints."
+  },
+  {
+   "blip_idx": 27,
+   "text": "It could also have alienated employees."
+  },
+  {
+   "blip_idx": 28,
+   "text": "And 21st Century Fox is much bigger than O'Reilly, Fox News and its aging, conservative audience."
+  },
+  {
+   "blip_idx": 29,
+   "text": "It's home to movie and TV studios;"
+  },
+  {
+   "blip_idx": 30,
+   "text": "a slew of sports and other cable channels;"
+  },
+  {
+   "blip_idx": 31,
+   "text": "and the Fox broadcast network and shows like \"The Simpsons,\" ''Family Guy,\" and its latest hit, \"Empire."
+  },
+  {
+   "blip_idx": 32,
+   "text": "\" It's also home to ambitions that the O'Reilly crisis may have hindered."
+  },
+  {
+   "blip_idx": 33,
+   "text": "Fox owns 39 percent of European TV giant Sky, and has long wanted to take over the whole company."
+  },
+  {
+   "blip_idx": 34,
+   "text": "Its previous effort died in 2011, a casualty of the phone-hacking scandal at Rupert Murdoch's British newspapers."
+  },
+  {
+   "blip_idx": 35,
+   "text": "It's now trying again, although a U.K. media regulator must certify that the combined company would be a \"fit and proper\" owner of the broadcaster."
+  },
+  {
+   "blip_idx": 36,
+   "text": "\"Credit to James and Lachlan for doing the right thing here,\" said DiClemente, who noted that dealing with the O'Reilly controversy \"in the right way\" could be helpful for the Sky review."
+  },
+  {
+   "blip_idx": 37,
+   "text": "The U.S."
+  },
+  {
+   "blip_idx": 38,
+   "text": "Attorney's office in New York is investigating how 21st Century Fox handled the Roger Ailes scandal."
+  },
+  {
+   "blip_idx": 39,
+   "text": "Concern over whether Fox broke the law by failing to disclose its settlements to investors is more likely to impact approval than whether the company is mired in sexual misconduct allegations, said Claire Enders of Enders Analysis, who has studied the Murdoch empire for years."
+  },
+  {
+   "blip_idx": 40,
+   "text": "TALKING CULTURE CHANGE When it announced Ailes' departure last summer, 21st Century Fox said that it would \"continue our commitment to maintaining a work environment based on trust and respect.\" But the New York Times reported that two of the O'Reilly settlements were reached after Ailes left."
+  },
+  {
+   "blip_idx": 41,
+   "text": "In a Wednesday memo to employees signed by all three Murdochs and provided to The Associated Press, Fox again emphasized its commitment to a workplace culture of \"trust and respect.\" The company is making \"a pretty big statement\" to that effect by dropping O'Reilly, said Hall, the American University professor."
+  },
+  {
+   "blip_idx": 42,
+   "text": "Longtime Fox critics don't see it."
+  },
+  {
+   "blip_idx": 43,
+   "text": "Fox News has a \"culture of harassment that did not start and does not end with Bill O'Reilly,\" said Rashad Robinson, executive director of the activist group Color of Change, which pressured advertisers to leave his show."
+  },
+  {
+   "blip_idx": 44,
+   "text": "Ousting O'Reilly, he said, \"does not speak to a changed culture."
+  },
+  {
+   "blip_idx": 45,
+   "text": "It speaks to a company that has recognized that the best business decision for them is to end their relationship with Bill O'Reilly."
+  },
+  {
+   "blip_idx": 46,
+   "text": "\" -- Jill Lawless from London contributed to this report."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 44,
+    "new": 44,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 29,
+    "new": 29,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 34,
+    "new": 34,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 32,
+    "new": 32,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 43,
+    "new": 43,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 40,
+    "new": 40,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 36,
+    "new": 36,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 38,
+    "new": 38,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.06029002092007842,
+    "dist_new": 0.06029002092007842
+   },
+   {
+    "old": 33,
+    "new": 33,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 42,
+    "new": 42,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 39,
+    "new": 39,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 30,
+    "new": 30,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 35,
+    "new": 35,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 45,
+    "new": 45,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 31,
+    "new": 31,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 46,
+    "new": 46,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 28,
+    "new": 28,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 41,
+    "new": 41,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 37,
+    "new": 37,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "NEW YORK (AP) -- With its biggest star departing in another blowup over sexual harassment, Fox News faces some big challenges. It now has to show that it can hang on to its loyal army of conservative viewers, improve its working culture, and still continue to make big bucks for its corporate parent. The company said Wednesday that it had parted ways with longtime host Bill O'Reilly after a \"thorough and careful review of allegations against him.\" Dozens of advertisers ditched \"The O'Reilly Factor\" after a New York Times report detailed $13 million in payouts to five women over his alleged unpleasant behavior; more allegations subsequently emerged. (O'Reilly denied the accusations. ) O'Reilly's departure is the second major blow for the right-leaning news network in nine months. Fox's longtime CEO Roger Ailes resigned abruptly amid similar sexual harassment charges last July. Its leading female star, Megyn Kelly, decamped for NBC in January. The network's parent company, entertainment giant 21st Century Fox, insisted that Fox News will weather the current storm, noting in a statement the \"strength of its talent bench\" and expressing \"full confidence that the network will continue to be a powerhouse in cable news.\" That certainly could happen, though it probably won't be easy. MONEY MACHINE Some analysts believe that James and Lachlan Murdoch - the sons of 21st Century Fox executive chairman Rupert Murdoch - made the call on O'Reilly to change the Ailesian culture at the network and to cement their control following his departure. \"Getting rid of the old guard is a way to do that,\" said Dan Cassino, a professor at Fairleigh Dickinson University and the author of \"Fox News & American Politics: How One Channel Shapes American Politics & Society. \" But O'Reilly has been on Fox News for more than two decades. \"The O'Reilly Factor\" has generated a huge ad bonanza for Fox, one that yielded more than $178 million in 2015. It's the top-rated show on the No. 1 cable network - one that, according to the investment bank Nomura's estimates, accounts for fully 20 percent of profits at 21st Century Fox. Now, the top ratings for O'Reilly's time slot - and Fox's other prime-time shows - could be at risk. \"He's been the linchpin\" of the lineup, said Jane Hall, an American University professor and former Fox contributor, who noted that it will take a while to see whether his loyal audience sticks with O'Reilly's replacement. That will be Tucker Carlson, whose show is moving to the 8 p.m. slot on Fox. O'Reilly's ratings overshadow Carlson's, and his show's viewership fell this week while he was on vacation and other Fox hosts subbed in. Others figure that O'Reilly's firing won't be a sticking point for most Fox viewers. \"When we look at data, at what programs people report watching, you just don't find people who watch Bill O'Reilly and nothing else on Fox,\" Cassino said. Fox also has a big financial safety cushion in the fees cable companies pay the network, which dwarf its ad revenue, according to Nomura media analyst Anthony DiClemente. Even if there's some disruption in ad rates or spots, he said, there's a \"massive backstop\" in those payments, which are long-term deals. BROADER AMBITIONS Fox might also have found it financially risky let O'Reilly remain. Otherwise, the network risked developing \"a reputation as unfriendly to women, potentially turning off a lot of people,\" said Charles Taylor, a marketing professor at Villanova University. Advertisers may have been reluctant to return if there were continuing harassment complaints. It could also have alienated employees. And 21st Century Fox is much bigger than O'Reilly, Fox News and its aging, conservative audience. It's home to movie and TV studios; a slew of sports and other cable channels; and the Fox broadcast network and shows like \"The Simpsons,\" ''Family Guy,\" and its latest hit, \"Empire. \" It's also home to ambitions that the O'Reilly crisis may have hindered. Fox owns 39 percent of European TV giant Sky, and has long wanted to take over the whole company. Its previous effort died in 2011, a casualty of the phone-hacking scandal at Rupert Murdoch's British newspapers. It's now trying again, although a U.K. media regulator must certify that the combined company would be a \"fit and proper\" owner of the broadcaster. \"Credit to James and Lachlan for doing the right thing here,\" said DiClemente, who noted that dealing with the O'Reilly controversy \"in the right way\" could be helpful for the Sky review. The U.S. Attorney's office in New York is investigating how 21st Century Fox handled the Roger Ailes scandal. Concern over whether Fox broke the law by failing to disclose its settlements to investors is more likely to impact approval than whether the company is mired in sexual misconduct allegations, said Claire Enders of Enders Analysis, who has studied the Murdoch empire for years. TALKING CULTURE CHANGE When it announced Ailes' departure last summer, 21st Century Fox said that it would \"continue our commitment to maintaining a work environment based on trust and respect.\" But the New York Times reported that two of the O'Reilly settlements were reached after Ailes left. In a Wednesday memo to employees signed by all three Murdochs and provided to The Associated Press, Fox again emphasized its commitment to a workplace culture of \"trust and respect.\" The company is making \"a pretty big statement\" to that effect by dropping O'Reilly, said Hall, the American University professor. Longtime Fox critics don't see it. Fox News has a \"culture of harassment that did not start and does not end with Bill O'Reilly,\" said Rashad Robinson, executive director of the activist group Color of Change, which pressured advertisers to leave his show. Ousting O'Reilly, he said, \"does not speak to a changed culture. It speaks to a company that has recognized that the best business decision for them is to end their relationship with Bill O'Reilly. \" -- Jill Lawless from London contributed to this report.",
+ "document_new": "NEW YORK (AP) -- With its biggest star departing in another blowup over sexual harassment, Fox News faces some big challenges. It now has to show that it can hang on to its loyal army of conservative viewers, improve its working culture, and still continue to make big bucks for its corporate parent. The company said Wednesday that it had parted ways with longtime host Bill O'Reilly after a \"thorough and careful review of allegations against him.\" Dozens of advertisers ditched \"The O'Reilly Factor\" after a New York Times report detailed $13 million in payouts to five women over his alleged abusive behavior; more allegations subsequently emerged. (O'Reilly denied the accusations. ) O'Reilly's departure is the second major blow for the right-leaning news network in nine months. Fox's longtime CEO Roger Ailes resigned abruptly amid similar sexual harassment charges last July. Its leading female star, Megyn Kelly, decamped for NBC in January. The network's parent company, entertainment giant 21st Century Fox, insisted that Fox News will weather the current storm, noting in a statement the \"strength of its talent bench\" and expressing \"full confidence that the network will continue to be a powerhouse in cable news.\" That certainly could happen, though it probably won't be easy. MONEY MACHINE Some analysts believe that James and Lachlan Murdoch - the sons of 21st Century Fox executive chairman Rupert Murdoch - made the call on O'Reilly to change the Ailesian culture at the network and to cement their control following his departure. \"Getting rid of the old guard is a way to do that,\" said Dan Cassino, a professor at Fairleigh Dickinson University and the author of \"Fox News & American Politics: How One Channel Shapes American Politics & Society. \" But O'Reilly has been on Fox News for more than two decades. \"The O'Reilly Factor\" has generated a huge ad bonanza for Fox, one that yielded more than $178 million in 2015. It's the top-rated show on the No. 1 cable network - one that, according to the investment bank Nomura's estimates, accounts for fully 20 percent of profits at 21st Century Fox. Now, the top ratings for O'Reilly's time slot - and Fox's other prime-time shows - could be at risk. \"He's been the linchpin\" of the lineup, said Jane Hall, an American University professor and former Fox contributor, who noted that it will take a while to see whether his loyal audience sticks with O'Reilly's replacement. That will be Tucker Carlson, whose show is moving to the 8 p.m. slot on Fox. O'Reilly's ratings overshadow Carlson's, and his show's viewership fell this week while he was on vacation and other Fox hosts subbed in. Others figure that O'Reilly's firing won't be a sticking point for most Fox viewers. \"When we look at data, at what programs people report watching, you just don't find people who watch Bill O'Reilly and nothing else on Fox,\" Cassino said. Fox also has a big financial safety cushion in the fees cable companies pay the network, which dwarf its ad revenue, according to Nomura media analyst Anthony DiClemente. Even if there's some disruption in ad rates or spots, he said, there's a \"massive backstop\" in those payments, which are long-term deals. BROADER AMBITIONS Fox might also have found it financially risky let O'Reilly remain. Otherwise, the network risked developing \"a reputation as unfriendly to women, potentially turning off a lot of people,\" said Charles Taylor, a marketing professor at Villanova University. Advertisers may have been reluctant to return if there were continuing harassment complaints. It could also have alienated employees. And 21st Century Fox is much bigger than O'Reilly, Fox News and its aging, conservative audience. It's home to movie and TV studios; a slew of sports and other cable channels; and the Fox broadcast network and shows like \"The Simpsons,\" ''Family Guy,\" and its latest hit, \"Empire. \" It's also home to ambitions that the O'Reilly crisis may have hindered. Fox owns 39 percent of European TV giant Sky, and has long wanted to take over the whole company. Its previous effort died in 2011, a casualty of the phone-hacking scandal at Rupert Murdoch's British newspapers. It's now trying again, although a U.K. media regulator must certify that the combined company would be a \"fit and proper\" owner of the broadcaster. \"Credit to James and Lachlan for doing the right thing here,\" said DiClemente, who noted that dealing with the O'Reilly controversy \"in the right way\" could be helpful for the Sky review. The U.S. Attorney's office in New York is investigating how 21st Century Fox handled the Roger Ailes scandal. Concern over whether Fox broke the law by failing to disclose its settlements to investors is more likely to impact approval than whether the company is mired in sexual misconduct allegations, said Claire Enders of Enders Analysis, who has studied the Murdoch empire for years. TALKING CULTURE CHANGE When it announced Ailes' departure last summer, 21st Century Fox said that it would \"continue our commitment to maintaining a work environment based on trust and respect.\" But the New York Times reported that two of the O'Reilly settlements were reached after Ailes left. In a Wednesday memo to employees signed by all three Murdochs and provided to The Associated Press, Fox again emphasized its commitment to a workplace culture of \"trust and respect.\" The company is making \"a pretty big statement\" to that effect by dropping O'Reilly, said Hall, the American University professor. Longtime Fox critics don't see it. Fox News has a \"culture of harassment that did not start and does not end with Bill O'Reilly,\" said Rashad Robinson, executive director of the activist group Color of Change, which pressured advertisers to leave his show. Ousting O'Reilly, he said, \"does not speak to a changed culture. It speaks to a company that has recognized that the best business decision for them is to end their relationship with Bill O'Reilly. \" -- Jill Lawless from London contributed to this report.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What kind of behavior did the New York Times report detail? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "Which company announced Ailes' departure last summer? Answer in as few words as possible."
+  }
+ ]
+}

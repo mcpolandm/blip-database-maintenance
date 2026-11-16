@@ -1,0 +1,244 @@
+{
+ "pair_id": "ap_22873_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "A look at what's happening around the majors Saturday: THE SHO GOES ON Shohei Ohtani doesn't need two good elbows to help the Angels."
+  },
+  {
+   "blip_idx": 1,
+   "text": "Doctors this week recommended the two-way rookie sensation have Tommy John surgery on his right pitching elbow, but Ohtani has been crushing it at the plate, hitting four homers in his past three games."
+  },
+  {
+   "blip_idx": 2,
+   "text": "Ohtani has 19 home runs and leads all rookies with a .579 slugging percentage, and he says he'll keep hitting through the end of the season before deciding whether to have surgery that would keep him off the mound until 2020."
+  },
+  {
+   "blip_idx": 3,
+   "text": "The Angels will face White Sox veteran James Shields."
+  },
+  {
+   "blip_idx": 4,
+   "text": "NEW BREW Gio Gonzalez is set to make his first start with the Brewers against the Giants."
+  },
+  {
+   "blip_idx": 5,
+   "text": "The left-hander was acquired from the Nationals a week ago."
+  },
+  {
+   "blip_idx": 6,
+   "text": "He had lost three of his final four starts with Washington while posting an 8.71 ERA, but Milwaukee is hoping he can help the team's postseason push."
+  },
+  {
+   "blip_idx": 7,
+   "text": "BUCK UP Clay Buchholz's resurgent season keeps getting better, a trend Arizona hopes he extends against Atlanta."
+  },
+  {
+   "blip_idx": 8,
+   "text": "The 34-year-old right-hander is 7-2 with a 2.05 ERA, including 2-0 with an 0.64 ERA in his past four starts."
+  },
+  {
+   "blip_idx": 9,
+   "text": "The Diamondbacks are trying to close ground on the Rockies and Dodgers in the NL West, a tough task with the NL East-leading Braves in town."
+  },
+  {
+   "blip_idx": 10,
+   "text": "Atlanta is set to pitch right-hander Julio Teheran (9-7, 4.05)."
+  },
+  {
+   "blip_idx": 11,
+   "text": "RIGHT DECISION Mets third baseman David Wright is scheduled to participate in a simulated game at Citi Field, his next step as he tries to make a major league comeback from neck, back and shoulder injuries."
+  },
+  {
+   "blip_idx": 12,
+   "text": "The 35-year-old team captain hasn't played in the big leagues since May 2016."
+  },
+  {
+   "blip_idx": 13,
+   "text": "He batted a combined .171 (7 for 41) with one double in 10 games for Class A St. Lucie and two with Triple-A Las Vegas last month before his rehab assignment expired on the final day of August."
+  },
+  {
+   "blip_idx": 14,
+   "text": "PITCHING PIGSKINS David Hess is set to start for the Orioles, a day after he was hit in the eye while playing catch with a football at Tropicana Field."
+  },
+  {
+   "blip_idx": 15,
+   "text": "It's a normal sight across the majors to see pitchers doing running work involving football passes before batting practice."
+  },
+  {
+   "blip_idx": 16,
+   "text": "A specialist examined Hess' left eye, and he was back in the Baltimore dugout Friday — wearing an LSU football helmet."
+  },
+  {
+   "blip_idx": 17,
+   "text": "___ More AP MLB: https://apnews.com/tag/MLB and https://twitter.com/AP_Sports"
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.1313415757310591,
+    "dist_new": 0.1313415757310591
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "A look at what's happening around the majors Saturday: THE SHO GOES ON Shohei Ohtani doesn't need two good elbows to help the Angels. Doctors this week recommended the two-way rookie sensation have Tommy John surgery on his right pitching elbow, but Ohtani has been crushing it at the plate, hitting four homers in his past three games. Ohtani has 19 home runs and leads all rookies with a .579 slugging percentage, and he says he'll keep hitting through the end of the season before deciding whether to have surgery that would keep him off the mound until 2020. The Angels will face White Sox veteran James Shields. NEW BREW Gio Gonzalez is set to make his first start with the Brewers against the Giants. The left-hander was acquired from the Nationals a week ago. He had lost three of his final four starts with Washington while posting an 8.71 ERA, but Milwaukee is hoping he can help the team's postseason push. BUCK UP Clay Buchholz's resurgent season keeps getting better, a trend Arizona hopes he extends against Atlanta. The 34-year-old right-hander is 7-2 with a 2.05 ERA, including 2-0 with an 0.64 ERA in his past four starts. The Diamondbacks are trying to close ground on the Rockies and Dodgers in the NL West, a tough task with the NL East-leading Braves in town. Atlanta is set to pitch right-hander Julio Teheran (9-7, 4.05). RIGHT DECISION Mets third baseman David Wright is scheduled to participate in a simulated game at Citi Field, his next step as he tries to make a major league comeback from neck, back and shoulder injuries. The 35-year-old team captain hasn't played in the big leagues since May 2016. He batted a combined .171 (7 for 41) with one double in 10 games for Class A St. Lucie and two with Triple-A Las Vegas last month before his rehab assignment expired on the final day of August. PITCHING PIGSKINS David Hess is set to start for the Orioles, a day after he was hit in the eye while playing catch with a football at Tropicana Field. It's a normal sight across the majors to see pitchers doing running work involving football passes before batting practice. A specialist examined Hess' left eye, and he was back in the Baltimore dugout Friday — wearing an LSU football helmet. ___ More AP MLB: https://apnews.com/tag/MLB and https://twitter.com/AP_Sports",
+ "document_new": "A look at what's happening around the majors today: THE SHO GOES ON Shohei Ohtani doesn't need two good elbows to help the Angels. Doctors this week recommended the two-way rookie sensation have Tommy John surgery on his right pitching elbow, but Ohtani has been crushing it at the plate, hitting four homers in his past three games. Ohtani has 19 home runs and leads all rookies with a .579 slugging percentage, and he says he'll keep hitting through the end of the season before deciding whether to have surgery that would keep him off the mound until 2020. The Angels will face White Sox veteran James Shields. NEW BREW Gio Gonzalez is set to make his first start with the Brewers against the Giants. The left-hander was acquired from the Nationals a week ago. He had lost three of his final four starts with Washington while posting an 8.71 ERA, but Milwaukee is hoping he can help the team's postseason push. BUCK UP Clay Buchholz's resurgent season keeps getting better, a trend Arizona hopes he extends against Atlanta. The 34-year-old right-hander is 7-2 with a 2.05 ERA, including 2-0 with an 0.64 ERA in his past four starts. The Diamondbacks are trying to close ground on the Rockies and Dodgers in the NL West, a tough task with the NL East-leading Braves in town. Atlanta is set to pitch right-hander Julio Teheran (9-7, 4.05). RIGHT DECISION Mets third baseman David Wright is scheduled to participate in a simulated game at Citi Field, his next step as he tries to make a major league comeback from neck, back and shoulder injuries. The 35-year-old team captain hasn't played in the big leagues since May 2016. He batted a combined .171 (7 for 41) with one double in 10 games for Class A St. Lucie and two with Triple-A Las Vegas last month before his rehab assignment expired on the final day of August. PITCHING PIGSKINS David Hess is set to start for the Orioles, a day after he was hit in the eye while playing catch with a football at Tropicana Field. It's a normal sight across the majors to see pitchers doing running work involving football passes before batting practice. A specialist examined Hess' left eye, and he was back in the Baltimore dugout Friday — wearing an LSU football helmet. ___ More AP MLB: https://apnews.com/tag/MLB and https://twitter.com/AP_Sports",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What day is the article focusing on? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "What was his batting average during the rehab assignment? Answer in as few words as possible."
+  }
+ ]
+}

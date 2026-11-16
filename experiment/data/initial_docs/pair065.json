@@ -1,0 +1,278 @@
+{
+ "pair_id": "ap_1071_1_2",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "NEW YORK (AP) -- Blue Ivy is about to become a big sister - twice over."
+  },
+  {
+   "blip_idx": 1,
+   "text": "Beyonce and Jay Z announced Wednesday on Instagram that the superstar singer is pregnant with twins."
+  },
+  {
+   "blip_idx": 2,
+   "text": "\"We have been blessed two times over. We are incredibly grateful that our family will be growing by two,\" said a statement signed \"The Carters,\" Jay Z's real last name."
+  },
+  {
+   "blip_idx": 3,
+   "text": "The news accompanied a photo of Beyonce showing a baby bump while wearing just a bra, underwear and a veil, kneeling in front of a backdrop of flowers."
+  },
+  {
+   "blip_idx": 4,
+   "text": "The singer's representative did not immediately respond to requests for comment."
+  },
+  {
+   "blip_idx": 5,
+   "text": "The news triggered half a million tweets in 45 minutes, according to Twitter."
+  },
+  {
+   "blip_idx": 6,
+   "text": "Their daughter, Blue Ivy, was born in 2012."
+  },
+  {
+   "blip_idx": 7,
+   "text": "The little girl served as the inspiration for Jay Z's hit song \"Glory,\" and she's appeared in music videos alongside her mother."
+  },
+  {
+   "blip_idx": 8,
+   "text": "Beyonce, who set a record in December for earning Grammy Award nominations in the rock, pop, R&"
+  },
+  {
+   "blip_idx": 9,
+   "text": "B and rap categories in the same year with her diverse album \"Lemonade,\" announced her last pregnancy at the 2011 MTV VMAs."
+  },
+  {
+   "blip_idx": 10,
+   "text": "She leads all Grammy nominees with nine and is due to perform at the Grammy ceremony on Sunday, Feb. 12. Beyonce in October ended her six-month Formation World Tour at MetLife Stadium in New York City."
+  },
+  {
+   "blip_idx": 11,
+   "text": "She has also been named one of the headliners this spring at the Coachella music festival."
+  },
+  {
+   "blip_idx": 12,
+   "text": "Beyonce and Jay Z routinely make listings of the most powerful people in the entertainment industry."
+  },
+  {
+   "blip_idx": 13,
+   "text": "She is the most nominated woman in Grammy Awards history, with 53 nominations and 20 wins."
+  },
+  {
+   "blip_idx": 14,
+   "text": "He co-founded the record company Roc-A-Fella, the clothing line Rocawear, a nightclub chain and the streaming service Tidal."
+  },
+  {
+   "blip_idx": 15,
+   "text": "She and Jay Z were married in April 2008."
+  },
+  {
+   "blip_idx": 16,
+   "text": "Beyonce revealed in 2013 that she had suffered a miscarriage before Blue Ivy's birth."
+  },
+  {
+   "blip_idx": 17,
+   "text": "In 2013, Beyonce told ABC News that she definitely \"would like more children.\" \"I think my daughter needs some company. I definitely love being a big sister,\" she said, referring to little sister, Grammy-nominated singer Solange Knowles."
+  },
+  {
+   "blip_idx": 18,
+   "text": "The news of the pregnancy comes a day after Pharrell Williams and his wife, Helen Lasichanh, confirmed they had welcomed triplets."
+  },
+  {
+   "blip_idx": 19,
+   "text": "Those babies join 8-year-old big brother Rocket."
+  },
+  {
+   "blip_idx": 20,
+   "text": "--- Online: http://www.beyonce.com"
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "deleted",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "added",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "added",
+   "unchanged"
+  ],
+  "added_new": [
+   10,
+   20
+  ]
+ },
+ "document_old": "NEW YORK (AP) -- Blue Ivy is about to become a big sister - twice over. Beyonce and Jay Z announced Wednesday on Instagram that the superstar singer is pregnant with twins. \"We have been blessed two times over. We are incredibly grateful that our family will be growing by two,\" said a statement signed \"The Carters,\" Jay Z's real last name. The news accompanied a photo of Beyonce showing a baby bump while wearing just a bra, underwear and a veil, kneeling in front of a backdrop of flowers. The singer's representative did not immediately respond to requests for comment. The news triggered half a million tweets in 45 minutes, according to Twitter. Their daughter, Blue Ivy, was born in 2012. The little girl served as the inspiration for Jay Z's hit song \"Glory,\" and she's appeared in music videos alongside her mother. Beyonce, who set a record in December for earning Grammy Award nominations in the rock, pop, R& B and rap categories in the same year with her diverse album \"Lemonade,\" announced her last pregnancy at the 2011 MTV VMAs. She leads all Grammy nominees with nine and is due to perform at the Grammy ceremony on Sunday, Feb. 12. Beyonce in October ended her six-month Formation World Tour at MetLife Stadium in New York City. She has also been named one of the headliners this spring at the Coachella music festival. Beyonce and Jay Z routinely make listings of the most powerful people in the entertainment industry. She is the most nominated woman in Grammy Awards history, with 53 nominations and 20 wins. He co-founded the record company Roc-A-Fella, the clothing line Rocawear, a nightclub chain and the streaming service Tidal. She and Jay Z were married in April 2008. Beyonce revealed in 2013 that she had suffered a miscarriage before Blue Ivy's birth. In 2013, Beyonce told ABC News that she definitely \"would like more children.\" \"I think my daughter needs some company. I definitely love being a big sister,\" she said, referring to little sister, Grammy-nominated singer Solange Knowles. The news of the pregnancy comes a day after Pharrell Williams and his wife, Helen Lasichanh, confirmed they had welcomed triplets. Those babies join 8-year-old big brother Rocket. --- Online: http://www.beyonce.com",
+ "document_new": "NEW YORK (AP) -- Blue Ivy is about to become a big sister - twice over. Beyonce and Jay Z announced Wednesday on Instagram that the superstar singer is pregnant with twins. \"We have been blessed two times over. We are incredibly grateful that our family will be growing by two,\" said a statement signed \"The Carters,\" Jay Z's real last name. The news accompanied a photo of Beyonce showing a baby bump while wearing just a bra, underwear and a veil, kneeling in front of a backdrop of flowers. The singer's representative did not immediately respond to requests for comment. The news triggered half a million tweets in 45 minutes, according to Twitter. Their daughter, Blue Ivy, was born in 2012. The little girl served as the inspiration for Jay Z's hit song \"Glory,\" and she's appeared in music videos alongside her mother. Beyonce, who set a record in December for earning Grammy Award nominations in the rock, pop, R& B and rap categories in the same year with her diverse album \"Lemonade,\" announced her last pregnancy at the 2011 MTV VMAs. Beyonce in October ended her six-month Formation World Tour at MetLife Stadium in New York City. She has also been named one of the headliners this spring at the Coachella music festival. Beyonce and Jay Z routinely make listings of the most powerful people in the entertainment industry. She is the most nominated woman in Grammy Awards history, with 53 nominations and 20 wins. He co-founded the record company Roc-A-Fella, the clothing line Rocawear, a nightclub chain and the streaming service Tidal. She and Jay Z were married in April 2008. Beyonce revealed in 2013 that she had suffered a miscarriage before Blue Ivy's birth. In 2013, Beyonce told ABC News that she definitely \"would like more children.\" \"I think my daughter needs some company. I definitely love being a big sister,\" she said, referring to little sister, Grammy-nominated singer Solange Knowles. The news of the pregnancy comes a day after Pharrell Williams and his wife, Helen Lasichanh, confirmed they had welcomed triplets. Those babies join 8-year-old big brother Rocket. --- This story has been corrected to show Beyonce is not scheduled to perform at the 2017 Grammys. ---- Online: http://www.beyonce.com",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "How many tweets did the news trigger in 45 minutes? Answer in as few words as possible."
+  },
+  {
+   "task_id": "bool_001",
+   "type": "boolean",
+   "prompt": "Was Beyonce's Formation World Tour six months long? Answer Yes or No."
+  }
+ ]
+}

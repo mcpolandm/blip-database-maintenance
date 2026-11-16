@@ -1,0 +1,340 @@
+{
+ "pair_id": "ap_16646_3_4",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "NAIROBI, Kenya (AP) -- Just ahead of Kenya's disputed 2017 election, video clips started spreading on social media of a slick-looking CNN broadcast asserting that President Uhuru Kenyatta had pulled far ahead in the polls."
+  },
+  {
+   "blip_idx": 1,
+   "text": "But the CNN broadcast was fake, splicing together real coverage from CNN Philippines with other footage with the network's iconic red logo superimposed in the corner."
+  },
+  {
+   "blip_idx": 2,
+   "text": "It happened with a BBC video, too, and with a photo purportedly of Kenyan security forces killing protesters that was actually from Tanzania, and with thousands of spurious blog posts and other false reports that flooded the popular messaging app WhatsApp, fueling further divisions and turmoil in an election that morphed into a major political crisis."
+  },
+  {
+   "blip_idx": 3,
+   "text": "So the U.S. government is gearing up to fight fake news - not at home, where it's the subject of heated debate following the 2016 presidential campaign, but in Kenya, where America has sought to nurture a vibrant but volatile African democracy."
+  },
+  {
+   "blip_idx": 4,
+   "text": "\"Information is, of course, power, and frankly, fake news is a real danger,\" U.S."
+  },
+  {
+   "blip_idx": 5,
+   "text": "Ambassador to Kenya Robert Godec said in an interview, adding that it had eroded confidence in Kenya's real news media."
+  },
+  {
+   "blip_idx": 6,
+   "text": "\"It's being weaponized."
+  },
+  {
+   "blip_idx": 7,
+   "text": "It's undermining democracy in Kenya."
+  },
+  {
+   "blip_idx": 8,
+   "text": "\" Godec kicked off the awareness campaign this past week with an email to the 47,000 members of the State Department's Young African Leaders Initiative asking them to pledge to prevent the spread of fake media by pausing to verify the source and validity before passing information along to others through social media."
+  },
+  {
+   "blip_idx": 9,
+   "text": "For a while this week, the hashtag #StopReflectVerify was the No. 2 trending hashtag on Twitter in Kenya, where the U.S."
+  },
+  {
+   "blip_idx": 10,
+   "text": "Embassy pushed it to its 256,000 followers."
+  },
+  {
+   "blip_idx": 11,
+   "text": "In addition to offering resources for discriminating between fact and fake, the campaign involves three-day training sessions for public affairs officials in Kenya's counties, encouraging local governments to be more responsive and forthcoming so that journalists on deadline can fact-check information they hear."
+  },
+  {
+   "blip_idx": 12,
+   "text": "Though it's starting in Kenya, the program is expected to expand, with an Africa-wide international fact-checking day and a global, virtual event on World Press Freedom Day in May anchored out of Nairobi."
+  },
+  {
+   "blip_idx": 13,
+   "text": "The focus on fighting fake news in Kenya stands in contrast to what's happening in the United States, where President Donald Trump uses the term to denigrate credible news outlets that publish critical coverage about him or his Republican administration."
+  },
+  {
+   "blip_idx": 14,
+   "text": "Trump has also continually downplayed the role that false information from illegitimate sources may have played in affecting the outcome of the election."
+  },
+  {
+   "blip_idx": 15,
+   "text": "Last month, special counsel Robert Mueller indicted 13 Russians accused of using a network of fake social media accounts and targeted political messages to stir up turmoil in the 2016 race."
+  },
+  {
+   "blip_idx": 16,
+   "text": "The campaign also comes as the U.S. has been warning Kenya's government about worrisome restrictions on the legitimate news media."
+  },
+  {
+   "blip_idx": 17,
+   "text": "The group Human Rights Watch has said Kenyan officials try to stop critical coverage by threatening, intimidating and harassing journalists."
+  },
+  {
+   "blip_idx": 18,
+   "text": "The United States was particularly concerned in February when Kenya shut down major broadcasters after opposition leader Raila Odinga held a mock inauguration on television."
+  },
+  {
+   "blip_idx": 19,
+   "text": "In Kenya, the fake news problem has also raised fears about violence being stoked by false facts that often mushroom on social media before they can be stopped."
+  },
+  {
+   "blip_idx": 20,
+   "text": "At election time, a fake but realistic-looking U.S. diplomatic cable circulated that appeared to show embassy officials predicting instability, celebratory violence, \"severe unrest and a massive breakdown of law and order\" if Odinga were to defeat Kenyatta in the election."
+  },
+  {
+   "blip_idx": 21,
+   "text": "The U.S. embassy quickly tweeted its own version of the cable with the word \"FAKE\" slapped across it in bold red font."
+  },
+  {
+   "blip_idx": 22,
+   "text": "Yet there are risks for the U.S. in appearing to tell people what to believe, say or not say in Kenya, a former British colony."
+  },
+  {
+   "blip_idx": 23,
+   "text": "So the embassy is taking pains to show it's a locally driven operation, partnering with groups like AfricaCheck, a fact-checking website similar to the U.S. site Snopes.com."
+  },
+  {
+   "blip_idx": 24,
+   "text": "\"We're not asking them to believe any particular thing,\" Godec said. \"We're just saying, don't take everything you see on your phone via WhatsApp as the truth because it may not be."
+  },
+  {
+   "blip_idx": 25,
+   "text": "\" --- Reach Josh Lederman at http:/twitter.com/joshledermanAP"
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.13394693698630533,
+    "dist_new": 0.13228510871598234
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "NAIROBI, Kenya (AP) -- Just ahead of Kenya's disputed 2017 election, video clips started spreading on social media of a slick-looking CNN broadcast asserting that President Uhuru Kenyatta had pulled far ahead in the polls. But the CNN broadcast was fake, splicing together real coverage from CNN Philippines with other footage with the network's iconic red logo superimposed in the corner. It happened with a BBC video, too, and with a photo purportedly of Kenyan security forces killing protesters that was actually from Tanzania, and with thousands of spurious blog posts and other false reports that flooded the popular messaging app WhatsApp, fueling further divisions and turmoil in an election that morphed into a major political crisis. So the U.S. government is gearing up to fight fake news - not at home, where it's the subject of heated debate following the 2016 presidential campaign, but in Kenya, where America has sought to nurture a vibrant but volatile African democracy. \"Information is, of course, power, and frankly, fake news is a real danger,\" U.S. Ambassador to Kenya Robert Godec said in an interview, adding that it had eroded confidence in Kenya's real news media. \"It's being weaponized. It's undermining democracy in Kenya. \" Godec kicked off the awareness campaign this past week with an email to the 47,000 members of the State Department's Young African Leaders Initiative asking them to pledge to prevent the spread of fake media by pausing to verify the source and validity before passing information along to others through social media. For a while this week, the hashtag #StopReflectVerify was the No. 2 trending hashtag on Twitter in Kenya, where the U.S. Embassy pushed it to its 256,000 followers. In addition to offering resources for discriminating between fact and fake, the campaign involves three-day training sessions for public affairs officials in Kenya's counties, encouraging local governments to be more responsive and forthcoming so that journalists on deadline can fact-check information they hear. Though it's starting in Kenya, the program is expected to expand, with an Africa-wide international fact-checking day and a global, virtual event on World Press Freedom Day in May anchored out of Nairobi. The focus on fighting fake news in Kenya stands in contrast to what's happening in the United States, where President Donald Trump uses the term to denigrate credible news outlets that publish critical coverage about him or his Republican administration. Trump has also continually downplayed the role that false information from illegitimate sources may have played in affecting the outcome of the election. Last month, special counsel Robert Mueller indicted 13 Russians accused of using a network of fake social media accounts and targeted political messages to stir up turmoil in the 2016 race. The campaign also comes as the U.S. has been warning Kenya's government about worrisome restrictions on the legitimate news media. The group Human Rights Watch has said Kenyan officials try to stop critical coverage by threatening, intimidating and harassing journalists. The United States was particularly concerned in February when Kenya shut down major broadcasters after opposition leader Raila Odinga held a mock inauguration on television. In Kenya, the fake news problem has also raised fears about violence being stoked by false facts that often mushroom on social media before they can be stopped. At election time, a fake but realistic-looking U.S. diplomatic cable circulated that appeared to show embassy officials predicting instability, celebratory violence, \"severe unrest and a massive breakdown of law and order\" if Odinga were to defeat Kenyatta in the election. The U.S. embassy quickly tweeted its own version of the cable with the word \"FAKE\" slapped across it in bold red font. Yet there are risks for the U.S. in appearing to tell people what to believe, say or not say in Kenya, a former British colony. So the embassy is taking pains to show it's a locally driven operation, partnering with groups like AfricaCheck, a fact-checking website similar to the U.S. site Snopes.com. \"We're not asking them to believe any particular thing,\" Godec said. \"We're just saying, don't take everything you see on your phone via WhatsApp as the truth because it may not be. \" --- Reach Josh Lederman at http:/twitter.com/joshledermanAP",
+ "document_new": "NAIROBI, Kenya (AP) -- Just ahead of Kenya's disputed 2017 election, video clips started spreading on social media of a slick-looking CNN broadcast asserting that President Uhuru Kenyatta had pulled far ahead in the polls. But the CNN broadcast was fake, splicing together real coverage from CNN Philippines with other footage with the network's iconic red logo superimposed in the corner. It happened with a BBC video, too, and with a photo purportedly of Kenyan security forces killing protesters that was actually from Tanzania, and with thousands of spurious blog posts and other false reports that flooded the popular messaging app WhatsApp, fueling further divisions and turmoil in an election that morphed into a major political crisis. So the U.S. government is gearing up to fight fake news - not at home, where it's the subject of heated debate following the 2016 presidential campaign, but in Kenya, where America has sought to nurture a vibrant but volatile African democracy. \"Information is, of course, power, and frankly, fake news is a real danger,\" U.S. Ambassador to Kenya Robert Godec said in an interview, adding that it had eroded confidence in Kenya's real news media. \"It's being weaponized. It's undermining democracy in Kenya. \" Godec kicked off the awareness campaign this past week with an email to the 47,000 members of the State Department's Young African Leaders Initiative asking them to pledge to prevent the spread of fake media by pausing to verify the source and validity before passing information along to others through social media. For a while this week, the hashtag #StopReflectVerify was the No. 2 trending hashtag on Twitter in Kenya, where the U.S. Embassy pushed it to its 256,000 followers. In addition to offering resources for discriminating between fact and fake, the campaign involves three-day training sessions for public affairs officials in Kenya's counties, encouraging local governments to be more responsive and forthcoming so that journalists on deadline can fact-check information they hear. Though it's starting in Kenya, the program is expected to expand, with an Africa-wide international fact-checking day and a global, virtual event on World Press Freedom Day in May anchored out of Nairobi. The focus on fighting fake news in Kenya stands in contrast to what's happening in the United States, where President Donald Trump uses the term to denigrate credible news outlets that publish critical coverage about him or his Republican administration. Trump has also continually downplayed the role that false information from illegitimate sources may have played in affecting the outcome of the election. Last month, special counsel Robert Mueller indicted 13 Russians accused of using a network of fake social media accounts and targeted political messages to stir up turmoil in the 2016 race. The campaign also comes as the U.S. has been warning Kenya's government about worrisome restrictions on the legitimate news media. The group Human Rights Watch has said Kenyan officials try to stop critical coverage by threatening, intimidating and harassing journalists. The United States was particularly concerned in February when Kenya shut down major broadcasters after opposition leader Raila Odinga held a mock inauguration on television. In Kenya, the fake news problem has also raised fears about violence being stoked by false facts that often mushroom on social media before they can be stopped. At election time, a fake but realistic-looking U.S. diplomatic cable circulated that appeared to show embassy officials predicting instability, celebratory violence, \"severe unrest and a massive breakdown of law and order\" if Odinga were to defeat Kenyatta in the election. The U.S. embassy quickly tweeted its own version of the cable with the word \"FAKE\" slapped across it in bold red font. Yet there are risks for the U.S. in appearing to tell people what to believe, say or not say in Kenya, a former British colony. So the embassy is taking pains to show it is a locally driven operation, partnering with groups like AfricaCheck, a fact-checking website similar to the U.S. site Snopes.com. \"We're not asking them to believe any particular thing,\" Godec said. \"We're just saying, don't take everything you see on your phone via WhatsApp as the truth because it may not be. \" --- Reach Josh Lederman at http:/twitter.com/joshledermanAP",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What is the fact-checking website similar to Snopes.com that the embassy partners with? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "Where is the U.S. government focusing its efforts to combat fake news? Answer in as few words as possible."
+  }
+ ]
+}

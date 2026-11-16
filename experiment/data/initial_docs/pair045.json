@@ -1,0 +1,256 @@
+{
+ "pair_id": "ap_1176_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "CHARLESTON, S.C. (AP) -- Documents unsealed in federal court reveal new details about the mental health of convicted Charleston church shooter Dylann Roof, including a pychiatrist's finding that his disorders make it hard for him to focus, interact with others or express emotion."
+  },
+  {
+   "blip_idx": 1,
+   "text": "Roof's psychiatric records remain sealed, as do the transcripts from two competency hearings which were closed to the public over objections by media organizations including The Associated Press."
+  },
+  {
+   "blip_idx": 2,
+   "text": "But other information unsealed this week describes Roof's mental state, a topic the 22-year-old defendant tried to keep out of his sentencing after insisting on representing himself."
+  },
+  {
+   "blip_idx": 3,
+   "text": "Quoting from a psychiatrist's testimony during one of those hearings, his lawyers wrote \"the defendant suffers from 'Social Anxiety Disorder, a Mixed Substance Abuse Disorder, a Schizoid Personality Disorder, depression by history, and a possible Autistic Spectrum Disorder.'\" Some of the other trademarks of those disorders, according to the filings, are anxiety about unknown outcomes, a tendency to become overwhelmed and trouble retaining information."
+  },
+  {
+   "blip_idx": 4,
+   "text": "Roof's \"high IQ,\" his attorneys wrote, is \"compromised by a significant discrepancy between his ability to comprehend and to process information and a poor working memory.\" Because of this, his attorneys asked that the judge allow for frequent courtroom breaks, longer times for lunch recess and perhaps even a day or two off from court per week."
+  },
+  {
+   "blip_idx": 5,
+   "text": "The motion also noted that U.S."
+  },
+  {
+   "blip_idx": 6,
+   "text": "District Judge Richard Gergel had \"denied a defense request for an independent competency evaluation focused on autism.\" The judge ultimately denied the motion, taking breaks at regular intervals and holding court for about eight hours a day."
+  },
+  {
+   "blip_idx": 7,
+   "text": "The information on Roof's diagnoses emerges from the hundreds of pages of court documents originally filed under seal and opened this week by Gergel."
+  },
+  {
+   "blip_idx": 8,
+   "text": "Although Roof's mental health wasn't discussed much in open court, it played a large role in his trial for shooting nine people as they prayed inside Charleston's Emanuel AME Church in June 2015."
+  },
+  {
+   "blip_idx": 9,
+   "text": "The jury convicted Roof in December on 33 federal charges including hate crimes, and sentenced him to death last month."
+  },
+  {
+   "blip_idx": 10,
+   "text": "Roof had lawyers during the guilt phase but represented himself at sentencing."
+  },
+  {
+   "blip_idx": 11,
+   "text": "His legal advisers repeatedly expressed frustration that Roof wouldn't let them introduce mental health evidence that could possibly spare his life."
+  },
+  {
+   "blip_idx": 12,
+   "text": "Roof said he didn't want to embarrass himself or his family."
+  },
+  {
+   "blip_idx": 13,
+   "text": "Roof asked jurors to forget anything they'd heard from his legal team about his mental state, declaring, \"there's nothing wrong with me psychologically."
+  },
+  {
+   "blip_idx": 14,
+   "text": "\" \"I still feel like I had to do it,\" Roof said in his closing argument."
+  },
+  {
+   "blip_idx": 15,
+   "text": "Holding onto his racist beliefs, he said: \"Anyone who hates anything in their mind has a good reason for it.\" Evidence or testimony related to Roof's mental evaluations has been shared with the judge overseeing his pending case in state court, where he faces another possible death sentence on charges including nine counts of murder."
+  },
+  {
+   "blip_idx": 16,
+   "text": "Ordinarily, Roof would have gone to the federal death row in Terre Haute, Indiana, after his sentencing but remains in the Charleston County jail, awaiting his state trial."
+  },
+  {
+   "blip_idx": 17,
+   "text": "--- Kinnard can be reached at -http://twitter.com/MegKinnardAP."
+  },
+  {
+   "blip_idx": 18,
+   "text": "Read more of her work at -http://bigstory.ap.org/content/meg-kinnard/"
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.1879831927580424,
+    "dist_new": 0.1879831927580424
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "CHARLESTON, S.C. (AP) -- Documents unsealed in federal court reveal new details about the mental health of convicted Charleston church shooter Dylann Roof, including a pychiatrist's finding that his disorders make it hard for him to focus, interact with others or express emotion. Roof's psychiatric records remain sealed, as do the transcripts from two competency hearings which were closed to the public over objections by media organizations including The Associated Press. But other information unsealed this week describes Roof's mental state, a topic the 22-year-old defendant tried to keep out of his sentencing after insisting on representing himself. Quoting from a psychiatrist's testimony during one of those hearings, his lawyers wrote \"the defendant suffers from 'Social Anxiety Disorder, a Mixed Substance Abuse Disorder, a Schizoid Personality Disorder, depression by history, and a possible Autistic Spectrum Disorder.'\" Some of the other trademarks of those disorders, according to the filings, are anxiety about unknown outcomes, a tendency to become overwhelmed and trouble retaining information. Roof's \"high IQ,\" his attorneys wrote, is \"compromised by a significant discrepancy between his ability to comprehend and to process information and a poor working memory.\" Because of this, his attorneys asked that the judge allow for frequent courtroom breaks, longer times for lunch recess and perhaps even a day or two off from court per week. The motion also noted that U.S. District Judge Richard Gergel had \"denied a defense request for an independent competency evaluation focused on autism.\" The judge ultimately denied the motion, taking breaks at regular intervals and holding court for about eight hours a day. The information on Roof's diagnoses emerges from the hundreds of pages of court documents originally filed under seal and opened this week by Gergel. Although Roof's mental health wasn't discussed much in open court, it played a large role in his trial for shooting nine people as they prayed inside Charleston's Emanuel AME Church in June 2015. The jury convicted Roof in December on 33 federal charges including hate crimes, and sentenced him to death last month. Roof had lawyers during the guilt phase but represented himself at sentencing. His legal advisers repeatedly expressed frustration that Roof wouldn't let them introduce mental health evidence that could possibly spare his life. Roof said he didn't want to embarrass himself or his family. Roof asked jurors to forget anything they'd heard from his legal team about his mental state, declaring, \"there's nothing wrong with me psychologically. \" \"I still feel like I had to do it,\" Roof said in his closing argument. Holding onto his racist beliefs, he said: \"Anyone who hates anything in their mind has a good reason for it.\" Evidence or testimony related to Roof's mental evaluations has been shared with the judge overseeing his pending case in state court, where he faces another possible death sentence on charges including nine counts of murder. Ordinarily, Roof would have gone to the federal death row in Terre Haute, Indiana, after his sentencing but remains in the Charleston County jail, awaiting his state trial. --- Kinnard can be reached at -http://twitter.com/MegKinnardAP. Read more of her work at -http://bigstory.ap.org/content/meg-kinnard/",
+ "document_new": "CHARLESTON, S.C. (AP) -- Documents unsealed in federal court reveal new details about the mental health of convicted Charleston church shooter Dylann Roof, including a psychiatrist's finding that his disorders make it hard for him to focus, interact with others or express emotion. Roof's psychiatric records remain sealed, as do the transcripts from two competency hearings which were closed to the public over objections by media organizations including The Associated Press. But other information unsealed this week describes Roof's mental state, a topic the 22-year-old defendant tried to keep out of his sentencing after insisting on representing himself. Quoting from a psychiatrist's testimony during one of those hearings, his lawyers wrote \"the defendant suffers from 'Social Anxiety Disorder, a Mixed Substance Abuse Disorder, a Schizoid Personality Disorder, depression by history, and a possible Autistic Spectrum Disorder.'\" Some of the other trademarks of those disorders, according to the filings, are anxiety about unknown outcomes, a tendency to become overwhelmed and trouble retaining information. Roof's \"high IQ,\" his attorneys wrote, is \"compromised by a significant discrepancy between his ability to comprehend and to process information and a poor working memory.\" Because of this, his attorneys asked that the judge allow for frequent courtroom breaks, longer times for lunch recess and perhaps even a day or two off from court per week. The motion also noted that U.S. District Judge Richard Gergel had \"denied a defense request for an independent competency evaluation focused on autism.\" The judge ultimately denied the motion, taking breaks at regular intervals and holding court for about eight hours a day. The information on Roof's diagnoses emerges from the hundreds of pages of court documents originally filed under seal and opened this week by Gergel. Although Roof's mental health wasn't discussed much in open court, it played a large role in his trial for shooting nine people as they prayed inside Charleston's Emanuel AME Church in June 2015. The jury convicted Roof in December on 33 federal charges including hate crimes, and sentenced him to death last month. Roof had lawyers during the guilt phase but represented himself at sentencing. His legal advisers repeatedly expressed frustration that Roof wouldn't let them introduce mental health evidence that could possibly spare his life. Roof said he didn't want to embarrass himself or his family. Roof asked jurors to forget anything they'd heard from his legal team about his mental state, declaring, \"there's nothing wrong with me psychologically. \" \"I still feel like I had to do it,\" Roof said in his closing argument. Holding onto his racist beliefs, he said: \"Anyone who hates anything in their mind has a good reason for it.\" Evidence or testimony related to Roof's mental evaluations has been shared with the judge overseeing his pending case in state court, where he faces another possible death sentence on charges including nine counts of murder. Ordinarily, Roof would have gone to the federal death row in Terre Haute, Indiana, after his sentencing but remains in the Charleston County jail, awaiting his state trial. --- Kinnard can be reached at -http://twitter.com/MegKinnardAP. Read more of her work at -http://bigstory.ap.org/content/meg-kinnard/",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What type of medical professional gave findings about Roof's disorders?  Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "When was Roof convicted on federal charges? Answer in as few words as possible."
+  }
+ ]
+}

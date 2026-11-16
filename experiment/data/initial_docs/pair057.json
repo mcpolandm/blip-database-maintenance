@@ -1,0 +1,818 @@
+{
+ "pair_id": "ap_11513_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "CHAMPLAIN, N.Y. (AP) -- They have come from all over the United States, piling out of taxis, pushing strollers and pulling luggage, to the end of a country road in the north woods."
+  },
+  {
+   "blip_idx": 1,
+   "text": "Where the pavement stops, they pick up small children and lead older ones wearing Mickey Mouse backpacks around a \"road closed\" sign, threading bushes, crossing a ditch, and filing past another sign in French and English that says \"No pedestrians.\" Then they are arrested."
+  },
+  {
+   "blip_idx": 2,
+   "text": "Seven days a week, 24 hours a day, migrants who came to the U.S. from across the globe - Syria, Congo, Haiti, elsewhere - arrive here where Roxham Road dead-ends so they can walk into Canada, hoping its policies will give them the security they believe the political climate in the United States does not."
+  },
+  {
+   "blip_idx": 3,
+   "text": "\"In Trump's country, they want to put us back to our country,\" said Lena Gunja, a 10-year-old from Congo, who until this week had been living in Portland, Maine."
+  },
+  {
+   "blip_idx": 4,
+   "text": "She was traveling with her mother, father and younger sister."
+  },
+  {
+   "blip_idx": 5,
+   "text": "\"So we don't want that to happen to us, so we want a good life for us."
+  },
+  {
+   "blip_idx": 6,
+   "text": "My mother, she wants a good life for us."
+  },
+  {
+   "blip_idx": 7,
+   "text": "\" The passage has become so crowded this summer that Canadian police set up a reception center on their side of the border in the Quebec community of Saint-Bernard-de-Lacolle, about 30 miles (50 kilometers) south of Montreal, or almost 300 miles (480 kilometers) north of New York City."
+  },
+  {
+   "blip_idx": 8,
+   "text": "It includes tents that have popped up in the past few weeks, where migrants are processed before they are turned over to the Canada Border Services Agency, which handles their applications for refuge."
+  },
+  {
+   "blip_idx": 9,
+   "text": "The Royal Canadian Mounted Police are adding electricity and portable toilets."
+  },
+  {
+   "blip_idx": 10,
+   "text": "A Canadian flag stands just inside the first tent, where the Mounties search the immigrants they've just arrested and check their travel documents."
+  },
+  {
+   "blip_idx": 11,
+   "text": "They are also offered food."
+  },
+  {
+   "blip_idx": 12,
+   "text": "Then shuttle buses take the processed migrants to their next destination."
+  },
+  {
+   "blip_idx": 13,
+   "text": "Trucks carry their luggage separately."
+  },
+  {
+   "blip_idx": 14,
+   "text": "How this spot, not even an official border crossing, became the favored place to cross into Canada is anyone's guess."
+  },
+  {
+   "blip_idx": 15,
+   "text": "But once migrants started going there, word spread on social media."
+  },
+  {
+   "blip_idx": 16,
+   "text": "Under the 2002 Safe Country Agreement between the United States and Canada, migrants seeking asylum must apply to the first country they arrive in."
+  },
+  {
+   "blip_idx": 17,
+   "text": "If they were to go to a legal port of entry, they would be returned to the United States and told to apply there."
+  },
+  {
+   "blip_idx": 18,
+   "text": "But, in a quirk in the application of the law, if migrants arrive in Canada at a location other than a port of entry, such as Roxham Road, they are allowed to request refugee status there."
+  },
+  {
+   "blip_idx": 19,
+   "text": "Many take buses to Plattsburgh, New York, about 20 miles (32 kilometers) south."
+  },
+  {
+   "blip_idx": 20,
+   "text": "Some fly there, and others take Amtrak."
+  },
+  {
+   "blip_idx": 21,
+   "text": "Sometimes taxis carry people right up to the border."
+  },
+  {
+   "blip_idx": 22,
+   "text": "Others are let off up the road and have to walk, pulling their luggage behind them."
+  },
+  {
+   "blip_idx": 23,
+   "text": "Used bus tickets litter the pavement, their points of origin mostly blurred by rain that fell on nights previous."
+  },
+  {
+   "blip_idx": 24,
+   "text": "One read \"Jacksonville.\" One Syrian family said they flew into New York City on tourist visas and then went to Plattsburgh, where they took a taxi to the border."
+  },
+  {
+   "blip_idx": 25,
+   "text": "The migrants say they are driven by the perception that the age of Republican President Donald Trump, with his ban on travelers from certain majority-Muslim countries, means the United States is no longer the destination of the world's dispossessed."
+  },
+  {
+   "blip_idx": 26,
+   "text": "Taking its place in their minds is the Canada of Prime Minister Justin Trudeau, a member of his country's Liberal Party."
+  },
+  {
+   "blip_idx": 27,
+   "text": "Most of the people making the crossing now are originally from Haiti."
+  },
+  {
+   "blip_idx": 28,
+   "text": "The Trump administration said this year it planned to end in January a special humanitarian program enacted after the 2010 earthquake that gave about 58,000 Haitians permission to stay temporarily in the U.S. Walking toward the border in a group on Monday, Medyne Milord, 47, originally of Haiti, said she needs work to support her family."
+  },
+  {
+   "blip_idx": 29,
+   "text": "\"If I return to Haiti, the problem will double,\" she said."
+  },
+  {
+   "blip_idx": 30,
+   "text": "\"What I hope is to have a better life in Canada.\" Jean Rigaud Liberal, 38, said he had been in the United States for seven months and lived in Florida after he left Haiti."
+  },
+  {
+   "blip_idx": 31,
+   "text": "He learned about Roxham Road from Facebook and said he thinks \"Canada will be better than America.\" \"We are not comfortable in America,\" Liberal said."
+  },
+  {
+   "blip_idx": 32,
+   "text": "\"We are seeking a better life;"
+  },
+  {
+   "blip_idx": 33,
+   "text": "we don't want to go back to Haiti."
+  },
+  {
+   "blip_idx": 34,
+   "text": "\" On the New York side, U.S."
+  },
+  {
+   "blip_idx": 35,
+   "text": "Border Patrol agents sometimes check to be sure the migrants are in the United States legally, but they said they don't have the resources to do it all the time."
+  },
+  {
+   "blip_idx": 36,
+   "text": "Besides, said Brad Brant, a special operations supervisor for the U.S."
+  },
+  {
+   "blip_idx": 37,
+   "text": "Border Patrol, \"our mission isn't to prevent people from leaving."
+  },
+  {
+   "blip_idx": 38,
+   "text": "\" Small numbers continue to cross into Canada elsewhere, but the vast majority take Roxham Road."
+  },
+  {
+   "blip_idx": 39,
+   "text": "U.S. officials said they began to notice last fall, around the time of the U.S. presidential election, that more people were crossing there."
+  },
+  {
+   "blip_idx": 40,
+   "text": "Francine Dupuis, the head of a Quebec government-funded program that helps asylum seekers, said her organization estimates 1,174 people overall crossed into Quebec last month, compared with 180 in July 2016."
+  },
+  {
+   "blip_idx": 41,
+   "text": "U.S. and Canadian officials estimated that on Sunday alone, about 400 people crossed the border at Roxham Road."
+  },
+  {
+   "blip_idx": 42,
+   "text": "\"All they have to do is cross the border,\" Dupuis said."
+  },
+  {
+   "blip_idx": 43,
+   "text": "\"We can't control it."
+  },
+  {
+   "blip_idx": 44,
+   "text": "They come in by the hundreds, and it seems to be increasing every day."
+  },
+  {
+   "blip_idx": 45,
+   "text": "\" Canada said last week it planned to house some migrants in Montreal's Olympic Stadium."
+  },
+  {
+   "blip_idx": 46,
+   "text": "It could hold thousands, but current plans call for only 450. In most cases, once the migrants are in Canada they are released and can live freely while their claims for refugee status are processed, which can take years."
+  },
+  {
+   "blip_idx": 47,
+   "text": "Meanwhile, they are eligible for public assistance."
+  },
+  {
+   "blip_idx": 48,
+   "text": "Brenda Shanahan, the Liberal Party member of Parliament who represents the area, visited the site Monday."
+  },
+  {
+   "blip_idx": 49,
+   "text": "She is proud of her country for being willing to take in the dispossessed, she said, but there is no guarantee they will be able to stay in Canada."
+  },
+  {
+   "blip_idx": 50,
+   "text": "\"It's not a free ticket for refugee status, not at all,\" Shanahan said."
+  },
+  {
+   "blip_idx": 51,
+   "text": "Opposition Conservative lawmaker Michelle Rempel said the Trudeau government lacks a plan to deal with the illegal crossings, even though a summer spike had been anticipated."
+  },
+  {
+   "blip_idx": 52,
+   "text": "\"All that we have heard is that we are monitoring the situation,\" she said."
+  },
+  {
+   "blip_idx": 53,
+   "text": "\"The government needs to come up with a plan right away to deal with this.\" It will further backlog a system in which some refugees are already waiting 11 years for hearings, Rempel said."
+  },
+  {
+   "blip_idx": 54,
+   "text": "Canadians will question the integrity of the immigration system if the \"dangerous trend\" of illegal crossings continues, she said."
+  },
+  {
+   "blip_idx": 55,
+   "text": "Trudeau himself recently said his country has border checkpoints and controls that need to be respected."
+  },
+  {
+   "blip_idx": 56,
+   "text": "\"We have an open compassionate country, but we have a strong system that we follow,\" he said."
+  },
+  {
+   "blip_idx": 57,
+   "text": "\"Protecting Canadian confidence in the integrity of our system allows us to continue to be open, and that's exactly what we need to continue to do."
+  },
+  {
+   "blip_idx": 58,
+   "text": "\" Inancieu Merilien, originally of Haiti, moved to the United States in 2000 but crossed into Canada late last month."
+  },
+  {
+   "blip_idx": 59,
+   "text": "U.S. authorities, he said, are trying to scare Haitians by refusing to guarantee they'll be able to stay."
+  },
+  {
+   "blip_idx": 60,
+   "text": "\"There's a big difference here."
+  },
+  {
+   "blip_idx": 61,
+   "text": "They welcomed us very well,\" he said after leaving the Olympic Stadium to begin looking for a home in Montreal's large Haitian community."
+  },
+  {
+   "blip_idx": 62,
+   "text": "\"They're going to give us housing in apartments."
+  },
+  {
+   "blip_idx": 63,
+   "text": "I hope everything goes well."
+  },
+  {
+   "blip_idx": 64,
+   "text": "\" --- Contributing to this report were Associated Press writers Rob Gillies in Toronto, Evens Sanon in Port-au-Prince, Haiti, and Patrick Lejtenyi in Montreal."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 19,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 34,
+    "new": 36,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 56,
+    "new": 58,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 52,
+    "new": 54,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 55,
+    "new": 57,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 62,
+    "new": 64,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 29,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 28,
+    "new": 30,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 64,
+    "new": 66,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 37,
+    "new": 39,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 43,
+    "new": 45,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 35,
+    "new": 37,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 45,
+    "new": 47,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 38,
+    "new": 40,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 47,
+    "new": 49,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 36,
+    "new": 38,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 28,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 61,
+    "new": 63,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 44,
+    "new": 46,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 30,
+    "new": 32,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 42,
+    "new": 44,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 59,
+    "new": 61,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 29,
+    "new": 31,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 58,
+    "new": 60,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 40,
+    "new": 42,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 63,
+    "new": 65,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 51,
+    "new": 53,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 48,
+    "new": 50,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 33,
+    "new": 35,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 46,
+    "new": 48,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 49,
+    "new": 51,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 57,
+    "new": 59,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 39,
+    "new": 41,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 31,
+    "new": 33,
+    "dist_old": 0.06866859641778875,
+    "dist_new": 0.06866859641778875
+   },
+   {
+    "old": 53,
+    "new": 55,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 50,
+    "new": 52,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 54,
+    "new": 56,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 60,
+    "new": 62,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 41,
+    "new": 43,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 32,
+    "new": 34,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "added",
+   "added",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": [
+   14,
+   15
+  ]
+ },
+ "document_old": "CHAMPLAIN, N.Y. (AP) -- They have come from all over the United States, piling out of taxis, pushing strollers and pulling luggage, to the end of a country road in the north woods. Where the pavement stops, they pick up small children and lead older ones wearing Mickey Mouse backpacks around a \"road closed\" sign, threading bushes, crossing a ditch, and filing past another sign in French and English that says \"No pedestrians.\" Then they are arrested. Seven days a week, 24 hours a day, migrants who came to the U.S. from across the globe - Syria, Congo, Haiti, elsewhere - arrive here where Roxham Road dead-ends so they can walk into Canada, hoping its policies will give them the security they believe the political climate in the United States does not. \"In Trump's country, they want to put us back to our country,\" said Lena Gunja, a 10-year-old from Congo, who until this week had been living in Portland, Maine. She was traveling with her mother, father and younger sister. \"So we don't want that to happen to us, so we want a good life for us. My mother, she wants a good life for us. \" The passage has become so crowded this summer that Canadian police set up a reception center on their side of the border in the Quebec community of Saint-Bernard-de-Lacolle, about 30 miles (50 kilometers) south of Montreal, or almost 300 miles (480 kilometers) north of New York City. It includes tents that have popped up in the past few weeks, where migrants are processed before they are turned over to the Canada Border Services Agency, which handles their applications for refuge. The Royal Canadian Mounted Police are adding electricity and portable toilets. A Canadian flag stands just inside the first tent, where the Mounties search the immigrants they've just arrested and check their travel documents. They are also offered food. Then shuttle buses take the processed migrants to their next destination. Trucks carry their luggage separately. How this spot, not even an official border crossing, became the favored place to cross into Canada is anyone's guess. But once migrants started going there, word spread on social media. Under the 2002 Safe Country Agreement between the United States and Canada, migrants seeking asylum must apply to the first country they arrive in. If they were to go to a legal port of entry, they would be returned to the United States and told to apply there. But, in a quirk in the application of the law, if migrants arrive in Canada at a location other than a port of entry, such as Roxham Road, they are allowed to request refugee status there. Many take buses to Plattsburgh, New York, about 20 miles (32 kilometers) south. Some fly there, and others take Amtrak. Sometimes taxis carry people right up to the border. Others are let off up the road and have to walk, pulling their luggage behind them. Used bus tickets litter the pavement, their points of origin mostly blurred by rain that fell on nights previous. One read \"Jacksonville.\" One Syrian family said they flew into New York City on tourist visas and then went to Plattsburgh, where they took a taxi to the border. The migrants say they are driven by the perception that the age of Republican President Donald Trump, with his ban on travelers from certain majority-Muslim countries, means the United States is no longer the destination of the world's dispossessed. Taking its place in their minds is the Canada of Prime Minister Justin Trudeau, a member of his country's Liberal Party. Most of the people making the crossing now are originally from Haiti. The Trump administration said this year it planned to end in January a special humanitarian program enacted after the 2010 earthquake that gave about 58,000 Haitians permission to stay temporarily in the U.S. Walking toward the border in a group on Monday, Medyne Milord, 47, originally of Haiti, said she needs work to support her family. \"If I return to Haiti, the problem will double,\" she said. \"What I hope is to have a better life in Canada.\" Jean Rigaud Liberal, 38, said he had been in the United States for seven months and lived in Florida after he left Haiti. He learned about Roxham Road from Facebook and said he thinks \"Canada will be better than America.\" \"We are not comfortable in America,\" Liberal said. \"We are seeking a better life; we don't want to go back to Haiti. \" On the New York side, U.S. Border Patrol agents sometimes check to be sure the migrants are in the United States legally, but they said they don't have the resources to do it all the time. Besides, said Brad Brant, a special operations supervisor for the U.S. Border Patrol, \"our mission isn't to prevent people from leaving. \" Small numbers continue to cross into Canada elsewhere, but the vast majority take Roxham Road. U.S. officials said they began to notice last fall, around the time of the U.S. presidential election, that more people were crossing there. Francine Dupuis, the head of a Quebec government-funded program that helps asylum seekers, said her organization estimates 1,174 people overall crossed into Quebec last month, compared with 180 in July 2016. U.S. and Canadian officials estimated that on Sunday alone, about 400 people crossed the border at Roxham Road. \"All they have to do is cross the border,\" Dupuis said. \"We can't control it. They come in by the hundreds, and it seems to be increasing every day. \" Canada said last week it planned to house some migrants in Montreal's Olympic Stadium. It could hold thousands, but current plans call for only 450. In most cases, once the migrants are in Canada they are released and can live freely while their claims for refugee status are processed, which can take years. Meanwhile, they are eligible for public assistance. Brenda Shanahan, the Liberal Party member of Parliament who represents the area, visited the site Monday. She is proud of her country for being willing to take in the dispossessed, she said, but there is no guarantee they will be able to stay in Canada. \"It's not a free ticket for refugee status, not at all,\" Shanahan said. Opposition Conservative lawmaker Michelle Rempel said the Trudeau government lacks a plan to deal with the illegal crossings, even though a summer spike had been anticipated. \"All that we have heard is that we are monitoring the situation,\" she said. \"The government needs to come up with a plan right away to deal with this.\" It will further backlog a system in which some refugees are already waiting 11 years for hearings, Rempel said. Canadians will question the integrity of the immigration system if the \"dangerous trend\" of illegal crossings continues, she said. Trudeau himself recently said his country has border checkpoints and controls that need to be respected. \"We have an open compassionate country, but we have a strong system that we follow,\" he said. \"Protecting Canadian confidence in the integrity of our system allows us to continue to be open, and that's exactly what we need to continue to do. \" Inancieu Merilien, originally of Haiti, moved to the United States in 2000 but crossed into Canada late last month. U.S. authorities, he said, are trying to scare Haitians by refusing to guarantee they'll be able to stay. \"There's a big difference here. They welcomed us very well,\" he said after leaving the Olympic Stadium to begin looking for a home in Montreal's large Haitian community. \"They're going to give us housing in apartments. I hope everything goes well. \" --- Contributing to this report were Associated Press writers Rob Gillies in Toronto, Evens Sanon in Port-au-Prince, Haiti, and Patrick Lejtenyi in Montreal.",
+ "document_new": "CHAMPLAIN, N.Y. (AP) -- They have come from all over the United States, piling out of taxis, pushing strollers and pulling luggage, to the end of a country road in the north woods. Where the pavement stops, they pick up small children and lead older ones wearing Mickey Mouse backpacks around a \"road closed\" sign, threading bushes, crossing a ditch, and filing past another sign in French and English that says \"No pedestrians.\" Then they are arrested. Seven days a week, 24 hours a day, migrants who came to the U.S. from across the globe - Syria, Congo, Haiti, elsewhere - arrive here where Roxham Road dead-ends so they can walk into Canada, hoping its policies will give them the security they believe the political climate in the United States does not. \"In Trump's country, they want to put us back to our country,\" said Lena Gunja, a 10-year-old from Congo, who until this week had been living in Portland, Maine. She was traveling with her mother, father and younger sister. \"So we don't want that to happen to us, so we want a good life for us. My mother, she wants a good life for us. \" The passage has become so crowded this summer that Canadian police set up a reception center on their side of the border in the Quebec community of Saint-Bernard-de-Lacolle, about 30 miles (50 kilometers) south of Montreal, or almost 300 miles (480 kilometers) north of New York City. It includes tents that have popped up in the past few weeks, where migrants are processed before they are turned over to the Canada Border Services Agency, which handles their applications for refuge. The Royal Canadian Mounted Police are adding electricity and portable toilets. A Canadian flag stands just inside the first tent, where the Mounties search the immigrants they've just arrested and check their travel documents. They are also offered food. Then shuttle buses take the processed migrants to their next destination. Trucks carry their luggage separately. The Canadian military said Wednesday that about 100 soldiers began arriving to prepare a site for tents to accommodate almost 500 people. The soldiers will also install lighting and heating equipment. How this spot, not even an official border crossing, became the favored place to cross into Canada is anyone's guess. But once migrants started going there, word spread on social media. Under the 2002 Safe Country Agreement between the United States and Canada, migrants seeking asylum must apply to the first country they arrive in. If they were to go to a legal port of entry, they would be returned to the United States and told to apply there. But, in a quirk in the application of the law, if migrants arrive in Canada at a location other than a port of entry, such as Roxham Road, they are allowed to request refugee status there. Many take buses to Plattsburgh, New York, about 20 miles (32 kilometers) south. Some fly there, and others take Amtrak. Sometimes taxis carry people right up to the border. Others are let off up the road and have to walk, pulling their luggage behind them. Used bus tickets litter the pavement, their points of origin mostly blurred by rain that fell on nights previous. One read \"Jacksonville.\" One Syrian family said they flew into New York City on tourist visas and then went to Plattsburgh, where they took a taxi to the border. The migrants say they are driven by the perception that the age of Republican President Donald Trump, with his ban on travelers from certain majority-Muslim countries, means the United States is no longer the destination of the world's dispossessed. Taking its place in their minds is the Canada of Prime Minister Justin Trudeau, a member of his country's Liberal Party. Most of the people making the crossing now are originally from Haiti. The Trump administration said this year it planned to end in January a special humanitarian program enacted after the 2010 earthquake that gave about 58,000 Haitians permission to stay temporarily in the U.S. Walking toward the border in a group on Monday, Medyne Milord, 47, originally of Haiti, said she needs work to support her family. \"If I return to Haiti, the problem will double,\" she said. \"What I hope is to have a better life in Canada.\" Jean Rigaud Liberal, 38, said he had been in the United States for seven months and lived in Florida after he left Haiti. He learned about Roxham Road from Facebook and said he thinks \"Canada will be better than America.\" \"We are not comfortable in America,\" said Liberal. \"We are seeking a better life; we don't want to go back to Haiti. \" On the New York side, U.S. Border Patrol agents sometimes check to be sure the migrants are in the United States legally, but they said they don't have the resources to do it all the time. Besides, said Brad Brant, a special operations supervisor for the U.S. Border Patrol, \"our mission isn't to prevent people from leaving. \" Small numbers continue to cross into Canada elsewhere, but the vast majority take Roxham Road. U.S. officials said they began to notice last fall, around the time of the U.S. presidential election, that more people were crossing there. Francine Dupuis, the head of a Quebec government-funded program that helps asylum seekers, said her organization estimates 1,174 people overall crossed into Quebec last month, compared with 180 in July 2016. U.S. and Canadian officials estimated that on Sunday alone, about 400 people crossed the border at Roxham Road. \"All they have to do is cross the border,\" Dupuis said. \"We can't control it. They come in by the hundreds, and it seems to be increasing every day. \" Canada said last week it planned to house some migrants in Montreal's Olympic Stadium. It could hold thousands, but current plans call for only 450. In most cases, once the migrants are in Canada they are released and can live freely while their claims for refugee status are processed, which can take years. Meanwhile, they are eligible for public assistance. Brenda Shanahan, the Liberal Party member of Parliament who represents the area, visited the site Monday. She is proud of her country for being willing to take in the dispossessed, she said, but there is no guarantee they will be able to stay in Canada. \"It's not a free ticket for refugee status, not at all,\" Shanahan said. Opposition Conservative lawmaker Michelle Rempel said the Trudeau government lacks a plan to deal with the illegal crossings, even though a summer spike had been anticipated. \"All that we have heard is that we are monitoring the situation,\" she said. \"The government needs to come up with a plan right away to deal with this.\" It will further backlog a system in which some refugees are already waiting 11 years for hearings, Rempel said. Canadians will question the integrity of the immigration system if the \"dangerous trend\" of illegal crossings continues, she said. Trudeau himself recently said his country has border checkpoints and controls that need to be respected. \"We have an open compassionate country, but we have a strong system that we follow,\" he said. \"Protecting Canadian confidence in the integrity of our system allows us to continue to be open, and that's exactly what we need to continue to do. \" Inancieu Merilien, originally of Haiti, moved to the United States in 2000 but crossed into Canada late last month. U.S. authorities, he said, are trying to scare Haitians by refusing to guarantee they'll be able to stay. \"There's a big difference here. They welcomed us very well,\" he said after leaving the Olympic Stadium to begin looking for a home in Montreal's large Haitian community. \"They're going to give us housing in apartments. I hope everything goes well. \" --- Contributing to this report were Associated Press writers Rob Gillies in Toronto, Evens Sanon in Port-au-Prince, Haiti, and Patrick Lejtenyi in Montreal.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "Who said 'We are not comfortable in America'? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "Where do migrants arrive to walk into Canada? Answer in as few words as possible."
+  },
+  {
+   "task_id": "bool_001",
+   "type": "boolean",
+   "prompt": "Did about 100 Canadian soldiers have to prepare the site to accommodate almost 500 people? Answer Yes or No."
+  }
+ ]
+}

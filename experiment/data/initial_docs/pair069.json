@@ -1,0 +1,350 @@
+{
+ "pair_id": "ap_2389_1_2",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "ROME (AP) -- From specialty shops in Rome to supermarkets around the world, lovers of Italian olive oil are in for some sticker shock this year, with prices due to jump by as much as 20 percent."
+  },
+  {
+   "blip_idx": 1,
+   "text": "The combination of bad weather and pests hit the harvest in Southern Europe, most of all in Italy, where production is halved from last fall."
+  },
+  {
+   "blip_idx": 2,
+   "text": "That's pushing up Italian wholesale prices by 64 percent as of mid-February compared with a year earlier, which translates to shelf price increases of 15 to 20 percent in Italy."
+  },
+  {
+   "blip_idx": 3,
+   "text": "In other countries, the ultimate price increases will depend on several factors - such as how much retailers take on the costs themselves and the change in currency values."
+  },
+  {
+   "blip_idx": 4,
+   "text": "The U.S., for example, is likely to see a more modest rise in price as a stronger dollar keeps a lid on the cost of imports."
+  },
+  {
+   "blip_idx": 5,
+   "text": "Italy's harvest was especially hard hit by the combination of early rains that knocked buds off the trees and the threat of an olive fly that forced an early harvest, further cutting yields."
+  },
+  {
+   "blip_idx": 6,
+   "text": "Wholesale prices of olive oil from Spain, the world's largest producers, are up a more modest 10 percent, with yields similar to last year's."
+  },
+  {
+   "blip_idx": 7,
+   "text": "Vincenzo Iacovissi, the owner of the Sapor d'Olio olive oil shop in Rome, says sales have dropped, though he's tried to ease the shock for customers by explaining why prices have gone up."
+  },
+  {
+   "blip_idx": 8,
+   "text": "\"When there are increases of 15 to 20 percent there is some impact on sales. However, explaining the reasons for this increase has in part helped to make up for this,\" Iacovissi said."
+  },
+  {
+   "blip_idx": 9,
+   "text": "Italians collectively consume about 20 percent of the world's olive oil, leading Spain at 16 percent, and that affinity makes them pretty resilient as consumers."
+  },
+  {
+   "blip_idx": 10,
+   "text": "The U.S. is the third-biggest market, consuming 10 percent of the yearly total."
+  },
+  {
+   "blip_idx": 11,
+   "text": "Flaminia Leoni, a 50-year-old mother of four, buys 80 to 100 liters of olive oil a year for her family and says that at most she will consider substituting lower quality olive oil for extra virgin for cooking - but not on the table, where olive oil is a staple giving accent to pasta, meats, salads and vegetables."
+  },
+  {
+   "blip_idx": 12,
+   "text": "Cedric Casanova, the owner of an Italian grocery in Paris, said he was hoping to get 30,000 liters of olive oil delivered, but received just 8,000 liters."
+  },
+  {
+   "blip_idx": 13,
+   "text": "He will have to rely on leftover stock from last year to help make up for the remaining difference - and absorb some of the price increase himself."
+  },
+  {
+   "blip_idx": 14,
+   "text": "\"I'm working with a standard price, by trying to assume the cost myself,\" he said."
+  },
+  {
+   "blip_idx": 15,
+   "text": "With global stocks down just 14 percent, no one is predicting general olive oil shortages, even with a 75 percent increase in consumption of olive oil over the last 25 years as demand pushed into non-traditional markets."
+  },
+  {
+   "blip_idx": 16,
+   "text": "The market for olive oil in the period has grown by two-fold in the United States, seven-fold in Britain and 14 fold in Japan, according to Italy's Coldiretti farm lobby, even if continental Europe remains by far the largest market."
+  },
+  {
+   "blip_idx": 17,
+   "text": "Italian olive oil is more vulnerable than that of other major producers to climate shifts and pests due to its varied topography, from hills in the north to larger groves in the south."
+  },
+  {
+   "blip_idx": 18,
+   "text": "This also lends great variety to Italian olive oil, where unique flavors are derived from a combination of the terrain, topography and the more than 400 olive varieties, according to Nicola Di Noia, an olive oil expert for the Coldiretti farm lobby."
+  },
+  {
+   "blip_idx": 19,
+   "text": "\"We have hundreds of different varieties of olives that are more difficult to defend compared with Spain or northern Africa, where there are big groves that are easier to manage,\" Di Noia said."
+  },
+  {
+   "blip_idx": 20,
+   "text": "He said the challenge is educating consumers about why they pay for quality."
+  },
+  {
+   "blip_idx": 21,
+   "text": "\"We need to learn to choose oils with awareness."
+  },
+  {
+   "blip_idx": 22,
+   "text": "Extra-virgin is the juice of a fruit."
+  },
+  {
+   "blip_idx": 23,
+   "text": "The primary material from which it derives is very important."
+  },
+  {
+   "blip_idx": 24,
+   "text": "Therefore, oil should be tasted and smelled,\" he said."
+  },
+  {
+   "blip_idx": 25,
+   "text": "---- Barry reported from Milan."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 25,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 18,
+    "dist_old": 0.11728601886824525,
+    "dist_new": 0.11728601886824525
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "added",
+   "added",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": [
+   11,
+   12
+  ]
+ },
+ "document_old": "ROME (AP) -- From specialty shops in Rome to supermarkets around the world, lovers of Italian olive oil are in for some sticker shock this year, with prices due to jump by as much as 20 percent. The combination of bad weather and pests hit the harvest in Southern Europe, most of all in Italy, where production is halved from last fall. That's pushing up Italian wholesale prices by 64 percent as of mid-February compared with a year earlier, which translates to shelf price increases of 15 to 20 percent in Italy. In other countries, the ultimate price increases will depend on several factors - such as how much retailers take on the costs themselves and the change in currency values. The U.S., for example, is likely to see a more modest rise in price as a stronger dollar keeps a lid on the cost of imports. Italy's harvest was especially hard hit by the combination of early rains that knocked buds off the trees and the threat of an olive fly that forced an early harvest, further cutting yields. Wholesale prices of olive oil from Spain, the world's largest producers, are up a more modest 10 percent, with yields similar to last year's. Vincenzo Iacovissi, the owner of the Sapor d'Olio olive oil shop in Rome, says sales have dropped, though he's tried to ease the shock for customers by explaining why prices have gone up. \"When there are increases of 15 to 20 percent there is some impact on sales. However, explaining the reasons for this increase has in part helped to make up for this,\" Iacovissi said. Italians collectively consume about 20 percent of the world's olive oil, leading Spain at 16 percent, and that affinity makes them pretty resilient as consumers. The U.S. is the third-biggest market, consuming 10 percent of the yearly total. Flaminia Leoni, a 50-year-old mother of four, buys 80 to 100 liters of olive oil a year for her family and says that at most she will consider substituting lower quality olive oil for extra virgin for cooking - but not on the table, where olive oil is a staple giving accent to pasta, meats, salads and vegetables. Cedric Casanova, the owner of an Italian grocery in Paris, said he was hoping to get 30,000 liters of olive oil delivered, but received just 8,000 liters. He will have to rely on leftover stock from last year to help make up for the remaining difference - and absorb some of the price increase himself. \"I'm working with a standard price, by trying to assume the cost myself,\" he said. With global stocks down just 14 percent, no one is predicting general olive oil shortages, even with a 75 percent increase in consumption of olive oil over the last 25 years as demand pushed into non-traditional markets. The market for olive oil in the period has grown by two-fold in the United States, seven-fold in Britain and 14 fold in Japan, according to Italy's Coldiretti farm lobby, even if continental Europe remains by far the largest market. Italian olive oil is more vulnerable than that of other major producers to climate shifts and pests due to its varied topography, from hills in the north to larger groves in the south. This also lends great variety to Italian olive oil, where unique flavors are derived from a combination of the terrain, topography and the more than 400 olive varieties, according to Nicola Di Noia, an olive oil expert for the Coldiretti farm lobby. \"We have hundreds of different varieties of olives that are more difficult to defend compared with Spain or northern Africa, where there are big groves that are easier to manage,\" Di Noia said. He said the challenge is educating consumers about why they pay for quality. \"We need to learn to choose oils with awareness. Extra-virgin is the juice of a fruit. The primary material from which it derives is very important. Therefore, oil should be tasted and smelled,\" he said. ---- Barry reported from Milan.",
+ "document_new": "ROME (AP) -- From specialty shops in Rome to supermarkets around the world, lovers of Italian olive oil are in for some sticker shock this year, with prices due to jump by as much as 20 percent. The combination of bad weather and pests hit the harvest in Southern Europe, most of all in Italy, where production is halved from last fall. That's pushing up Italian wholesale prices by 64 percent as of mid-February compared with a year earlier, which translates to shelf price increases of 15 to 20 percent in Italy. In other countries, the ultimate price increases will depend on several factors - such as how much retailers take on the costs themselves and the change in currency values. The U.S., for example, is likely to see a more modest rise in price as a stronger dollar keeps a lid on the cost of imports. Italy's harvest was especially hard hit by the combination of early rains that knocked buds off the trees and the threat of an olive fly that forced an early harvest, further cutting yields. Wholesale prices of olive oil from Spain, the world's largest producers, are up a more modest 10 percent, with yields similar to last year's. Vincenzo Iacovissi, the owner of the Sapor d'Olio olive oil shop in Rome, says sales have dropped, though he's tried to ease the shock for customers by explaining why prices have gone up. \"When there are increases of 15 to 20 percent there is some impact on sales. However, explaining the reasons for this increase has in part helped to make up for this,\" Iacovissi said. Italians collectively consume about 20 percent of the world's olive oil, leading Spain at 16 percent, and that affinity makes them pretty resilient as consumers. The U.S. is the third-biggest market, consuming 10 percent of the yearly total. The vast majority of the olive oil consumed in the U.S. is imported, with Italy and Spain being the top two sources of imports, according to the North American Olive Oil Association. The group notes that imports from Italy are not necessarily Italian olive oil but may be bottled there. Flaminia Leoni, a 50-year-old mother of four, buys 80 to 100 liters of olive oil a year for her family and says that at most she will consider substituting lower quality olive oil for extra virgin for cooking - but not on the table, where olive oil is a staple giving accent to pasta, meats, salads and vegetables. Cedric Casanova, the owner of an Italian grocery in Paris, said he was hoping to get 30,000 liters of olive oil delivered, but received just 8,000 liters. He will have to rely on leftover stock from last year to help make up for the remaining difference - and absorb some of the price increase himself. \"I'm working with a standard price, by trying to assume the cost myself,\" he said. With global stocks down just 14 percent, no one is predicting general olive oil shortages, even with a 75 percent increase in consumption of olive oil over the last 25 years as demand pushed into non-traditional markets. The market for olive oil in the period has grown by two-fold in the United States, seven-fold in Britain and 14-fold in Japan, according to Italy's Coldiretti farm lobby, even if continental Europe remains by far the largest market. Italian olive oil is more vulnerable than that of other major producers to climate shifts and pests due to its varied topography, from hills in the north to larger groves in the south. This also lends great variety to Italian olive oil, where unique flavors are derived from a combination of the terrain, topography and the more than 400 olive varieties, according to Nicola Di Noia, an olive oil expert for the Coldiretti farm lobby. \"We have hundreds of different varieties of olives that are more difficult to defend compared with Spain or northern Africa, where there are big groves that are easier to manage,\" Di Noia said. He said the challenge is educating consumers about why they pay for quality. \"We need to learn to choose oils with awareness. Extra-virgin is the juice of a fruit. The primary material from which it derives is very important. Therefore, oil should be tasted and smelled,\" he said. ---- Barry reported from Milan.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "According to Italy's Coldiretti farm lobby, by what factor did the olive oil market grow in Japan during the period? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "By what percentage have Italian wholesale prices increased compared to a year earlier as of mid-February? Answer with the number only."
+  },
+  {
+   "task_id": "bool_001",
+   "type": "boolean",
+   "prompt": "Is Italy and Spain the top two sources of olive oil imports for the U.S. according to the North American Olive Oil Association? Answer Yes or No."
+  }
+ ]
+}

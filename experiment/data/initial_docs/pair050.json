@@ -1,0 +1,652 @@
+{
+ "pair_id": "ap_7352_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "TOKYO (AP) -- The scenario has become pretty familiar by now."
+  },
+  {
+   "blip_idx": 1,
+   "text": "Sometime in the early morning, a missile roars off its launcher in North Korea and flies off - to a splash zone somewhere in the Pacific Ocean."
+  },
+  {
+   "blip_idx": 2,
+   "text": "But what if Pyongyang wasn't just testing its hardware or drilling its troops?"
+  },
+  {
+   "blip_idx": 3,
+   "text": "How long would it take to hit its real-world, primary targets? Below, two experts talk to The Associated Press about what would happen if North Korea fired at targets near and far."
+  },
+  {
+   "blip_idx": 4,
+   "text": "They are David Wright, senior scientist and co-director of the Global Security Program of the Union of Concerned Scientists, and analyst Markus Schiller, of ST Analytics, an independent space technology and rocketry consulting company based in Germany."
+  },
+  {
+   "blip_idx": 5,
+   "text": "The takeaway: It would get very messy, very fast."
+  },
+  {
+   "blip_idx": 6,
+   "text": "--- SEOUL: FROM ESSENTIALLY ZERO TO 6 MINUTES Well before North Korea had a nuclear program, it realized it could hold the 10 million people of greater Seoul, the capital of South Korea, hostage with the threat of a massive, conventional artillery strike from its dug-in gun batteries concentrated just north of the Demilitarized Zone."
+  },
+  {
+   "blip_idx": 7,
+   "text": "If it were to launch such a strike first, the first wave of shells could land with essentially no warning."
+  },
+  {
+   "blip_idx": 8,
+   "text": "Estimates vary as to how much damage such an attack could actually wreak - Pyongyang can't, as it has claimed, reduce Seoul to a sea of ashes before a pulverizing counterattack - but it would be considerable."
+  },
+  {
+   "blip_idx": 9,
+   "text": "Seoul's defenses are porous."
+  },
+  {
+   "blip_idx": 10,
+   "text": "It has Patriot missile-defense batteries, but they are intended to protect against short-range Scud missiles."
+  },
+  {
+   "blip_idx": 11,
+   "text": "They would not help against an artillery attack."
+  },
+  {
+   "blip_idx": 12,
+   "text": "The much-talked-about, state-of-the-art THAAD missile defense system deployed in South Korea this month also cannot protect Seoul from either artillery or incoming missiles - it isn't designed to do that from its current site."
+  },
+  {
+   "blip_idx": 13,
+   "text": "To make things uglier, the North could hit the South with chemical or biological warheads."
+  },
+  {
+   "blip_idx": 14,
+   "text": "One nuclear scenario that has been raised is an attack on the city of Busan, a major port sometimes used by the U.S."
+  },
+  {
+   "blip_idx": 15,
+   "text": "Navy."
+  },
+  {
+   "blip_idx": 16,
+   "text": "That's an option Pyongyang might consider if it believed it was under immediate threat of attack and wanted to make a show of overwhelming force to keep Washington from committing further."
+  },
+  {
+   "blip_idx": 17,
+   "text": "--- TOKYO: 10-11 MINUTES Japan also has Patriot missiles it deploys, among other places, on the grounds of its Defense Ministry in downtown Tokyo."
+  },
+  {
+   "blip_idx": 18,
+   "text": "It helped develop with the U.S. the ship-based Aegis system, which is designed to intercept medium-range missiles and potentially intermediate-range ones - that means missiles with a range of less than about 5,000 kilometers (3,100 miles)."
+  },
+  {
+   "blip_idx": 19,
+   "text": "The Patriots are designed to intercept an incoming missile at its \"terminal stage\" - just before it hits - if the Aegis' ship-based SM-3 missiles fail to intercept them farther out and higher up, at mid-course."
+  },
+  {
+   "blip_idx": 20,
+   "text": "Schiller has one strong caution at this point: It remains unknown whether Pyongyang actually has a working nuclear warhead, \"not just some nuclear device that goes boom in a tunnel, under laboratory conditions.\" But serious questions have been raised over whether this multilayer strategy, even when augmented by the THAAD system, would be a reliable missile shield."
+  },
+  {
+   "blip_idx": 21,
+   "text": "One problem is whether it could be overwhelmed by a \"swarm\" attack - several incoming missiles at the same time."
+  },
+  {
+   "blip_idx": 22,
+   "text": "North Korea, likely aware of that fear, simultaneously launched four medium-range Scud ER missiles into the Sea of Japan in March."
+  },
+  {
+   "blip_idx": 23,
+   "text": "Recognizing the current shield's weaknesses, some Japanese ruling party lawmakers are pushing for a first-strike plan of Japan's own, using ballistic or cruise missiles, or F-35 stealth fighters."
+  },
+  {
+   "blip_idx": 24,
+   "text": "--- SAN FRANCISCO: 30-34 MINUTES To be classified as an ICBM - intercontinental ballistic missile - the missile must have a minimum range of 5,500 kilometers (3,400 miles)."
+  },
+  {
+   "blip_idx": 25,
+   "text": "North Korea does not at this time have such a missile, as far as the experts can tell."
+  },
+  {
+   "blip_idx": 26,
+   "text": "The missile it launched on Sunday came close, flying for 30 minutes on a highly \"lofted\" trajectory that if flattened out would suggest a range of about 4,500 kilometers (2,800 miles)."
+  },
+  {
+   "blip_idx": 27,
+   "text": "That's good enough to get it to Guam, the key U.S. military hub in the Pacific, in about 15 minutes."
+  },
+  {
+   "blip_idx": 28,
+   "text": "Beyond that, its capabilities are in doubt."
+  },
+  {
+   "blip_idx": 29,
+   "text": "Schiller explains that the time it takes for an ICBM to cover its first 5,500 kilometers is usually a little more than 20 minutes."
+  },
+  {
+   "blip_idx": 30,
+   "text": "If you fire at something 10,000 kilometers (6,200 miles) away, however, he says it will still reach it in less than 30 minutes."
+  },
+  {
+   "blip_idx": 31,
+   "text": "So while Wright suggests 33-34 minutes to San Francisco, Schiller predicts a faster trip to the West Coast - saying a missile could hit Seattle (8,000 kilometers, or 5,000 miles away) and Los Angeles (9,000 kilometers, or 5,600 miles) away in under 30 minutes from launch."
+  },
+  {
+   "blip_idx": 32,
+   "text": "But that's assuming a North Korean launch from within its own territory."
+  },
+  {
+   "blip_idx": 33,
+   "text": "To get around the distance problem, and to bolster its stealth, North Korea is already developing submarine-launched ballistic missiles."
+  },
+  {
+   "blip_idx": 34,
+   "text": "Experts believe it will take years for the North to have a sub-based missile it could actually use in an attack, but it successfully tested its first one - named Polaris, the same name as the first U.S. missile of that kind - last year."
+  },
+  {
+   "blip_idx": 35,
+   "text": "--- WASHINGTON, D.C.: 30-39 MINUTES New York and Washington are less than 11,000 kilometers (6,800 miles) away."
+  },
+  {
+   "blip_idx": 36,
+   "text": "That translates into about 30 minutes according to Schiller, or 38-39 minutes by Wright's estimate."
+  },
+  {
+   "blip_idx": 37,
+   "text": "The United States relies in large part on its Ground-based Missile Defense system, with bases in Vandenberg Air Base in California and Fort Greely, Alaska, to intercept incoming ICBMs."
+  },
+  {
+   "blip_idx": 38,
+   "text": "According to the U.S."
+  },
+  {
+   "blip_idx": 39,
+   "text": "Missile Defense Agency, which estimates that North Korea now \"fields hundreds of missiles that can reach U.S. forces forward deployed to the Republic of Korea and Japan,\" U.S. missile defense systems like the GMD and THAAD \"discourage adversaries from believing they can use ballistic missiles to coerce or intimidate the U.S. or its allies."
+  },
+  {
+   "blip_idx": 40,
+   "text": "\" But critics point out the GMD, which has cost $40 billion, had six out of its nine test intercepts fail between 2002 and 2016."
+  },
+  {
+   "blip_idx": 41,
+   "text": "They claim the strategy has \"no credible plan for defeating countermeasures\" such as decoys."
+  },
+  {
+   "blip_idx": 42,
+   "text": "\"In its current form, strategic missile defense is a waste of resources at best and dangerous at worst,\" the Union of Concerned Scientists wrote in a report published last year."
+  },
+  {
+   "blip_idx": 43,
+   "text": "\"It is not a reliable defense under real-world conditions;"
+  },
+  {
+   "blip_idx": 44,
+   "text": "by promoting it as a solution to nuclear conflict, U.S. officials complicate diplomatic efforts abroad, and perpetuate a false sense of security that could harm the U.S. public."
+  },
+  {
+   "blip_idx": 45,
+   "text": "\" Wright said that aside from stopping an incoming missile, another big question is what would - or should - a U.S. president do in response."
+  },
+  {
+   "blip_idx": 46,
+   "text": "\"The timelines are short,\" he said."
+  },
+  {
+   "blip_idx": 47,
+   "text": "\"Even for long-range missiles, there are a lot of steps that go into detecting the launch and figuring out what it is, leaving the president with maybe 10 minutes to decide whether to launch a retaliatory strike."
+  },
+  {
+   "blip_idx": 48,
+   "text": "\" What if the president does decide to hit back hard? Land-based ICBMs could be in the air within five minutes."
+  },
+  {
+   "blip_idx": 49,
+   "text": "Submarine-based missiles in 15. And once launched, they can't be recalled."
+  },
+  {
+   "blip_idx": 50,
+   "text": "--- Talmadge is the AP's Pyongyang bureau chief."
+  },
+  {
+   "blip_idx": 51,
+   "text": "Follow him on Twitter @EricTalmadge and on Instagram at erictalmadge."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 50,
+    "new": 50,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 39,
+    "new": 39,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 35,
+    "new": 35,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 51,
+    "new": 51,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 46,
+    "new": 46,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 43,
+    "new": 43,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 45,
+    "new": 45,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 29,
+    "new": 29,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 36,
+    "new": 36,
+    "dist_old": 0.08525409697803482,
+    "dist_new": 0.08525409697803482
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 34,
+    "new": 34,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 38,
+    "new": 38,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 32,
+    "new": 32,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 49,
+    "new": 49,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 42,
+    "new": 42,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 33,
+    "new": 33,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 28,
+    "new": 28,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 44,
+    "new": 44,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 40,
+    "new": 40,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 41,
+    "new": 41,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 48,
+    "new": 48,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 47,
+    "new": 47,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 31,
+    "new": 31,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 30,
+    "new": 30,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 37,
+    "new": 37,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "TOKYO (AP) -- The scenario has become pretty familiar by now. Sometime in the early morning, a missile roars off its launcher in North Korea and flies off - to a splash zone somewhere in the Pacific Ocean. But what if Pyongyang wasn't just testing its hardware or drilling its troops? How long would it take to hit its real-world, primary targets? Below, two experts talk to The Associated Press about what would happen if North Korea fired at targets near and far. They are David Wright, senior scientist and co-director of the Global Security Program of the Union of Concerned Scientists, and analyst Markus Schiller, of ST Analytics, an independent space technology and rocketry consulting company based in Germany. The takeaway: It would get very messy, very fast. --- SEOUL: FROM ESSENTIALLY ZERO TO 6 MINUTES Well before North Korea had a nuclear program, it realized it could hold the 10 million people of greater Seoul, the capital of South Korea, hostage with the threat of a massive, conventional artillery strike from its dug-in gun batteries concentrated just north of the Demilitarized Zone. If it were to launch such a strike first, the first wave of shells could land with essentially no warning. Estimates vary as to how much damage such an attack could actually wreak - Pyongyang can't, as it has claimed, reduce Seoul to a sea of ashes before a pulverizing counterattack - but it would be considerable. Seoul's defenses are porous. It has Patriot missile-defense batteries, but they are intended to protect against short-range Scud missiles. They would not help against an artillery attack. The much-talked-about, state-of-the-art THAAD missile defense system deployed in South Korea this month also cannot protect Seoul from either artillery or incoming missiles - it isn't designed to do that from its current site. To make things uglier, the North could hit the South with chemical or biological warheads. One nuclear scenario that has been raised is an attack on the city of Busan, a major port sometimes used by the U.S. Navy. That's an option Pyongyang might consider if it believed it was under immediate threat of attack and wanted to make a show of overwhelming force to keep Washington from committing further. --- TOKYO: 10-11 MINUTES Japan also has Patriot missiles it deploys, among other places, on the grounds of its Defense Ministry in downtown Tokyo. It helped develop with the U.S. the ship-based Aegis system, which is designed to intercept medium-range missiles and potentially intermediate-range ones - that means missiles with a range of less than about 5,000 kilometers (3,100 miles). The Patriots are designed to intercept an incoming missile at its \"terminal stage\" - just before it hits - if the Aegis' ship-based SM-3 missiles fail to intercept them farther out and higher up, at mid-course. Schiller has one strong caution at this point: It remains unknown whether Pyongyang actually has a working nuclear warhead, \"not just some nuclear device that goes boom in a tunnel, under laboratory conditions.\" But serious questions have been raised over whether this multilayer strategy, even when augmented by the THAAD system, would be a reliable missile shield. One problem is whether it could be overwhelmed by a \"swarm\" attack - several incoming missiles at the same time. North Korea, likely aware of that fear, simultaneously launched four medium-range Scud ER missiles into the Sea of Japan in March. Recognizing the current shield's weaknesses, some Japanese ruling party lawmakers are pushing for a first-strike plan of Japan's own, using ballistic or cruise missiles, or F-35 stealth fighters. --- SAN FRANCISCO: 30-34 MINUTES To be classified as an ICBM - intercontinental ballistic missile - the missile must have a minimum range of 5,500 kilometers (3,400 miles). North Korea does not at this time have such a missile, as far as the experts can tell. The missile it launched on Sunday came close, flying for 30 minutes on a highly \"lofted\" trajectory that if flattened out would suggest a range of about 4,500 kilometers (2,800 miles). That's good enough to get it to Guam, the key U.S. military hub in the Pacific, in about 15 minutes. Beyond that, its capabilities are in doubt. Schiller explains that the time it takes for an ICBM to cover its first 5,500 kilometers is usually a little more than 20 minutes. If you fire at something 10,000 kilometers (6,200 miles) away, however, he says it will still reach it in less than 30 minutes. So while Wright suggests 33-34 minutes to San Francisco, Schiller predicts a faster trip to the West Coast - saying a missile could hit Seattle (8,000 kilometers, or 5,000 miles away) and Los Angeles (9,000 kilometers, or 5,600 miles) away in under 30 minutes from launch. But that's assuming a North Korean launch from within its own territory. To get around the distance problem, and to bolster its stealth, North Korea is already developing submarine-launched ballistic missiles. Experts believe it will take years for the North to have a sub-based missile it could actually use in an attack, but it successfully tested its first one - named Polaris, the same name as the first U.S. missile of that kind - last year. --- WASHINGTON, D.C.: 30-39 MINUTES New York and Washington are less than 11,000 kilometers (6,800 miles) away. That translates into about 30 minutes according to Schiller, or 38-39 minutes by Wright's estimate. The United States relies in large part on its Ground-based Missile Defense system, with bases in Vandenberg Air Base in California and Fort Greely, Alaska, to intercept incoming ICBMs. According to the U.S. Missile Defense Agency, which estimates that North Korea now \"fields hundreds of missiles that can reach U.S. forces forward deployed to the Republic of Korea and Japan,\" U.S. missile defense systems like the GMD and THAAD \"discourage adversaries from believing they can use ballistic missiles to coerce or intimidate the U.S. or its allies. \" But critics point out the GMD, which has cost $40 billion, had six out of its nine test intercepts fail between 2002 and 2016. They claim the strategy has \"no credible plan for defeating countermeasures\" such as decoys. \"In its current form, strategic missile defense is a waste of resources at best and dangerous at worst,\" the Union of Concerned Scientists wrote in a report published last year. \"It is not a reliable defense under real-world conditions; by promoting it as a solution to nuclear conflict, U.S. officials complicate diplomatic efforts abroad, and perpetuate a false sense of security that could harm the U.S. public. \" Wright said that aside from stopping an incoming missile, another big question is what would - or should - a U.S. president do in response. \"The timelines are short,\" he said. \"Even for long-range missiles, there are a lot of steps that go into detecting the launch and figuring out what it is, leaving the president with maybe 10 minutes to decide whether to launch a retaliatory strike. \" What if the president does decide to hit back hard? Land-based ICBMs could be in the air within five minutes. Submarine-based missiles in 15. And once launched, they can't be recalled. --- Talmadge is the AP's Pyongyang bureau chief. Follow him on Twitter @EricTalmadge and on Instagram at erictalmadge.",
+ "document_new": "TOKYO (AP) -- The scenario has become pretty familiar by now. Sometime in the early morning, a missile roars off its launcher in North Korea and flies off - to a splash zone somewhere in the Pacific Ocean. But what if Pyongyang wasn't just testing its hardware or drilling its troops? How long would it take to hit its real-world, primary targets? Below, two experts talk to The Associated Press about what would happen if North Korea fired at targets near and far. They are David Wright, senior scientist and co-director of the Global Security Program of the Union of Concerned Scientists, and analyst Markus Schiller, of ST Analytics, an independent space technology and rocketry consulting company based in Germany. The takeaway: It would get very messy, very fast. --- SEOUL: FROM ESSENTIALLY ZERO TO 6 MINUTES Well before North Korea had a nuclear program, it realized it could hold the 10 million people of greater Seoul, the capital of South Korea, hostage with the threat of a massive, conventional artillery strike from its dug-in gun batteries concentrated just north of the Demilitarized Zone. If it were to launch such a strike first, the first wave of shells could land with essentially no warning. Estimates vary as to how much damage such an attack could actually wreak - Pyongyang can't, as it has claimed, reduce Seoul to a sea of ashes before a pulverizing counterattack - but it would be considerable. Seoul's defenses are porous. It has Patriot missile-defense batteries, but they are intended to protect against short-range Scud missiles. They would not help against an artillery attack. The much-talked-about, state-of-the-art THAAD missile defense system deployed in South Korea this month also cannot protect Seoul from either artillery or incoming missiles - it isn't designed to do that from its current site. To make things uglier, the North could hit the South with chemical or biological warheads. One nuclear scenario that has been raised is an attack on the city of Busan, a major port sometimes used by the U.S. Navy. That's an option Pyongyang might consider if it believed it was under immediate threat of attack and wanted to make a show of overwhelming force to keep Washington from committing further. --- TOKYO: 10-11 MINUTES Japan also has Patriot missiles it deploys, among other places, on the grounds of its Defense Ministry in downtown Tokyo. It helped develop with the U.S. the ship-based Aegis system, which is designed to intercept medium-range missiles and potentially intermediate-range ones - that means missiles with a range of less than about 5,000 kilometers (3,100 miles). The Patriots are designed to intercept an incoming missile at its \"terminal stage\" - just before it hits - if the Aegis' ship-based SM-3 missiles fail to intercept them farther out and higher up, at mid-course. Schiller has one strong caution at this point: It remains unknown whether Pyongyang actually has a working nuclear warhead, \"not just some nuclear device that goes boom in a tunnel, under laboratory conditions.\" But serious questions have been raised over whether this multilayer strategy, even when augmented by the THAAD system, would be a reliable missile shield. One problem is whether it could be overwhelmed by a \"swarm\" attack - several incoming missiles at the same time. North Korea, likely aware of that fear, simultaneously launched four medium-range Scud ER missiles into the Sea of Japan in March. Recognizing the current shield's weaknesses, some Japanese ruling party lawmakers are pushing for a first-strike plan of Japan's own, using ballistic or cruise missiles, or F-35 stealth fighters. --- SAN FRANCISCO: 30-34 MINUTES To be classified as an ICBM - intercontinental ballistic missile - the missile must have a minimum range of 5,500 kilometers (3,400 miles). North Korea does not at this time have such a missile, as far as the experts can tell. The missile it launched on Sunday came close, flying for 30 minutes on a highly \"lofted\" trajectory that if flattened out would suggest a range of about 4,500 kilometers (2,800 miles). That's good enough to get it to Guam, the key U.S. military hub in the Pacific, in about 15 minutes. Beyond that, its capabilities are in doubt. Schiller explains that the time it takes for an ICBM to cover its first 5,500 kilometers is usually a little more than 20 minutes. If you fire at something 10,000 kilometers (6,200 miles) away, however, he says it will still reach it in less than 30 minutes. So while Wright suggests 33-34 minutes to San Francisco, Schiller predicts a faster trip to the West Coast - saying a missile could hit Seattle (8,000 kilometers, or 5,000 miles away) and Los Angeles (9,000 kilometers, or 5,600 miles) away in under 30 minutes from launch. But that's assuming a North Korean launch from within its own territory. To get around the distance problem, and to bolster its stealth, North Korea is already developing submarine-launched ballistic missiles. Experts believe it will take years for the North to have a sub-based missile it could actually use in an attack, but it successfully tested its first one - named Polaris, the same name as the first U.S. missile of that kind - last year. --- WASHINGTON, D.C.: 30-39 MINUTES New York and Washington are less than 11,000 kilometers (6,800 miles) away. That translates to about 30 minutes according to Schiller, or 38-39 minutes by Wright's estimate. The United States relies in large part on its Ground-based Missile Defense system, with bases in Vandenberg Air Base in California and Fort Greely, Alaska, to intercept incoming ICBMs. According to the U.S. Missile Defense Agency, which estimates that North Korea now \"fields hundreds of missiles that can reach U.S. forces forward deployed to the Republic of Korea and Japan,\" U.S. missile defense systems like the GMD and THAAD \"discourage adversaries from believing they can use ballistic missiles to coerce or intimidate the U.S. or its allies. \" But critics point out the GMD, which has cost $40 billion, had six out of its nine test intercepts fail between 2002 and 2016. They claim the strategy has \"no credible plan for defeating countermeasures\" such as decoys. \"In its current form, strategic missile defense is a waste of resources at best and dangerous at worst,\" the Union of Concerned Scientists wrote in a report published last year. \"It is not a reliable defense under real-world conditions; by promoting it as a solution to nuclear conflict, U.S. officials complicate diplomatic efforts abroad, and perpetuate a false sense of security that could harm the U.S. public. \" Wright said that aside from stopping an incoming missile, another big question is what would - or should - a U.S. president do in response. \"The timelines are short,\" he said. \"Even for long-range missiles, there are a lot of steps that go into detecting the launch and figuring out what it is, leaving the president with maybe 10 minutes to decide whether to launch a retaliatory strike. \" What if the president does decide to hit back hard? Land-based ICBMs could be in the air within five minutes. Submarine-based missiles in 15. And once launched, they can't be recalled. --- Talmadge is the AP's Pyongyang bureau chief. Follow him on Twitter @EricTalmadge and on Instagram at erictalmadge.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "According to Schiller, how long would it take to hit Washington, D.C.? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "How long does it take for an ICBM to cover its first 5,500 kilometers? Answer in as few words as possible."
+  }
+ ]
+}

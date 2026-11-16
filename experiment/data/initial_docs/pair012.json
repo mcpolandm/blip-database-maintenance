@@ -1,0 +1,386 @@
+{
+ "pair_id": "ap_11541_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "WASHINGTON (AP) -- President Donald Trump and his cabinet often avoid talking about the science of climate change, but when pressed what they have said clashes with established mainstream science, data and peer-reviewed studies and reports."
+  },
+  {
+   "blip_idx": 1,
+   "text": "Even the federal government's own reports - including a draft science study for the National Climate Assessment obtained this week by The Associated Press and other media - paint an entirely different reality than what's coming from the Trump Administration."
+  },
+  {
+   "blip_idx": 2,
+   "text": "COOLING and HOAX President Trump has not talked directly about the science since taking office, but on the Hugh Hewitt radio show in 2015 he said: \"I'm not a believer in man-made global warming."
+  },
+  {
+   "blip_idx": 3,
+   "text": "It could be warming, and it's going to start to cool at some point."
+  },
+  {
+   "blip_idx": 4,
+   "text": "And you know, in the early, in the 1920s, people talked about global cooling."
+  },
+  {
+   "blip_idx": 5,
+   "text": "\" And in a now famous social media post, Trump tweeted in 2012: \"The concept of global warming was created by and for the Chinese in order to make U.S. manufacturing non-competitive."
+  },
+  {
+   "blip_idx": 6,
+   "text": "\" The usual talking point among non-scientists is that in the 1970s - not 1920s - experts thought the world was cooling."
+  },
+  {
+   "blip_idx": 7,
+   "text": "University of Georgia meteorology professor Marshall Shepherd calls this a \"zombie myth\" long disproven but somehow still sticking around."
+  },
+  {
+   "blip_idx": 8,
+   "text": "Scientists looked at peer-reviewed literature between 1965 and 1979 and found only seven papers talking about global cooling, 20 neutral and 44 implying global warming, according to a 2008 analysis in the Bulletin of the American Meteorological Society."
+  },
+  {
+   "blip_idx": 9,
+   "text": "On global warming being a hoax invented by the Chinese, the previous National Climate Assessment, NASA , EPA, the National Academy of Sciences and many other scientific organizations say otherwise."
+  },
+  {
+   "blip_idx": 10,
+   "text": "The American Institute of Physics in a historical timeline says the first calculation of global warming dates back to 1896 and a Swiss scientist and even earlier, in 1859, an Irish physicist noticed certain gases trap heat."
+  },
+  {
+   "blip_idx": 11,
+   "text": "ROLE OF HUMANS, CARBON DIOXIDE Key members of Trump's Cabinet have more recently questioned whether carbon dioxide and other greenhouse gasses created by human activities are the primary cause for global warming."
+  },
+  {
+   "blip_idx": 12,
+   "text": "Energy Secretary Rick Perry testifying before the Senate Energy Committee in June said: \"I did not think that CO2 was the primary knob that changes it."
+  },
+  {
+   "blip_idx": 13,
+   "text": "I don't."
+  },
+  {
+   "blip_idx": 14,
+   "text": "I think that there are some other naturally occurring events, the warming and the cooling of our ocean waters and some, you know, other activities that occur."
+  },
+  {
+   "blip_idx": 15,
+   "text": "I also said in the next breath that man's impact does, in fact, have an impact on the climate."
+  },
+  {
+   "blip_idx": 16,
+   "text": "\" On CNBC in March, Environmental Protection Agency Administrator Scott Pruitt said, \"I think that measuring with precision human activity on the climate is something very challenging to do and there's tremendous disagreement about the degree of impact, so no, I would not agree that it's a primary contributor to the global warming that we see."
+  },
+  {
+   "blip_idx": 17,
+   "text": "\" NASA calls humanity's increase in greenhouse gas \"the main cause of the global warming.\" The draft science report, echoing numerous previous scientific reports, precisely calculates the energy causing climate change since the industrial age."
+  },
+  {
+   "blip_idx": 18,
+   "text": "The amount of additional warming coming from human activity - mostly burning of coal, oil and gas - is more than 40 times stronger than changes in the sun's heat."
+  },
+  {
+   "blip_idx": 19,
+   "text": "Nearly three-quarters of that human caused warming is from carbon dioxide, the Nobel Prize winning Intergovernmental Panel on Climate Change said , citing \"very high\" confidence levels."
+  },
+  {
+   "blip_idx": 20,
+   "text": "MODEST WARMING At a White House briefing in June, Pruitt quoted a New York Times opinion columnist, who is not a scientist, calling the warming that has already happened modest and belittling climate computer simulations."
+  },
+  {
+   "blip_idx": 21,
+   "text": "Pruitt said: \"I would say that there are climate exaggerators."
+  },
+  {
+   "blip_idx": 22,
+   "text": "In fact, many of you - I don't know if you saw this article or not, but the Climate of Complete Certainty, by Bret Stephens, that was in the New York - the New York Times talked about -- and I'll just read a quote, because I think it's a very important quote from this - from this article."
+  },
+  {
+   "blip_idx": 23,
+   "text": "\"'Anyone who's read the 2014 report of the IPCC knows that, while the - while modest, 0.85 degrees Celsius, warming of the earth' has occurred since 1880."
+  },
+  {
+   "blip_idx": 24,
+   "text": "'Much else that passes as accepted fact is really a matter of probabilities. That's especially true of the sophisticated, but fallible models and simulations by which scientists attempt to peer into the climate future. To say this isn't to deny science. Isn't to acknowledge it honestly.'\" While 0.85 degrees Celsius - 1.5 degrees Fahrenheit - may sound modest, on a global scale that small amount of warming has resulted in weirder and wilder weather such as heatwaves and giant downpours, melting glaciers, disappearing snow cover, shrinking sea ice, rising seas and increasing human health issues, according to the draft federal report."
+  },
+  {
+   "blip_idx": 25,
+   "text": "That amount of warming in 135 years is unprecedented in the history of Earth, according to studies ."
+  },
+  {
+   "blip_idx": 26,
+   "text": "As for the accuracy of climate predictions, a review of 38 past computer models by Berkeley Earth climate scientist Zeke Hausfather found that on average they had accurately predicted the levels of warming later observed."
+  },
+  {
+   "blip_idx": 27,
+   "text": "Even with moderate carbon pollution cuts, the federal scientists project U.S. will warm another 2.5 degrees in the coming decades."
+  },
+  {
+   "blip_idx": 28,
+   "text": "--- Follow Associated Press science writer Seth Borenstein at www.Twitter.com/borenbears and environmental writer Michael Biesecker at www.Twitter.com/mbieseck"
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.09526803376637867,
+    "dist_new": 0.09526803376637866
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 28,
+    "new": 28,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "WASHINGTON (AP) -- President Donald Trump and his cabinet often avoid talking about the science of climate change, but when pressed what they have said clashes with established mainstream science, data and peer-reviewed studies and reports. Even the federal government's own reports - including a draft science study for the National Climate Assessment obtained this week by The Associated Press and other media - paint an entirely different reality than what's coming from the Trump Administration. COOLING and HOAX President Trump has not talked directly about the science since taking office, but on the Hugh Hewitt radio show in 2015 he said: \"I'm not a believer in man-made global warming. It could be warming, and it's going to start to cool at some point. And you know, in the early, in the 1920s, people talked about global cooling. \" And in a now famous social media post, Trump tweeted in 2012: \"The concept of global warming was created by and for the Chinese in order to make U.S. manufacturing non-competitive. \" The usual talking point among non-scientists is that in the 1970s - not 1920s - experts thought the world was cooling. University of Georgia meteorology professor Marshall Shepherd calls this a \"zombie myth\" long disproven but somehow still sticking around. Scientists looked at peer-reviewed literature between 1965 and 1979 and found only seven papers talking about global cooling, 20 neutral and 44 implying global warming, according to a 2008 analysis in the Bulletin of the American Meteorological Society. On global warming being a hoax invented by the Chinese, the previous National Climate Assessment, NASA , EPA, the National Academy of Sciences and many other scientific organizations say otherwise. The American Institute of Physics in a historical timeline says the first calculation of global warming dates back to 1896 and a Swiss scientist and even earlier, in 1859, an Irish physicist noticed certain gases trap heat. ROLE OF HUMANS, CARBON DIOXIDE Key members of Trump's Cabinet have more recently questioned whether carbon dioxide and other greenhouse gasses created by human activities are the primary cause for global warming. Energy Secretary Rick Perry testifying before the Senate Energy Committee in June said: \"I did not think that CO2 was the primary knob that changes it. I don't. I think that there are some other naturally occurring events, the warming and the cooling of our ocean waters and some, you know, other activities that occur. I also said in the next breath that man's impact does, in fact, have an impact on the climate. \" On CNBC in March, Environmental Protection Agency Administrator Scott Pruitt said, \"I think that measuring with precision human activity on the climate is something very challenging to do and there's tremendous disagreement about the degree of impact, so no, I would not agree that it's a primary contributor to the global warming that we see. \" NASA calls humanity's increase in greenhouse gas \"the main cause of the global warming.\" The draft science report, echoing numerous previous scientific reports, precisely calculates the energy causing climate change since the industrial age. The amount of additional warming coming from human activity - mostly burning of coal, oil and gas - is more than 40 times stronger than changes in the sun's heat. Nearly three-quarters of that human caused warming is from carbon dioxide, the Nobel Prize winning Intergovernmental Panel on Climate Change said , citing \"very high\" confidence levels. MODEST WARMING At a White House briefing in June, Pruitt quoted a New York Times opinion columnist, who is not a scientist, calling the warming that has already happened modest and belittling climate computer simulations. Pruitt said: \"I would say that there are climate exaggerators. In fact, many of you - I don't know if you saw this article or not, but the Climate of Complete Certainty, by Bret Stephens, that was in the New York - the New York Times talked about -- and I'll just read a quote, because I think it's a very important quote from this - from this article. \"'Anyone who's read the 2014 report of the IPCC knows that, while the - while modest, 0.85 degrees Celsius, warming of the earth' has occurred since 1880. 'Much else that passes as accepted fact is really a matter of probabilities. That's especially true of the sophisticated, but fallible models and simulations by which scientists attempt to peer into the climate future. To say this isn't to deny science. Isn't to acknowledge it honestly.'\" While 0.85 degrees Celsius - 1.5 degrees Fahrenheit - may sound modest, on a global scale that small amount of warming has resulted in weirder and wilder weather such as heatwaves and giant downpours, melting glaciers, disappearing snow cover, shrinking sea ice, rising seas and increasing human health issues, according to the draft federal report. That amount of warming in 135 years is unprecedented in the history of Earth, according to studies . As for the accuracy of climate predictions, a review of 38 past computer models by Berkeley Earth climate scientist Zeke Hausfather found that on average they had accurately predicted the levels of warming later observed. Even with moderate carbon pollution cuts, the federal scientists project U.S. will warm another 2.5 degrees in the coming decades. --- Follow Associated Press science writer Seth Borenstein at www.Twitter.com/borenbears and environmental writer Michael Biesecker at www.Twitter.com/mbieseck",
+ "document_new": "WASHINGTON (AP) -- President Donald Trump and his cabinet often avoid talking about the science of climate change, but when pressed what they have said clashes with established mainstream science, data and peer-reviewed studies and reports. Even the federal government's own reports - including a draft science study for the National Climate Assessment obtained this week by The Associated Press and other media - paint an entirely different reality than what's coming from the Trump Administration. COOLING and HOAX President Trump has not talked directly about the science since taking office, but on the Hugh Hewitt radio show in 2015 he said: \"I'm not a believer in man-made global warming. It could be warming, and it's going to start to cool at some point. And you know, in the early, in the 1920s, people talked about global cooling. \" And in a now famous social media post, Trump tweeted in 2012: \"The concept of global warming was created by and for the Chinese in order to make U.S. manufacturing non-competitive. \" The usual talking point among non-scientists is that in the 1970s - not 1920s - experts thought the world was cooling. University of Georgia meteorology professor Marshall Shepherd calls this a \"zombie myth\" long disproven but somehow still sticking around. Scientists looked at peer-reviewed literature between 1965 and 1979 and found only seven papers talking about global cooling, 20 neutral and 44 implying global warming, according to a 2008 analysis in the Bulletin of the American Meteorological Society. On global warming being a hoax invented by the Chinese, the previous National Climate Assessment, NASA , EPA, the National Academy of Sciences and many other scientific organizations say otherwise. The American Institute of Physics in a historical timeline says the first calculation of global warming dates back to 1896 and a Swiss scientist and even earlier, in 1859, an Irish physicist noticed certain gases trap heat. ROLE OF HUMANS, CARBON DIOXIDE Key members of Trump's Cabinet have more recently questioned whether carbon dioxide and other greenhouse gases created by human activities are the primary cause for global warming. Energy Secretary Rick Perry testifying before the Senate Energy Committee in June said: \"I did not think that CO2 was the primary knob that changes it. I don't. I think that there are some other naturally occurring events, the warming and the cooling of our ocean waters and some, you know, other activities that occur. I also said in the next breath that man's impact does, in fact, have an impact on the climate. \" On CNBC in March, Environmental Protection Agency Administrator Scott Pruitt said, \"I think that measuring with precision human activity on the climate is something very challenging to do and there's tremendous disagreement about the degree of impact, so no, I would not agree that it's a primary contributor to the global warming that we see. \" NASA calls humanity's increase in greenhouse gas \"the main cause of the global warming.\" The draft science report, echoing numerous previous scientific reports, precisely calculates the energy causing climate change since the industrial age. The amount of additional warming coming from human activity - mostly burning of coal, oil and gas - is more than 40 times stronger than changes in the sun's heat. Nearly three-quarters of that human caused warming is from carbon dioxide, the Nobel Prize winning Intergovernmental Panel on Climate Change said , citing \"very high\" confidence levels. MODEST WARMING At a White House briefing in June, Pruitt quoted a New York Times opinion columnist, who is not a scientist, calling the warming that has already happened modest and belittling climate computer simulations. Pruitt said: \"I would say that there are climate exaggerators. In fact, many of you - I don't know if you saw this article or not, but the Climate of Complete Certainty, by Bret Stephens, that was in the New York - the New York Times talked about -- and I'll just read a quote, because I think it's a very important quote from this - from this article. \"'Anyone who's read the 2014 report of the IPCC knows that, while the - while modest, 0.85 degrees Celsius, warming of the earth' has occurred since 1880. 'Much else that passes as accepted fact is really a matter of probabilities. That's especially true of the sophisticated, but fallible models and simulations by which scientists attempt to peer into the climate future. To say this isn't to deny science. Isn't to acknowledge it honestly.'\" While 0.85 degrees Celsius - 1.5 degrees Fahrenheit - may sound modest, on a global scale that small amount of warming has resulted in weirder and wilder weather such as heatwaves and giant downpours, melting glaciers, disappearing snow cover, shrinking sea ice, rising seas and increasing human health issues, according to the draft federal report. That amount of warming in 135 years is unprecedented in the history of Earth, according to studies . As for the accuracy of climate predictions, a review of 38 past computer models by Berkeley Earth climate scientist Zeke Hausfather found that on average they had accurately predicted the levels of warming later observed. Even with moderate carbon pollution cuts, the federal scientists project U.S. will warm another 2.5 degrees in the coming decades. --- Follow Associated Press science writer Seth Borenstein at www.Twitter.com/borenbears and environmental writer Michael Biesecker at www.Twitter.com/mbieseck",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What are the primary cause for global warming according to the Cabinet members questioned? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "How many degrees will the U.S. warm according to federal scientists' projections with moderate carbon pollution cuts? Answer in as few words as possible."
+  },
+  {
+   "task_id": "bool_001",
+   "type": "boolean",
+   "prompt": "Does the U.S. federal scientists' projection for temperature increase with moderate carbon pollution cuts exceed 1.5 degrees? Answer Yes or No."
+  },
+  {
+   "task_id": "bool_002",
+   "type": "boolean",
+   "prompt": "Do federal scientists' projections indicate that the U.S. will warm more than 3.5 degrees with moderate carbon pollution cuts? Answer Yes or No."
+  }
+ ]
+}

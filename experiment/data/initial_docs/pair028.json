@@ -1,0 +1,220 @@
+{
+ "pair_id": "ap_241_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "WASHINGTON (AP) -- In an opening salvo against \"Obamacare,\" President Donald Trump signed an executive order Friday night that appears aimed squarely at the undoing the health care law's unpopular requirement that individuals carry insurance or face fines."
+  },
+  {
+   "blip_idx": 1,
+   "text": "The order directs federal agencies to stop issuing regulations that would expand the law's reach."
+  },
+  {
+   "blip_idx": 2,
+   "text": "And it directs them to grant waivers, exemptions and delays of provisions in the Affordable Care Act that would impose costs on states or individuals, potentially including the law's penalties on people who remain uninsured - a key provision."
+  },
+  {
+   "blip_idx": 3,
+   "text": "The order also says federal agencies must allow states greater flexibility in carrying out the health care programs."
+  },
+  {
+   "blip_idx": 4,
+   "text": "\"It's a sign that the Trump administration is looking to unwind the law in every way it can administratively,\" said Larry Levitt of the Kaiser Family Foundation, a nonpartisan clearinghouse for information and analysis about the health care system."
+  },
+  {
+   "blip_idx": 5,
+   "text": "It may take weeks or months to discern the full impact of Trump's directive on \"Obamacare.\" Departments like Health and Human Services and Treasury will have to issue policies that embody the new president's wishes."
+  },
+  {
+   "blip_idx": 6,
+   "text": "One distinct possibility is for the government to find new ways to grant exemptions from the law's unpopular requirement that people who remain uninsured pay fines, if deemed able to afford coverage."
+  },
+  {
+   "blip_idx": 7,
+   "text": "For example, GOP lawmakers in Congress have proposed an exemption for people in areas where only one insurer offers coverage - currently about a third of U.S. counties."
+  },
+  {
+   "blip_idx": 8,
+   "text": "The executive order may not have much impact for 2017, since government rules for this year have already been incorporated into contracts signed with insurance companies."
+  },
+  {
+   "blip_idx": 9,
+   "text": "But Levitt said broad exemptions from the law's coverage requirement could scare off insurers already on the fence about continuing to participate in 2018 and beyond."
+  },
+  {
+   "blip_idx": 10,
+   "text": "Insurers see the law's coverage requirement, or so-called individual mandate, as an essential tool to nudge healthy people into the coverage pool."
+  },
+  {
+   "blip_idx": 11,
+   "text": "Without it the companies and most independent experts believe premiums would spike, making HealthCare.gov's insurance markets unsustainable."
+  },
+  {
+   "blip_idx": 12,
+   "text": "\"It would create a significant amount of uncertainty and affect insurers' ability to participate for 2018,\" Levitt said."
+  },
+  {
+   "blip_idx": 13,
+   "text": "Leslie Dach, campaign director of the Protect Our Care Coalition, issued a statement saying, \"While President Trump may have promised a smooth transition, the Executive Order does the opposite, threatening disruption for health providers and patients.\" She called the executive order \"irresponsible.\" Trump made clear he is not unilaterally suspending the Affordable Care Act."
+  },
+  {
+   "blip_idx": 14,
+   "text": "It remains on the books, and his directive instructs agencies to act within \"the maximum extent permitted by law.\" Changing the underlying law would require Congress to act, but the Trump administration can rewrite regulations carrying out the legislation."
+  },
+  {
+   "blip_idx": 15,
+   "text": "New regulations cannot be issued overnight, but would have to follow a legally established process that requires public notice and an opportunity for interested parties to comment on the administration's changes."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.07850138930187887,
+    "dist_new": 0.07918566846105453
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "WASHINGTON (AP) -- In an opening salvo against \"Obamacare,\" President Donald Trump signed an executive order Friday night that appears aimed squarely at the undoing the health care law's unpopular requirement that individuals carry insurance or face fines. The order directs federal agencies to stop issuing regulations that would expand the law's reach. And it directs them to grant waivers, exemptions and delays of provisions in the Affordable Care Act that would impose costs on states or individuals, potentially including the law's penalties on people who remain uninsured - a key provision. The order also says federal agencies must allow states greater flexibility in carrying out the health care programs. \"It's a sign that the Trump administration is looking to unwind the law in every way it can administratively,\" said Larry Levitt of the Kaiser Family Foundation, a nonpartisan clearinghouse for information and analysis about the health care system. It may take weeks or months to discern the full impact of Trump's directive on \"Obamacare.\" Departments like Health and Human Services and Treasury will have to issue policies that embody the new president's wishes. One distinct possibility is for the government to find new ways to grant exemptions from the law's unpopular requirement that people who remain uninsured pay fines, if deemed able to afford coverage. For example, GOP lawmakers in Congress have proposed an exemption for people in areas where only one insurer offers coverage - currently about a third of U.S. counties. The executive order may not have much impact for 2017, since government rules for this year have already been incorporated into contracts signed with insurance companies. But Levitt said broad exemptions from the law's coverage requirement could scare off insurers already on the fence about continuing to participate in 2018 and beyond. Insurers see the law's coverage requirement, or so-called individual mandate, as an essential tool to nudge healthy people into the coverage pool. Without it the companies and most independent experts believe premiums would spike, making HealthCare.gov's insurance markets unsustainable. \"It would create a significant amount of uncertainty and affect insurers' ability to participate for 2018,\" Levitt said. Leslie Dach, campaign director of the Protect Our Care Coalition, issued a statement saying, \"While President Trump may have promised a smooth transition, the Executive Order does the opposite, threatening disruption for health providers and patients.\" She called the executive order \"irresponsible.\" Trump made clear he is not unilaterally suspending the Affordable Care Act. It remains on the books, and his directive instructs agencies to act within \"the maximum extent permitted by law.\" Changing the underlying law would require Congress to act, but the Trump administration can rewrite regulations carrying out the legislation. New regulations cannot be issued overnight, but would have to follow a legally established process that requires public notice and an opportunity for interested parties to comment on the administration's changes.",
+ "document_new": "WASHINGTON (AP) -- In an opening salvo against \"Obamacare,\" President Donald Trump signed an executive order Friday night that appears aimed squarely at undoing the health care law's unpopular requirement that individuals carry insurance or face fines. The order directs federal agencies to stop issuing regulations that would expand the law's reach. And it directs them to grant waivers, exemptions and delays of provisions in the Affordable Care Act that would impose costs on states or individuals, potentially including the law's penalties on people who remain uninsured - a key provision. The order also says federal agencies must allow states greater flexibility in carrying out the health care programs. \"It's a sign that the Trump administration is looking to unwind the law in every way it can administratively,\" said Larry Levitt of the Kaiser Family Foundation, a nonpartisan clearinghouse for information and analysis about the health care system. It may take weeks or months to discern the full impact of Trump's directive on \"Obamacare.\" Departments like Health and Human Services and Treasury will have to issue policies that embody the new president's wishes. One distinct possibility is for the government to find new ways to grant exemptions from the law's unpopular requirement that people who remain uninsured pay fines, if deemed able to afford coverage. For example, GOP lawmakers in Congress have proposed an exemption for people in areas where only one insurer offers coverage - currently about a third of U.S. counties. The executive order may not have much impact for 2017, since government rules for this year have already been incorporated into contracts signed with insurance companies. But Levitt said broad exemptions from the law's coverage requirement could scare off insurers already on the fence about continuing to participate in 2018 and beyond. Insurers see the law's coverage requirement, or so-called individual mandate, as an essential tool to nudge healthy people into the coverage pool. Without it the companies and most independent experts believe premiums would spike, making HealthCare.gov's insurance markets unsustainable. \"It would create a significant amount of uncertainty and affect insurers' ability to participate for 2018,\" Levitt said. Leslie Dach, campaign director of the Protect Our Care Coalition, issued a statement saying, \"While President Trump may have promised a smooth transition, the Executive Order does the opposite, threatening disruption for health providers and patients.\" She called the executive order \"irresponsible.\" Trump made clear he is not unilaterally suspending the Affordable Care Act. It remains on the books, and his directive instructs agencies to act within \"the maximum extent permitted by law.\" Changing the underlying law would require Congress to act, but the Trump administration can rewrite regulations carrying out the legislation. New regulations cannot be issued overnight, but would have to follow a legally established process that requires public notice and an opportunity for interested parties to comment on the administration's changes.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What did Trump sign on Friday night? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "What year's participation might be affected according to Levitt? Answer with the number only."
+  }
+ ]
+}

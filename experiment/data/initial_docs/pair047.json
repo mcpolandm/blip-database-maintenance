@@ -1,0 +1,393 @@
+{
+ "pair_id": "ap_449_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "DUBAI, United Arab Emirates (AP) -- Saudi Arabia is warning that a computer virus that destroyed systems of its state-run oil company in 2012 has returned to the kingdom, with at least one major petrochemical company apparently affected by its spread."
+  },
+  {
+   "blip_idx": 1,
+   "text": "Suspicion for the initial dispersal of the Shamoon virus in 2012 fell on Iran as it came after the Stuxnet cyberattack targeting Tehran's contested nuclear enrichment program."
+  },
+  {
+   "blip_idx": 2,
+   "text": "It wasn't immediately clear who could be responsible for the new infection, though the relations between regional rivals remain tense."
+  },
+  {
+   "blip_idx": 3,
+   "text": "A report Monday by Saudi state-run television included comments suggesting that 15 government agencies and private institutions had been hit by the Shamoon virus, including the Saudi Labor Ministry."
+  },
+  {
+   "blip_idx": 4,
+   "text": "The ministry said it was working with the Interior Ministry to contain the virus."
+  },
+  {
+   "blip_idx": 5,
+   "text": "Sadara, a joint venture between the Saudi Arabian Oil Co. and Michigan-based Dow Chemical Co., shut down its computer network Monday over a disruption."
+  },
+  {
+   "blip_idx": 6,
+   "text": "Company spokesman Sami Amin said its network remained down Tuesday, though it hadn't affected operations at the facility."
+  },
+  {
+   "blip_idx": 7,
+   "text": "He declined to comment further."
+  },
+  {
+   "blip_idx": 8,
+   "text": "Sadara is based in Jubail Industrial City, which sits about 100 kilometers (60 miles) northwest of the eastern Saudi city of Dammam in the heartland of the kingdom's oil industry."
+  },
+  {
+   "blip_idx": 9,
+   "text": "Another state-run TV report on Tuesday said the Saudi Technical and Vocational Training Corp. was affected, though a spokesman denied the virus did any damage to its network."
+  },
+  {
+   "blip_idx": 10,
+   "text": "Symantec Corp., a California-based security firm, warned in late November that Shamoon had been spotted again in Saudi Arabia."
+  },
+  {
+   "blip_idx": 11,
+   "text": "Computers affected had their hard drives erased and displayed a photograph of the body of 3-year-old Syrian boy Aylan Kurdi, who drowned fleeing his country's civil war, Symantec said."
+  },
+  {
+   "blip_idx": 12,
+   "text": "The November attacks apparently involved previously stolen passwords, suggesting the virus' use was a long time coming."
+  },
+  {
+   "blip_idx": 13,
+   "text": "\"Why Shamoon has suddenly returned again after four years is unknown,\" Symantec said ."
+  },
+  {
+   "blip_idx": 14,
+   "text": "\"However, with its highly destructive payload, it is clear that the attackers want their targets to sit up and take notice.\" Shamoon first emerged in Saudi Arabia in 2012."
+  },
+  {
+   "blip_idx": 15,
+   "text": "In that attack, which hit Saudi Aramco and Qatari natural gas producer RasGas, the virus deleted hard drives and then displayed a picture of a burning American flag on computer screens."
+  },
+  {
+   "blip_idx": 16,
+   "text": "The attack forced Saudi Aramco to shut down its network and destroyed over 30,000 computers."
+  },
+  {
+   "blip_idx": 17,
+   "text": "\"All told, the Shamoon virus was probably the most destructive attack that the private sector has seen to date,\" then-U.S."
+  },
+  {
+   "blip_idx": 18,
+   "text": "Defense Secretary Leon Panetta said at the time."
+  },
+  {
+   "blip_idx": 19,
+   "text": "Shortly before Panetta's speech, a former U.S. official told The Associated Press that American officials firmly believed Iranian hackers likely backed by Tehran were responsible for the attack."
+  },
+  {
+   "blip_idx": 20,
+   "text": "Iran denied being responsible for the 2012 Shamoon outbreak."
+  },
+  {
+   "blip_idx": 21,
+   "text": "Tehran had no immediate comment on the new outbreak."
+  },
+  {
+   "blip_idx": 22,
+   "text": "The first emergence of Shamoon came as Iran faced international sanctions over its contested nuclear program and after it saw thousands of centrifuges destroyed by the Stuxnet virus, widely believed to be an American and Israeli creation."
+  },
+  {
+   "blip_idx": 23,
+   "text": "Last year, a series of fires at Iranian petrochemical plants and facilities have raised suspicions about hacking potentially playing a role."
+  },
+  {
+   "blip_idx": 24,
+   "text": "Hostilities persist between Shiite power Iran and Sunni-ruled Saudi Arabia."
+  },
+  {
+   "blip_idx": 25,
+   "text": "The countries support opposite sides in the wars gripping Syria and Yemen, while the kingdom has backed Bahrain's Sunni rulers amid a crackdown on dissent on the Shiite-majority island."
+  },
+  {
+   "blip_idx": 26,
+   "text": "Saudi Arabia severed diplomatic relations with Iran last year after protesters there - angry about its execution of a Shiite cleric - stormed two Saudi diplomatic posts."
+  },
+  {
+   "blip_idx": 27,
+   "text": "--- Associated Press writer Adam Schreck contributed to this report."
+  },
+  {
+   "blip_idx": 28,
+   "text": "--- Follow Jon Gambrell on Twitter at www.twitter.com/jongambrellap."
+  },
+  {
+   "blip_idx": 29,
+   "text": "His work can be found at http://apne.ws/2galNpz ."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 24,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 29,
+    "new": 31,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 28,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.2681939222099497,
+    "dist_new": 0.2681939222099497
+   },
+   {
+    "old": 18,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 29,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 28,
+    "new": 30,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "deleted",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "added",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "added",
+   "added",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": [
+   9,
+   15,
+   16
+  ]
+ },
+ "document_old": "DUBAI, United Arab Emirates (AP) -- Saudi Arabia is warning that a computer virus that destroyed systems of its state-run oil company in 2012 has returned to the kingdom, with at least one major petrochemical company apparently affected by its spread. Suspicion for the initial dispersal of the Shamoon virus in 2012 fell on Iran as it came after the Stuxnet cyberattack targeting Tehran's contested nuclear enrichment program. It wasn't immediately clear who could be responsible for the new infection, though the relations between regional rivals remain tense. A report Monday by Saudi state-run television included comments suggesting that 15 government agencies and private institutions had been hit by the Shamoon virus, including the Saudi Labor Ministry. The ministry said it was working with the Interior Ministry to contain the virus. Sadara, a joint venture between the Saudi Arabian Oil Co. and Michigan-based Dow Chemical Co., shut down its computer network Monday over a disruption. Company spokesman Sami Amin said its network remained down Tuesday, though it hadn't affected operations at the facility. He declined to comment further. Sadara is based in Jubail Industrial City, which sits about 100 kilometers (60 miles) northwest of the eastern Saudi city of Dammam in the heartland of the kingdom's oil industry. Another state-run TV report on Tuesday said the Saudi Technical and Vocational Training Corp. was affected, though a spokesman denied the virus did any damage to its network. Symantec Corp., a California-based security firm, warned in late November that Shamoon had been spotted again in Saudi Arabia. Computers affected had their hard drives erased and displayed a photograph of the body of 3-year-old Syrian boy Aylan Kurdi, who drowned fleeing his country's civil war, Symantec said. The November attacks apparently involved previously stolen passwords, suggesting the virus' use was a long time coming. \"Why Shamoon has suddenly returned again after four years is unknown,\" Symantec said . \"However, with its highly destructive payload, it is clear that the attackers want their targets to sit up and take notice.\" Shamoon first emerged in Saudi Arabia in 2012. In that attack, which hit Saudi Aramco and Qatari natural gas producer RasGas, the virus deleted hard drives and then displayed a picture of a burning American flag on computer screens. The attack forced Saudi Aramco to shut down its network and destroyed over 30,000 computers. \"All told, the Shamoon virus was probably the most destructive attack that the private sector has seen to date,\" then-U.S. Defense Secretary Leon Panetta said at the time. Shortly before Panetta's speech, a former U.S. official told The Associated Press that American officials firmly believed Iranian hackers likely backed by Tehran were responsible for the attack. Iran denied being responsible for the 2012 Shamoon outbreak. Tehran had no immediate comment on the new outbreak. The first emergence of Shamoon came as Iran faced international sanctions over its contested nuclear program and after it saw thousands of centrifuges destroyed by the Stuxnet virus, widely believed to be an American and Israeli creation. Last year, a series of fires at Iranian petrochemical plants and facilities have raised suspicions about hacking potentially playing a role. Hostilities persist between Shiite power Iran and Sunni-ruled Saudi Arabia. The countries support opposite sides in the wars gripping Syria and Yemen, while the kingdom has backed Bahrain's Sunni rulers amid a crackdown on dissent on the Shiite-majority island. Saudi Arabia severed diplomatic relations with Iran last year after protesters there - angry about its execution of a Shiite cleric - stormed two Saudi diplomatic posts. --- Associated Press writer Adam Schreck contributed to this report. --- Follow Jon Gambrell on Twitter at www.twitter.com/jongambrellap. His work can be found at http://apne.ws/2galNpz .",
+ "document_new": "DUBAI, United Arab Emirates (AP) -- Saudi Arabia is warning that a computer virus that destroyed systems of its state-run oil company in 2012 has returned to the kingdom, with at least one major petrochemical company apparently affected by its spread. Suspicion for the initial dispersal of the Shamoon virus in 2012 fell on Iran as it came after the Stuxnet cyberattack targeting Tehran's contested nuclear enrichment program. It wasn't immediately clear who could be responsible for the new infection, though the relations between regional rivals remain tense. A report Monday by Saudi state-run television included comments suggesting that 15 government agencies and private institutions had been hit by the Shamoon virus, including the Saudi Labor Ministry. The ministry said it was working with the Interior Ministry to contain the virus. Sadara, a joint venture between the Saudi Arabian Oil Co. and Michigan-based Dow Chemical Co., shut down its computer network Monday over a disruption. Company spokesman Sami Amin said its network remained down Tuesday, though it hadn't affected operations at the facility. He declined to comment further. Sadara is based in Jubail Industrial City, which sits about 100 kilometers (60 miles) northwest of the eastern Saudi city of Dammam in the heartland of the kingdom's oil industry. The $20 billion facility, inaugurated by Saudi King Salman in late November, includes 26 manufacturing units that will produce more than 3 million metric tons of plastics and chemical products. Another state-run TV report on Tuesday said the Saudi Technical and Vocational Training Corp. was affected, though a spokesman denied the virus did any damage to its network. Symantec Corp., a California-based security firm, warned in late November that Shamoon had been spotted again in Saudi Arabia. Computers affected had their hard drives erased and displayed a photograph of the body of 3-year-old Syrian boy Aylan Kurdi, who drowned fleeing his country's civil war, Symantec said. \"Why Shamoon has suddenly returned again after four years is unknown,\" Symantec said . \"However, with its highly destructive payload, it is clear that the attackers want their targets to sit up and take notice.\" The November attacks apparently involved previously stolen passwords. Symantec on Monday said the outbreak might be linked to a group it called Greenbug, which previously attacked targets in Bahrain, Iran, Iraq, Kuwait, Qatar, Saudi Arabia and Turkey with emails carrying malicious attachments. Shamoon, named for a folder in its code, first emerged in Saudi Arabia in 2012. In that attack, which hit Saudi Aramco and Qatari natural gas producer RasGas, the virus deleted hard drives and then displayed a picture of a burning American flag on computer screens. The attack forced Saudi Aramco to shut down its network and destroyed over 30,000 computers. \"All told, the Shamoon virus was probably the most destructive attack that the private sector has seen to date,\" then-U.S. Defense Secretary Leon Panetta said at the time. Shortly before Panetta's speech, a former U.S. official told The Associated Press that American officials firmly believed Iranian hackers likely backed by Tehran were responsible for the attack. Iran denied being responsible for the 2012 Shamoon outbreak. Tehran had no immediate comment on the new outbreak. The first emergence of Shamoon came as Iran faced international sanctions over its contested nuclear program and after it saw thousands of centrifuges destroyed by the Stuxnet virus, widely believed to be an American and Israeli creation. Last year, a series of fires at Iranian petrochemical plants and facilities have raised suspicions about hacking potentially playing a role. Hostilities persist between Shiite power Iran and Sunni-ruled Saudi Arabia. The countries support opposite sides in the wars gripping Syria and Yemen, while the kingdom has backed Bahrain's Sunni rulers amid a crackdown on dissent on the Shiite-majority island. Saudi Arabia severed diplomatic relations with Iran last year after protesters there - angry about its execution of a Shiite cleric - stormed two Saudi diplomatic posts. --- Associated Press writer Adam Schreck contributed to this report. --- Follow Jon Gambrell on Twitter at www.twitter.com/jongambrellap. His work can be found at http://apne.ws/2galNpz .",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "When did Shamoon first emerge? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "Who denied responsibility for the 2012 Shamoon Outbreak? Answer in as few words as possible."
+  },
+  {
+   "task_id": "bool_001",
+   "type": "boolean",
+   "prompt": "Was the $20 billion facility inaugurated by Saudi King Salman in late November? Answer Yes or No."
+  }
+ ]
+}

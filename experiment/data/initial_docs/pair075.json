@@ -1,0 +1,718 @@
+{
+ "pair_id": "ap_6139_2_3",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "PYONGYANG, North Korea (AP) -- The Latest on tensions on the Korean Peninsula (all times local): 4:30 p.m. A U.N. human rights expert is calling for a cooling of tensions on the Korean Peninsula, insisting that statements that feed hatred and polarization undermine the chance to \"improve the dire situation of ordinary North Koreans.\" Tomas Ojea Quintana, special rapporteur on North Korea for the U.N. human rights office, says \"the recent rise in conflict rhetoric is worsening already critical human rights challenges in North Korea.\" He said the world should come together to protect the rights of people in North Korea."
+  },
+  {
+   "blip_idx": 1,
+   "text": "Ojea noted increased tensions caused by North Korea's nuclear and missile tests and the deployment of a U.S. aircraft carrier group in the region."
+  },
+  {
+   "blip_idx": 2,
+   "text": "He said \"the onus is on all of us to lower tensions and restore dialogue, including on human rights.\" --- 4 p.m. China says its diplomatic channels with North Korea remain open and exchanges are normal, despite a spike in tensions on the Korean Peninsula."
+  },
+  {
+   "blip_idx": 3,
+   "text": "Foreign ministry spokesman Lu Kang told reporters Tuesday that China urges all sides to exercise restraint and refrain from any actions that could push tensions even higher."
+  },
+  {
+   "blip_idx": 4,
+   "text": "While China is North Korea's most important ally, the North has repeatedly snubbed Beijing's calls to comply with United Nations resolutions on its missile and nuclear programs."
+  },
+  {
+   "blip_idx": 5,
+   "text": "Since taking power in 2011, North Korean leader Kim Jong Un has rarely met with Chinese officials and has yet to visit the country that provides his regime with most of its foreign trade and economic assistance."
+  },
+  {
+   "blip_idx": 6,
+   "text": "The lack of meetings has raised questions about their traditional friendship, and speculation grew higher this month when North Korea reportedly ignored a request for a visit by Beijing's top negotiator on the nuclear issue, Wu Dawei."
+  },
+  {
+   "blip_idx": 7,
+   "text": "Lu did not address any specific issues at a regular news conference, but said, \"I want to say that China and North Korea maintain normal exchanges and the diplomatic channel between the two countries remains smooth.\" \"I would like to reiterate that the current situation on the Korean Peninsula is complicated and sensitive and the tension is high. We urge all sides concerned to keep restrained and calm and refrain from taking actions that could escalate tensions,\" Lu said."
+  },
+  {
+   "blip_idx": 8,
+   "text": "---- 3:40 p.m. South Korea's military says North Korea is conducting large-scale live-fire drills at an area around an eastern coastal town to mark its military's founding anniversary."
+  },
+  {
+   "blip_idx": 9,
+   "text": "The Joint Chiefs of Staff on Tuesday didn't specifically comment on the size of the drills in an area near Wonsan."
+  },
+  {
+   "blip_idx": 10,
+   "text": "South Korea's Yonhap news agency earlier said that the exercise involved 300 to 400 artillery pieces and that North Korean leader Kim Jong Un likely observed what was one of the country's largest artillery drills."
+  },
+  {
+   "blip_idx": 11,
+   "text": "An official from Seoul's Defense Ministry couldn't confirm such details."
+  },
+  {
+   "blip_idx": 12,
+   "text": "There was speculation that the North might carry out another nuclear or missile test."
+  },
+  {
+   "blip_idx": 13,
+   "text": "--- 2:05 p.m. South Korea's military says it's closely watching North Korean troop movement around an eastern coastal town where the North reportedly conducted a huge live-fire drill to mark the founding anniversary of its military."
+  },
+  {
+   "blip_idx": 14,
+   "text": "Seoul's Joint Chiefs of Staff on Tuesday didn't directly confirm a report by South Korea's Yonhap news agency, which cited an unnamed government source to report that the North carried out an exercise involving 300 to 400 artillery pieces in an area around Wonsan."
+  },
+  {
+   "blip_idx": 15,
+   "text": "Yonhap says that North Korean leader Kim Jong Un likely observed what was one of the country's largest artillery drills."
+  },
+  {
+   "blip_idx": 16,
+   "text": "South Korea's military says it's maintaining \"firm readiness.\" There was speculation that the North might carry out another nuclear or missile test."
+  },
+  {
+   "blip_idx": 17,
+   "text": "--- 1:50 p.m. South Korea's envoy for North Korea Kim Hong-kyun says he and his Japanese and American counterparts have agreed to \"maximize pressure\" on North Korea to prevent it from making further provocations."
+  },
+  {
+   "blip_idx": 18,
+   "text": "The three envoys held talks in Tokyo on Tuesday as North Korea marked the anniversary of its military amid speculation it might carry out another nuclear or missile test."
+  },
+  {
+   "blip_idx": 19,
+   "text": "Kim says the envoys strongly denounce North Korea's continuing provocations, including threats of a nuclear war."
+  },
+  {
+   "blip_idx": 20,
+   "text": "He says: \"We agreed to maximize pressure on North Korea by imposing punitive measures that would be unbearable to them if the North continues further provocations despite our warnings.\" Kim said the roles of China and Russia are crucial to apply pressure effectively on North Korea toward its denuclearization."
+  },
+  {
+   "blip_idx": 21,
+   "text": "He praised China for its recent steps seen more cooperative toward that goal."
+  },
+  {
+   "blip_idx": 22,
+   "text": "--- 1:05 p.m. A ruling Chinese Communist Party newspaper is warning North Korea against conducting another nuclear test, saying that would likely propel events past the \"point of no return.\" In an editorial Tuesday, the Global Times says the previous day's phone conversation between Presidents Donald Trump and Xi Jinping of China showed the two countries were in close communication over the tensions."
+  },
+  {
+   "blip_idx": 23,
+   "text": "It says China hopes for a peaceful outcome, but that Beijing has \"very limited influence on the entire situation.\" It says: \"The game of chicken between Washington and Pyongyang has come to a breaking point.\" The paper is known for its often stridently nationalistic views."
+  },
+  {
+   "blip_idx": 24,
+   "text": "It says if North Korea carries out a sixth nuclear test as expected, \"it is more likely than ever that the situation will cross the point of no return. All stakeholders will bear the consequences, with Pyongyang sure to suffer the greatest losses.\" As a traditional ally and North Korea's chief source of trade, food and fuel aid, China has come under intense pressure to use its influence to dissuade Pyongyang from additional nuclear tests and missile launches."
+  },
+  {
+   "blip_idx": 25,
+   "text": "However, Beijing is intensely wary of any measures that might cause the collapse of North Korean leader Kim Jong Un's hard-line communist regime, fearing that could lead to a wave of refugees and a Pyongyang government beholden to Washington and Seoul."
+  },
+  {
+   "blip_idx": 26,
+   "text": "--- 1 p.m. U.S. envoy for North Korea Joseph Yun says he and his counterparts from Japan and South Korea agreed to coordinate \"all actions\" on North Korea."
+  },
+  {
+   "blip_idx": 27,
+   "text": "The three envoys also agreed that China has a key role in pressuring North Korea to abandon its missile and nuclear programs."
+  },
+  {
+   "blip_idx": 28,
+   "text": "Yun told reporters after a meeting in Tokyo that all diplomatic, military and economic actions on North Korea will be coordinated among the allies."
+  },
+  {
+   "blip_idx": 29,
+   "text": "Yun says China especially has \"a very, very important role\" to play."
+  },
+  {
+   "blip_idx": 30,
+   "text": "He says U.N."
+  },
+  {
+   "blip_idx": 31,
+   "text": "Security Council resolutions and sanctions on Pyongyang must be fully implemented."
+  },
+  {
+   "blip_idx": 32,
+   "text": "He says: \"There are a number of countries who could be more proactive\" in implementing the sanctions."
+  },
+  {
+   "blip_idx": 33,
+   "text": "He did not identify the countries."
+  },
+  {
+   "blip_idx": 34,
+   "text": "--- 12:40 p.m. South Korean newspapers are questioning whether President Donald Trump is tuning out South Korea as he shapes his North Korea strategy."
+  },
+  {
+   "blip_idx": 35,
+   "text": "Trump skipped calling Seoul during his phone conversations with his counterparts in Beijing and Tokyo on Sunday over the growing threat posed by North Korea's nuclear weapons and missiles program."
+  },
+  {
+   "blip_idx": 36,
+   "text": "The Maeil Business Daily said Tuesday that Trump not calling South Korean Prime Minister Hwang Kyo-ahn, the country's acting leader, showed that the relations between the allies are \"not normal.\" The newspaper also mentioned that Washington has yet to name its new ambassador to Seoul three months after the departure of Mark Lippert and questioned whether Trump has \"entirely left out South Korea in his picture for the Korean Peninsula.\" The JoongAng Ilbo daily said in an editorial that South Korea shouldn't be excluded from critical discussions surrounding North Korea, because \"the destiny of our nation could be at stake.\" Seoul has long worried about losing its voice in international efforts to deal with North Korea's nuclear threat - something local media have termed \"Korea Passing.\" Maeil Business wrote: \"When a military clash happens in the Korean Peninsula, South Korea will be the first target of North Korea and its military will hold joint operations with U.S. troops to fight back."
+  },
+  {
+   "blip_idx": 37,
+   "text": "If there is a partner Trump needs to discuss with foremost over the North Korea problem, it's not Xi Jinping or Shinzo Abe, but the leader of South Korea."
+  },
+  {
+   "blip_idx": 38,
+   "text": "\" --- 11:55 a.m. South Korea says a U.S. nuclear-powered submarine has docked in the southern port of Busan, but it isn't expected to participate in joint naval exercises with South Korea."
+  },
+  {
+   "blip_idx": 39,
+   "text": "An official from South Korea's navy said Tuesday the USS Michigan is making a routine stop to rest its crews and reload supplies."
+  },
+  {
+   "blip_idx": 40,
+   "text": "The submarine arrived on the same day North Korea celebrates the anniversary of the founding of its military."
+  },
+  {
+   "blip_idx": 41,
+   "text": "North Korea often marks significant dates with show of military capability, and South Korean officials have said the North could be preparing another round of nuclear or missile tests around the anniversary."
+  },
+  {
+   "blip_idx": 42,
+   "text": "President Donald Trump has dispatched to the region what he called an \"armada\" of ships, including an aircraft carrier, in a show of force."
+  },
+  {
+   "blip_idx": 43,
+   "text": "South Korea's navy is planning to hold joint naval drills with U.S. aircraft carrier USS Carl Vinson battle group, which has trained with Japanese destroyers in recent days, around the weekend."
+  },
+  {
+   "blip_idx": 44,
+   "text": "--- 11:15 a.m. Envoys from Japan, the U.S. and South Korea have gathered in Tokyo to discuss North Korea amid concern it may carry out another nuclear or missile test."
+  },
+  {
+   "blip_idx": 45,
+   "text": "Japanese officials say U.S. representative for North Korea Policy Joseph Yun met Tuesday with his Japanese counterpart Kenji Kanasugi and Kim Hong-kyun of South Korea to share their latest analyses and discuss cooperation."
+  },
+  {
+   "blip_idx": 46,
+   "text": "There is speculation that North Korea may carry out another nuclear or missile test to mark the anniversary of its armed forces Tuesday."
+  },
+  {
+   "blip_idx": 47,
+   "text": "It launched a missile one day after the 105th birthday of late founder Kim Il Sung on April 15. Japan's Chief Cabinet Secretary Yoshihide Suga told reporters that the three envoys were to deepen cooperation and stay on the same page amid growing tension."
+  },
+  {
+   "blip_idx": 48,
+   "text": "Japan's Foreign Ministry also announced that China's envoy for North Korea, Wu Dawei, will visit Tokyo later Tuesday for talks with Kanasugi."
+  },
+  {
+   "blip_idx": 49,
+   "text": "--- 11:10 a.m. North Korea's capital is quiet on Tuesday amid expectations of some sort of a big event to mark the anniversary of the founding of the country's military."
+  },
+  {
+   "blip_idx": 50,
+   "text": "The morning came and went without any nuclear tests or ballistic missile launches and all that is publicly scheduled for the day are gatherings for mass dancing, a common celebratory feature of major North Korean holidays."
+  },
+  {
+   "blip_idx": 51,
+   "text": "The main political event to mark the anniversary apparently was a \"national meeting\" held the day before, when thousands of senior military and civilian officials gathered at the People's Palace of Culture in Pyongyang."
+  },
+  {
+   "blip_idx": 52,
+   "text": "North Korea's leader Kim Jong Un did not attend."
+  },
+  {
+   "blip_idx": 53,
+   "text": "It was not known how he is marking Tuesday's anniversary."
+  },
+  {
+   "blip_idx": 54,
+   "text": "At the meeting, army Gen."
+  },
+  {
+   "blip_idx": 55,
+   "text": "Pak Yong Sik, North Korea's minister of defense, reiterated Pyongyang's claim that the country is ready to use pre-emptive strikes or any other measures it deems necessary to defend itself against the \"U.S. imperialists."
+  },
+  {
+   "blip_idx": 56,
+   "text": "\" He told the gathering: \"The situation prevailing on the Korean Peninsula is so tense that a nuclear war may break out due to the frantic war drills of the U.S. imperialists and their vassal forces for aggression."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 40,
+    "new": 45,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 35,
+    "new": 40,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 29,
+    "new": 34,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 55,
+    "new": 60,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 39,
+    "new": 44,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 54,
+    "new": 59,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 50,
+    "new": 55,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 33,
+    "new": 38,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 28,
+    "new": 33,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 38,
+    "new": 43,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 42,
+    "new": 47,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 41,
+    "new": 46,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 32,
+    "new": 37,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 56,
+    "new": 61,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 31,
+    "new": 36,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 30,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 46,
+    "new": 51,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 36,
+    "new": 41,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 53,
+    "new": 58,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 51,
+    "new": 56,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 30,
+    "new": 35,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 32,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 43,
+    "new": 48,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 31,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 47,
+    "new": 52,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 37,
+    "new": 42,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 5,
+    "dist_old": 0.3253004147812945,
+    "dist_new": 0.32569507529788033
+   },
+   {
+    "old": 23,
+    "new": 28,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 52,
+    "new": 57,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 44,
+    "new": 49,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 48,
+    "new": 53,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 49,
+    "new": 54,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 34,
+    "new": 39,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 29,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 45,
+    "new": 50,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "added",
+   "added",
+   "added",
+   "added",
+   "added",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ]
+ },
+ "document_old": "PYONGYANG, North Korea (AP) -- The Latest on tensions on the Korean Peninsula (all times local): 4:30 p.m. A U.N. human rights expert is calling for a cooling of tensions on the Korean Peninsula, insisting that statements that feed hatred and polarization undermine the chance to \"improve the dire situation of ordinary North Koreans.\" Tomas Ojea Quintana, special rapporteur on North Korea for the U.N. human rights office, says \"the recent rise in conflict rhetoric is worsening already critical human rights challenges in North Korea.\" He said the world should come together to protect the rights of people in North Korea. Ojea noted increased tensions caused by North Korea's nuclear and missile tests and the deployment of a U.S. aircraft carrier group in the region. He said \"the onus is on all of us to lower tensions and restore dialogue, including on human rights.\" --- 4 p.m. China says its diplomatic channels with North Korea remain open and exchanges are normal, despite a spike in tensions on the Korean Peninsula. Foreign ministry spokesman Lu Kang told reporters Tuesday that China urges all sides to exercise restraint and refrain from any actions that could push tensions even higher. While China is North Korea's most important ally, the North has repeatedly snubbed Beijing's calls to comply with United Nations resolutions on its missile and nuclear programs. Since taking power in 2011, North Korean leader Kim Jong Un has rarely met with Chinese officials and has yet to visit the country that provides his regime with most of its foreign trade and economic assistance. The lack of meetings has raised questions about their traditional friendship, and speculation grew higher this month when North Korea reportedly ignored a request for a visit by Beijing's top negotiator on the nuclear issue, Wu Dawei. Lu did not address any specific issues at a regular news conference, but said, \"I want to say that China and North Korea maintain normal exchanges and the diplomatic channel between the two countries remains smooth.\" \"I would like to reiterate that the current situation on the Korean Peninsula is complicated and sensitive and the tension is high. We urge all sides concerned to keep restrained and calm and refrain from taking actions that could escalate tensions,\" Lu said. ---- 3:40 p.m. South Korea's military says North Korea is conducting large-scale live-fire drills at an area around an eastern coastal town to mark its military's founding anniversary. The Joint Chiefs of Staff on Tuesday didn't specifically comment on the size of the drills in an area near Wonsan. South Korea's Yonhap news agency earlier said that the exercise involved 300 to 400 artillery pieces and that North Korean leader Kim Jong Un likely observed what was one of the country's largest artillery drills. An official from Seoul's Defense Ministry couldn't confirm such details. There was speculation that the North might carry out another nuclear or missile test. --- 2:05 p.m. South Korea's military says it's closely watching North Korean troop movement around an eastern coastal town where the North reportedly conducted a huge live-fire drill to mark the founding anniversary of its military. Seoul's Joint Chiefs of Staff on Tuesday didn't directly confirm a report by South Korea's Yonhap news agency, which cited an unnamed government source to report that the North carried out an exercise involving 300 to 400 artillery pieces in an area around Wonsan. Yonhap says that North Korean leader Kim Jong Un likely observed what was one of the country's largest artillery drills. South Korea's military says it's maintaining \"firm readiness.\" There was speculation that the North might carry out another nuclear or missile test. --- 1:50 p.m. South Korea's envoy for North Korea Kim Hong-kyun says he and his Japanese and American counterparts have agreed to \"maximize pressure\" on North Korea to prevent it from making further provocations. The three envoys held talks in Tokyo on Tuesday as North Korea marked the anniversary of its military amid speculation it might carry out another nuclear or missile test. Kim says the envoys strongly denounce North Korea's continuing provocations, including threats of a nuclear war. He says: \"We agreed to maximize pressure on North Korea by imposing punitive measures that would be unbearable to them if the North continues further provocations despite our warnings.\" Kim said the roles of China and Russia are crucial to apply pressure effectively on North Korea toward its denuclearization. He praised China for its recent steps seen more cooperative toward that goal. --- 1:05 p.m. A ruling Chinese Communist Party newspaper is warning North Korea against conducting another nuclear test, saying that would likely propel events past the \"point of no return.\" In an editorial Tuesday, the Global Times says the previous day's phone conversation between Presidents Donald Trump and Xi Jinping of China showed the two countries were in close communication over the tensions. It says China hopes for a peaceful outcome, but that Beijing has \"very limited influence on the entire situation.\" It says: \"The game of chicken between Washington and Pyongyang has come to a breaking point.\" The paper is known for its often stridently nationalistic views. It says if North Korea carries out a sixth nuclear test as expected, \"it is more likely than ever that the situation will cross the point of no return. All stakeholders will bear the consequences, with Pyongyang sure to suffer the greatest losses.\" As a traditional ally and North Korea's chief source of trade, food and fuel aid, China has come under intense pressure to use its influence to dissuade Pyongyang from additional nuclear tests and missile launches. However, Beijing is intensely wary of any measures that might cause the collapse of North Korean leader Kim Jong Un's hard-line communist regime, fearing that could lead to a wave of refugees and a Pyongyang government beholden to Washington and Seoul. --- 1 p.m. U.S. envoy for North Korea Joseph Yun says he and his counterparts from Japan and South Korea agreed to coordinate \"all actions\" on North Korea. The three envoys also agreed that China has a key role in pressuring North Korea to abandon its missile and nuclear programs. Yun told reporters after a meeting in Tokyo that all diplomatic, military and economic actions on North Korea will be coordinated among the allies. Yun says China especially has \"a very, very important role\" to play. He says U.N. Security Council resolutions and sanctions on Pyongyang must be fully implemented. He says: \"There are a number of countries who could be more proactive\" in implementing the sanctions. He did not identify the countries. --- 12:40 p.m. South Korean newspapers are questioning whether President Donald Trump is tuning out South Korea as he shapes his North Korea strategy. Trump skipped calling Seoul during his phone conversations with his counterparts in Beijing and Tokyo on Sunday over the growing threat posed by North Korea's nuclear weapons and missiles program. The Maeil Business Daily said Tuesday that Trump not calling South Korean Prime Minister Hwang Kyo-ahn, the country's acting leader, showed that the relations between the allies are \"not normal.\" The newspaper also mentioned that Washington has yet to name its new ambassador to Seoul three months after the departure of Mark Lippert and questioned whether Trump has \"entirely left out South Korea in his picture for the Korean Peninsula.\" The JoongAng Ilbo daily said in an editorial that South Korea shouldn't be excluded from critical discussions surrounding North Korea, because \"the destiny of our nation could be at stake.\" Seoul has long worried about losing its voice in international efforts to deal with North Korea's nuclear threat - something local media have termed \"Korea Passing.\" Maeil Business wrote: \"When a military clash happens in the Korean Peninsula, South Korea will be the first target of North Korea and its military will hold joint operations with U.S. troops to fight back. If there is a partner Trump needs to discuss with foremost over the North Korea problem, it's not Xi Jinping or Shinzo Abe, but the leader of South Korea. \" --- 11:55 a.m. South Korea says a U.S. nuclear-powered submarine has docked in the southern port of Busan, but it isn't expected to participate in joint naval exercises with South Korea. An official from South Korea's navy said Tuesday the USS Michigan is making a routine stop to rest its crews and reload supplies. The submarine arrived on the same day North Korea celebrates the anniversary of the founding of its military. North Korea often marks significant dates with show of military capability, and South Korean officials have said the North could be preparing another round of nuclear or missile tests around the anniversary. President Donald Trump has dispatched to the region what he called an \"armada\" of ships, including an aircraft carrier, in a show of force. South Korea's navy is planning to hold joint naval drills with U.S. aircraft carrier USS Carl Vinson battle group, which has trained with Japanese destroyers in recent days, around the weekend. --- 11:15 a.m. Envoys from Japan, the U.S. and South Korea have gathered in Tokyo to discuss North Korea amid concern it may carry out another nuclear or missile test. Japanese officials say U.S. representative for North Korea Policy Joseph Yun met Tuesday with his Japanese counterpart Kenji Kanasugi and Kim Hong-kyun of South Korea to share their latest analyses and discuss cooperation. There is speculation that North Korea may carry out another nuclear or missile test to mark the anniversary of its armed forces Tuesday. It launched a missile one day after the 105th birthday of late founder Kim Il Sung on April 15. Japan's Chief Cabinet Secretary Yoshihide Suga told reporters that the three envoys were to deepen cooperation and stay on the same page amid growing tension. Japan's Foreign Ministry also announced that China's envoy for North Korea, Wu Dawei, will visit Tokyo later Tuesday for talks with Kanasugi. --- 11:10 a.m. North Korea's capital is quiet on Tuesday amid expectations of some sort of a big event to mark the anniversary of the founding of the country's military. The morning came and went without any nuclear tests or ballistic missile launches and all that is publicly scheduled for the day are gatherings for mass dancing, a common celebratory feature of major North Korean holidays. The main political event to mark the anniversary apparently was a \"national meeting\" held the day before, when thousands of senior military and civilian officials gathered at the People's Palace of Culture in Pyongyang. North Korea's leader Kim Jong Un did not attend. It was not known how he is marking Tuesday's anniversary. At the meeting, army Gen. Pak Yong Sik, North Korea's minister of defense, reiterated Pyongyang's claim that the country is ready to use pre-emptive strikes or any other measures it deems necessary to defend itself against the \"U.S. imperialists. \" He told the gathering: \"The situation prevailing on the Korean Peninsula is so tense that a nuclear war may break out due to the frantic war drills of the U.S. imperialists and their vassal forces for aggression.",
+ "document_new": "PYONGYANG, North Korea (AP) -- The Latest on tensions on the Korean Peninsula (all times local): 4:45 p.m. The U.S. 7th Fleet says two of its destroyers are conducting simultaneous maritime exercises with naval ships from Japan and South Korea. The exercises on Tuesday and Wednesday come amid heightened concerns over a possible nuclear or missile test by North Korea as it marks the 85th anniversary of its army. The U.S. Navy said the USS Wayne E. Meyer and the South Korean navy's Wang Geon are conducting exercises in waters west of Korean Peninsula. It said the USS Fitzgerald is teaming up with the Japanese destroyer Chokai in waters west of Japan. It said the exercises demonstrate a shared commitment to security and stability in the region and underscore America's flexibility in combining with allied naval forces \"in response to a broad range of situations.\" --- 4:30 p.m. A U.N. human rights expert is calling for a cooling of tensions on the Korean Peninsula, insisting that statements that feed hatred and polarization undermine the chance to \"improve the dire situation of ordinary North Koreans.\" Tomas Ojea Quintana, special rapporteur on North Korea for the U.N. human rights office, said \"the recent rise in conflict rhetoric is worsening already critical human rights challenges in North Korea.\" He said the world should come together to protect the rights of people in North Korea. Ojea noted increased tensions caused by North Korea's nuclear and missile tests and the deployment of a U.S. aircraft carrier group in the region. He said \"the onus is on all of us to lower tensions and restore dialogue, including on human rights.\" --- 4 p.m. China says its diplomatic channels with North Korea remain open and exchanges are normal, despite a spike in tensions on the Korean Peninsula. Foreign ministry spokesman Lu Kang told reporters Tuesday that China urges all sides to exercise restraint and refrain from any actions that could push tensions even higher. While China is North Korea's most important ally, the North has repeatedly snubbed Beijing's calls to comply with United Nations resolutions on its missile and nuclear programs. Since taking power in 2011, North Korean leader Kim Jong Un has rarely met with Chinese officials and has yet to visit the country that provides his regime with most of its foreign trade and economic assistance. The lack of meetings has raised questions about their traditional friendship, and speculation grew higher this month when North Korea reportedly ignored a request for a visit by Beijing's top negotiator on the nuclear issue, Wu Dawei. Lu did not address any specific issues at a regular news conference, but said, \"I want to say that China and North Korea maintain normal exchanges and the diplomatic channel between the two countries remains smooth.\" \"I would like to reiterate that the current situation on the Korean Peninsula is complicated and sensitive and the tension is high. We urge all sides concerned to keep restrained and calm and refrain from taking actions that could escalate tensions,\" Lu said. ---- 3:40 p.m. South Korea's military says North Korea is conducting large-scale live-fire drills at an area around an eastern coastal town to mark its military's founding anniversary. The Joint Chiefs of Staff on Tuesday didn't specifically comment on the size of the drills in an area near Wonsan. South Korea's Yonhap news agency earlier said that the exercise involved 300 to 400 artillery pieces and that North Korean leader Kim Jong Un likely observed what was one of the country's largest artillery drills. An official from Seoul's Defense Ministry couldn't confirm such details. There was speculation that the North might carry out another nuclear or missile test. --- 2:05 p.m. South Korea's military says it's closely watching North Korean troop movement around an eastern coastal town where the North reportedly conducted a huge live-fire drill to mark the founding anniversary of its military. Seoul's Joint Chiefs of Staff on Tuesday didn't directly confirm a report by South Korea's Yonhap news agency, which cited an unnamed government source to report that the North carried out an exercise involving 300 to 400 artillery pieces in an area around Wonsan. Yonhap says that North Korean leader Kim Jong Un likely observed what was one of the country's largest artillery drills. South Korea's military says it's maintaining \"firm readiness.\" There was speculation that the North might carry out another nuclear or missile test. --- 1:50 p.m. South Korea's envoy for North Korea Kim Hong-kyun says he and his Japanese and American counterparts have agreed to \"maximize pressure\" on North Korea to prevent it from making further provocations. The three envoys held talks in Tokyo on Tuesday as North Korea marked the anniversary of its military amid speculation it might carry out another nuclear or missile test. Kim says the envoys strongly denounce North Korea's continuing provocations, including threats of a nuclear war. He says: \"We agreed to maximize pressure on North Korea by imposing punitive measures that would be unbearable to them if the North continues further provocations despite our warnings.\" Kim said the roles of China and Russia are crucial to apply pressure effectively on North Korea toward its denuclearization. He praised China for its recent steps seen more cooperative toward that goal. --- 1:05 p.m. A ruling Chinese Communist Party newspaper is warning North Korea against conducting another nuclear test, saying that would likely propel events past the \"point of no return.\" In an editorial Tuesday, the Global Times says the previous day's phone conversation between Presidents Donald Trump and Xi Jinping of China showed the two countries were in close communication over the tensions. It says China hopes for a peaceful outcome, but that Beijing has \"very limited influence on the entire situation.\" It says: \"The game of chicken between Washington and Pyongyang has come to a breaking point.\" The paper is known for its often stridently nationalistic views. It says if North Korea carries out a sixth nuclear test as expected, \"it is more likely than ever that the situation will cross the point of no return. All stakeholders will bear the consequences, with Pyongyang sure to suffer the greatest losses.\" As a traditional ally and North Korea's chief source of trade, food and fuel aid, China has come under intense pressure to use its influence to dissuade Pyongyang from additional nuclear tests and missile launches. However, Beijing is intensely wary of any measures that might cause the collapse of North Korean leader Kim Jong Un's hard-line communist regime, fearing that could lead to a wave of refugees and a Pyongyang government beholden to Washington and Seoul. --- 1 p.m. U.S. envoy for North Korea Joseph Yun says he and his counterparts from Japan and South Korea agreed to coordinate \"all actions\" on North Korea. The three envoys also agreed that China has a key role in pressuring North Korea to abandon its missile and nuclear programs. Yun told reporters after a meeting in Tokyo that all diplomatic, military and economic actions on North Korea will be coordinated among the allies. Yun says China especially has \"a very, very important role\" to play. He says U.N. Security Council resolutions and sanctions on Pyongyang must be fully implemented. He says: \"There are a number of countries who could be more proactive\" in implementing the sanctions. He did not identify the countries. --- 12:40 p.m. South Korean newspapers are questioning whether President Donald Trump is tuning out South Korea as he shapes his North Korea strategy. Trump skipped calling Seoul during his phone conversations with his counterparts in Beijing and Tokyo on Sunday over the growing threat posed by North Korea's nuclear weapons and missiles program. The Maeil Business Daily said Tuesday that Trump not calling South Korean Prime Minister Hwang Kyo-ahn, the country's acting leader, showed that the relations between the allies are \"not normal.\" The newspaper also mentioned that Washington has yet to name its new ambassador to Seoul three months after the departure of Mark Lippert and questioned whether Trump has \"entirely left out South Korea in his picture for the Korean Peninsula.\" The JoongAng Ilbo daily said in an editorial that South Korea shouldn't be excluded from critical discussions surrounding North Korea, because \"the destiny of our nation could be at stake.\" Seoul has long worried about losing its voice in international efforts to deal with North Korea's nuclear threat - something local media have termed \"Korea Passing.\" Maeil Business wrote: \"When a military clash happens in the Korean Peninsula, South Korea will be the first target of North Korea and its military will hold joint operations with U.S. troops to fight back. If there is a partner Trump needs to discuss with foremost over the North Korea problem, it's not Xi Jinping or Shinzo Abe, but the leader of South Korea. \" --- 11:55 a.m. South Korea says a U.S. nuclear-powered submarine has docked in the southern port of Busan, but it isn't expected to participate in joint naval exercises with South Korea. An official from South Korea's navy said Tuesday the USS Michigan is making a routine stop to rest its crews and reload supplies. The submarine arrived on the same day North Korea celebrates the anniversary of the founding of its military. North Korea often marks significant dates with show of military capability, and South Korean officials have said the North could be preparing another round of nuclear or missile tests around the anniversary. President Donald Trump has dispatched to the region what he called an \"armada\" of ships, including an aircraft carrier, in a show of force. South Korea's navy is planning to hold joint naval drills with U.S. aircraft carrier USS Carl Vinson battle group, which has trained with Japanese destroyers in recent days, around the weekend. --- 11:15 a.m. Envoys from Japan, the U.S. and South Korea have gathered in Tokyo to discuss North Korea amid concern it may carry out another nuclear or missile test. Japanese officials say U.S. representative for North Korea Policy Joseph Yun met Tuesday with his Japanese counterpart Kenji Kanasugi and Kim Hong-kyun of South Korea to share their latest analyses and discuss cooperation. There is speculation that North Korea may carry out another nuclear or missile test to mark the anniversary of its armed forces Tuesday. It launched a missile one day after the 105th birthday of late founder Kim Il Sung on April 15. Japan's Chief Cabinet Secretary Yoshihide Suga told reporters that the three envoys were to deepen cooperation and stay on the same page amid growing tension. Japan's Foreign Ministry also announced that China's envoy for North Korea, Wu Dawei, will visit Tokyo later Tuesday for talks with Kanasugi. --- 11:10 a.m. North Korea's capital is quiet on Tuesday amid expectations of some sort of a big event to mark the anniversary of the founding of the country's military. The morning came and went without any nuclear tests or ballistic missile launches and all that is publicly scheduled for the day are gatherings for mass dancing, a common celebratory feature of major North Korean holidays. The main political event to mark the anniversary apparently was a \"national meeting\" held the day before, when thousands of senior military and civilian officials gathered at the People's Palace of Culture in Pyongyang. North Korea's leader Kim Jong Un did not attend. It was not known how he is marking Tuesday's anniversary. At the meeting, army Gen. Pak Yong Sik, North Korea's minister of defense, reiterated Pyongyang's claim that the country is ready to use pre-emptive strikes or any other measures it deems necessary to defend itself against the \"U.S. imperialists. \" He told the gathering: \"The situation prevailing on the Korean Peninsula is so tense that a nuclear war may break out due to the frantic war drills of the U.S. imperialists and their vassal forces for aggression.",
+ "tasks": [
+  {
+   "task_id": "bool_001",
+   "type": "boolean",
+   "prompt": "Are two of the U.S. 7th Fleet's destroyers conducting simultaneous maritime exercises with naval ships from Japan and South Korea? Answer Yes or No."
+  }
+ ]
+}

@@ -1,0 +1,386 @@
+{
+ "pair_id": "ap_20323_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "LONDON (AP) — The condom, the pill and now, the smartphone? Natural Cycles, a mobile fertility app, this month became the first ever digital contraceptive device to win FDA marketing approval."
+  },
+  {
+   "blip_idx": 1,
+   "text": "Women take their temperatures and track their menstrual cycle on the app, which uses an algorithm to determine when they're fertile and should abstain from unprotected sex or use protection."
+  },
+  {
+   "blip_idx": 2,
+   "text": "In effect, it's a form of the rhythm or calendar method."
+  },
+  {
+   "blip_idx": 3,
+   "text": "The Swedish startup says it's effective and lets women avoid side effects common with other methods like birth control pills."
+  },
+  {
+   "blip_idx": 4,
+   "text": "But reports of unwanted pregnancies and investigations by authorities in two countries in Europe, where it received EU certification in 2017, have raised questions about marketing what is essentially a health monitor as a contraceptive."
+  },
+  {
+   "blip_idx": 5,
+   "text": "Natural Cycles boasts more than 900,000 users, and such fast growth underscores risks for regulators and concerns among health professionals as they grapple with the rapidly emerging market for mobile and digital health applications."
+  },
+  {
+   "blip_idx": 6,
+   "text": "\"Apps are incredibly popular and there's nothing inherently wrong about using tech to support our health,\" said Bekki Burbidge, deputy chief executive of the Family Planning Association, a British sexual health organization. \"But they're also an area that is fairly unregulated and it can be hard to sort the good, evidence- and research-based apps from the bad."
+  },
+  {
+   "blip_idx": 7,
+   "text": "\" The app is similar to hundreds of other period trackers already available, most of which are aimed at helping women conceive."
+  },
+  {
+   "blip_idx": 8,
+   "text": "But FDA approval means it can be marketed as a mobile contraceptive, giving it an edge in the mobile medical apps market, which is forecast to grow to $11.2 billion by 2025, up from at $1.4 billion in 2016, according to BIS Research."
+  },
+  {
+   "blip_idx": 9,
+   "text": "The makers of Natural Cycles acknowledge it's not 100 percent effective and some women might still get pregnant even if used perfectly."
+  },
+  {
+   "blip_idx": 10,
+   "text": "The Food and Drug Administration regulates apps and gadgets that collect or track medical information as medical devices, though it doesn't scrutinize many more that merely perform simple tasks like tracking calories."
+  },
+  {
+   "blip_idx": 11,
+   "text": "Marketing of contraceptive apps needs to be extremely careful to ensure that women understand exactly what they're signing up for and the limitations, the Faculty of Sexual and Reproductive Healthcare of the Royal College of Obstetricians and Gynecologists said in a statement."
+  },
+  {
+   "blip_idx": 12,
+   "text": "The FDA gave its approval based on data from Natural Cycles involving 15,570 women who used the app for an average of eight months."
+  },
+  {
+   "blip_idx": 13,
+   "text": "The FDA said that if the app is used correctly all the time, 1.8 percent of women would get pregnant over one year."
+  },
+  {
+   "blip_idx": 14,
+   "text": "The \"typical use\" failure rate, which factors in human error, was 6.5 percent."
+  },
+  {
+   "blip_idx": 15,
+   "text": "The birth control pill's failure rate is 9 percent, while for condoms it's 18 percent and 24 percent for fertility-awareness methods , but those figures are backed up by much more long-term data."
+  },
+  {
+   "blip_idx": 16,
+   "text": "Natural Cycles' public relations firm didn't respond to request for comment from its founders, Elina Berglund and Raoul Scherwitzl, a married couple who are both former physicists."
+  },
+  {
+   "blip_idx": 17,
+   "text": "Berglund was part of a team of scientists looking for the Higgs boson particle at the European Organization for Nuclear Research, or CERN, in Switzerland."
+  },
+  {
+   "blip_idx": 18,
+   "text": "They pivoted from science to startups when they wrote the algorithm to help them have a baby and then developed an app to tap broader demand."
+  },
+  {
+   "blip_idx": 19,
+   "text": "The app is free to download but the company charges $10 a month to use it."
+  },
+  {
+   "blip_idx": 20,
+   "text": "Its claims were called into question in January, after Swedish regulators started investigating reports that 37 women who used it became pregnant anyway."
+  },
+  {
+   "blip_idx": 21,
+   "text": "The Swedish Medical Product Agency said it's carrying out a review of the app's claims of unwanted pregnancy rates and the investigation is expected to wrap up in September."
+  },
+  {
+   "blip_idx": 22,
+   "text": "FDA spokeswoman Deborah Kotz said the agency was aware of the Swedish reports but felt they were consistent with its knowledge of risks associated with the app."
+  },
+  {
+   "blip_idx": 23,
+   "text": "\"An increase in the absolute numbers of unintended pregnancies is expected with a growing number of users,\" she said."
+  },
+  {
+   "blip_idx": 24,
+   "text": "Britain's Advertising Standards Authority, meanwhile, says it's looking into whether paid-for Facebook posts that claim Natural Cycles is a \"highly accurate contraceptive app\" and \"clinically tested alternative to birth control methods\" are misleading."
+  },
+  {
+   "blip_idx": 25,
+   "text": "\"We have launched a formal investigation and will publish our findings in due course,\" the authority said."
+  },
+  {
+   "blip_idx": 26,
+   "text": "Burbidge said more outside research into fertility apps is needed because \"at the moment there's not enough independent evidence\" on their reliability."
+  },
+  {
+   "blip_idx": 27,
+   "text": "She added that women using such apps need to be motivated and aware of factors that can make it less effective, such as travel, alcohol, stress or not getting enough sleep, which can all affect temperature readings."
+  },
+  {
+   "blip_idx": 28,
+   "text": "\"There's so much you can do that makes it not perfect,\" she said."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 24,
+    "dist_old": 0.4348354972462568,
+    "dist_new": 0.4348354972462568
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 28,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.4073193403040666,
+    "dist_new": 0.4074590975275235
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 28,
+    "new": 30,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 29,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.3562196286396433,
+    "dist_new": 0.3539431327802877
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "added",
+   "added",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": [
+   22,
+   23
+  ]
+ },
+ "document_old": "LONDON (AP) — The condom, the pill and now, the smartphone? Natural Cycles, a mobile fertility app, this month became the first ever digital contraceptive device to win FDA marketing approval. Women take their temperatures and track their menstrual cycle on the app, which uses an algorithm to determine when they're fertile and should abstain from unprotected sex or use protection. In effect, it's a form of the rhythm or calendar method. The Swedish startup says it's effective and lets women avoid side effects common with other methods like birth control pills. But reports of unwanted pregnancies and investigations by authorities in two countries in Europe, where it received EU certification in 2017, have raised questions about marketing what is essentially a health monitor as a contraceptive. Natural Cycles boasts more than 900,000 users, and such fast growth underscores risks for regulators and concerns among health professionals as they grapple with the rapidly emerging market for mobile and digital health applications. \"Apps are incredibly popular and there's nothing inherently wrong about using tech to support our health,\" said Bekki Burbidge, deputy chief executive of the Family Planning Association, a British sexual health organization. \"But they're also an area that is fairly unregulated and it can be hard to sort the good, evidence- and research-based apps from the bad. \" The app is similar to hundreds of other period trackers already available, most of which are aimed at helping women conceive. But FDA approval means it can be marketed as a mobile contraceptive, giving it an edge in the mobile medical apps market, which is forecast to grow to $11.2 billion by 2025, up from at $1.4 billion in 2016, according to BIS Research. The makers of Natural Cycles acknowledge it's not 100 percent effective and some women might still get pregnant even if used perfectly. The Food and Drug Administration regulates apps and gadgets that collect or track medical information as medical devices, though it doesn't scrutinize many more that merely perform simple tasks like tracking calories. Marketing of contraceptive apps needs to be extremely careful to ensure that women understand exactly what they're signing up for and the limitations, the Faculty of Sexual and Reproductive Healthcare of the Royal College of Obstetricians and Gynecologists said in a statement. The FDA gave its approval based on data from Natural Cycles involving 15,570 women who used the app for an average of eight months. The FDA said that if the app is used correctly all the time, 1.8 percent of women would get pregnant over one year. The \"typical use\" failure rate, which factors in human error, was 6.5 percent. The birth control pill's failure rate is 9 percent, while for condoms it's 18 percent and 24 percent for fertility-awareness methods , but those figures are backed up by much more long-term data. Natural Cycles' public relations firm didn't respond to request for comment from its founders, Elina Berglund and Raoul Scherwitzl, a married couple who are both former physicists. Berglund was part of a team of scientists looking for the Higgs boson particle at the European Organization for Nuclear Research, or CERN, in Switzerland. They pivoted from science to startups when they wrote the algorithm to help them have a baby and then developed an app to tap broader demand. The app is free to download but the company charges $10 a month to use it. Its claims were called into question in January, after Swedish regulators started investigating reports that 37 women who used it became pregnant anyway. The Swedish Medical Product Agency said it's carrying out a review of the app's claims of unwanted pregnancy rates and the investigation is expected to wrap up in September. FDA spokeswoman Deborah Kotz said the agency was aware of the Swedish reports but felt they were consistent with its knowledge of risks associated with the app. \"An increase in the absolute numbers of unintended pregnancies is expected with a growing number of users,\" she said. Britain's Advertising Standards Authority, meanwhile, says it's looking into whether paid-for Facebook posts that claim Natural Cycles is a \"highly accurate contraceptive app\" and \"clinically tested alternative to birth control methods\" are misleading. \"We have launched a formal investigation and will publish our findings in due course,\" the authority said. Burbidge said more outside research into fertility apps is needed because \"at the moment there's not enough independent evidence\" on their reliability. She added that women using such apps need to be motivated and aware of factors that can make it less effective, such as travel, alcohol, stress or not getting enough sleep, which can all affect temperature readings. \"There's so much you can do that makes it not perfect,\" she said.",
+ "document_new": "LONDON (AP) — The condom, the pill and now, the smartphone? Natural Cycles, a mobile fertility app, this month became the first ever digital contraceptive device to win FDA marketing approval. Women take their temperatures and track their menstrual cycle on the app, which uses an algorithm to determine when they're fertile and should abstain from unprotected sex or use protection. In effect, it's a form of the rhythm or calendar method. The Swedish startup says it's effective and lets women avoid side effects common with other methods like birth control pills. But reports of unwanted pregnancies and investigations by authorities in two countries in Europe, where it received EU certification in 2017, have raised questions about marketing what is essentially a health monitor as a contraceptive. Natural Cycles boasts more than 900,000 users, and such fast growth underscores risks for regulators and concerns among health professionals as they grapple with the rapidly emerging market for mobile and digital health applications. \"Apps are incredibly popular and there's nothing inherently wrong about using tech to support our health,\" said Bekki Burbidge, deputy chief executive of the Family Planning Association, a British sexual health organization. \"But they're also an area that is fairly unregulated and it can be hard to sort the good, evidence- and research-based apps from the bad. \" The app is similar to hundreds of other period trackers already available, most of which are aimed at helping women conceive. But FDA approval means it can be marketed as a mobile contraceptive, giving it an edge in the mobile medical apps market, which is forecast to grow to $11.2 billion by 2025, up from at $1.4 billion in 2016, according to BIS Research. The makers of Natural Cycles acknowledge it's not 100 percent effective and some women might still get pregnant even if used perfectly. The Food and Drug Administration regulates apps and gadgets that collect or track medical information as medical devices, though it doesn't scrutinize many more that merely perform simple tasks like tracking calories. Marketing of contraceptive apps needs to be extremely careful to ensure that women understand exactly what they're signing up for and the limitations, the Faculty of Sexual and Reproductive Healthcare of the Royal College of Obstetricians and Gynecologists said in a statement. The FDA gave its approval based on data from Natural Cycles involving 15,570 women who used the app for an average of eight months. The FDA said that if the app is used correctly all the time, 1.8 percent of women would get pregnant over one year. The \"typical use\" failure rate, which factors in human error, was 6.5 percent. The birth control pill's failure rate is 9 percent, while for condoms it's 18 percent and 24 percent for fertility-awareness methods , but those figures are backed up by much more long-term data. The company's founders, Elina Berglund and Raoul Scherwitzl, are a married couple who are both former physicists. Berglund was part of a team of scientists looking for the Higgs boson particle at the European Organization for Nuclear Research, or CERN, in Switzerland. They pivoted from science to startups when they wrote the algorithm to help them have a baby and then developed an app to tap broader demand. The app is free to download but the company charges $10 a month to use it. Its claims were called into question in January, after Swedish regulators started investigating reports that 37 women who used it became pregnant anyway. The Swedish Medical Product Agency said it's looking into whether the number of unwanted pregnancies falls within the app's claimed effectiveness rate, and the investigation is expected to wrap up in September. Natural Cycles said that as a condition of EU certification, it must continue monitoring user data, which it says show that the typical-use effectiveness rate remains at 93 percent. \"We care deeply each and every time one of our users becomes pregnant,\" the company said in a statement. \"One of the ongoing challenges with all forms of contraception is that there is always a statistical chance of unintended pregnancy, since no method is 100 percent effective.\" FDA spokeswoman Deborah Kotz said the agency was aware of the Swedish reports but felt they were consistent with its knowledge of risks associated with the app. \"An increase in the absolute numbers of unintended pregnancies is expected with a growing number of users,\" she said. Britain's Advertising Standards Authority, meanwhile, says it's looking into whether paid-for Facebook posts that claim Natural Cycles is a \"highly accurate contraceptive app\" and \"clinically tested alternative to birth control methods\" are misleading. \"We have launched a formal investigation and will publish our findings in due course,\" the authority said. Burbidge said more outside research into fertility apps is needed because \"at the moment there's not enough independent evidence\" on their reliability. She added that women using such apps need to be motivated and aware of factors that can make it less effective, such as travel, alcohol, stress or not getting enough sleep, which can all affect temperature readings. \"There's so much you can do that makes it not perfect,\" she said.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What did FDA spokeswoman Deborah Kotz say about the Swedish reports? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "In which year did Natural Cycle receive EU certification? Answer with the number only."
+  },
+  {
+   "task_id": "bool_001",
+   "type": "boolean",
+   "prompt": "Is the typical-use effectiveness rate reported by Natural Cycles 93 percent according to the EU certification condition? Answer Yes or No."
+  }
+ ]
+}

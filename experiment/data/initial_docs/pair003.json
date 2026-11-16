@@ -1,0 +1,442 @@
+{
+ "pair_id": "ap_3198_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "PITTSBURGH (AP) -- Dr. Thomas Starzl, who pioneered liver transplant surgery in the 1960s and was a leading researcher into anti-rejection drugs, has died."
+  },
+  {
+   "blip_idx": 1,
+   "text": "He was 90. The University of Pittsburgh, speaking on behalf of Starzl's family, said the renowned doctor died Saturday at his home in Pittsburgh."
+  },
+  {
+   "blip_idx": 2,
+   "text": "Starzl performed the world's first liver transplant in 1963 and the world's first successful liver transplant in 1967, and pioneered kidney transplantation from cadavers."
+  },
+  {
+   "blip_idx": 3,
+   "text": "He later perfected the process by using identical twins and, eventually, other blood relatives as donors."
+  },
+  {
+   "blip_idx": 4,
+   "text": "Since Starzl's first successful liver transplant, thousands of lives have been saved by similar operations."
+  },
+  {
+   "blip_idx": 5,
+   "text": "\"We regard him as the father of transplantation,\" said Dr. Abhinav Humar, clinical director of the Thomas E. Starzl Transplantation Institute."
+  },
+  {
+   "blip_idx": 6,
+   "text": "\"His legacy in transplantation is hard to put into words - it's really immense."
+  },
+  {
+   "blip_idx": 7,
+   "text": "\" Starzl joined the University of Pittsburgh School of Medicine in 1981 as professor of surgery, where his studies on the anti-rejection drug cyclosporin transformed transplantation from an experimental procedure into one that gave patients a hope they could survive an otherwise fatal organ failure."
+  },
+  {
+   "blip_idx": 8,
+   "text": "It was Starzl's development of cyclosporin in combination with steroids that offered a solution to organ rejection."
+  },
+  {
+   "blip_idx": 9,
+   "text": "Until 1991, Starzl served as chief of transplant services at UPMC, then was named director of the University of Pittsburgh Transplantation Institute, where he continued research on a process he called chimerism, based on a 1992 paper he wrote on the theory that new organs and old bodies \"learn\" to co-exist without immunosupression drugs."
+  },
+  {
+   "blip_idx": 10,
+   "text": "The institute was renamed in Starzl's honor in 1996, and he continued as its director."
+  },
+  {
+   "blip_idx": 11,
+   "text": "In his 1992 autobiography, \"The Puzzle People: Memoirs of a Transplant Surgeon,\" Starzl said he actually hated performing surgery and was sickened with fear each time he prepared for an operation."
+  },
+  {
+   "blip_idx": 12,
+   "text": "\"I was striving for liberation my whole life,\" he said in an interview."
+  },
+  {
+   "blip_idx": 13,
+   "text": "Starzl's career-long interest in research began with a liver operation he assisted on while a resident at Johns Hopkins Hospital in Baltimore."
+  },
+  {
+   "blip_idx": 14,
+   "text": "After the surgery to redirect blood flow around the liver, he noticed the patient's sugar diabetes also had improved."
+  },
+  {
+   "blip_idx": 15,
+   "text": "Thinking he had found the cause of diabetes to be in the liver rather than the pancreas, he designed experiments in 1956 with dogs to prove his discovery."
+  },
+  {
+   "blip_idx": 16,
+   "text": "He was wrong, but had started on the path that would lead to the first human liver transplants at the University of Colorado in Denver seven years later."
+  },
+  {
+   "blip_idx": 17,
+   "text": "In the early 1990s, livers from baboons were transplanted into humans, an operation made possible by Starzl's research into alternatives to scarce human livers."
+  },
+  {
+   "blip_idx": 18,
+   "text": "While work continues on such animal-to-human transplants, most researchers now focus on pigs rather than primates and use genetic engineering to try to knock out some proteins most involved in causing acute rejection, Humar said."
+  },
+  {
+   "blip_idx": 19,
+   "text": "Starzl's other accomplishments included inventing a way to route the blood supply around the liver during surgery to make possible the marathon hours required to complete operations involving that complex organ."
+  },
+  {
+   "blip_idx": 20,
+   "text": "He also showed that \"soldier cells\" from the transplanted organ become \"missionary cells\" that travel throughout the new body and find new homes, apparently helping the body accept the foreign organ."
+  },
+  {
+   "blip_idx": 21,
+   "text": "Starzl helped develop with Dr. John Fung, his protege at UPMC and successor as director of transplant surgery, the use of the experimental anti-rejection drug FK506, which paved the way to more complicated transplants of multiple organs, including the difficult small intestine."
+  },
+  {
+   "blip_idx": 22,
+   "text": "FK506 was discovered in a soil sample by Japanese researchers."
+  },
+  {
+   "blip_idx": 23,
+   "text": "In September 1990, at age 65, Starzl put away his scalpel for good, soon after the death of a famous young patient: a 14-year-old girl from White Settlement, Texas, named Stormie Jones."
+  },
+  {
+   "blip_idx": 24,
+   "text": "Starzl also underwent a heart bypass operation in 1990 and suffered lingering vision problems from a laser accident five years earlier."
+  },
+  {
+   "blip_idx": 25,
+   "text": "Stormie lived six years after a combination heart-liver transplant at age 8 but needed a second liver in 1990 and died within nine months."
+  },
+  {
+   "blip_idx": 26,
+   "text": "Her death affected Starzl greatly."
+  },
+  {
+   "blip_idx": 27,
+   "text": "\"It is true that transplant surgeons saved patients, but the patients rescued us in turn and gave meaning to what we did, or tried to,\" he once wrote."
+  },
+  {
+   "blip_idx": 28,
+   "text": "Allegheny County Executive Rich Fitzgerald called Starzl \"a true Pittsburgh icon and hero,\" whose research had worldwide impact and had proven an economic boon to the region as well."
+  },
+  {
+   "blip_idx": 29,
+   "text": "\"The number of lives which were, and continue to be transformed, by Dr. Starzl's groundbreaking work are immeasurable,\" he said."
+  },
+  {
+   "blip_idx": 30,
+   "text": "Starzl was born March 11, 1926, in LeMars, Iowa."
+  },
+  {
+   "blip_idx": 31,
+   "text": "His mother was a nurse and his father was a science fiction writer and the publisher of the local newspaper."
+  },
+  {
+   "blip_idx": 32,
+   "text": "Starzl's uncle, the late Frank Starzel, was general manager of The Associated Press from 1948 to 1962. Starzl is survived by his wife of 36 years, Joy Starzl, his son, Timothy, and a grandchild."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 32,
+    "new": 33,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 31,
+    "new": 32,
+    "dist_old": 3.00231765695236e-07,
+    "dist_new": 3.00231765695236e-07
+   },
+   {
+    "old": 27,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 29,
+    "new": 29,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 30,
+    "new": 31,
+    "dist_old": 0.1906262320605881,
+    "dist_new": 0.1906262320605881
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 28,
+    "new": 28,
+    "dist_old": 0.28497518610470035,
+    "dist_new": 0.28497518610470035
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "added",
+   "edited",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": [
+   30
+  ]
+ },
+ "document_old": "PITTSBURGH (AP) -- Dr. Thomas Starzl, who pioneered liver transplant surgery in the 1960s and was a leading researcher into anti-rejection drugs, has died. He was 90. The University of Pittsburgh, speaking on behalf of Starzl's family, said the renowned doctor died Saturday at his home in Pittsburgh. Starzl performed the world's first liver transplant in 1963 and the world's first successful liver transplant in 1967, and pioneered kidney transplantation from cadavers. He later perfected the process by using identical twins and, eventually, other blood relatives as donors. Since Starzl's first successful liver transplant, thousands of lives have been saved by similar operations. \"We regard him as the father of transplantation,\" said Dr. Abhinav Humar, clinical director of the Thomas E. Starzl Transplantation Institute. \"His legacy in transplantation is hard to put into words - it's really immense. \" Starzl joined the University of Pittsburgh School of Medicine in 1981 as professor of surgery, where his studies on the anti-rejection drug cyclosporin transformed transplantation from an experimental procedure into one that gave patients a hope they could survive an otherwise fatal organ failure. It was Starzl's development of cyclosporin in combination with steroids that offered a solution to organ rejection. Until 1991, Starzl served as chief of transplant services at UPMC, then was named director of the University of Pittsburgh Transplantation Institute, where he continued research on a process he called chimerism, based on a 1992 paper he wrote on the theory that new organs and old bodies \"learn\" to co-exist without immunosupression drugs. The institute was renamed in Starzl's honor in 1996, and he continued as its director. In his 1992 autobiography, \"The Puzzle People: Memoirs of a Transplant Surgeon,\" Starzl said he actually hated performing surgery and was sickened with fear each time he prepared for an operation. \"I was striving for liberation my whole life,\" he said in an interview. Starzl's career-long interest in research began with a liver operation he assisted on while a resident at Johns Hopkins Hospital in Baltimore. After the surgery to redirect blood flow around the liver, he noticed the patient's sugar diabetes also had improved. Thinking he had found the cause of diabetes to be in the liver rather than the pancreas, he designed experiments in 1956 with dogs to prove his discovery. He was wrong, but had started on the path that would lead to the first human liver transplants at the University of Colorado in Denver seven years later. In the early 1990s, livers from baboons were transplanted into humans, an operation made possible by Starzl's research into alternatives to scarce human livers. While work continues on such animal-to-human transplants, most researchers now focus on pigs rather than primates and use genetic engineering to try to knock out some proteins most involved in causing acute rejection, Humar said. Starzl's other accomplishments included inventing a way to route the blood supply around the liver during surgery to make possible the marathon hours required to complete operations involving that complex organ. He also showed that \"soldier cells\" from the transplanted organ become \"missionary cells\" that travel throughout the new body and find new homes, apparently helping the body accept the foreign organ. Starzl helped develop with Dr. John Fung, his protege at UPMC and successor as director of transplant surgery, the use of the experimental anti-rejection drug FK506, which paved the way to more complicated transplants of multiple organs, including the difficult small intestine. FK506 was discovered in a soil sample by Japanese researchers. In September 1990, at age 65, Starzl put away his scalpel for good, soon after the death of a famous young patient: a 14-year-old girl from White Settlement, Texas, named Stormie Jones. Starzl also underwent a heart bypass operation in 1990 and suffered lingering vision problems from a laser accident five years earlier. Stormie lived six years after a combination heart-liver transplant at age 8 but needed a second liver in 1990 and died within nine months. Her death affected Starzl greatly. \"It is true that transplant surgeons saved patients, but the patients rescued us in turn and gave meaning to what we did, or tried to,\" he once wrote. Allegheny County Executive Rich Fitzgerald called Starzl \"a true Pittsburgh icon and hero,\" whose research had worldwide impact and had proven an economic boon to the region as well. \"The number of lives which were, and continue to be transformed, by Dr. Starzl's groundbreaking work are immeasurable,\" he said. Starzl was born March 11, 1926, in LeMars, Iowa. His mother was a nurse and his father was a science fiction writer and the publisher of the local newspaper. Starzl's uncle, the late Frank Starzel, was general manager of The Associated Press from 1948 to 1962. Starzl is survived by his wife of 36 years, Joy Starzl, his son, Timothy, and a grandchild.",
+ "document_new": "PITTSBURGH (AP) -- Dr. Thomas Starzl, who pioneered liver transplant surgery in the 1960s and was a leading researcher into anti-rejection drugs, has died. He was 90. The University of Pittsburgh, speaking on behalf of Starzl's family, said the renowned doctor died Saturday at his home in Pittsburgh. Starzl performed the world's first liver transplant in 1963 and the world's first successful liver transplant in 1967, and pioneered kidney transplantation from cadavers. He later perfected the process by using identical twins and, eventually, other blood relatives as donors. Since Starzl's first successful liver transplant, thousands of lives have been saved by similar operations. \"We regard him as the father of transplantation,\" said Dr. Abhinav Humar, clinical director of the Thomas E. Starzl Transplantation Institute. \"His legacy in transplantation is hard to put into words - it's really immense. \" Starzl joined the University of Pittsburgh School of Medicine in 1981 as professor of surgery, where his studies on the anti-rejection drug cyclosporin transformed transplantation from an experimental procedure into one that gave patients a hope they could survive an otherwise fatal organ failure. It was Starzl's development of cyclosporin in combination with steroids that offered a solution to organ rejection. Until 1991, Starzl served as chief of transplant services at UPMC, then was named director of the University of Pittsburgh Transplantation Institute, where he continued research on a process he called chimerism, based on a 1992 paper he wrote on the theory that new organs and old bodies \"learn\" to co-exist without immunosupression drugs. The institute was renamed in Starzl's honor in 1996, and he continued as its director. In his 1992 autobiography, \"The Puzzle People: Memoirs of a Transplant Surgeon,\" Starzl said he actually hated performing surgery and was sickened with fear each time he prepared for an operation. \"I was striving for liberation my whole life,\" he said in an interview. Starzl's career-long interest in research began with a liver operation he assisted on while a resident at Johns Hopkins Hospital in Baltimore. After the surgery to redirect blood flow around the liver, he noticed the patient's sugar diabetes also had improved. Thinking he had found the cause of diabetes to be in the liver rather than the pancreas, he designed experiments in 1956 with dogs to prove his discovery. He was wrong, but had started on the path that would lead to the first human liver transplants at the University of Colorado in Denver seven years later. In the early 1990s, livers from baboons were transplanted into humans, an operation made possible by Starzl's research into alternatives to scarce human livers. While work continues on such animal-to-human transplants, most researchers now focus on pigs rather than primates and use genetic engineering to try to knock out some proteins most involved in causing acute rejection, Humar said. Starzl's other accomplishments included inventing a way to route the blood supply around the liver during surgery to make possible the marathon hours required to complete operations involving that complex organ. He also showed that \"soldier cells\" from the transplanted organ become \"missionary cells\" that travel throughout the new body and find new homes, apparently helping the body accept the foreign organ. Starzl helped develop with Dr. John Fung, his protege at UPMC and successor as director of transplant surgery, the use of the experimental anti-rejection drug FK506, which paved the way to more complicated transplants of multiple organs, including the difficult small intestine. FK506 was discovered in a soil sample by Japanese researchers. In September 1990, at age 65, Starzl put away his scalpel for good, soon after the death of a famous young patient: a 14-year-old girl from White Settlement, Texas, named Stormie Jones. Starzl also underwent a heart bypass operation in 1990 and suffered lingering vision problems from a laser accident five years earlier. Stormie lived six years after a combination heart-liver transplant at age 8 but needed a second liver in 1990 and died within nine months. Her death affected Starzl greatly. \"It is true that transplant surgeons saved patients, but the patients rescued us in turn and gave meaning to what we did, or tried to,\" he once wrote. Allegheny County Executive Rich Fitzgerald called Starzl \"a true Pittsburgh icon and hero,\" whose research had worldwide impact. \"The number of lives which were, and continue to be transformed, by Dr. Starzl's groundbreaking work are immeasurable,\" he said. Pittsburgh Mayor William Peduto said Starzl \"laid the foundation for the University of Pittsburgh's continued leadership in biomedical research and transplant surgery, and we are forever grateful for his legacy. \" Starzl was born March 11, 1926, in LeMars, Iowa. His mother was a nurse and his father was a science fiction writer and the publisher of the local newspaper. Starzl's uncle, the late Frank Starzel, was general manager of The Associated Press from 1948 to 1962. Starzl is survived by his wife of 36 years, Joy Starzl, his son, Timothy, and a grandchild.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What is the birth date of Starzl? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "How old was Starzl when he passed away? Answer with the number only."
+  },
+  {
+   "task_id": "bool_001",
+   "type": "boolean",
+   "prompt": "Was Thomas E. Starzl older than 68 when he passed away? Answer Yes or No."
+  },
+  {
+   "task_id": "bool_002",
+   "type": "boolean",
+   "prompt": "Was Thomas E. Starzl older than 112 when he passed away? Answer Yes or No."
+  },
+  {
+   "task_id": "bool_003",
+   "type": "boolean",
+   "prompt": "Was William Peduto the Pittsburgh Mayor who commented on Starzl's legacy? Answer Yes or No."
+  }
+ ]
+}

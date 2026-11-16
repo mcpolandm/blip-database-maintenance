@@ -1,0 +1,340 @@
+{
+ "pair_id": "ap_4458_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "LITTLE ROCK, Ark."
+  },
+  {
+   "blip_idx": 1,
+   "text": "(AP) - An Arkansas lawmaker wants to expand the state's indecent exposure in a move that opponents say could criminalize transgender people's use of bathrooms."
+  },
+  {
+   "blip_idx": 2,
+   "text": "Republican Rep."
+  },
+  {
+   "blip_idx": 3,
+   "text": "Bob Ballinger's proposal would make it a crime for people to knowingly expose their sex organs to someone of the opposite sex in a public place under circumstances likely to cause alarm."
+  },
+  {
+   "blip_idx": 4,
+   "text": "Ballinger said the measure was needed to protect children in situations such as when a father takes his daughter into the men's restroom."
+  },
+  {
+   "blip_idx": 5,
+   "text": "The bill would make it a crime for the men to deliberately expose themselves to the child."
+  },
+  {
+   "blip_idx": 6,
+   "text": "But American Civil Liberties Union of Arkansas legal director Holly Dickson says laws already are in place to address people acting with criminal intent in public restrooms."
+  },
+  {
+   "blip_idx": 7,
+   "text": "Dickson says Ballinger's bill is just a way to make it a crime for transgender people to use bathrooms that correspond with their gender identity."
+  },
+  {
+   "blip_idx": 8,
+   "text": "\"This bill is intimidating."
+  },
+  {
+   "blip_idx": 9,
+   "text": "It can lead to increased harassment."
+  },
+  {
+   "blip_idx": 10,
+   "text": "It will chill transgender people's participation in public life,\" Dickson said."
+  },
+  {
+   "blip_idx": 11,
+   "text": "She noted the impact statement attached to the proposed measure, which says there were only seven convictions for violations of Arkansas' current indecent exposure law from 2013 to 2015. \"It is creating problems where there are no problems,\" Dickson said."
+  },
+  {
+   "blip_idx": 12,
+   "text": "The Human Rights Campaign said in a statement that the measure \"exposes Arkansas to tremendous risk of the kind of financial, legal, and political blowback that has beset North Carolina since the passage of HB2.\" The NCAA pulled seven championship events from the state because of the North Carolina law that requires transgender people to use restrooms at schools and government buildings corresponding to the sex on their birth certificate."
+  },
+  {
+   "blip_idx": 13,
+   "text": "North Carolina's law also excludes gender identity and sexual orientation from local and statewide anti-discrimination protections."
+  },
+  {
+   "blip_idx": 14,
+   "text": "This year's NBA All-Star game was moved from Charlotte, North Carolina, to New Orleans, and some musicians canceled concerts in the state as a result of the law's passage a year ago."
+  },
+  {
+   "blip_idx": 15,
+   "text": "Republican Gov."
+  },
+  {
+   "blip_idx": 16,
+   "text": "Asa Hutchinson has said Arkansas does not need legislation like North Carolina's."
+  },
+  {
+   "blip_idx": 17,
+   "text": "National Center for Transgender Equality executive director Mara Keisling said the Arkansas bill is clearly aimed at the transgender community and could have an impact on the state's economy."
+  },
+  {
+   "blip_idx": 18,
+   "text": "\"It makes Arkansas a harder place to grow jobs. As there have been more diverse workplaces, companies have to set up shop where they can send employees,\" Keisling said."
+  },
+  {
+   "blip_idx": 19,
+   "text": "But Ballinger said he saw a gap in the indecent exposure law and that he doesn't believe his proposal will affect the transgender community."
+  },
+  {
+   "blip_idx": 20,
+   "text": "\"It doesn't seem like there'd be a problem,\" Ballinger said."
+  },
+  {
+   "blip_idx": 21,
+   "text": "The House has already passed the bill."
+  },
+  {
+   "blip_idx": 22,
+   "text": "It will now go to the Senate Committee on Judiciary."
+  },
+  {
+   "blip_idx": 23,
+   "text": "Another bill has been proposed in the Arkansas Legislature that would require people in public schools and government buildings use bathrooms and locker rooms that correspond to their gender at birth."
+  },
+  {
+   "blip_idx": 24,
+   "text": "The bill, which the governor has opposed, is pending in committee."
+  },
+  {
+   "blip_idx": 25,
+   "text": "--- Follow Tafi Mukunyadzi on Twitter at www.twitter.com/TafiMukunyadzi"
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.1197505797216052,
+    "dist_new": 0.1197505797216052
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "LITTLE ROCK, Ark. (AP) -- An Arkansas lawmaker wants to expand the state's indecent exposure in a move that opponents say could criminalize transgender people's use of bathrooms. Republican Rep. Bob Ballinger's proposal would make it a crime for people to knowingly expose their sex organs to someone of the opposite sex in a public place under circumstances likely to cause alarm. Ballinger said the measure was needed to protect children in situations such as when a father takes his daughter into the men's restroom. The bill would make it a crime for the men to deliberately expose themselves to the child. But American Civil Liberties Union of Arkansas legal director Holly Dickson says laws already are in place to address people acting with criminal intent in public restrooms. Dickson says Ballinger's bill is just a way to make it a crime for transgender people to use bathrooms that correspond with their gender identity. \"This bill is intimidating. It can lead to increased harassment. It will chill transgender people's participation in public life,\" Dickson said. She noted the impact statement attached to the proposed measure, which says there were only seven convictions for violations of Arkansas' current indecent exposure law from 2013 to 2015. \"It is creating problems where there are no problems,\" Dickson said. The Human Rights Campaign said in a statement that the measure \"exposes Arkansas to tremendous risk of the kind of financial, legal, and political blowback that has beset North Carolina since the passage of HB2.\" The NCAA pulled seven championship events from the state because of the North Carolina law that requires transgender people to use restrooms at schools and government buildings corresponding to the sex on their birth certificate. North Carolina's law also excludes gender identity and sexual orientation from local and statewide anti-discrimination protections. This year's NBA All-Star game was moved from Charlotte, North Carolina, to New Orleans, and some musicians canceled concerts in the state as a result of the law's passage a year ago. Republican Gov. Asa Hutchinson has said Arkansas does not need legislation like North Carolina's. National Center for Transgender Equality executive director Mara Keisling said the Arkansas bill is clearly aimed at the transgender community and could have an impact on the state's economy. \"It makes Arkansas a harder place to grow jobs. As there have been more diverse workplaces, companies have to set up shop where they can send employees,\" Keisling said. But Ballinger said he saw a gap in the indecent exposure law and that he doesn't believe his proposal will affect the transgender community. \"It doesn't seem like there'd be a problem,\" Ballinger said. The House has already passed the bill. It will now go to the Senate Committee on Judiciary. Another bill has been proposed in the Arkansas Legislature that would require people in public schools and government buildings use bathrooms and locker rooms that correspond to their gender at birth. The bill, which the governor has opposed, is pending in committee. --- Follow Tafi Mukunyadzi on Twitter at www.twitter.com/TafiMukunyadzi",
+ "document_new": "LITTLE ROCK, Ark. (AP) -- An Arkansas lawmaker wants to expand the state's indecent exposure law in a move that opponents say could criminalize transgender people's use of bathrooms. Republican Rep. Bob Ballinger's proposal would make it a crime for people to knowingly expose their sex organs to someone of the opposite sex in a public place under circumstances likely to cause alarm. Ballinger said the measure was needed to protect children in situations such as when a father takes his daughter into the men's restroom. The bill would make it a crime for the men to deliberately expose themselves to the child. But American Civil Liberties Union of Arkansas legal director Holly Dickson says laws already are in place to address people acting with criminal intent in public restrooms. Dickson says Ballinger's bill is just a way to make it a crime for transgender people to use bathrooms that correspond with their gender identity. \"This bill is intimidating. It can lead to increased harassment. It will chill transgender people's participation in public life,\" Dickson said. She noted the impact statement attached to the proposed measure, which says there were only seven convictions for violations of Arkansas' current indecent exposure law from 2013 to 2015. \"It is creating problems where there are no problems,\" Dickson said. The Human Rights Campaign said in a statement that the measure \"exposes Arkansas to tremendous risk of the kind of financial, legal, and political blowback that has beset North Carolina since the passage of HB2.\" The NCAA pulled seven championship events from the state because of the North Carolina law that requires transgender people to use restrooms at schools and government buildings corresponding to the sex on their birth certificate. North Carolina's law also excludes gender identity and sexual orientation from local and statewide anti-discrimination protections. This year's NBA All-Star game was moved from Charlotte, North Carolina, to New Orleans, and some musicians canceled concerts in the state as a result of the law's passage a year ago. Republican Gov. Asa Hutchinson has said Arkansas does not need legislation like North Carolina's. National Center for Transgender Equality executive director Mara Keisling said the Arkansas bill is clearly aimed at the transgender community and could have an impact on the state's economy. \"It makes Arkansas a harder place to grow jobs. As there have been more diverse workplaces, companies have to set up shop where they can send employees,\" Keisling said. But Ballinger said he saw a gap in the indecent exposure law and that he doesn't believe his proposal will affect the transgender community. \"It doesn't seem like there'd be a problem,\" Ballinger said. The House has already passed the bill. It will now go to the Senate Committee on Judiciary. Another bill has been proposed in the Arkansas Legislature that would require people in public schools and government buildings use bathrooms and locker rooms that correspond to their gender at birth. The bill, which the governor has opposed, is pending in committee. --- Follow Tafi Mukunyadzi on Twitter at www.twitter.com/TafiMukunyadzi",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What does the Arkansas lawmaker want to expand? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "How many convictions were there for violations of Arkansas' current indecent exposure law from 2013 to 2015? Answer in as few words as possible."
+  }
+ ]
+}

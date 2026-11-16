@@ -1,0 +1,652 @@
+{
+ "pair_id": "ap_2457_2_3",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "PARIS (AP) -- If Marine Le Pen has her way, the French will soon pay for their baguettes with francs, not euros."
+  },
+  {
+   "blip_idx": 1,
+   "text": "The presidential candidate from the anti-EU, anti-immigration National Front party is all about national sovereignty and independence."
+  },
+  {
+   "blip_idx": 2,
+   "text": "She wants France to take control of its money, subject to a referendum that would lead France out of the European Union and its shared currency."
+  },
+  {
+   "blip_idx": 3,
+   "text": "But how would France pull off a euro exit, or \"Frexit\"? No country has left the euro since its creation in 1999."
+  },
+  {
+   "blip_idx": 4,
+   "text": "A number of economists paint dire scenarios in which the departure of one of the euro's 19 countries unleashes chaos: market plunges, controls on money transfers, customs officers stopping people carrying suitcases of cash out of the country, a plague of defaults and lawsuits on bonds and contracts."
+  },
+  {
+   "blip_idx": 5,
+   "text": "The euro was designed to be irrevocable."
+  },
+  {
+   "blip_idx": 6,
+   "text": "It's the \"Hotel California\" principle, as in the Eagles' song: you may wish to \"check out any time you like, but you can never leave.\" Le Pen is leading polls for the first round of voting April 23;"
+  },
+  {
+   "blip_idx": 7,
+   "text": "most polls and prognosticators see her losing the second round on May"
+  },
+  {
+   "blip_idx": 8,
+   "text": "7. But after the British vote last year to leave the 28-member European Union, and after Donald Trump's election as U.S."
+  },
+  {
+   "blip_idx": 9,
+   "text": "President, fewer people are taking a Le Pen defeat for granted."
+  },
+  {
+   "blip_idx": 10,
+   "text": "Here are scenarios - starting with an explanation of Le Pen's position by Jean Messiha, the economist who drafted her 144-point electoral program."
+  },
+  {
+   "blip_idx": 11,
+   "text": "--- SOFT FREXIT Messiha downplays apocalyptic scenarios, saying that since a disorderly breakup would harm other euro countries they have a motive to sit down and negotiate France's smooth exit - a \"soft Frexit\" rather than a \"hard Frexit,\" in which France simply pulls out with no agreement or cooperation."
+  },
+  {
+   "blip_idx": 12,
+   "text": "Her election \"will be a shock in Europe that will bring our partners around the table,\" Messiha told The Associated Press."
+  },
+  {
+   "blip_idx": 13,
+   "text": "The National Front, known in France by its acronym FN, foresees \"a six-month negotiation period with our partners regarding what will be the new monetary framework, the new type of cooperation once we decide to go outside the euro,\" he said."
+  },
+  {
+   "blip_idx": 14,
+   "text": "\"If the French people make the choice of Frexit, our partners could not continue to behave as if nothing has happened..."
+  },
+  {
+   "blip_idx": 15,
+   "text": "The withdrawal of a country as large as France is not a minor event."
+  },
+  {
+   "blip_idx": 16,
+   "text": "It will have very important collateral impact on the eurozone."
+  },
+  {
+   "blip_idx": 17,
+   "text": "They will be forced to come to the table and negotiate a soft Frexit, not for our sake but for their own sake also."
+  },
+  {
+   "blip_idx": 18,
+   "text": "\" Le Pen and the National Front view the euro, which almost broke up during a debt crisis in 2010-2012, as headed for a breakup eventually in any case."
+  },
+  {
+   "blip_idx": 19,
+   "text": "\"It is always better to prepare the end of the eurozone instead of waiting until the end, until the eurozone itself explodes,\" Messiha said."
+  },
+  {
+   "blip_idx": 20,
+   "text": "The National Front is open to different forms of post-exit cooperation."
+  },
+  {
+   "blip_idx": 21,
+   "text": "Le Pen has mentioned the European currency unit, called ECU, which predated the euro."
+  },
+  {
+   "blip_idx": 22,
+   "text": "The ECU was a weighted average of national currencies, used as a reference point so that countries could keep their national currencies in a stable but adjustable relationship to each other."
+  },
+  {
+   "blip_idx": 23,
+   "text": "--- THE APOCALYPSE A number of economists say a French euro exit would provoke a financial and economic disaster."
+  },
+  {
+   "blip_idx": 24,
+   "text": "That is because owners of stocks, bonds, real estate and other assets would fear having their holdings redenominated into a reborn franc that would likely fall in value."
+  },
+  {
+   "blip_idx": 25,
+   "text": "So they would sell everything before the currency switch could be carried out."
+  },
+  {
+   "blip_idx": 26,
+   "text": "And then France would default on its government bonds for trying to substitute new francs as repayment."
+  },
+  {
+   "blip_idx": 27,
+   "text": "Corporate borrowers would be in default, or else struggle to pay debts in suddenly more valuable euros."
+  },
+  {
+   "blip_idx": 28,
+   "text": "Switching currencies on bond holders \"is default, full stop,\" said economist Carsten Brzeski at ING-DiBa."
+  },
+  {
+   "blip_idx": 29,
+   "text": "\"You're going to call your lawyer."
+  },
+  {
+   "blip_idx": 30,
+   "text": "\" Economist Cinzia Alcidi, the head of the economic policy unit at the Center for European Policy Studies in Brussels, used the word \"apocalyptic.\" Political leaders have shied away from letting Greece slide out of the euro because of that fear of disruption."
+  },
+  {
+   "blip_idx": 31,
+   "text": "A French exit would be even more disruptive because France is so much bigger."
+  },
+  {
+   "blip_idx": 32,
+   "text": "\"It would mean the end of the euro and the collapse of the entire banking system in Europe, given the size and linkages of the French banks,\" Alcidi said."
+  },
+  {
+   "blip_idx": 33,
+   "text": "\"Italy and other countries would follow, or maybe even lead the exit and the sovereign default will be inevitable.\" She said the impact of redenominating contracts and setting up new monetary authorities is \"impossible to estimate with any realism.\" As for negotiating a \"soft\" exit, forget about it, says Nicolas Veron, visiting fellow at the Peterson Institute for International Economics."
+  },
+  {
+   "blip_idx": 34,
+   "text": "\"That assumes a consensus that the euro needs to be dismantled and that consensus is not there."
+  },
+  {
+   "blip_idx": 35,
+   "text": "It's an impossible assumption."
+  },
+  {
+   "blip_idx": 36,
+   "text": "\" Veron said the National Front and Le Pen \"are talking about things that are almost impossible as if they were likely. They seem more concerned with sound bites and what resonates with the public.\" --- SOVEREIGNTY FIRST Messiha says there could be disruption but says it would soon pass, as it did after the vote in Britain, which however is not part of the euro."
+  },
+  {
+   "blip_idx": 37,
+   "text": "He claims the new franc would fall only by a manageable 5-10 percent against the dollar."
+  },
+  {
+   "blip_idx": 38,
+   "text": "The euro itself has fallen against the dollar by some 23 percent since 2014 and that helped eurozone exporters."
+  },
+  {
+   "blip_idx": 39,
+   "text": "He disputed the notion that France would automatically be found in default on its government bonds if it switched currencies, saying that under international law a country's debt is assumed to be in its own currency."
+  },
+  {
+   "blip_idx": 40,
+   "text": "Assistance could be provided for corporations."
+  },
+  {
+   "blip_idx": 41,
+   "text": "And the French central bank could support the government's ability to borrow by buying its debt, something that's restricted under the euro."
+  },
+  {
+   "blip_idx": 42,
+   "text": "In any case, he said, it is important to \"break the monopoly of financing through the financial markets..."
+  },
+  {
+   "blip_idx": 43,
+   "text": "Politics must dominate economics."
+  },
+  {
+   "blip_idx": 44,
+   "text": "\" --- A HOUSE DIVIDED But wait: even a Le Pen victory would not mean she could implement all her plans."
+  },
+  {
+   "blip_idx": 45,
+   "text": "That's because the National Front currently has only two seats in the National Assembly."
+  },
+  {
+   "blip_idx": 46,
+   "text": "She would need a strong showing in the parliamentary vote June 11 and"
+  },
+  {
+   "blip_idx": 47,
+   "text": "18. Otherwise, she could face a prime minister from an opposing party."
+  },
+  {
+   "blip_idx": 48,
+   "text": "Under the constitution, the president names the prime minister, but that prime minister must be acceptable to a majority of deputies."
+  },
+  {
+   "blip_idx": 49,
+   "text": "Says economist Holger Schmieding at Berenberg Bank: \"The likely result would be a protracted political stalemate and a serious dent to growth amid heightened uncertainty, but not a Frexit.\" A Le Pen victory could, however, indirectly undermine the euro by installing an opponent of the currency union at the head of the second-largest member country."
+  },
+  {
+   "blip_idx": 50,
+   "text": "That could damage confidence in the region and worsen a crisis that erupts elsewhere, such as heavily indebted Italy or Greece."
+  },
+  {
+   "blip_idx": 51,
+   "text": "--- McHugh contributed from Frankfurt, Germany."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 35,
+    "new": 35,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 33,
+    "new": 33,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 38,
+    "new": 38,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 32,
+    "new": 32,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 41,
+    "new": 41,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 46,
+    "new": 46,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 36,
+    "new": 36,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 43,
+    "new": 43,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 44,
+    "new": 44,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 31,
+    "new": 31,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 47,
+    "new": 47,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 40,
+    "new": 40,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 50,
+    "new": 50,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 49,
+    "new": 49,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.03935847328596993,
+    "dist_new": 0.03893920938289439
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 48,
+    "new": 48,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 37,
+    "new": 37,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 45,
+    "new": 45,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 51,
+    "new": 51,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 29,
+    "new": 29,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 39,
+    "new": 39,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 30,
+    "new": 30,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 42,
+    "new": 42,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 28,
+    "new": 28,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 34,
+    "new": 34,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "PARIS (AP) -- If Marine Le Pen has her way, the French will soon pay for their baguettes with francs, not euros. The presidential candidate from the anti-EU, anti-immigration National Front party is all about national sovereignty and independence. She wants France to take control of its money, subject to a referendum that would lead France out of the European Union and its shared currency. But how would France pull off a euro exit, or \"Frexit\"? No country has left the euro since its creation in 1999. A number of economists paint dire scenarios in which the departure of one of the euro's 19 countries unleashes chaos: market plunges, controls on money transfers, customs officers stopping people carrying suitcases of cash out of the country, a plague of defaults and lawsuits on bonds and contracts. The euro was designed to be irrevocable. It's the \"Hotel California\" principle, as in the Eagles' song: you may wish to \"check out any time you like, but you can never leave.\" Le Pen is leading polls for the first round of voting April 23; most polls and prognosticators see her losing the second round on May 7. But after the British vote last year to leave the 28-member European Union, and after Donald Trump's election as U.S. President, fewer people are taking a Le Pen defeat for granted. Here are scenarios - starting with an explanation of Le Pen's position by Jean Messiha, the economist who drafted her 144-point electoral program. --- SOFT FREXIT Messiha downplays apocalyptic scenarios, saying that since a disorderly breakup would harm other euro countries they have a motive to sit down and negotiate France's smooth exit - a \"soft Frexit\" rather than a \"hard Frexit,\" in which France simply pulls out with no agreement or cooperation. Her election \"will be a shock in Europe that will bring our partners around the table,\" Messiha told The Associated Press. The National Front, known in France by its acronym FN, foresees \"a six-month negotiation period with our partners regarding what will be the new monetary framework, the new type of cooperation once we decide to go outside the euro,\" he said. \"If the French people make the choice of Frexit, our partners could not continue to behave as if nothing has happened... The withdrawal of a country as large as France is not a minor event. It will have very important collateral impact on the eurozone. They will be forced to come to the table and negotiate a soft Frexit, not for our sake but for their own sake also. \" Le Pen and the National Front view the euro, which almost broke up during a debt crisis in 2010-2012, as headed for a breakup eventually in any case. \"It is always better to prepare the end of the eurozone instead of waiting until the end, until the eurozone itself explodes,\" Messiha said. The National Front is open to different forms of post-exit cooperation. Le Pen has mentioned the European currency unit, called ECU, which predated the euro. The ECU was a weighted average of national currencies, used as a reference point so that countries could keep their national currencies in a stable but adjustable relationship to each other. --- THE APOCALYPSE A number of economists say a French euro exit would provoke a financial and economic disaster. That is because owners of stocks, bonds, real estate and other assets would fear having their holdings redenominated into a reborn franc that would likely fall in value. So they would sell everything before the currency switch could be carried out. And then France would default on its government bonds for trying to substitute new francs as repayment. Corporate borrowers would be in default, or else struggle to pay debts in suddenly more valuable euros. Switching currencies on bond holders \"is default, full stop,\" said economist Carsten Brzeski at ING-DiBa. \"You're going to call your lawyer. \" Economist Cinzia Alcidi, the head of the economic policy unit at the Center for European Policy Studies in Brussels, used the word \"apocalyptic.\" Political leaders have shied away from letting Greece slide out of the euro because of that fear of disruption. A French exit would be even more disruptive because France is so much bigger. \"It would mean the end of the euro and the collapse of the entire banking system in Europe, given the size and linkages of the French banks,\" Alcidi said. \"Italy and other countries would follow, or maybe even lead the exit and the sovereign default will be inevitable.\" She said the impact of redenominating contracts and setting up new monetary authorities is \"impossible to estimate with any realism.\" As for negotiating a \"soft\" exit, forget about it, says Nicolas Veron, visiting fellow at the Peterson Institute for International Economics. \"That assumes a consensus that the euro needs to be dismantled and that consensus is not there. It's an impossible assumption. \" Veron said the National Front and Le Pen \"are talking about things that are almost impossible as if they were likely. They seem more concerned with sound bites and what resonates with the public.\" --- SOVEREIGNTY FIRST Messiha says there could be disruption but says it would soon pass, as it did after the vote in Britain, which however is not part of the euro. He claims the new franc would fall only by a manageable 5-10 percent against the dollar. The euro itself has fallen against the dollar by some 23 percent since 2014 and that helped eurozone exporters. He disputed the notion that France would automatically be found in default on its government bonds if it switched currencies, saying that under international law a country's debt is assumed to be in its own currency. Assistance could be provided for corporations. And the French central bank could support the government's ability to borrow by buying its debt, something that's restricted under the euro. In any case, he said, it is important to \"break the monopoly of financing through the financial markets... Politics must dominate economics. \" --- A HOUSE DIVIDED But wait: even a Le Pen victory would not mean she could implement all her plans. That's because the National Front currently has only two seats in the National Assembly. She would need a strong showing in the parliamentary vote June 11 and 18. Otherwise, she could face a prime minister from an opposing party. Under the constitution, the president names the prime minister, but that prime minister must be acceptable to a majority of deputies. Says economist Holger Schmieding at Berenberg Bank: \"The likely result would be a protracted political stalemate and a serious dent to growth amid heightened uncertainty, but not a Frexit.\" A Le Pen victory could, however, indirectly undermine the euro by installing an opponent of the currency union at the head of the second-largest member country. That could damage confidence in the region and worsen a crisis that erupts elsewhere, such as heavily indebted Italy or Greece. --- McHugh contributed from Frankfurt, Germany.",
+ "document_new": "PARIS (AP) -- If Marine Le Pen has her way, the French will soon pay for their baguettes with francs, not euros. The presidential candidate from the anti-EU, anti-immigration National Front party is all about national sovereignty and independence. She wants France to take control of its money, subject to a referendum that would lead France out of the European Union and its shared currency. But how would France pull off a euro exit, or \"Frexit\"? No country has left the euro since its creation in 1999. A number of economists paint dire scenarios in which the departure of one of the euro's 19 countries unleashes chaos: market plunges, controls on money transfers, customs officers stopping people carrying suitcases of cash out of the country, a plague of defaults and lawsuits on bonds and contracts. The euro was designed to be irrevocable. It's the \"Hotel California\" principle, as in the Eagles' song: you may wish to \"check out any time you like, but you can never leave.\" Le Pen is leading polls for the first round of voting April 23; most polls and prognosticators see her losing the second round on May 7. But after the British vote last year to leave the 28-member European Union, and after Donald Trump's election as U.S. President, fewer people are taking a Le Pen defeat for granted. Here are scenarios - starting with an explanation of Le Pen's position by Jean Messiha, the economist who drafted her 144-point electoral program. --- SOFT FREXIT Messiha downplays apocalyptic scenarios, saying that since a disorderly breakup would harm other euro countries they have a motive to sit down and negotiate France's smooth exit - a \"soft Frexit\" rather than a \"hard Frexit\" in which France simply pulls out with no agreement or cooperation. Her election \"will be a shock in Europe that will bring our partners around the table,\" Messiha told The Associated Press. The National Front, known in France by its acronym FN, foresees \"a six-month negotiation period with our partners regarding what will be the new monetary framework, the new type of cooperation once we decide to go outside the euro,\" he said. \"If the French people make the choice of Frexit, our partners could not continue to behave as if nothing has happened... The withdrawal of a country as large as France is not a minor event. It will have very important collateral impact on the eurozone. They will be forced to come to the table and negotiate a soft Frexit, not for our sake but for their own sake also. \" Le Pen and the National Front view the euro, which almost broke up during a debt crisis in 2010-2012, as headed for a breakup eventually in any case. \"It is always better to prepare the end of the eurozone instead of waiting until the end, until the eurozone itself explodes,\" Messiha said. The National Front is open to different forms of post-exit cooperation. Le Pen has mentioned the European currency unit, called ECU, which predated the euro. The ECU was a weighted average of national currencies, used as a reference point so that countries could keep their national currencies in a stable but adjustable relationship to each other. --- THE APOCALYPSE A number of economists say a French euro exit would provoke a financial and economic disaster. That is because owners of stocks, bonds, real estate and other assets would fear having their holdings redenominated into a reborn franc that would likely fall in value. So they would sell everything before the currency switch could be carried out. And then France would default on its government bonds for trying to substitute new francs as repayment. Corporate borrowers would be in default, or else struggle to pay debts in suddenly more valuable euros. Switching currencies on bond holders \"is default, full stop,\" said economist Carsten Brzeski at ING-DiBa. \"You're going to call your lawyer. \" Economist Cinzia Alcidi, the head of the economic policy unit at the Center for European Policy Studies in Brussels, used the word \"apocalyptic.\" Political leaders have shied away from letting Greece slide out of the euro because of that fear of disruption. A French exit would be even more disruptive because France is so much bigger. \"It would mean the end of the euro and the collapse of the entire banking system in Europe, given the size and linkages of the French banks,\" Alcidi said. \"Italy and other countries would follow, or maybe even lead the exit and the sovereign default will be inevitable.\" She said the impact of redenominating contracts and setting up new monetary authorities is \"impossible to estimate with any realism.\" As for negotiating a \"soft\" exit, forget about it, says Nicolas Veron, visiting fellow at the Peterson Institute for International Economics. \"That assumes a consensus that the euro needs to be dismantled and that consensus is not there. It's an impossible assumption. \" Veron said the National Front and Le Pen \"are talking about things that are almost impossible as if they were likely. They seem more concerned with sound bites and what resonates with the public.\" --- SOVEREIGNTY FIRST Messiha says there could be disruption but says it would soon pass, as it did after the vote in Britain, which however is not part of the euro. He claims the new franc would fall only by a manageable 5-10 percent against the dollar. The euro itself has fallen against the dollar by some 23 percent since 2014 and that helped eurozone exporters. He disputed the notion that France would automatically be found in default on its government bonds if it switched currencies, saying that under international law a country's debt is assumed to be in its own currency. Assistance could be provided for corporations. And the French central bank could support the government's ability to borrow by buying its debt, something that's restricted under the euro. In any case, he said, it is important to \"break the monopoly of financing through the financial markets... Politics must dominate economics. \" --- A HOUSE DIVIDED But wait: even a Le Pen victory would not mean she could implement all her plans. That's because the National Front currently has only two seats in the National Assembly. She would need a strong showing in the parliamentary vote June 11 and 18. Otherwise, she could face a prime minister from an opposing party. Under the constitution, the president names the prime minister, but that prime minister must be acceptable to a majority of deputies. Says economist Holger Schmieding at Berenberg Bank: \"The likely result would be a protracted political stalemate and a serious dent to growth amid heightened uncertainty, but not a Frexit.\" A Le Pen victory could, however, indirectly undermine the euro by installing an opponent of the currency union at the head of the second-largest member country. That could damage confidence in the region and worsen a crisis that erupts elsewhere, such as heavily indebted Italy or Greece. --- McHugh contributed from Frankfurt, Germany.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What type of exit does Messiha suggest for France? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "Who could she face if the conditions are not met? Answer in as few words as possible."
+  }
+ ]
+}

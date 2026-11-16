@@ -1,0 +1,280 @@
+{
+ "pair_id": "ap_15253_2_3",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "LOS ANGELES (AP) -- New witnesses have emerged in the 1981 drowning of actress Natalie Wood, prompting investigators to deem it a \"suspicious death\" and name her former husband, 87-year-old actor Robert Wagner, a \"person of interest,\" Los Angeles sheriff's officials said Thursday."
+  },
+  {
+   "blip_idx": 1,
+   "text": "For nearly four decades, mystery and speculation have swirled around the death of the actress who was nominated for three Academy Awards and starred in \"West Side Story\" and \"Rebel Without a Cause.\" She was on a yacht with Wagner, actor Christopher Walken and the boat captain on Thanksgiving weekend of 1981."
+  },
+  {
+   "blip_idx": 2,
+   "text": "After a night of drinking, her body was found floating in the waters off Southern California's Catalina Island."
+  },
+  {
+   "blip_idx": 3,
+   "text": "She was 43. Investigators initially ruled it an accident but reopened the case in 2011 to see whether Wagner or anyone else played a role after the boat's captain said he heard the couple arguing the night of her disappearance."
+  },
+  {
+   "blip_idx": 4,
+   "text": "The coroner's office amended Wood's death certificate the next year to include \"drowning and other undetermined factors.\" In a statement Thursday, sheriff's spokeswoman Nicole Nishida said new witnesses interviewed since the case was reopened gave statements that \"portray a new sequence of events on the boat that night.\" One of the witnesses described hearing yelling and crashing sounds coming from the couple's stateroom, she said."
+  },
+  {
+   "blip_idx": 5,
+   "text": "Shortly after that, separate witnesses heard a man and woman arguing on the back of the boat and believe the voices were those of Wood and Wagner, Nishida said."
+  },
+  {
+   "blip_idx": 6,
+   "text": "The statements differed from the original version of events provided by witnesses, including those who were on the boat, she said."
+  },
+  {
+   "blip_idx": 7,
+   "text": "The sheriff's department said Wagner is considered a person of interest."
+  },
+  {
+   "blip_idx": 8,
+   "text": "\"Do we have enough to make an arrest at this moment?"
+  },
+  {
+   "blip_idx": 9,
+   "text": "No,\" Nishida said."
+  },
+  {
+   "blip_idx": 10,
+   "text": "The police statement was issued after CBS News aired an interview with Los Angeles County sheriff's Lt."
+  },
+  {
+   "blip_idx": 11,
+   "text": "John Corina, who said he doesn't believe Wagner has told the whole story about what happened."
+  },
+  {
+   "blip_idx": 12,
+   "text": "Investigators have said Wagner has not been interviewed since the probe was reopened."
+  },
+  {
+   "blip_idx": 13,
+   "text": "They said in 2013 that they had tried at least 10 times to interview him but he refused."
+  },
+  {
+   "blip_idx": 14,
+   "text": "Wagner has denied any involvement in his wife's death and no charges have been filed."
+  },
+  {
+   "blip_idx": 15,
+   "text": "His publicist, Alan Nierob, declined to comment Thursday."
+  },
+  {
+   "blip_idx": 16,
+   "text": "Conflicting versions of what happened on the yacht have contributed to the mystery of her death."
+  },
+  {
+   "blip_idx": 17,
+   "text": "Wood, Wagner and Walken had all been drinking heavily in the hours before the actress disappeared."
+  },
+  {
+   "blip_idx": 18,
+   "text": "Wagner wrote in a 2008 memoir that he and Walken argued that night."
+  },
+  {
+   "blip_idx": 19,
+   "text": "He wrote that Walken went to bed and he stayed up for a while, but when he went to bed, he noticed that his wife and a dinghy that had been attached to the yacht were missing."
+  },
+  {
+   "blip_idx": 20,
+   "text": "--- Follow Michael Balsamo on Twitter at http://www.twitter.com/MikeBalsamo1 ."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.056102908143408806,
+    "dist_new": 0.056102908143408806
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "LOS ANGELES (AP) -- New witnesses have emerged in the 1981 drowning of actress Natalie Wood, prompting investigators to deem it a \"suspicious death\" and name her former husband, 87-year-old actor Robert Wagner, a \"person of interest,\" Los Angeles sheriff's officials said Thursday. For nearly four decades, mystery and speculation have swirled around the death of the actress who was nominated for three Academy Awards and starred in \"West Side Story\" and \"Rebel Without a Cause.\" She was on a yacht with Wagner, actor Christopher Walken and the boat captain on Thanksgiving weekend of 1981. After a night of drinking, her body was found floating in the waters off Southern California's Catalina Island. She was 43. Investigators initially ruled it an accident but reopened the case in 2011 to see whether Wagner or anyone else played a role after the boat's captain said he heard the couple arguing the night of her disappearance. The coroner's office amended Wood's death certificate the next year to include \"drowning and other undetermined factors.\" In a statement Thursday, sheriff's spokeswoman Nicole Nishida said new witnesses interviewed since the case was reopened gave statements that \"portray a new sequence of events on the boat that night.\" One of the witnesses described hearing yelling and crashing sounds coming from the couple's stateroom, she said. Shortly after that, separate witnesses heard a man and woman arguing on the back of the boat and believe the voices were those of Wood and Wagner, Nishida said. The statements differed from the original version of events provided by witnesses, including those who were on the boat, she said. The sheriff's department said Wagner is considered a person of interest. \"Do we have enough to make an arrest at this moment? No,\" Nishida said. The police statement was issued after CBS News aired an interview with Los Angeles County sheriff's Lt. John Corina, who said he doesn't believe Wagner has told the whole story about what happened. Investigators have said Wagner has not been interviewed since the probe was reopened. They said in 2013 that they had tried at least 10 times to interview him but he refused. Wagner has denied any involvement in his wife's death and no charges have been filed. His publicist, Alan Nierob, declined to comment Thursday. Conflicting versions of what happened on the yacht have contributed to the mystery of her death. Wood, Wagner and Walken had all been drinking heavily in the hours before the actress disappeared. Wagner wrote in a 2008 memoir that he and Walken argued that night. He wrote that Walken went to bed and he stayed up for a while, but when he went to bed, he noticed that his wife and a dinghy that had been attached to the yacht were missing. --- Follow Michael Balsamo on Twitter at http://www.twitter.com/MikeBalsamo1 .",
+ "document_new": "LOS ANGELES (AP) -- New witnesses have emerged in the 1981 drowning of actress Natalie Wood, prompting investigators to deem it a \"suspicious death\" and name her former husband, 87-year-old actor Robert Wagner, a \"person of interest,\" Los Angeles sheriff's officials said. For nearly four decades, mystery and speculation have swirled around the death of the actress who was nominated for three Academy Awards and starred in \"West Side Story\" and \"Rebel Without a Cause.\" She was on a yacht with Wagner, actor Christopher Walken and the boat captain on Thanksgiving weekend of 1981. After a night of drinking, her body was found floating in the waters off Southern California's Catalina Island. She was 43. Investigators initially ruled it an accident but reopened the case in 2011 to see whether Wagner or anyone else played a role after the boat's captain said he heard the couple arguing the night of her disappearance. The coroner's office amended Wood's death certificate the next year to include \"drowning and other undetermined factors.\" In a statement Thursday, sheriff's spokeswoman Nicole Nishida said new witnesses interviewed since the case was reopened gave statements that \"portray a new sequence of events on the boat that night.\" One of the witnesses described hearing yelling and crashing sounds coming from the couple's stateroom, she said. Shortly after that, separate witnesses heard a man and woman arguing on the back of the boat and believe the voices were those of Wood and Wagner, Nishida said. The statements differed from the original version of events provided by witnesses, including those who were on the boat, she said. The sheriff's department said Wagner is considered a person of interest. \"Do we have enough to make an arrest at this moment? No,\" Nishida said. The police statement was issued after CBS News aired an interview with Los Angeles County sheriff's Lt. John Corina, who said he doesn't believe Wagner has told the whole story about what happened. Investigators have said Wagner has not been interviewed since the probe was reopened. They said in 2013 that they had tried at least 10 times to interview him but he refused. Wagner has denied any involvement in his wife's death and no charges have been filed. His publicist, Alan Nierob, declined to comment Thursday. Conflicting versions of what happened on the yacht have contributed to the mystery of her death. Wood, Wagner and Walken had all been drinking heavily in the hours before the actress disappeared. Wagner wrote in a 2008 memoir that he and Walken argued that night. He wrote that Walken went to bed and he stayed up for a while, but when he went to bed, he noticed that his wife and a dinghy that had been attached to the yacht were missing. --- Follow Michael Balsamo on Twitter at http://www.twitter.com/MikeBalsamo1 .",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What did Los Angeles sheriff's officials say about Robert Wagner regarding the Natalie Wood case? Answer in as few words as possible."
+  },
+  {
+   "task_id": "task_002",
+   "type": "extraction",
+   "prompt": "At least how many times did they try to interview Wagner in 2010? Answer in as few words as possible."
+  }
+ ]
+}

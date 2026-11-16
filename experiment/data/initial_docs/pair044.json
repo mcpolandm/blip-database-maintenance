@@ -1,0 +1,203 @@
+{
+ "pair_id": "ap_14236_2_3",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "CAIRO (AP) -- The Latest on Coptic church attack in Cairo (all times local): 1:30 Egypt's Health Ministry spokesman says at least 10 people, including eight Coptic Christians, have been killed in a shootout outside a south Cairo church."
+  },
+  {
+   "blip_idx": 1,
+   "text": "Khaled Megahed says Friday's attack took place when gunmen on a motorcycle opened fire outside Mar Mina church."
+  },
+  {
+   "blip_idx": 2,
+   "text": "One gunman was shot dead as was a security officer, he said."
+  },
+  {
+   "blip_idx": 3,
+   "text": "Egypt's state-run MENA news agency, citing an unnamed Interior Ministry official, said the other assailant fled the scene and was being pursued."
+  },
+  {
+   "blip_idx": 4,
+   "text": "Earlier, security officials who spoke on condition of anonymity said two police were killed."
+  },
+  {
+   "blip_idx": 5,
+   "text": "The spokesman for the Coptic Orthodox Church said in a statement that at least six people were killed in the attack including five Copts and a policeman."
+  },
+  {
+   "blip_idx": 6,
+   "text": "It also said there was a separate attack on a store in the same neighborhood of Helwan that killed two Copts."
+  },
+  {
+   "blip_idx": 7,
+   "text": "Egypt's Christian minority has been targeted by Islamic militants in a series of attacks since December 2016 that left more than 100 dead and scores wounded --- 12:30 p.m. Egyptian security officials say two policemen have been shot dead in an attack outside a church in a south Cairo suburb."
+  },
+  {
+   "blip_idx": 8,
+   "text": "The officials said a gunman opened fire outside a Coptic church before he was shot dead himself."
+  },
+  {
+   "blip_idx": 9,
+   "text": "They say the exchange of fire also injured three other people."
+  },
+  {
+   "blip_idx": 10,
+   "text": "The officials requested anonymity because they were not authorized to brief the media."
+  },
+  {
+   "blip_idx": 11,
+   "text": "Egypt's state-run MENA news agency, citing an unnamed official at the Interior Ministry, said Friday's attack in the Helwan neighborhood was carried out by two assailants;"
+  },
+  {
+   "blip_idx": 12,
+   "text": "one of them fled the scene and was being chased down."
+  },
+  {
+   "blip_idx": 13,
+   "text": "A video circulated on social media after the attack apparently shows the dead gunman on the ground."
+  },
+  {
+   "blip_idx": 14,
+   "text": "Authorities have closed off the area around the church."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.035079866423943916,
+    "dist_new": 0.035079866423943916
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "CAIRO (AP) -- The Latest on Coptic church attack in Cairo (all times local): 1:30 Egypt's Health Ministry spokesman says at least 10 people, including eight Coptic Christians, have been killed in a shootout outside a south Cairo church. Khaled Megahed says Friday's attack took place when gunmen on a motorcycle opened fire outside Mar Mina church. One gunman was shot dead as was a security officer, he said. Egypt's state-run MENA news agency, citing an unnamed Interior Ministry official, said the other assailant fled the scene and was being pursued. Earlier, security officials who spoke on condition of anonymity said two police were killed. The spokesman for the Coptic Orthodox Church said in a statement that at least six people were killed in the attack including five Copts and a policeman. It also said there was a separate attack on a store in the same neighborhood of Helwan that killed two Copts. Egypt's Christian minority has been targeted by Islamic militants in a series of attacks since December 2016 that left more than 100 dead and scores wounded --- 12:30 p.m. Egyptian security officials say two policemen have been shot dead in an attack outside a church in a south Cairo suburb. The officials said a gunman opened fire outside a Coptic church before he was shot dead himself. They say the exchange of fire also injured three other people. The officials requested anonymity because they were not authorized to brief the media. Egypt's state-run MENA news agency, citing an unnamed official at the Interior Ministry, said Friday's attack in the Helwan neighborhood was carried out by two assailants; one of them fled the scene and was being chased down. A video circulated on social media after the attack apparently shows the dead gunman on the ground. Authorities have closed off the area around the church.",
+ "document_new": "CAIRO (AP) -- The Latest on Coptic church attack in Cairo (all times local): 1:30 Egypt's Health Ministry spokesman says at least nine people, including eight Coptic Christians, have been killed in a shootout outside a south Cairo church. Khaled Megahed says Friday's attack took place when gunmen on a motorcycle opened fire outside Mar Mina church. One gunman was shot dead as was a security officer, he said. Egypt's state-run MENA news agency, citing an unnamed Interior Ministry official, said the other assailant fled the scene and was being pursued. Earlier, security officials who spoke on condition of anonymity said two police were killed. The spokesman for the Coptic Orthodox Church said in a statement that at least six people were killed in the attack including five Copts and a policeman. It also said there was a separate attack on a store in the same neighborhood of Helwan that killed two Copts. Egypt's Christian minority has been targeted by Islamic militants in a series of attacks since December 2016 that left more than 100 dead and scores wounded --- 12:30 p.m. Egyptian security officials say two policemen have been shot dead in an attack outside a church in a south Cairo suburb. The officials said a gunman opened fire outside a Coptic church before he was shot dead himself. They say the exchange of fire also injured three other people. The officials requested anonymity because they were not authorized to brief the media. Egypt's state-run MENA news agency, citing an unnamed official at the Interior Ministry, said Friday's attack in the Helwan neighborhood was carried out by two assailants; one of them fled the scene and was being chased down. A video circulated on social media after the attack apparently shows the dead gunman on the ground. Authorities have closed off the area around the church.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "At least how many people were killed in the shootout outside the south Cairo church according to Egypt's Health Ministry spokesman? Answer in as few words as possible."
+  }
+ ]
+}

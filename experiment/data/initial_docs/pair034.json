@@ -1,0 +1,359 @@
+{
+ "pair_id": "ap_2015_3_4",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "DUBAI, United Arab Emirates (AP) -- Two of U.S."
+  },
+  {
+   "blip_idx": 1,
+   "text": "President Donald Trump's sons arrived in the United Arab Emirates for an invitation-only ceremony Saturday to formally open the Trump International Golf Club in Dubai."
+  },
+  {
+   "blip_idx": 2,
+   "text": "Photographs shared on social media by real estate brokers showed Eric and Donald Jr. attending a private luncheon Saturday afternoon in Dubai with Hussain Sajwani, the billionaire who runs DAMAC Properties, the developer that partnered with Trump on the golf course."
+  },
+  {
+   "blip_idx": 3,
+   "text": "Trump's two sons gave brief remarks and met with over 80 people gathered at the event, attendee Niraj Masand told The Associated Press."
+  },
+  {
+   "blip_idx": 4,
+   "text": "They were \"expressing their gratitude to Mr. Sajwani, who is the chairman of DAMAC, and sort of expressing their happiness to meet with all the partners,\" said Masand, the director of the real estate firm Banke International."
+  },
+  {
+   "blip_idx": 5,
+   "text": "Both sons are scheduled to attend a gala at the golf course Saturday night, which sits inside a larger villa and apartment building project called DAMAC Hills on the outskirts of Dubai."
+  },
+  {
+   "blip_idx": 6,
+   "text": "Some 100 Trump-branded villas also are on the property, selling from 5 million dirhams ($1.3 million) to over 15 million dirhams ($4 million)."
+  },
+  {
+   "blip_idx": 7,
+   "text": "Eric and Donald Jr., who now run the Trump Organization, receive Secret Service protection as immediate family members of the president."
+  },
+  {
+   "blip_idx": 8,
+   "text": "It's unclear what additional security protection the two sons will receive while in Dubai as experts already have warned the Trump brand abroad now faces a global terror risk ."
+  },
+  {
+   "blip_idx": 9,
+   "text": "The U.S."
+  },
+  {
+   "blip_idx": 10,
+   "text": "Embassy in Abu Dhabi has declined to comment about the trip, while Dubai police did not respond to a request for comment."
+  },
+  {
+   "blip_idx": 11,
+   "text": "However, the United Arab Emirates, a staunch U.S. ally in the war against the Islamic State group and host to some 5,000 American military personnel, remains a peaceful corner of the Middle East."
+  },
+  {
+   "blip_idx": 12,
+   "text": "Its hereditary rulers hope to see a harder line from America on Iran and its foreign minister even backed Trump's travel ban on seven Muslim-majority nations earlier this month."
+  },
+  {
+   "blip_idx": 13,
+   "text": "The ceremony in Dubai, home to the world's tallest building and other architectural marvels, marks the first major event abroad that the two Trump sons will attend together since their father's inauguration Jan. 20. Ties between Trump and Sajwani remain strong."
+  },
+  {
+   "blip_idx": 14,
+   "text": "One of the Trump Organization's subsidiaries received from $1 million to $5 million from DAMAC for running the golf club, according to a U.S."
+  },
+  {
+   "blip_idx": 15,
+   "text": "Federal Election Committee report submitted in May."
+  },
+  {
+   "blip_idx": 16,
+   "text": "Sajwani and his family also attended a New Year's Eve celebration at Trump's Mar-a-Lago club in Florida, where Trump referred to them as \"the most beautiful people from Dubai.\" Trump days later told journalists that DAMAC had offered the Trump Organization $2 billion in deals after his election, something DAMAC later confirmed."
+  },
+  {
+   "blip_idx": 17,
+   "text": "The Dubai golf course marks Trump's first successful venture in the Arab world."
+  },
+  {
+   "blip_idx": 18,
+   "text": "Another Trump-managed golf course is planned for another even larger DAMAC project under development and the developer has been putting up billboards around Dubai advertising the newly opened course."
+  },
+  {
+   "blip_idx": 19,
+   "text": "The 18-hole course has raised questions about how the Trump Organization's many international business interests will affect the administration of America's 45th president."
+  },
+  {
+   "blip_idx": 20,
+   "text": "Already, a liberal-funded watchdog group has filed a lawsuit alleging his business violates the so-called emolument act of the U.S."
+  },
+  {
+   "blip_idx": 21,
+   "text": "Constitution."
+  },
+  {
+   "blip_idx": 22,
+   "text": "Similar questions have been raised by legal experts over Trump's Dubai course."
+  },
+  {
+   "blip_idx": 23,
+   "text": "Trips abroad by Trump's two sons are expected to continue."
+  },
+  {
+   "blip_idx": 24,
+   "text": "Before Trump's inauguration, his son Eric visited the Trump Tower Punta del Este in Uruguay to check on the tower's progress and personally greet buyers."
+  },
+  {
+   "blip_idx": 25,
+   "text": "A Trump hotel in Vancouver, British Columbia, is also expected to soon host Trump's sons."
+  },
+  {
+   "blip_idx": 26,
+   "text": "--- Follow Jon Gambrell on Twitter at www.twitter.com/jongambrellap."
+  },
+  {
+   "blip_idx": 27,
+   "text": "His work can be found at http://apne.ws/2galNpz."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 19,
+    "new": 19,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 17,
+    "new": 17,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 20,
+    "new": 20,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 21,
+    "new": 21,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 25,
+    "new": 25,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 27,
+    "new": 27,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 18,
+    "new": 18,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 26,
+    "new": 26,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.037686654658096994,
+    "dist_new": 0.037686654658096994
+   },
+   {
+    "old": 16,
+    "new": 16,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 24,
+    "new": 24,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 23,
+    "new": 23,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 22,
+    "new": 22,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged"
+  ],
+  "added_new": []
+ },
+ "document_old": "DUBAI, United Arab Emirates (AP) -- Two of U.S. President Donald Trump's sons arrived in the United Arab Emirates for an invitation-only ceremony Saturday to formally open the Trump International Golf Club in Dubai. Photographs shared on social media by real estate brokers showed Eric and Donald Jr. attending a private luncheon Saturday afternoon in Dubai with Hussain Sajwani, the billionaire who runs DAMAC Properties, the developer that partnered with Trump on the golf course. Trump's two sons gave brief remarks and met with over 80 people gathered at the event, attendee Niraj Masand told The Associated Press. They were \"expressing their gratitude to Mr. Sajwani, who is the chairman of DAMAC, and sort of expressing their happiness to meet with all the partners,\" said Masand, the director of the real estate firm Banke International. Both sons are scheduled to attend a gala at the golf course Saturday night, which sits inside a larger villa and apartment building project called DAMAC Hills on the outskirts of Dubai. Some 100 Trump-branded villas also are on the property, selling from 5 million dirhams ($1.3 million) to over 15 million dirhams ($4 million). Eric and Donald Jr., who now run the Trump Organization, receive Secret Service protection as immediate family members of the president. It's unclear what additional security protection the two sons will receive while in Dubai as experts already have warned the Trump brand abroad now faces a global terror risk . The U.S. Embassy in Abu Dhabi has declined to comment about the trip, while Dubai police did not respond to a request for comment. However, the United Arab Emirates, a staunch U.S. ally in the war against the Islamic State group and host to some 5,000 American military personnel, remains a peaceful corner of the Middle East. Its hereditary rulers hope to see a harder line from America on Iran and its foreign minister even backed Trump's travel ban on seven Muslim-majority nations earlier this month. The ceremony in Dubai, home to the world's tallest building and other architectural marvels, marks the first major event abroad that the two Trump sons will attend together since their father's inauguration Jan. 20. Ties between Trump and Sajwani remain strong. One of the Trump Organization's subsidiaries received from $1 million to $5 million from DAMAC for running the golf club, according to a U.S. Federal Election Committee report submitted in May. Sajwani and his family also attended a New Year's Eve celebration at Trump's Mar-a-Lago club in Florida, where Trump referred to them as \"the most beautiful people from Dubai.\" Trump days later told journalists that DAMAC had offered the Trump Organization $2 billion in deals after his election, something DAMAC later confirmed. The Dubai golf course marks Trump's first successful venture in the Arab world. Another Trump-managed golf course is planned for another even larger DAMAC project under development and the developer has been putting up billboards around Dubai advertising the newly opened course. The 18-hole course has raised questions about how the Trump Organization's many international business interests will affect the administration of America's 45th president. Already, a liberal-funded watchdog group has filed a lawsuit alleging his business violates the so-called emolument act of the U.S. Constitution. Similar questions have been raised by legal experts over Trump's Dubai course. Trips abroad by Trump's two sons are expected to continue. Before Trump's inauguration, his son Eric visited the Trump Tower Punta del Este in Uruguay to check on the tower's progress and personally greet buyers. A Trump hotel in Vancouver, British Columbia, is also expected to soon host Trump's sons. --- Follow Jon Gambrell on Twitter at www.twitter.com/jongambrellap. His work can be found at http://apne.ws/2galNpz.",
+ "document_new": "DUBAI, United Arab Emirates (AP) -- Two of U.S. President Donald Trump's sons arrived in the United Arab Emirates for an invitation-only ceremony Saturday to formally open the Trump International Golf Club in Dubai. Photographs shared on social media by real estate brokers showed Eric and Donald Jr. attending a private luncheon Saturday afternoon in Dubai with Hussain Sajwani, the billionaire who runs DAMAC Properties, the developer that partnered with Trump on the golf course. Trump's two sons gave brief remarks and met with over 80 people gathered at the event, attendee Niraj Masand told The Associated Press. They were \"expressing their gratitude to Mr. Sajwani, who is the chairman of DAMAC, and sort of expressing their happiness to meet with all the partners,\" said Masand, a director of the real estate firm Banke International. Both sons are scheduled to attend a gala at the golf course Saturday night, which sits inside a larger villa and apartment building project called DAMAC Hills on the outskirts of Dubai. Some 100 Trump-branded villas also are on the property, selling from 5 million dirhams ($1.3 million) to over 15 million dirhams ($4 million). Eric and Donald Jr., who now run the Trump Organization, receive Secret Service protection as immediate family members of the president. It's unclear what additional security protection the two sons will receive while in Dubai as experts already have warned the Trump brand abroad now faces a global terror risk . The U.S. Embassy in Abu Dhabi has declined to comment about the trip, while Dubai police did not respond to a request for comment. However, the United Arab Emirates, a staunch U.S. ally in the war against the Islamic State group and host to some 5,000 American military personnel, remains a peaceful corner of the Middle East. Its hereditary rulers hope to see a harder line from America on Iran and its foreign minister even backed Trump's travel ban on seven Muslim-majority nations earlier this month. The ceremony in Dubai, home to the world's tallest building and other architectural marvels, marks the first major event abroad that the two Trump sons will attend together since their father's inauguration Jan. 20. Ties between Trump and Sajwani remain strong. One of the Trump Organization's subsidiaries received from $1 million to $5 million from DAMAC for running the golf club, according to a U.S. Federal Election Committee report submitted in May. Sajwani and his family also attended a New Year's Eve celebration at Trump's Mar-a-Lago club in Florida, where Trump referred to them as \"the most beautiful people from Dubai.\" Trump days later told journalists that DAMAC had offered the Trump Organization $2 billion in deals after his election, something DAMAC later confirmed. The Dubai golf course marks Trump's first successful venture in the Arab world. Another Trump-managed golf course is planned for another even larger DAMAC project under development and the developer has been putting up billboards around Dubai advertising the newly opened course. The 18-hole course has raised questions about how the Trump Organization's many international business interests will affect the administration of America's 45th president. Already, a liberal-funded watchdog group has filed a lawsuit alleging his business violates the so-called emolument act of the U.S. Constitution. Similar questions have been raised by legal experts over Trump's Dubai course. Trips abroad by Trump's two sons are expected to continue. Before Trump's inauguration, his son Eric visited the Trump Tower Punta del Este in Uruguay to check on the tower's progress and personally greet buyers. A Trump hotel in Vancouver, British Columbia, is also expected to soon host Trump's sons. --- Follow Jon Gambrell on Twitter at www.twitter.com/jongambrellap. His work can be found at http://apne.ws/2galNpz .",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What is Masand's position at Banke International? Answer in as few words as possible."
+  }
+ ]
+}

@@ -1,0 +1,227 @@
+{
+ "pair_id": "ap_5692_0_1",
+ "sentences_old": [
+  {
+   "blip_idx": 0,
+   "text": "PYONGYANG, North Korea (AP) -- The clouds of war, it might seem, are gathering around the Korean Peninsula."
+  },
+  {
+   "blip_idx": 1,
+   "text": "The North Korean government flaunts an increasingly sophisticated arsenal of intercontinental missiles and launches a midrange version, which apparently fails seconds after takeoff."
+  },
+  {
+   "blip_idx": 2,
+   "text": "The U.S. moves an immense warship to the waters off the peninsula in a display of military might."
+  },
+  {
+   "blip_idx": 3,
+   "text": "President Donald Trump warns he's ready to \"solve North Korea,\" while North Korea's deputy foreign minister says his country will conduct its next nuclear test whenever it sees fit."
+  },
+  {
+   "blip_idx": 4,
+   "text": "And in Pyongyang, where war would mean untold horrors, where neighborhoods could be reduced to rubble and tens of thousands of civilians could be killed, few people seem to care much at all."
+  },
+  {
+   "blip_idx": 5,
+   "text": "On Sunday, the city's zoo was crowded, playgrounds were full of children and families strolled along downtown sidewalks speckled with the falling blossoms of apricot trees."
+  },
+  {
+   "blip_idx": 6,
+   "text": "At the city's annual Kimilsungia flower show - held to celebrate Saturday's 105th anniversary of the birth of North Korea's founding ruler, Kim Il Sung, and the purple orchid named for him - thousands crowded around the displays, many using cellphones to take photos of friends and family."
+  },
+  {
+   "blip_idx": 7,
+   "text": "In a country where the propaganda is all-encompassing, and where the same family has held power for three generations, every display mixed bright flowers with reminders of Kim Il Sung or the nation that his grandson, Kim Jong Un, now rules."
+  },
+  {
+   "blip_idx": 8,
+   "text": "So there were dioramas of Kim Il Sung's birthplace, photos of him meeting foreign leaders, paintings of new housing developments - and models of missiles."
+  },
+  {
+   "blip_idx": 9,
+   "text": "And there was Chong Ok An, a retiree pushing her way through the crowds with her family."
+  },
+  {
+   "blip_idx": 10,
+   "text": "\"We're not afraid,\" she said. \"As long as we have Marshall Kim Jong Un we can win any fight."
+  },
+  {
+   "blip_idx": 11,
+   "text": "\" Her response reflected the phrasing of North Korean propaganda, as well as the reality that every person here has heard talk of war for decades."
+  },
+  {
+   "blip_idx": 12,
+   "text": "The Kim family has entrenched its rule by portraying the country as being relentlessly under siege, leaving its people unable to distinguish between daily hyperbole and the reality of an increasingly tense situation."
+  },
+  {
+   "blip_idx": 13,
+   "text": "The same unending hyperbole has affected South Koreans as well."
+  },
+  {
+   "blip_idx": 14,
+   "text": "They have heard North Korean warnings of their destruction for so long that the threats barely even register."
+  },
+  {
+   "blip_idx": 15,
+   "text": "While interest in North Korea spikes immediately after a missile launch, within hours internet search traffic is again dominated by TV comedy shows, taxes and real estate."
+  }
+ ],
+ "alignment": {
+  "arcs": [
+   {
+    "old": 9,
+    "new": 9,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 0,
+    "new": 0,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 14,
+    "new": 14,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 2,
+    "new": 2,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 15,
+    "new": 15,
+    "dist_old": 0.1950331032357956,
+    "dist_new": 0.1950331032357956
+   },
+   {
+    "old": 4,
+    "new": 4,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 11,
+    "new": 11,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 3,
+    "new": 3,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 5,
+    "new": 5,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 6,
+    "new": 6,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 12,
+    "new": 12,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 7,
+    "new": 7,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 13,
+    "new": 13,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 8,
+    "new": 8,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 1,
+    "new": 1,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   },
+   {
+    "old": 10,
+    "new": 10,
+    "dist_old": 0.0,
+    "dist_new": 0.0
+   }
+  ],
+  "old_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited"
+  ],
+  "new_status": [
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "unchanged",
+   "edited",
+   "added",
+   "added",
+   "added"
+  ],
+  "added_new": [
+   16,
+   17,
+   18
+  ]
+ },
+ "document_old": "PYONGYANG, North Korea (AP) -- The clouds of war, it might seem, are gathering around the Korean Peninsula. The North Korean government flaunts an increasingly sophisticated arsenal of intercontinental missiles and launches a midrange version, which apparently fails seconds after takeoff. The U.S. moves an immense warship to the waters off the peninsula in a display of military might. President Donald Trump warns he's ready to \"solve North Korea,\" while North Korea's deputy foreign minister says his country will conduct its next nuclear test whenever it sees fit. And in Pyongyang, where war would mean untold horrors, where neighborhoods could be reduced to rubble and tens of thousands of civilians could be killed, few people seem to care much at all. On Sunday, the city's zoo was crowded, playgrounds were full of children and families strolled along downtown sidewalks speckled with the falling blossoms of apricot trees. At the city's annual Kimilsungia flower show - held to celebrate Saturday's 105th anniversary of the birth of North Korea's founding ruler, Kim Il Sung, and the purple orchid named for him - thousands crowded around the displays, many using cellphones to take photos of friends and family. In a country where the propaganda is all-encompassing, and where the same family has held power for three generations, every display mixed bright flowers with reminders of Kim Il Sung or the nation that his grandson, Kim Jong Un, now rules. So there were dioramas of Kim Il Sung's birthplace, photos of him meeting foreign leaders, paintings of new housing developments - and models of missiles. And there was Chong Ok An, a retiree pushing her way through the crowds with her family. \"We're not afraid,\" she said. \"As long as we have Marshall Kim Jong Un we can win any fight. \" Her response reflected the phrasing of North Korean propaganda, as well as the reality that every person here has heard talk of war for decades. The Kim family has entrenched its rule by portraying the country as being relentlessly under siege, leaving its people unable to distinguish between daily hyperbole and the reality of an increasingly tense situation. The same unending hyperbole has affected South Koreans as well. They have heard North Korean warnings of their destruction for so long that the threats barely even register. While interest in North Korea spikes immediately after a missile launch, within hours internet search traffic is again dominated by TV comedy shows, taxes and real estate.",
+ "document_new": "PYONGYANG, North Korea (AP) -- The clouds of war, it might seem, are gathering around the Korean Peninsula. The North Korean government flaunts an increasingly sophisticated arsenal of intercontinental missiles and launches a midrange version, which apparently fails seconds after takeoff. The U.S. moves an immense warship to the waters off the peninsula in a display of military might. President Donald Trump warns he's ready to \"solve North Korea,\" while North Korea's deputy foreign minister says his country will conduct its next nuclear test whenever it sees fit. And in Pyongyang, where war would mean untold horrors, where neighborhoods could be reduced to rubble and tens of thousands of civilians could be killed, few people seem to care much at all. On Sunday, the city's zoo was crowded, playgrounds were full of children and families strolled along downtown sidewalks speckled with the falling blossoms of apricot trees. At the city's annual Kimilsungia flower show - held to celebrate Saturday's 105th anniversary of the birth of North Korea's founding ruler, Kim Il Sung, and the purple orchid named for him - thousands crowded around the displays, many using cellphones to take photos of friends and family. In a country where the propaganda is all-encompassing, and where the same family has held power for three generations, every display mixed bright flowers with reminders of Kim Il Sung or the nation that his grandson, Kim Jong Un, now rules. So there were dioramas of Kim Il Sung's birthplace, photos of him meeting foreign leaders, paintings of new housing developments - and models of missiles. And there was Chong Ok An, a retiree pushing her way through the crowds with her family. \"We're not afraid,\" she said. \"As long as we have Marshall Kim Jong Un we can win any fight. \" Her response reflected the phrasing of North Korean propaganda, as well as the reality that every person here has heard talk of war for decades. The Kim family has entrenched its rule by portraying the country as being relentlessly under siege, leaving its people unable to distinguish between daily hyperbole and the reality of an increasingly tense situation. The same unending hyperbole has affected South Koreans as well. They have heard North Korean warnings of their destruction for so long that the threats barely even register. While interest in North Korea spikes immediately after a missile launch, within hours internet search traffic is again dominated by TV comedy shows, taxes and real estate. After the North's weekend birthday celebrations passed with no huge provocations like a nuclear test, people and the media in South Korea were more preoccupied Monday with domestic news such as the start of the official campaigning period for next month's presidential election and a popular singer and actor's wedding plans. Later Monday, South Korean prosecutors were expected to indict former President Park Geun-hye on corruption charges, providing for headline-grabbing news. --- Associated Press writer Hyung-jin Kim in Seoul, South Korea, contributed to this report.",
+ "tasks": [
+  {
+   "task_id": "task_001",
+   "type": "extraction",
+   "prompt": "What event was held to celebrate the anniversary of Kim Il Sung's birth? Answer in as few words as possible."
+  },
+  {
+   "task_id": "bool_001",
+   "type": "boolean",
+   "prompt": "Was the official campaigning period for next month's presidential election in South Korea a main focus of domestic news on Monday following the North's weekend celebrations? Answer Yes or No."
+  }
+ ]
+}
