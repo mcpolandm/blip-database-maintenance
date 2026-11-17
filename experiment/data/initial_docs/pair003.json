@@ -425,18 +425,23 @@
   },
   {
    "task_id": "bool_001",
-   "type": "boolean",
+   "type": "boolean_reasoning",
    "prompt": "Was Thomas E. Starzl older than 68 when he passed away? Answer Yes or No."
   },
   {
    "task_id": "bool_002",
-   "type": "boolean",
+   "type": "boolean_reasoning",
    "prompt": "Was Thomas E. Starzl older than 112 when he passed away? Answer Yes or No."
   },
   {
    "task_id": "bool_003",
    "type": "boolean",
    "prompt": "Was William Peduto the Pittsburgh Mayor who commented on Starzl's legacy? Answer Yes or No."
+  }, 
+  {
+   "task_id": "bool_004",
+   "type": "boolean",
+   "prompt": "Was Thomas E. Starzl 90 years old when he passed away? Answer Yes or No."
   }
  ]
 }

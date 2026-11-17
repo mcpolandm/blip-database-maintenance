@@ -81,7 +81,7 @@
    {
     "old": 4,
     "new": 4,
-    "dist_old": 0.4310355597674193,
+    "dist_old": null,
     "dist_new": 0.4310355597674193
    },
    {
@@ -254,13 +254,18 @@
   },
   {
    "task_id": "bool_003",
-   "type": "boolean",
+   "type": "boolean_reasoning",
    "prompt": "Has Smiley worked for more than 4 networks? Answer Yes or No."
   },
   {
    "task_id": "bool_004",
-   "type": "boolean",
+   "type": "boolean_reasoning",
    "prompt": "Has Smiley worked for more networks than 8? Answer Yes or No."
+  },
+  {
+   "task_id": "bool_005",
+   "type": "boolean",
+   "prompt": "Did Smiley work for 6 networks? Answer Yes or No."
   }
  ]
 }

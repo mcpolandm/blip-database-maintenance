@@ -753,13 +753,18 @@
   },
   {
    "task_id": "bool_001",
-   "type": "boolean",
+   "type": "boolean_reasoning",
    "prompt": "Were more than 12 people wounded by the armed man according to Emmanuel Macron's statement? Answer Yes or No."
   },
   {
    "task_id": "bool_002",
-   "type": "boolean",
+   "type": "boolean_reasoning",
    "prompt": "Were more than 20 people wounded by the armed man according to Emmanuel Macron's statement? Answer Yes or No."
+  },
+  {
+   "task_id": "bool_003",
+   "type": "boolean",
+   "prompt": "Were more than 16 people wounded by the armed man according to Emmanuel Macron's statement? Answer Yes or No."
   }
  ]
 }

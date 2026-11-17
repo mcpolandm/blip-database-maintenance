@@ -391,13 +391,18 @@
   },
   {
    "task_id": "bool_002",
-   "type": "boolean",
+   "type": "boolean_reasoning",
    "prompt": "Does the cost of an annual pass for non-seniors at Walt Disney World exceed 60 dollars? Answer Yes or No."
   },
   {
    "task_id": "bool_003",
-   "type": "boolean",
+   "type": "boolean_reasoning",
    "prompt": "Does the cost of an annual pass for non-seniors at Walt Disney World exceed 100 dollars? Answer Yes or No."
+  },
+  {
+   "task_id": "bool_004",
+   "type": "boolean",
+   "prompt": "Is the cost of an annual pass for non-seniors at Walt Disney World 80 dollars? Answer Yes or No."
   }
  ]
 }
