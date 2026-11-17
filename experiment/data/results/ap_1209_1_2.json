@@ -1,0 +1,584 @@
+{
+  "task_001": {
+    "pair_id": "ap_1209_1_2",
+    "task_id": "task_001",
+    "task": "What are Abbott and Republican legislative leaders pushing for in Texas? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "A ban on sanctuary cities, including jail time for police chiefs and sheriffs who don't cooperate with federal immigration authorities.",
+    "true_new_answer": "A ban on sanctuary cities, including jail time for police chiefs and sheriffs who don't cooperate with federal immigration authorities.",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 834,
+          "cached_tokens": 64,
+          "completion_tokens": 25,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 835,
+          "cached_tokens": 462,
+          "completion_tokens": 25,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "A ban on sanctuary cities, including jail time for police chiefs and sheriffs who don't cooperate with federal immigration authorities.",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 835,
+            "cached_tokens": 462,
+            "completion_tokens": 25,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.9700033590197563e-05
+      },
+      "text_diff": {
+        "answer": "A ban on sanctuary cities, including jail time for police chiefs and sheriffs who don't cooperate with federal immigration authorities.",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 835,
+            "cached_tokens": 462,
+            "completion_tokens": 25,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.0399962775409222e-05
+      },
+      "distance": {
+        "answer": "A ban on sanctuary cities, including jail time for police chiefs and sheriffs who don't cooperate with federal immigration authorities.",
+        "recomputed": false,
+        "reason": "Normalized distance 0.002944210139051791 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 3.400002606213093e-05
+      },
+      "provenance": {
+        "answer": "A ban on sanctuary cities, including jail time for police chiefs and sheriffs who don't cooperate with federal immigration authorities.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.3200042303651571e-05,
+        "provenance_usage": {
+          "llm_calls": 27,
+          "usage": [
+            {
+              "prompt_tokens": 321,
+              "cached_tokens": 1,
+              "completion_tokens": 26,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 196,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 283,
+              "cached_tokens": 252,
+              "completion_tokens": 7,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 177,
+              "cached_tokens": 116,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 296,
+              "cached_tokens": 228,
+              "completion_tokens": 20,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 190,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 271,
+              "cached_tokens": 203,
+              "completion_tokens": 20,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 190,
+              "cached_tokens": 189,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 250,
+              "cached_tokens": 182,
+              "completion_tokens": 20,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 190,
+              "cached_tokens": 115,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 243,
+              "cached_tokens": 175,
+              "completion_tokens": 21,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 191,
+              "cached_tokens": 127,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 220,
+              "cached_tokens": 152,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 182,
+              "cached_tokens": 113,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 209,
+              "cached_tokens": 118,
+              "completion_tokens": 17,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 187,
+              "cached_tokens": 113,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 189,
+              "cached_tokens": 64,
+              "completion_tokens": 15,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 185,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 205,
+              "cached_tokens": 64,
+              "completion_tokens": 17,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 187,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 220,
+              "cached_tokens": 152,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 182,
+              "cached_tokens": 113,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 209,
+              "cached_tokens": 118,
+              "completion_tokens": 16,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 186,
+              "cached_tokens": 113,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 189,
+              "cached_tokens": 64,
+              "completion_tokens": 15,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 185,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 243,
+              "cached_tokens": 64,
+              "completion_tokens": 20,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 15.481508900003973
+        },
+        "provenance_idxs": [
+          0,
+          2,
+          5,
+          26
+        ]
+      },
+      "provenance_aware": {
+        "answer": "A ban on sanctuary cities, including jail time for police chiefs and sheriffs who don't cooperate with federal immigration authorities.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.390004763379693e-05,
+        "provenance_usage": {
+          "llm_calls": 27,
+          "usage": [
+            {
+              "prompt_tokens": 321,
+              "cached_tokens": 1,
+              "completion_tokens": 26,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 196,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 283,
+              "cached_tokens": 252,
+              "completion_tokens": 7,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 177,
+              "cached_tokens": 116,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 296,
+              "cached_tokens": 228,
+              "completion_tokens": 20,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 190,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 271,
+              "cached_tokens": 203,
+              "completion_tokens": 20,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 190,
+              "cached_tokens": 189,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 250,
+              "cached_tokens": 182,
+              "completion_tokens": 20,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 190,
+              "cached_tokens": 115,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 243,
+              "cached_tokens": 175,
+              "completion_tokens": 21,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 191,
+              "cached_tokens": 127,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 220,
+              "cached_tokens": 152,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 182,
+              "cached_tokens": 113,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 209,
+              "cached_tokens": 118,
+              "completion_tokens": 17,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 187,
+              "cached_tokens": 113,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 189,
+              "cached_tokens": 64,
+              "completion_tokens": 15,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 185,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 205,
+              "cached_tokens": 64,
+              "completion_tokens": 17,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 187,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 220,
+              "cached_tokens": 152,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 182,
+              "cached_tokens": 113,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 209,
+              "cached_tokens": 118,
+              "completion_tokens": 16,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 186,
+              "cached_tokens": 113,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 189,
+              "cached_tokens": 64,
+              "completion_tokens": 15,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 185,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 243,
+              "cached_tokens": 64,
+              "completion_tokens": 20,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 15.481508900003973
+        },
+        "provenance_idxs": [
+          0,
+          2,
+          5,
+          26
+        ]
+      }
+    }
+  },
+  "task_002": {
+    "pair_id": "ap_1209_1_2",
+    "task_id": "task_002",
+    "task": "What must the two sides do before sending a bill to Abbott? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "Compromise",
+    "true_new_answer": "Compromise",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 835,
+          "cached_tokens": 462,
+          "completion_tokens": 3,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 836,
+          "cached_tokens": 462,
+          "completion_tokens": 3,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "Compromise",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 836,
+            "cached_tokens": 462,
+            "completion_tokens": 3,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.360004534944892e-05
+      },
+      "text_diff": {
+        "answer": "Compromise",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 836,
+            "cached_tokens": 462,
+            "completion_tokens": 3,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 7.299997378140688e-06
+      },
+      "distance": {
+        "answer": "Compromise",
+        "recomputed": false,
+        "reason": "Normalized distance 0.002944210139051791 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 2.670002868399024e-05
+      },
+      "provenance": {
+        "answer": "Compromise",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 8.400005754083395e-06,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 118,
+              "cached_tokens": 1,
+              "completion_tokens": 3,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 153,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 118,
+              "cached_tokens": 117,
+              "completion_tokens": 3,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 1.4838538999902084
+        },
+        "provenance_idxs": [
+          28
+        ]
+      },
+      "provenance_aware": {
+        "answer": "Compromise",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 9.300012607127428e-06,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 118,
+              "cached_tokens": 1,
+              "completion_tokens": 3,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 153,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 118,
+              "cached_tokens": 117,
+              "completion_tokens": 3,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 1.4838538999902084
+        },
+        "provenance_idxs": [
+          28
+        ]
+      }
+    }
+  }
+}

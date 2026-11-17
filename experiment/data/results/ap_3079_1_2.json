@@ -1,0 +1,300 @@
+{
+  "task_001": {
+    "pair_id": "ap_3079_1_2",
+    "task_id": "task_001",
+    "task": "What is the name of the hotel? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "The Walled Off Hotel",
+    "true_new_answer": "The Walled Off Hotel",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 684,
+          "cached_tokens": 64,
+          "completion_tokens": 6,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 684,
+          "cached_tokens": 79,
+          "completion_tokens": 6,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "The Walled Off Hotel",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 684,
+            "cached_tokens": 79,
+            "completion_tokens": 6,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.989999484270811e-05
+      },
+      "text_diff": {
+        "answer": "The Walled Off Hotel",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 684,
+            "cached_tokens": 79,
+            "completion_tokens": 6,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.5400000847876072e-05
+      },
+      "distance": {
+        "answer": "The Walled Off Hotel",
+        "recomputed": false,
+        "reason": "Normalized distance 0.0014608123721701134 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 4.980002995580435e-05
+      },
+      "provenance": {
+        "answer": "The Walled Off Hotel",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [0]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 684,
+            "cached_tokens": 79,
+            "completion_tokens": 6,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.6100024115294218e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 213,
+              "cached_tokens": 186,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 213,
+              "cached_tokens": 212,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 1.7172665999969468
+        },
+        "provenance_idxs": [
+          0
+        ]
+      },
+      "provenance_aware": {
+        "answer": "The Walled Off Hotel",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [0]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 684,
+            "cached_tokens": 79,
+            "completion_tokens": 6,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.9099970813840628e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 213,
+              "cached_tokens": 186,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 213,
+              "cached_tokens": 212,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 1.7172665999969468
+        },
+        "provenance_idxs": [
+          0
+        ]
+      }
+    }
+  },
+  "task_002": {
+    "pair_id": "ap_3079_1_2",
+    "task_id": "task_002",
+    "task": "What is the highest amount Banksy's works have fetched at auctions? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "$1.8 million",
+    "true_new_answer": "$1.8 million",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 690,
+          "cached_tokens": 186,
+          "completion_tokens": 6,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 690,
+          "cached_tokens": 664,
+          "completion_tokens": 6,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "$1.8 million",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 690,
+            "cached_tokens": 664,
+            "completion_tokens": 6,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.4999957531690598e-05
+      },
+      "text_diff": {
+        "answer": "$1.8 million",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 690,
+            "cached_tokens": 664,
+            "completion_tokens": 6,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.1299969628453255e-05
+      },
+      "distance": {
+        "answer": "$1.8 million",
+        "recomputed": false,
+        "reason": "Normalized distance 0.0014608123721701134 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 4.640000406652689e-05
+      },
+      "provenance": {
+        "answer": "$1.8 million",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.2499978765845299e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 118,
+              "cached_tokens": 1,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 118,
+              "cached_tokens": 117,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 1.7097287999931723
+        },
+        "provenance_idxs": [
+          17
+        ]
+      },
+      "provenance_aware": {
+        "answer": "$1.8 million",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.3599987141788006e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 118,
+              "cached_tokens": 1,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 118,
+              "cached_tokens": 117,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 1.7097287999931723
+        },
+        "provenance_idxs": [
+          17
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "bool_001": {
+    "pair_id": "ap_6139_2_3",
+    "task_id": "bool_001",
+    "task": "Are two of the U.S. 7th Fleet's destroyers conducting simultaneous maritime exercises with naval ships from Japan and South Korea? Answer Yes or No.",
+    "task_type": "boolean",
+    "old_answer": "I cannot find the answer in the provided text.",
+    "true_new_answer": "Yes",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 2365,
+          "cached_tokens": 64,
+          "completion_tokens": 11,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 2524,
+          "cached_tokens": 91,
+          "completion_tokens": 2,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "Yes",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 2524,
+            "cached_tokens": 91,
+            "completion_tokens": 2,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.5300018023699522e-05
+      },
+      "text_diff": {
+        "answer": "Yes",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 2524,
+            "cached_tokens": 91,
+            "completion_tokens": 2,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.850002445280552e-05
+      },
+      "distance": {
+        "answer": "I cannot find the answer in the provided text.",
+        "recomputed": false,
+        "reason": "Normalized distance 0.08589194217389184 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 4.499999340623617e-05
+      },
+      "provenance": {
+        "answer": "I cannot find the answer in the provided text.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 2.0000035874545574e-05,
+        "provenance_usage": {
+          "llm_calls": 18,
+          "usage": [
+            {
+              "prompt_tokens": 218,
+              "cached_tokens": 64,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 296,
+              "cached_tokens": 64,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 158,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 416,
+              "cached_tokens": 1,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 158,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 516,
+              "cached_tokens": 184,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 167,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 473,
+              "cached_tokens": 430,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 477,
+              "cached_tokens": 392,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 167,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 404,
+              "cached_tokens": 361,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 167,
+              "cached_tokens": 166,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 277,
+              "cached_tokens": 234,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 167,
+              "cached_tokens": 166,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 133,
+              "cached_tokens": 1,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 167,
+              "cached_tokens": 166,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 10.45990229997551
+        },
+        "provenance_idxs": [
+          16
+        ]
+      },
+      "provenance_aware": {
+        "answer": "I cannot find the answer in the provided text.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.829996472224593e-05,
+        "provenance_usage": {
+          "llm_calls": 18,
+          "usage": [
+            {
+              "prompt_tokens": 218,
+              "cached_tokens": 64,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 296,
+              "cached_tokens": 64,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 158,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 416,
+              "cached_tokens": 1,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 158,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 516,
+              "cached_tokens": 184,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 167,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 473,
+              "cached_tokens": 430,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 477,
+              "cached_tokens": 392,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 167,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 404,
+              "cached_tokens": 361,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 167,
+              "cached_tokens": 166,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 277,
+              "cached_tokens": 234,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 167,
+              "cached_tokens": 166,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 133,
+              "cached_tokens": 1,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 167,
+              "cached_tokens": 166,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 10.45990229997551
+        },
+        "provenance_idxs": [
+          16
+        ]
+      }
+    }
+  }
+}

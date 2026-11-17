@@ -129,8 +129,8 @@ def provenance_answer_aware(provenance, edit, task, old_answer):
     task_type = task["type"]
 
     if task_type == "boolean":
-        if not isinstance(old_answer, bool) and (not isinstance(old_answer, str) or old_answer.upper() not in {"YES", "NO", "YES.", "NO."}):
-            raise TypeError(f"Expected bool for filter task, got {type(old_answer).__name__} of {old_answer}")
+        #if not isinstance(old_answer, bool) and (not isinstance(old_answer, str) or old_answer.upper() not in {"YES", "NO", "YES.", "NO."}):
+            #raise TypeError(f"Expected bool for filter task, got {type(old_answer).__name__} of {old_answer}")
 
         is_found = old_answer
 

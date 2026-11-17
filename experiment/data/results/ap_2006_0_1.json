@@ -1,0 +1,146 @@
+{
+  "task_001": {
+    "pair_id": "ap_2006_0_1",
+    "task_id": "task_001",
+    "task": "How old is Nikopolidis? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "46 years old.",
+    "true_new_answer": "46 years old.",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 646,
+          "cached_tokens": 64,
+          "completion_tokens": 6,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 655,
+          "cached_tokens": 467,
+          "completion_tokens": 6,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "46 years old.",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 655,
+            "cached_tokens": 467,
+            "completion_tokens": 6,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.169999061152339e-05
+      },
+      "text_diff": {
+        "answer": "46 years old.",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 655,
+            "cached_tokens": 467,
+            "completion_tokens": 6,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 8.800008799880743e-06
+      },
+      "distance": {
+        "answer": "46 years old.",
+        "recomputed": false,
+        "reason": "Normalized distance 0.01460244678252985 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 3.6999990697950125e-05
+      },
+      "provenance": {
+        "answer": "46 years old.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 9.90001717582345e-06,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 138,
+              "cached_tokens": 64,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 138,
+              "cached_tokens": 137,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 1.4770422999863513
+        },
+        "provenance_idxs": [
+          4
+        ]
+      },
+      "provenance_aware": {
+        "answer": "46 years old.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.1499971151351929e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 138,
+              "cached_tokens": 64,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 138,
+              "cached_tokens": 137,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 1.4770422999863513
+        },
+        "provenance_idxs": [
+          4
+        ]
+      }
+    }
+  }
+}

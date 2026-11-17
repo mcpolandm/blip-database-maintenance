@@ -1,0 +1,300 @@
+{
+  "task_001": {
+    "pair_id": "ap_6389_0_1",
+    "task_id": "task_001",
+    "task": "When Netflix's stock plummets, the subscriber gains do what of predictions? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "Fall shy of predictions.",
+    "true_new_answer": "Fall short of projections.",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 523,
+          "cached_tokens": 64,
+          "completion_tokens": 6,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 523,
+          "cached_tokens": 461,
+          "completion_tokens": 6,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "Fall short of projections.",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 523,
+            "cached_tokens": 461,
+            "completion_tokens": 6,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.8599967006593943e-05
+      },
+      "text_diff": {
+        "answer": "Fall short of projections.",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 523,
+            "cached_tokens": 461,
+            "completion_tokens": 6,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 7.90000194683671e-06
+      },
+      "distance": {
+        "answer": "Fall shy of predictions.",
+        "recomputed": false,
+        "reason": "Normalized distance 0.006243467391990766 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 2.989999484270811e-05
+      },
+      "provenance": {
+        "answer": "Fall short of projections.",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [14]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 523,
+            "cached_tokens": 461,
+            "completion_tokens": 6,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.6700010746717453e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 119,
+              "cached_tokens": 64,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 119,
+              "cached_tokens": 118,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 1.4800639000022784
+        },
+        "provenance_idxs": [
+          14
+        ]
+      },
+      "provenance_aware": {
+        "answer": "Fall short of projections.",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [14]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 523,
+            "cached_tokens": 461,
+            "completion_tokens": 6,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.1500029359012842e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 119,
+              "cached_tokens": 64,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 119,
+              "cached_tokens": 118,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 1.4800639000022784
+        },
+        "provenance_idxs": [
+          14
+        ]
+      }
+    }
+  },
+  "task_002": {
+    "pair_id": "ap_6389_0_1",
+    "task_id": "task_002",
+    "task": "When are new episodes of 'Orange' scheduled for release? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "June 9.",
+    "true_new_answer": "June 9.",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 519,
+          "cached_tokens": 64,
+          "completion_tokens": 5,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 519,
+          "cached_tokens": 461,
+          "completion_tokens": 5,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "June 9.",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 519,
+            "cached_tokens": 461,
+            "completion_tokens": 5,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.7199956346303225e-05
+      },
+      "text_diff": {
+        "answer": "June 9.",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 519,
+            "cached_tokens": 461,
+            "completion_tokens": 5,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.3999990187585354e-05
+      },
+      "distance": {
+        "answer": "June 9.",
+        "recomputed": false,
+        "reason": "Normalized distance 0.006243467391990766 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 2.7999980375170708e-05
+      },
+      "provenance": {
+        "answer": "June 9.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 9.300012607127428e-06,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 129,
+              "cached_tokens": 1,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 155,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 129,
+              "cached_tokens": 128,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 1.2959190999972634
+        },
+        "provenance_idxs": [
+          3
+        ]
+      },
+      "provenance_aware": {
+        "answer": "June 9.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 9.600014891475439e-06,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 129,
+              "cached_tokens": 1,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 155,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 129,
+              "cached_tokens": 128,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 1.2959190999972634
+        },
+        "provenance_idxs": [
+          3
+        ]
+      }
+    }
+  }
+}

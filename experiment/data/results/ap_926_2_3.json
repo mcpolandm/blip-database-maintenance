@@ -1,0 +1,506 @@
+{
+  "task_001": {
+    "pair_id": "ap_926_2_3",
+    "task_id": "task_001",
+    "task": "What is the name of the organization that made the enrollment decision? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "Boy Scouts of America",
+    "true_new_answer": "Boy Scouts of America",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 826,
+          "cached_tokens": 64,
+          "completion_tokens": 5,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 826,
+          "cached_tokens": 554,
+          "completion_tokens": 5,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "Boy Scouts of America",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 826,
+            "cached_tokens": 554,
+            "completion_tokens": 5,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 4.680000711232424e-05
+      },
+      "text_diff": {
+        "answer": "Boy Scouts of America",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 826,
+            "cached_tokens": 554,
+            "completion_tokens": 5,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.9500050004571676e-05
+      },
+      "distance": {
+        "answer": "Boy Scouts of America",
+        "recomputed": false,
+        "reason": "Normalized distance 0.005503201291839696 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 6.86999992467463e-05
+      },
+      "provenance": {
+        "answer": "Boy Scouts of America",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 2.7699978090822697e-05,
+        "provenance_usage": {
+          "llm_calls": 13,
+          "usage": [
+            {
+              "prompt_tokens": 297,
+              "cached_tokens": 64,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 281,
+              "cached_tokens": 249,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 156,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 256,
+              "cached_tokens": 224,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 156,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 244,
+              "cached_tokens": 212,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 156,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 129,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 156,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 127,
+              "cached_tokens": 95,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 156,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 127,
+              "cached_tokens": 126,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 4.459627499978524
+        },
+        "provenance_idxs": [
+          0
+        ]
+      },
+      "provenance_aware": {
+        "answer": "Boy Scouts of America",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 3.1100003980100155e-05,
+        "provenance_usage": {
+          "llm_calls": 13,
+          "usage": [
+            {
+              "prompt_tokens": 297,
+              "cached_tokens": 64,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 281,
+              "cached_tokens": 249,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 156,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 256,
+              "cached_tokens": 224,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 156,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 244,
+              "cached_tokens": 212,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 156,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 129,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 156,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 127,
+              "cached_tokens": 95,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 156,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 127,
+              "cached_tokens": 126,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 4.459627499978524
+        },
+        "provenance_idxs": [
+          0
+        ]
+      }
+    }
+  },
+  "task_002": {
+    "pair_id": "ap_926_2_3",
+    "task_id": "task_002",
+    "task": "In which New Jersey town did the transgender child case occur? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "Secaucus",
+    "true_new_answer": "Secaucus",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 825,
+          "cached_tokens": 95,
+          "completion_tokens": 4,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 825,
+          "cached_tokens": 554,
+          "completion_tokens": 4,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "Secaucus",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 825,
+            "cached_tokens": 554,
+            "completion_tokens": 4,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.169999061152339e-05
+      },
+      "text_diff": {
+        "answer": "Secaucus",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 825,
+            "cached_tokens": 554,
+            "completion_tokens": 4,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.8300022929906845e-05
+      },
+      "distance": {
+        "answer": "Secaucus",
+        "recomputed": false,
+        "reason": "Normalized distance 0.005503201291839696 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 3.379996633157134e-05
+      },
+      "provenance": {
+        "answer": "Secaucus",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.0800024028867483e-05,
+        "provenance_usage": {
+          "llm_calls": 11,
+          "usage": [
+            {
+              "prompt_tokens": 257,
+              "cached_tokens": 1,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 155,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 238,
+              "cached_tokens": 207,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 155,
+              "cached_tokens": 154,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 196,
+              "cached_tokens": 165,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 155,
+              "cached_tokens": 154,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 169,
+              "cached_tokens": 138,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 155,
+              "cached_tokens": 154,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 137,
+              "cached_tokens": 106,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 155,
+              "cached_tokens": 154,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 137,
+              "cached_tokens": 136,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 3.8922952000284567
+        },
+        "provenance_idxs": [
+          3
+        ]
+      },
+      "provenance_aware": {
+        "answer": "Secaucus",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.1999974958598614e-05,
+        "provenance_usage": {
+          "llm_calls": 11,
+          "usage": [
+            {
+              "prompt_tokens": 257,
+              "cached_tokens": 1,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 155,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 238,
+              "cached_tokens": 207,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 155,
+              "cached_tokens": 154,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 196,
+              "cached_tokens": 165,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 155,
+              "cached_tokens": 154,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 169,
+              "cached_tokens": 138,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 155,
+              "cached_tokens": 154,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 137,
+              "cached_tokens": 106,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 155,
+              "cached_tokens": 154,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 137,
+              "cached_tokens": 136,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 3.8922952000284567
+        },
+        "provenance_idxs": [
+          3
+        ]
+      }
+    }
+  }
+}

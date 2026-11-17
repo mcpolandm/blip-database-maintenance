@@ -1,0 +1,300 @@
+{
+  "task_001": {
+    "pair_id": "ap_3558_0_1",
+    "task_id": "task_001",
+    "task": "What did Shields say could help her become the type of star the sport could use? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "Her brash-but-engaging attitude.",
+    "true_new_answer": "Her brash-but-engaging attitude.",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 988,
+          "cached_tokens": 64,
+          "completion_tokens": 9,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 988,
+          "cached_tokens": 696,
+          "completion_tokens": 9,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "Her brash-but-engaging attitude.",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 988,
+            "cached_tokens": 696,
+            "completion_tokens": 9,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.3100001271814108e-05
+      },
+      "text_diff": {
+        "answer": "Her brash-but-engaging attitude.",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 988,
+            "cached_tokens": 696,
+            "completion_tokens": 9,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.2000033166259527e-05
+      },
+      "distance": {
+        "answer": "Her brash-but-engaging attitude.",
+        "recomputed": false,
+        "reason": "Normalized distance 0.0014518045678618078 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 3.91000066883862e-05
+      },
+      "provenance": {
+        "answer": "Her brash-but-engaging attitude.",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [22]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 988,
+            "cached_tokens": 696,
+            "completion_tokens": 9,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.069998299703002e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 139,
+              "cached_tokens": 64,
+              "completion_tokens": 8,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 163,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 139,
+              "cached_tokens": 138,
+              "completion_tokens": 8,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 2.0453328999574296
+        },
+        "provenance_idxs": [
+          22
+        ]
+      },
+      "provenance_aware": {
+        "answer": "Her brash-but-engaging attitude.",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [22]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 988,
+            "cached_tokens": 696,
+            "completion_tokens": 9,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.5700003132224083e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 139,
+              "cached_tokens": 64,
+              "completion_tokens": 8,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 163,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 139,
+              "cached_tokens": 138,
+              "completion_tokens": 8,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 2.0453328999574296
+        },
+        "provenance_idxs": [
+          22
+        ]
+      }
+    }
+  },
+  "task_002": {
+    "pair_id": "ap_3558_0_1",
+    "task_id": "task_002",
+    "task": "When did the referee stop the fight? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "1:30 into the fourth round.",
+    "true_new_answer": "1:30 into the fourth round.",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 979,
+          "cached_tokens": 696,
+          "completion_tokens": 10,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 979,
+          "cached_tokens": 696,
+          "completion_tokens": 10,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "1:30 into the fourth round.",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 979,
+            "cached_tokens": 696,
+            "completion_tokens": 10,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.400000812485814e-05
+      },
+      "text_diff": {
+        "answer": "1:30 into the fourth round.",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 979,
+            "cached_tokens": 696,
+            "completion_tokens": 10,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.2400036212056875e-05
+      },
+      "distance": {
+        "answer": "1:30 into the fourth round.",
+        "recomputed": false,
+        "reason": "Normalized distance 0.0014518045678618078 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 3.840000135824084e-05
+      },
+      "provenance": {
+        "answer": "1:30 into the fourth round.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.3300043065100908e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 123,
+              "cached_tokens": 64,
+              "completion_tokens": 9,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 166,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 123,
+              "cached_tokens": 122,
+              "completion_tokens": 9,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 2.0267803000169806
+        },
+        "provenance_idxs": [
+          2
+        ]
+      },
+      "provenance_aware": {
+        "answer": "1:30 into the fourth round.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.479999627918005e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 123,
+              "cached_tokens": 64,
+              "completion_tokens": 9,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 166,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 123,
+              "cached_tokens": 122,
+              "completion_tokens": 9,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 2.0267803000169806
+        },
+        "provenance_idxs": [
+          2
+        ]
+      }
+    }
+  }
+}

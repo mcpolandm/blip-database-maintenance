@@ -1,0 +1,156 @@
+{
+  "task_001": {
+    "pair_id": "ap_17471_3_4",
+    "task_id": "task_001",
+    "task": "How many kilometers does the Lower Mississippi River Physical Model reproduce? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "322 kilometers",
+    "true_new_answer": "320 kilometers",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 975,
+          "cached_tokens": 64,
+          "completion_tokens": 5,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 975,
+          "cached_tokens": 153,
+          "completion_tokens": 5,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "320 kilometers",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 975,
+            "cached_tokens": 153,
+            "completion_tokens": 5,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.550000160932541e-05
+      },
+      "text_diff": {
+        "answer": "320 kilometers",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 975,
+            "cached_tokens": 153,
+            "completion_tokens": 5,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 7.399998139590025e-06
+      },
+      "distance": {
+        "answer": "322 kilometers",
+        "recomputed": false,
+        "reason": "Normalized distance 0.001321963667951415 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 2.8699985705316067e-05
+      },
+      "provenance": {
+        "answer": "320 kilometers",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [2]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 975,
+            "cached_tokens": 153,
+            "completion_tokens": 5,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.9199971575289965e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 167,
+              "cached_tokens": 64,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 167,
+              "cached_tokens": 166,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 1.8015611000009812
+        },
+        "provenance_idxs": [
+          2
+        ]
+      },
+      "provenance_aware": {
+        "answer": "320 kilometers",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [2]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 975,
+            "cached_tokens": 153,
+            "completion_tokens": 5,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.0000017937272787e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 167,
+              "cached_tokens": 64,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 167,
+              "cached_tokens": 166,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 1.8015611000009812
+        },
+        "provenance_idxs": [
+          2
+        ]
+      }
+    }
+  }
+}

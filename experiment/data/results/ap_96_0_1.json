@@ -1,0 +1,1184 @@
+{
+  "task_001": {
+    "pair_id": "ap_96_0_1",
+    "task_id": "task_001",
+    "task": "Where did Kathleen Clark work as an ethics lawyer? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "Kathleen Clark worked as a federal ethics lawyer.",
+    "true_new_answer": "District of Columbia",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1299,
+          "cached_tokens": 64,
+          "completion_tokens": 12,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1349,
+          "cached_tokens": 1103,
+          "completion_tokens": 4,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "District of Columbia",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1349,
+            "cached_tokens": 1103,
+            "completion_tokens": 4,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 4.3000036384910345e-05
+      },
+      "text_diff": {
+        "answer": "District of Columbia",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1349,
+            "cached_tokens": 1103,
+            "completion_tokens": 4,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.7400016076862812e-05
+      },
+      "distance": {
+        "answer": "Kathleen Clark worked as a federal ethics lawyer.",
+        "recomputed": false,
+        "reason": "Normalized distance 0.05416199268095184 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 5.8299978263676167e-05
+      },
+      "provenance": {
+        "answer": "District of Columbia",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [32]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1349,
+            "cached_tokens": 1103,
+            "completion_tokens": 4,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 3.319996176287532e-05,
+        "provenance_usage": {
+          "llm_calls": 76,
+          "usage": [
+            {
+              "prompt_tokens": 115,
+              "cached_tokens": 64,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 64,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 166,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 213,
+              "cached_tokens": 128,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 254,
+              "cached_tokens": 184,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 115,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 334,
+              "cached_tokens": 1,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 160,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 427,
+              "cached_tokens": 209,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 160,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 502,
+              "cached_tokens": 209,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 160,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 579,
+              "cached_tokens": 1,
+              "completion_tokens": 8,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 163,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 623,
+              "cached_tokens": 454,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 165,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 616,
+              "cached_tokens": 587,
+              "completion_tokens": 8,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 163,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 589,
+              "cached_tokens": 555,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 165,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 547,
+              "cached_tokens": 518,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 165,
+              "cached_tokens": 164,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 429,
+              "cached_tokens": 400,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 166,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 516,
+              "cached_tokens": 400,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 534,
+              "cached_tokens": 454,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 165,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 450,
+              "cached_tokens": 401,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 481,
+              "cached_tokens": 401,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 165,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 410,
+              "cached_tokens": 361,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 441,
+              "cached_tokens": 361,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 160,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 435,
+              "cached_tokens": 315,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 165,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 366,
+              "cached_tokens": 287,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 406,
+              "cached_tokens": 286,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 165,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 340,
+              "cached_tokens": 260,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 380,
+              "cached_tokens": 260,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 165,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 301,
+              "cached_tokens": 221,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 341,
+              "cached_tokens": 221,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 165,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 265,
+              "cached_tokens": 186,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 305,
+              "cached_tokens": 185,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 165,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 221,
+              "cached_tokens": 141,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 261,
+              "cached_tokens": 141,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 165,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 172,
+              "cached_tokens": 92,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 212,
+              "cached_tokens": 92,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 160,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 233,
+              "cached_tokens": 64,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 160,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 240,
+              "cached_tokens": 64,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 166,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 230,
+              "cached_tokens": 181,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 221,
+              "cached_tokens": 141,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 160,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 212,
+              "cached_tokens": 92,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 160,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 233,
+              "cached_tokens": 64,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 160,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 28.891926100011915
+        },
+        "provenance_idxs": [
+          2,
+          3,
+          26,
+          29,
+          32
+        ]
+      },
+      "provenance_aware": {
+        "answer": "District of Columbia",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [32]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1349,
+            "cached_tokens": 1103,
+            "completion_tokens": 4,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.7399975806474686e-05,
+        "provenance_usage": {
+          "llm_calls": 76,
+          "usage": [
+            {
+              "prompt_tokens": 115,
+              "cached_tokens": 64,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 64,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 166,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 213,
+              "cached_tokens": 128,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 254,
+              "cached_tokens": 184,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 115,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 334,
+              "cached_tokens": 1,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 160,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 427,
+              "cached_tokens": 209,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 160,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 502,
+              "cached_tokens": 209,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 160,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 579,
+              "cached_tokens": 1,
+              "completion_tokens": 8,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 163,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 623,
+              "cached_tokens": 454,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 165,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 616,
+              "cached_tokens": 587,
+              "completion_tokens": 8,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 163,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 589,
+              "cached_tokens": 555,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 165,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 547,
+              "cached_tokens": 518,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 165,
+              "cached_tokens": 164,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 429,
+              "cached_tokens": 400,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 166,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 516,
+              "cached_tokens": 400,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 534,
+              "cached_tokens": 454,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 165,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 450,
+              "cached_tokens": 401,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 481,
+              "cached_tokens": 401,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 165,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 410,
+              "cached_tokens": 361,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 441,
+              "cached_tokens": 361,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 160,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 435,
+              "cached_tokens": 315,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 165,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 366,
+              "cached_tokens": 287,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 406,
+              "cached_tokens": 286,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 165,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 340,
+              "cached_tokens": 260,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 380,
+              "cached_tokens": 260,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 165,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 301,
+              "cached_tokens": 221,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 341,
+              "cached_tokens": 221,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 165,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 265,
+              "cached_tokens": 186,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 305,
+              "cached_tokens": 185,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 165,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 221,
+              "cached_tokens": 141,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 261,
+              "cached_tokens": 141,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 165,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 172,
+              "cached_tokens": 92,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 212,
+              "cached_tokens": 92,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 160,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 233,
+              "cached_tokens": 64,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 160,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 240,
+              "cached_tokens": 64,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 166,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 230,
+              "cached_tokens": 181,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 221,
+              "cached_tokens": 141,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 160,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 212,
+              "cached_tokens": 92,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 160,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 233,
+              "cached_tokens": 64,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 160,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 28.891926100011915
+        },
+        "provenance_idxs": [
+          2,
+          3,
+          26,
+          29,
+          32
+        ]
+      }
+    }
+  },
+  "task_002": {
+    "pair_id": "ap_96_0_1",
+    "task_id": "task_002",
+    "task": "When was the broad plan approved? Answer with the number only.",
+    "task_type": "extraction",
+    "old_answer": "2008",
+    "true_new_answer": "2008",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1294,
+          "cached_tokens": 1103,
+          "completion_tokens": 5,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1344,
+          "cached_tokens": 1103,
+          "completion_tokens": 5,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "2008",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1344,
+            "cached_tokens": 1103,
+            "completion_tokens": 5,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 3.739999374374747e-05
+      },
+      "text_diff": {
+        "answer": "2008",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1344,
+            "cached_tokens": 1103,
+            "completion_tokens": 5,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.2799998987466097e-05
+      },
+      "distance": {
+        "answer": "2008",
+        "recomputed": false,
+        "reason": "Normalized distance 0.05416199268095184 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 6.2700011767447e-05
+      },
+      "provenance": {
+        "answer": "2008",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 2.5200017262250185e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 140,
+              "cached_tokens": 65,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 140,
+              "cached_tokens": 139,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 2.0801769999670796
+        },
+        "provenance_idxs": [
+          15
+        ]
+      },
+      "provenance_aware": {
+        "answer": "2008",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 2.6399968191981316e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 140,
+              "cached_tokens": 65,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 140,
+              "cached_tokens": 139,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 2.0801769999670796
+        },
+        "provenance_idxs": [
+          15
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "task_001": {
+    "pair_id": "ap_4624_2_3",
+    "task_id": "task_001",
+    "task": "How many people is France monitoring for risk of radicalization? Answer with the number only.",
+    "task_type": "extraction",
+    "old_answer": "2,400",
+    "true_new_answer": "2,400",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1325,
+          "cached_tokens": 64,
+          "completion_tokens": 6,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1359,
+          "cached_tokens": 99,
+          "completion_tokens": 6,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "2,400",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1359,
+            "cached_tokens": 99,
+            "completion_tokens": 6,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.5100016500800848e-05
+      },
+      "text_diff": {
+        "answer": "2,400",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1359,
+            "cached_tokens": 99,
+            "completion_tokens": 6,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.7700018361210823e-05
+      },
+      "distance": {
+        "answer": "2,400",
+        "recomputed": false,
+        "reason": "Normalized distance 0.03297785637969347 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 4.0899962186813354e-05
+      },
+      "provenance": {
+        "answer": "2,400",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.4499993994832039e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 119,
+              "cached_tokens": 64,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 119,
+              "cached_tokens": 118,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 2.1974412000272423
+        },
+        "provenance_idxs": [
+          31
+        ]
+      },
+      "provenance_aware": {
+        "answer": "2,400",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.5400000847876072e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 119,
+              "cached_tokens": 64,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 119,
+              "cached_tokens": 118,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 2.1974412000272423
+        },
+        "provenance_idxs": [
+          31
+        ]
+      }
+    }
+  }
+}

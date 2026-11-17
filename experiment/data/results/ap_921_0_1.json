@@ -1,0 +1,146 @@
+{
+  "task_001": {
+    "pair_id": "ap_921_0_1",
+    "task_id": "task_001",
+    "task": "How many refugees from Syria's civil war does the Syrian neighbor host? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "650,000 refugees.",
+    "true_new_answer": "650,000 refugees.",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 996,
+          "cached_tokens": 64,
+          "completion_tokens": 10,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 996,
+          "cached_tokens": 780,
+          "completion_tokens": 10,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "650,000 refugees.",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 996,
+            "cached_tokens": 780,
+            "completion_tokens": 10,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.4999997802078724e-05
+      },
+      "text_diff": {
+        "answer": "650,000 refugees.",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 996,
+            "cached_tokens": 780,
+            "completion_tokens": 10,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 7.800001185387373e-06
+      },
+      "distance": {
+        "answer": "650,000 refugees.",
+        "recomputed": false,
+        "reason": "Normalized distance 0.0023405453877466324 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 2.6100024115294218e-05
+      },
+      "provenance": {
+        "answer": "650,000 refugees.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 8.90000956133008e-06,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 130,
+              "cached_tokens": 64,
+              "completion_tokens": 9,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 167,
+              "cached_tokens": 112,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 130,
+              "cached_tokens": 129,
+              "completion_tokens": 9,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 2.199460000032559
+        },
+        "provenance_idxs": [
+          30
+        ]
+      },
+      "provenance_aware": {
+        "answer": "650,000 refugees.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.009996049106121e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 130,
+              "cached_tokens": 64,
+              "completion_tokens": 9,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 167,
+              "cached_tokens": 112,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 130,
+              "cached_tokens": 129,
+              "completion_tokens": 9,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 2.199460000032559
+        },
+        "provenance_idxs": [
+          30
+        ]
+      }
+    }
+  }
+}

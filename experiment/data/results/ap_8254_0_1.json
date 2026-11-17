@@ -1,0 +1,300 @@
+{
+  "task_001": {
+    "pair_id": "ap_8254_0_1",
+    "task_id": "task_001",
+    "task": "What is the full name of the person who opened four pubs in Bab Sharqi? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "Amro Touzani",
+    "true_new_answer": "Amro Tozan",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1303,
+          "cached_tokens": 64,
+          "completion_tokens": 6,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1301,
+          "cached_tokens": 857,
+          "completion_tokens": 5,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "Amro Tozan",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1301,
+            "cached_tokens": 857,
+            "completion_tokens": 5,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 4.060001811012626e-05
+      },
+      "text_diff": {
+        "answer": "Amro Tozan",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1301,
+            "cached_tokens": 857,
+            "completion_tokens": 5,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.440001117065549e-05
+      },
+      "distance": {
+        "answer": "Amro Touzani",
+        "recomputed": false,
+        "reason": "Normalized distance 0.0023987188139219786 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 6.330001633614302e-05
+      },
+      "provenance": {
+        "answer": "Amro Tozan",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [21]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1301,
+            "cached_tokens": 857,
+            "completion_tokens": 5,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 3.739999374374747e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 181,
+              "cached_tokens": 64,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 181,
+              "cached_tokens": 180,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 2.117646800004877
+        },
+        "provenance_idxs": [
+          21
+        ]
+      },
+      "provenance_aware": {
+        "answer": "Amro Tozan",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [21]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1301,
+            "cached_tokens": 857,
+            "completion_tokens": 5,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.9999995604157448e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 181,
+              "cached_tokens": 64,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 181,
+              "cached_tokens": 180,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 2.117646800004877
+        },
+        "provenance_idxs": [
+          21
+        ]
+      }
+    }
+  },
+  "task_002": {
+    "pair_id": "ap_8254_0_1",
+    "task_id": "task_002",
+    "task": "What is Alya's profession? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "Alya is a teacher.",
+    "true_new_answer": "Alya is a teacher.",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1293,
+          "cached_tokens": 857,
+          "completion_tokens": 7,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1291,
+          "cached_tokens": 857,
+          "completion_tokens": 7,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "Alya is a teacher.",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1291,
+            "cached_tokens": 857,
+            "completion_tokens": 7,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.6399968191981316e-05
+      },
+      "text_diff": {
+        "answer": "Alya is a teacher.",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1291,
+            "cached_tokens": 857,
+            "completion_tokens": 7,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.1199968867003918e-05
+      },
+      "distance": {
+        "answer": "Alya is a teacher.",
+        "recomputed": false,
+        "reason": "Normalized distance 0.0023987188139219786 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 4.6200002543628216e-05
+      },
+      "provenance": {
+        "answer": "Alya is a teacher.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 2.2799998987466097e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 133,
+              "cached_tokens": 64,
+              "completion_tokens": 9,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 133,
+              "cached_tokens": 132,
+              "completion_tokens": 9,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 2.20637239998905
+        },
+        "provenance_idxs": [
+          4
+        ]
+      },
+      "provenance_aware": {
+        "answer": "Alya is a teacher.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 2.6699970476329327e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 133,
+              "cached_tokens": 64,
+              "completion_tokens": 9,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 133,
+              "cached_tokens": 132,
+              "completion_tokens": 9,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 2.20637239998905
+        },
+        "provenance_idxs": [
+          4
+        ]
+      }
+    }
+  }
+}

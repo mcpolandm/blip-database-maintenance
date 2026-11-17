@@ -1,0 +1,502 @@
+{
+  "task_001": {
+    "pair_id": "ap_657_0_1",
+    "task_id": "task_001",
+    "task": "What is the name of the memorial in front of which they posed? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "Space Memorial Mirror",
+    "true_new_answer": "Space Mirror Memorial",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 867,
+          "cached_tokens": 64,
+          "completion_tokens": 4,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 867,
+          "cached_tokens": 668,
+          "completion_tokens": 4,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "Space Mirror Memorial",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 867,
+            "cached_tokens": 668,
+            "completion_tokens": 4,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.2599997464567423e-05
+      },
+      "text_diff": {
+        "answer": "Space Mirror Memorial",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 867,
+            "cached_tokens": 668,
+            "completion_tokens": 4,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.1899974197149277e-05
+      },
+      "distance": {
+        "answer": "Space Memorial Mirror",
+        "recomputed": false,
+        "reason": "Normalized distance 0.0031941201985945643 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 4.110002191737294e-05
+      },
+      "provenance": {
+        "answer": "Space Mirror Memorial",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [18]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 867,
+            "cached_tokens": 668,
+            "completion_tokens": 4,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.0300038158893585e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 111,
+              "cached_tokens": 64,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 155,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 111,
+              "cached_tokens": 110,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 1.7600159000139683
+        },
+        "provenance_idxs": [
+          18
+        ]
+      },
+      "provenance_aware": {
+        "answer": "Space Mirror Memorial",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [18]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 867,
+            "cached_tokens": 668,
+            "completion_tokens": 4,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.5099998563528061e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 111,
+              "cached_tokens": 64,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 155,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 111,
+              "cached_tokens": 110,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 1.7600159000139683
+        },
+        "provenance_idxs": [
+          18
+        ]
+      }
+    }
+  },
+  "task_002": {
+    "pair_id": "ap_657_0_1",
+    "task_id": "task_002",
+    "task": "How many years ago was the fire that killed the three astronauts? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "50 years ago.",
+    "true_new_answer": "50 years ago.",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 866,
+          "cached_tokens": 668,
+          "completion_tokens": 6,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 866,
+          "cached_tokens": 668,
+          "completion_tokens": 6,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "50 years ago.",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 866,
+            "cached_tokens": 668,
+            "completion_tokens": 6,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.6600027922540903e-05
+      },
+      "text_diff": {
+        "answer": "50 years ago.",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 866,
+            "cached_tokens": 668,
+            "completion_tokens": 6,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.3200042303651571e-05
+      },
+      "distance": {
+        "answer": "50 years ago.",
+        "recomputed": false,
+        "reason": "Normalized distance 0.0031941201985945643 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 4.4599990360438824e-05
+      },
+      "provenance": {
+        "answer": "50 years ago.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.4899997040629387e-05,
+        "provenance_usage": {
+          "llm_calls": 7,
+          "usage": [
+            {
+              "prompt_tokens": 199,
+              "cached_tokens": 64,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 182,
+              "cached_tokens": 150,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 158,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 132,
+              "cached_tokens": 100,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 158,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 132,
+              "cached_tokens": 131,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 3.073720599990338
+        },
+        "provenance_idxs": [
+          1
+        ]
+      },
+      "provenance_aware": {
+        "answer": "50 years ago.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.910002902150154e-05,
+        "provenance_usage": {
+          "llm_calls": 7,
+          "usage": [
+            {
+              "prompt_tokens": 199,
+              "cached_tokens": 64,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 182,
+              "cached_tokens": 150,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 158,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 132,
+              "cached_tokens": 100,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 158,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 132,
+              "cached_tokens": 131,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 3.073720599990338
+        },
+        "provenance_idxs": [
+          1
+        ]
+      }
+    }
+  },
+  "bool_001": {
+    "pair_id": "ap_657_0_1",
+    "task_id": "bool_001",
+    "task": "Was the memorial in front of which they posed the Space Mirror Memorial? Answer Yes or No.",
+    "task_type": "boolean",
+    "old_answer": "Yes.",
+    "true_new_answer": "Yes.",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 864,
+          "cached_tokens": 668,
+          "completion_tokens": 3,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 864,
+          "cached_tokens": 668,
+          "completion_tokens": 3,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "Yes.",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 864,
+            "cached_tokens": 668,
+            "completion_tokens": 3,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.939997309818864e-05
+      },
+      "text_diff": {
+        "answer": "Yes.",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 864,
+            "cached_tokens": 668,
+            "completion_tokens": 3,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 7.800001185387373e-06
+      },
+      "distance": {
+        "answer": "Yes.",
+        "recomputed": false,
+        "reason": "Normalized distance 0.0031941201985945643 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 3.090000245720148e-05
+      },
+      "provenance": {
+        "answer": "Yes.",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [18]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 864,
+            "cached_tokens": 668,
+            "completion_tokens": 3,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 3.1599949579685926e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 108,
+              "cached_tokens": 64,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 151,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 108,
+              "cached_tokens": 107,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 1.5609985999763012
+        },
+        "provenance_idxs": [
+          18
+        ]
+      },
+      "provenance_aware": {
+        "answer": "Yes.",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [18]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 864,
+            "cached_tokens": 668,
+            "completion_tokens": 3,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 9.000010322779417e-06,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 108,
+              "cached_tokens": 64,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 151,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 108,
+              "cached_tokens": 107,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 1.5609985999763012
+        },
+        "provenance_idxs": [
+          18
+        ]
+      }
+    }
+  }
+}

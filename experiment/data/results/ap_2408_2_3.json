@@ -1,0 +1,744 @@
+{
+  "task_001": {
+    "pair_id": "ap_2408_2_3",
+    "task_id": "task_001",
+    "task": "How many years had Kupchak been in the Lakers' front office? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "30 years.",
+    "true_new_answer": "30 years.",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1539,
+          "cached_tokens": 64,
+          "completion_tokens": 5,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1701,
+          "cached_tokens": 810,
+          "completion_tokens": 5,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "30 years.",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1701,
+            "cached_tokens": 810,
+            "completion_tokens": 5,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 3.029999788850546e-05
+      },
+      "text_diff": {
+        "answer": "30 years.",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1701,
+            "cached_tokens": 810,
+            "completion_tokens": 5,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.6700010746717453e-05
+      },
+      "distance": {
+        "answer": "30 years.",
+        "recomputed": false,
+        "reason": "Normalized distance 0.08788424804664917 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 4.830001853406429e-05
+      },
+      "provenance": {
+        "answer": "30 years.",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [23]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1701,
+            "cached_tokens": 810,
+            "completion_tokens": 5,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.659996971487999e-05,
+        "provenance_usage": {
+          "llm_calls": 9,
+          "usage": [
+            {
+              "prompt_tokens": 188,
+              "cached_tokens": 64,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 112,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 148,
+              "cached_tokens": 113,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 164,
+              "cached_tokens": 112,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 165,
+              "cached_tokens": 91,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 112,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 138,
+              "cached_tokens": 68,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 156,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 138,
+              "cached_tokens": 137,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 4.292946000001393
+        },
+        "provenance_idxs": [
+          23
+        ]
+      },
+      "provenance_aware": {
+        "answer": "30 years.",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [23]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1701,
+            "cached_tokens": 810,
+            "completion_tokens": 5,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.9900035113096237e-05,
+        "provenance_usage": {
+          "llm_calls": 9,
+          "usage": [
+            {
+              "prompt_tokens": 188,
+              "cached_tokens": 64,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 112,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 148,
+              "cached_tokens": 113,
+              "completion_tokens": 12,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 164,
+              "cached_tokens": 112,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 165,
+              "cached_tokens": 91,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 112,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 138,
+              "cached_tokens": 68,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 156,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 138,
+              "cached_tokens": 137,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 4.292946000001393
+        },
+        "provenance_idxs": [
+          23
+        ]
+      }
+    }
+  },
+  "task_002": {
+    "pair_id": "ap_2408_2_3",
+    "task_id": "task_002",
+    "task": "What NBA record of the Lakers is mentioned? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "Worst record in team history.",
+    "true_new_answer": "Worst record in team history.",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1532,
+          "cached_tokens": 810,
+          "completion_tokens": 8,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1694,
+          "cached_tokens": 810,
+          "completion_tokens": 8,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "Worst record in team history.",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1694,
+            "cached_tokens": 810,
+            "completion_tokens": 8,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.8699985705316067e-05
+      },
+      "text_diff": {
+        "answer": "Worst record in team history.",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1694,
+            "cached_tokens": 810,
+            "completion_tokens": 8,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.6000005416572094e-05
+      },
+      "distance": {
+        "answer": "Worst record in team history.",
+        "recomputed": false,
+        "reason": "Normalized distance 0.08788424804664917 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 4.029995761811733e-05
+      },
+      "provenance": {
+        "answer": "Worst record in team history.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.7400016076862812e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 160,
+              "cached_tokens": 64,
+              "completion_tokens": 8,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 160,
+              "cached_tokens": 159,
+              "completion_tokens": 8,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 2.6030064999940805
+        },
+        "provenance_idxs": [
+          5
+        ]
+      },
+      "provenance_aware": {
+        "answer": "Worst record in team history.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.7899961676448584e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 160,
+              "cached_tokens": 64,
+              "completion_tokens": 8,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 160,
+              "cached_tokens": 159,
+              "completion_tokens": 8,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 2.6030064999940805
+        },
+        "provenance_idxs": [
+          5
+        ]
+      }
+    }
+  },
+  "bool_001": {
+    "pair_id": "ap_2408_2_3",
+    "task_id": "bool_001",
+    "task": "Was Kupchak thanking the Buss family for their work for 36 years according to the statement given to The Associated Press? Answer Yes or No.",
+    "task_type": "boolean",
+    "old_answer": "No",
+    "true_new_answer": "Yes",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1548,
+          "cached_tokens": 810,
+          "completion_tokens": 2,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1710,
+          "cached_tokens": 810,
+          "completion_tokens": 2,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "Yes",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1710,
+            "cached_tokens": 810,
+            "completion_tokens": 2,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.4600012693554163e-05
+      },
+      "text_diff": {
+        "answer": "Yes",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1710,
+            "cached_tokens": 810,
+            "completion_tokens": 2,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.8099963199347258e-05
+      },
+      "distance": {
+        "answer": "No",
+        "recomputed": false,
+        "reason": "Normalized distance 0.08788424804664917 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 3.890000516548753e-05
+      },
+      "provenance": {
+        "answer": "Yes",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [23]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1710,
+            "cached_tokens": 810,
+            "completion_tokens": 2,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.2099993657320738e-05,
+        "provenance_usage": {
+          "llm_calls": 21,
+          "usage": [
+            {
+              "prompt_tokens": 339,
+              "cached_tokens": 64,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 151,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 309,
+              "cached_tokens": 265,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 151,
+              "cached_tokens": 150,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 270,
+              "cached_tokens": 226,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 151,
+              "cached_tokens": 150,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 229,
+              "cached_tokens": 185,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 151,
+              "cached_tokens": 150,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 197,
+              "cached_tokens": 153,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 151,
+              "cached_tokens": 150,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 113,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 174,
+              "cached_tokens": 91,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 151,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 147,
+              "cached_tokens": 68,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 134,
+              "cached_tokens": 68,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 158,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 147,
+              "cached_tokens": 68,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 158,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 174,
+              "cached_tokens": 68,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 7.933786100009456
+        },
+        "provenance_idxs": [
+          21,
+          23
+        ]
+      },
+      "provenance_aware": {
+        "answer": "Yes",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [23]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1710,
+            "cached_tokens": 810,
+            "completion_tokens": 2,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.5700003132224083e-05,
+        "provenance_usage": {
+          "llm_calls": 21,
+          "usage": [
+            {
+              "prompt_tokens": 339,
+              "cached_tokens": 64,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 151,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 309,
+              "cached_tokens": 265,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 151,
+              "cached_tokens": 150,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 270,
+              "cached_tokens": 226,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 151,
+              "cached_tokens": 150,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 229,
+              "cached_tokens": 185,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 151,
+              "cached_tokens": 150,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 197,
+              "cached_tokens": 153,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 151,
+              "cached_tokens": 150,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 113,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 174,
+              "cached_tokens": 91,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 151,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 147,
+              "cached_tokens": 68,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 134,
+              "cached_tokens": 68,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 158,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 147,
+              "cached_tokens": 68,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 158,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 174,
+              "cached_tokens": 68,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 7.933786100009456
+        },
+        "provenance_idxs": [
+          21,
+          23
+        ]
+      }
+    }
+  }
+}

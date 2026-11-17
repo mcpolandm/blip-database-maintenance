@@ -1,0 +1,146 @@
+{
+  "task_001": {
+    "pair_id": "ap_6148_1_2",
+    "task_id": "task_001",
+    "task": "According to Chan, what percentage of health facilities are fully functioning? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "Fewer than 45 percent.",
+    "true_new_answer": "Fewer than 45 percent.",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 995,
+          "cached_tokens": 64,
+          "completion_tokens": 9,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 995,
+          "cached_tokens": 79,
+          "completion_tokens": 9,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "Fewer than 45 percent.",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 995,
+            "cached_tokens": 79,
+            "completion_tokens": 9,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.850002445280552e-05
+      },
+      "text_diff": {
+        "answer": "Fewer than 45 percent.",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 995,
+            "cached_tokens": 79,
+            "completion_tokens": 9,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 8.700008038431406e-06
+      },
+      "distance": {
+        "answer": "Fewer than 45 percent.",
+        "recomputed": false,
+        "reason": "Normalized distance 0.001716047901335403 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 3.300001844763756e-05
+      },
+      "provenance": {
+        "answer": "Fewer than 45 percent.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.209997572004795e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 130,
+              "cached_tokens": 64,
+              "completion_tokens": 9,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 163,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 130,
+              "cached_tokens": 129,
+              "completion_tokens": 9,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 2.1388365000020713
+        },
+        "provenance_idxs": [
+          23
+        ]
+      },
+      "provenance_aware": {
+        "answer": "Fewer than 45 percent.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.2199976481497288e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 130,
+              "cached_tokens": 64,
+              "completion_tokens": 9,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 163,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 130,
+              "cached_tokens": 129,
+              "completion_tokens": 9,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 2.1388365000020713
+        },
+        "provenance_idxs": [
+          23
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "task_001": {
+    "pair_id": "ap_2139_3_4",
+    "task_id": "task_001",
+    "task": "Where did the friend drop the bombshell? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "Los Angeles Superior Court.",
+    "true_new_answer": "In court.",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1126,
+          "cached_tokens": 64,
+          "completion_tokens": 6,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1127,
+          "cached_tokens": 94,
+          "completion_tokens": 4,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "In court.",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1127,
+            "cached_tokens": 94,
+            "completion_tokens": 4,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.9500050004571676e-05
+      },
+      "text_diff": {
+        "answer": "In court.",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1127,
+            "cached_tokens": 94,
+            "completion_tokens": 4,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.7200014553964138e-05
+      },
+      "distance": {
+        "answer": "Los Angeles Superior Court.",
+        "recomputed": false,
+        "reason": "Normalized distance 0.003996386115567209 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 5.979998968541622e-05
+      },
+      "provenance": {
+        "answer": "Los Angeles Superior Court.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 2.0300038158893585e-05,
+        "provenance_usage": {
+          "llm_calls": 8,
+          "usage": [
+            {
+              "prompt_tokens": 111,
+              "cached_tokens": 1,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 162,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 189,
+              "cached_tokens": 64,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 132,
+              "cached_tokens": 104,
+              "completion_tokens": 3,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 155,
+              "cached_tokens": 113,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 149,
+              "cached_tokens": 64,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 113,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 8.208905400009826
+        },
+        "provenance_idxs": [
+          1
+        ]
+      },
+      "provenance_aware": {
+        "answer": "Los Angeles Superior Court.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 2.2799998987466097e-05,
+        "provenance_usage": {
+          "llm_calls": 8,
+          "usage": [
+            {
+              "prompt_tokens": 111,
+              "cached_tokens": 1,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 162,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 189,
+              "cached_tokens": 64,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 132,
+              "cached_tokens": 104,
+              "completion_tokens": 3,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 155,
+              "cached_tokens": 113,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 149,
+              "cached_tokens": 64,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 113,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 8.208905400009826
+        },
+        "provenance_idxs": [
+          1
+        ]
+      }
+    }
+  },
+  "task_002": {
+    "pair_id": "ap_2139_3_4",
+    "task_id": "task_002",
+    "task": "What did Durst admit to doing with the body? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "Chopped up the body and tossed it in the sea.",
+    "true_new_answer": "Chopped up the body and tossed it in the sea.",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1128,
+          "cached_tokens": 1102,
+          "completion_tokens": 13,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1129,
+          "cached_tokens": 1103,
+          "completion_tokens": 13,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "Chopped up the body and tossed it in the sea.",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1129,
+            "cached_tokens": 1103,
+            "completion_tokens": 13,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.2899999748915434e-05
+      },
+      "text_diff": {
+        "answer": "Chopped up the body and tossed it in the sea.",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1129,
+            "cached_tokens": 1103,
+            "completion_tokens": 13,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.1199968867003918e-05
+      },
+      "distance": {
+        "answer": "Chopped up the body and tossed it in the sea.",
+        "recomputed": false,
+        "reason": "Normalized distance 0.003996386115567209 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 3.7999998312443495e-05
+      },
+      "provenance": {
+        "answer": "Chopped up the body and tossed it in the sea.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.2599979527294636e-05,
+        "provenance_usage": {
+          "llm_calls": 11,
+          "usage": [
+            {
+              "prompt_tokens": 153,
+              "cached_tokens": 64,
+              "completion_tokens": 10,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 168,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 153,
+              "cached_tokens": 152,
+              "completion_tokens": 10,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 168,
+              "cached_tokens": 167,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 171,
+              "cached_tokens": 123,
+              "completion_tokens": 13,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 171,
+              "cached_tokens": 114,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 153,
+              "cached_tokens": 123,
+              "completion_tokens": 10,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 168,
+              "cached_tokens": 114,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 111,
+              "cached_tokens": 64,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 169,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 171,
+              "cached_tokens": 64,
+              "completion_tokens": 13,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 7.437455500010401
+        },
+        "provenance_idxs": [
+          23,
+          24
+        ]
+      },
+      "provenance_aware": {
+        "answer": "Chopped up the body and tossed it in the sea.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.4499993994832039e-05,
+        "provenance_usage": {
+          "llm_calls": 11,
+          "usage": [
+            {
+              "prompt_tokens": 153,
+              "cached_tokens": 64,
+              "completion_tokens": 10,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 168,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 153,
+              "cached_tokens": 152,
+              "completion_tokens": 10,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 168,
+              "cached_tokens": 167,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 171,
+              "cached_tokens": 123,
+              "completion_tokens": 13,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 171,
+              "cached_tokens": 114,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 153,
+              "cached_tokens": 123,
+              "completion_tokens": 10,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 168,
+              "cached_tokens": 114,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 111,
+              "cached_tokens": 64,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 169,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 171,
+              "cached_tokens": 64,
+              "completion_tokens": 13,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 7.437455500010401
+        },
+        "provenance_idxs": [
+          23,
+          24
+        ]
+      }
+    }
+  }
+}

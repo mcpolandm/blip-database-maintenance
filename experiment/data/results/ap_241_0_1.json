@@ -1,0 +1,470 @@
+{
+  "task_001": {
+    "pair_id": "ap_241_0_1",
+    "task_id": "task_001",
+    "task": "What did Trump sign on Friday night? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "An executive order targeting Obamacare.",
+    "true_new_answer": "An executive order targeting Obamacare.",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 665,
+          "cached_tokens": 64,
+          "completion_tokens": 7,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 664,
+          "cached_tokens": 93,
+          "completion_tokens": 7,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "An executive order targeting Obamacare.",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 664,
+            "cached_tokens": 93,
+            "completion_tokens": 7,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.550000160932541e-05
+      },
+      "text_diff": {
+        "answer": "An executive order targeting Obamacare.",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 664,
+            "cached_tokens": 93,
+            "completion_tokens": 7,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 5.999987479299307e-06
+      },
+      "distance": {
+        "answer": "An executive order targeting Obamacare.",
+        "recomputed": false,
+        "reason": "Normalized distance 0.00490633683136743 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 2.670002868399024e-05
+      },
+      "provenance": {
+        "answer": "An executive order targeting Obamacare.",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [0]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 664,
+            "cached_tokens": 93,
+            "completion_tokens": 7,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.3299984857439995e-05,
+        "provenance_usage": {
+          "llm_calls": 15,
+          "usage": [
+            {
+              "prompt_tokens": 216,
+              "cached_tokens": 189,
+              "completion_tokens": 7,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 197,
+              "cached_tokens": 170,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 158,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 154,
+              "cached_tokens": 127,
+              "completion_tokens": 3,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 156,
+              "cached_tokens": 113,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 180,
+              "cached_tokens": 111,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 158,
+              "cached_tokens": 113,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 133,
+              "cached_tokens": 64,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 163,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 137,
+              "cached_tokens": 110,
+              "completion_tokens": 3,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 156,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 133,
+              "cached_tokens": 132,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 163,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 180,
+              "cached_tokens": 110,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 5.421820399991702
+        },
+        "provenance_idxs": [
+          0,
+          2
+        ]
+      },
+      "provenance_aware": {
+        "answer": "An executive order targeting Obamacare.",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [0]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 664,
+            "cached_tokens": 93,
+            "completion_tokens": 7,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 9.000010322779417e-06,
+        "provenance_usage": {
+          "llm_calls": 15,
+          "usage": [
+            {
+              "prompt_tokens": 216,
+              "cached_tokens": 189,
+              "completion_tokens": 7,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 197,
+              "cached_tokens": 170,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 158,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 154,
+              "cached_tokens": 127,
+              "completion_tokens": 3,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 156,
+              "cached_tokens": 113,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 180,
+              "cached_tokens": 111,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 158,
+              "cached_tokens": 113,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 133,
+              "cached_tokens": 64,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 163,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 137,
+              "cached_tokens": 110,
+              "completion_tokens": 3,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 156,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 133,
+              "cached_tokens": 132,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 163,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 180,
+              "cached_tokens": 110,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 5.421820399991702
+        },
+        "provenance_idxs": [
+          0,
+          2
+        ]
+      }
+    }
+  },
+  "task_002": {
+    "pair_id": "ap_241_0_1",
+    "task_id": "task_002",
+    "task": "What year's participation might be affected according to Levitt? Answer with the number only.",
+    "task_type": "extraction",
+    "old_answer": "2018",
+    "true_new_answer": "2018",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 667,
+          "cached_tokens": 111,
+          "completion_tokens": 5,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 666,
+          "cached_tokens": 642,
+          "completion_tokens": 5,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "2018",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 666,
+            "cached_tokens": 642,
+            "completion_tokens": 5,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.2099993657320738e-05
+      },
+      "text_diff": {
+        "answer": "2018",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 666,
+            "cached_tokens": 642,
+            "completion_tokens": 5,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 9.200011845678091e-06
+      },
+      "distance": {
+        "answer": "2018",
+        "recomputed": false,
+        "reason": "Normalized distance 0.00490633683136743 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 4.39999857917428e-05
+      },
+      "provenance": {
+        "answer": "2018",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.0699965059757233e-05,
+        "provenance_usage": {
+          "llm_calls": 5,
+          "usage": [
+            {
+              "prompt_tokens": 152,
+              "cached_tokens": 64,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 125,
+              "cached_tokens": 96,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 158,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 125,
+              "cached_tokens": 124,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 2.149331299995538
+        },
+        "provenance_idxs": [
+          9
+        ]
+      },
+      "provenance_aware": {
+        "answer": "2018",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.1300027836114168e-05,
+        "provenance_usage": {
+          "llm_calls": 5,
+          "usage": [
+            {
+              "prompt_tokens": 152,
+              "cached_tokens": 64,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 125,
+              "cached_tokens": 96,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 158,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 125,
+              "cached_tokens": 124,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 2.149331299995538
+        },
+        "provenance_idxs": [
+          9
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,432 @@
+{
+  "task_001": {
+    "pair_id": "ap_5692_0_1",
+    "task_id": "task_001",
+    "task": "What event was held to celebrate the anniversary of Kim Il Sung's birth? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "Kimilsungia flower show",
+    "true_new_answer": "Kimilsungia flower show",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 601,
+          "cached_tokens": 64,
+          "completion_tokens": 7,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 708,
+          "cached_tokens": 567,
+          "completion_tokens": 7,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "Kimilsungia flower show",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 708,
+            "cached_tokens": 567,
+            "completion_tokens": 7,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.0900042727589607e-05
+      },
+      "text_diff": {
+        "answer": "Kimilsungia flower show",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 708,
+            "cached_tokens": 567,
+            "completion_tokens": 7,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 8.500006515532732e-06
+      },
+      "distance": {
+        "answer": "Kimilsungia flower show",
+        "recomputed": true,
+        "reason": "Normalized distance 0.1681596370124103 exceeds threshold 0.1",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 708,
+            "cached_tokens": 567,
+            "completion_tokens": 7,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 3.279995871707797e-05
+      },
+      "provenance": {
+        "answer": "Kimilsungia flower show",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 9.90001717582345e-06,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 64,
+              "completion_tokens": 7,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 160,
+              "completion_tokens": 7,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 1.6050761999795213
+        },
+        "provenance_idxs": [
+          6
+        ]
+      },
+      "provenance_aware": {
+        "answer": "Kimilsungia flower show",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.1399970389902592e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 64,
+              "completion_tokens": 7,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 160,
+              "completion_tokens": 7,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 1.6050761999795213
+        },
+        "provenance_idxs": [
+          6
+        ]
+      }
+    }
+  },
+  "bool_001": {
+    "pair_id": "ap_5692_0_1",
+    "task_id": "bool_001",
+    "task": "Was the official campaigning period for next month's presidential election in South Korea a main focus of domestic news on Monday following the North's weekend celebrations? Answer Yes or No.",
+    "task_type": "boolean",
+    "old_answer": "No",
+    "true_new_answer": "Yes",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 612,
+          "cached_tokens": 567,
+          "completion_tokens": 2,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 719,
+          "cached_tokens": 567,
+          "completion_tokens": 2,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "Yes",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 719,
+            "cached_tokens": 567,
+            "completion_tokens": 2,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.6899954061955214e-05
+      },
+      "text_diff": {
+        "answer": "Yes",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 719,
+            "cached_tokens": 567,
+            "completion_tokens": 2,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 7.700000423938036e-06
+      },
+      "distance": {
+        "answer": "Yes",
+        "recomputed": true,
+        "reason": "Normalized distance 0.1681596370124103 exceeds threshold 0.1",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 719,
+            "cached_tokens": 567,
+            "completion_tokens": 2,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.889998722821474e-05
+      },
+      "provenance": {
+        "answer": "Yes",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [15]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 719,
+            "cached_tokens": 567,
+            "completion_tokens": 2,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.4300010409206152e-05,
+        "provenance_usage": {
+          "llm_calls": 13,
+          "usage": [
+            {
+              "prompt_tokens": 170,
+              "cached_tokens": 64,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 151,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 140,
+              "cached_tokens": 95,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 151,
+              "cached_tokens": 77,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 151,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 138,
+              "cached_tokens": 64,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 121,
+              "cached_tokens": 64,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 158,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 138,
+              "cached_tokens": 64,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 158,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 151,
+              "cached_tokens": 64,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 4.737244300020393
+        },
+        "provenance_idxs": [
+          13,
+          15
+        ]
+      },
+      "provenance_aware": {
+        "answer": "Yes",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [15]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 719,
+            "cached_tokens": 567,
+            "completion_tokens": 2,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 9.7999582067132e-06,
+        "provenance_usage": {
+          "llm_calls": 13,
+          "usage": [
+            {
+              "prompt_tokens": 170,
+              "cached_tokens": 64,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 151,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 140,
+              "cached_tokens": 95,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 151,
+              "cached_tokens": 77,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 151,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 138,
+              "cached_tokens": 64,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 121,
+              "cached_tokens": 64,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 158,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 138,
+              "cached_tokens": 64,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 158,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 151,
+              "cached_tokens": 64,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 4.737244300020393
+        },
+        "provenance_idxs": [
+          13,
+          15
+        ]
+      }
+    }
+  }
+}

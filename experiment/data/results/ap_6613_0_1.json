@@ -1,0 +1,300 @@
+{
+  "task_001": {
+    "pair_id": "ap_6613_0_1",
+    "task_id": "task_001",
+    "task": "How many doses can patients take home per week when they first start receiving methadone? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "One dose per week.",
+    "true_new_answer": "One dose per week.",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1306,
+          "cached_tokens": 64,
+          "completion_tokens": 6,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1306,
+          "cached_tokens": 834,
+          "completion_tokens": 6,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "One dose per week.",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1306,
+            "cached_tokens": 834,
+            "completion_tokens": 6,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.800003858283162e-05
+      },
+      "text_diff": {
+        "answer": "One dose per week.",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1306,
+            "cached_tokens": 834,
+            "completion_tokens": 6,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.3999990187585354e-05
+      },
+      "distance": {
+        "answer": "One dose per week.",
+        "recomputed": false,
+        "reason": "Normalized distance 0.00124835144128553 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 4.449998959898949e-05
+      },
+      "provenance": {
+        "answer": "One dose per week.",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [29]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1306,
+            "cached_tokens": 834,
+            "completion_tokens": 6,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.3100001271814108e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 131,
+              "cached_tokens": 1,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 131,
+              "cached_tokens": 130,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 2.159462000010535
+        },
+        "provenance_idxs": [
+          29
+        ]
+      },
+      "provenance_aware": {
+        "answer": "One dose per week.",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [29]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1306,
+            "cached_tokens": 834,
+            "completion_tokens": 6,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.7400016076862812e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 131,
+              "cached_tokens": 1,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 131,
+              "cached_tokens": 130,
+              "completion_tokens": 6,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 2.159462000010535
+        },
+        "provenance_idxs": [
+          29
+        ]
+      }
+    }
+  },
+  "task_002": {
+    "pair_id": "ap_6613_0_1",
+    "task_id": "task_002",
+    "task": "What percentage of people treated at an opioid treatment center in Georgia last year came from out of state? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "One in five (20%).",
+    "true_new_answer": "One in five (20%).",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1308,
+          "cached_tokens": 834,
+          "completion_tokens": 8,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1308,
+          "cached_tokens": 834,
+          "completion_tokens": 8,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "One in five (20%).",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1308,
+            "cached_tokens": 834,
+            "completion_tokens": 8,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 4.080001963302493e-05
+      },
+      "text_diff": {
+        "answer": "One in five (20%).",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1308,
+            "cached_tokens": 834,
+            "completion_tokens": 8,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.8300040867179632e-05
+      },
+      "distance": {
+        "answer": "One in five (20%).",
+        "recomputed": false,
+        "reason": "Normalized distance 0.00124835144128553 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 6.970000686123967e-05
+      },
+      "provenance": {
+        "answer": "One in five (20%).",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 3.0499999411404133e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 64,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 160,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 1.8996541000087745
+        },
+        "provenance_idxs": [
+          8
+        ]
+      },
+      "provenance_aware": {
+        "answer": "One in five (20%).",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 3.419996937736869e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 64,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 160,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 1.8996541000087745
+        },
+        "provenance_idxs": [
+          8
+        ]
+      }
+    }
+  }
+}

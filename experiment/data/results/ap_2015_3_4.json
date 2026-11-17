@@ -1,0 +1,206 @@
+{
+  "task_001": {
+    "pair_id": "ap_2015_3_4",
+    "task_id": "task_001",
+    "task": "What is Masand's position at Banke International? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "Director of Banke International.",
+    "true_new_answer": "Director of Banke International.",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 891,
+          "cached_tokens": 64,
+          "completion_tokens": 7,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 891,
+          "cached_tokens": 230,
+          "completion_tokens": 7,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "Director of Banke International.",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 891,
+            "cached_tokens": 230,
+            "completion_tokens": 7,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.8700025975704193e-05
+      },
+      "text_diff": {
+        "answer": "Director of Banke International.",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 891,
+            "cached_tokens": 230,
+            "completion_tokens": 7,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 8.000002708286047e-06
+      },
+      "distance": {
+        "answer": "Director of Banke International.",
+        "recomputed": false,
+        "reason": "Normalized distance 0.0013459519520748926 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 3.090000245720148e-05
+      },
+      "provenance": {
+        "answer": "Director of Banke International.",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [4]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 891,
+            "cached_tokens": 230,
+            "completion_tokens": 7,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.6400008462369442e-05,
+        "provenance_usage": {
+          "llm_calls": 7,
+          "usage": [
+            {
+              "prompt_tokens": 174,
+              "cached_tokens": 1,
+              "completion_tokens": 7,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 123,
+              "cached_tokens": 93,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 163,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 144,
+              "cached_tokens": 64,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 155,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 174,
+              "cached_tokens": 64,
+              "completion_tokens": 7,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 3.2104555999976583
+        },
+        "provenance_idxs": [
+          3,
+          4
+        ]
+      },
+      "provenance_aware": {
+        "answer": "Director of Banke International.",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [4]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 891,
+            "cached_tokens": 230,
+            "completion_tokens": 7,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.1199968867003918e-05,
+        "provenance_usage": {
+          "llm_calls": 7,
+          "usage": [
+            {
+              "prompt_tokens": 174,
+              "cached_tokens": 1,
+              "completion_tokens": 7,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 123,
+              "cached_tokens": 93,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 163,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 144,
+              "cached_tokens": 64,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 155,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 174,
+              "cached_tokens": 64,
+              "completion_tokens": 7,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 3.2104555999976583
+        },
+        "provenance_idxs": [
+          3,
+          4
+        ]
+      }
+    }
+  }
+}

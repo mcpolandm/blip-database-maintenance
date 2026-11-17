@@ -11,7 +11,7 @@
         "llm_calls": 1,
         "usage": {
           "prompt_tokens": 701,
-          "cached_tokens": 700,
+          "cached_tokens": 64,
           "completion_tokens": 3,
           "model": "qwen3:4b-instruct"
         }
@@ -20,7 +20,7 @@
         "llm_calls": 1,
         "usage": {
           "prompt_tokens": 802,
-          "cached_tokens": 801,
+          "cached_tokens": 129,
           "completion_tokens": 8,
           "model": "qwen3:4b-instruct"
         }
@@ -35,12 +35,12 @@
           "llm_calls": 1,
           "usage": {
             "prompt_tokens": 802,
-            "cached_tokens": 801,
+            "cached_tokens": 129,
             "completion_tokens": 8,
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.3699987903237343e-05
+        "wall_time_seconds": 1.479999627918005e-05
       },
       "text_diff": {
         "answer": "Independent investigation by a law firm.",
@@ -50,12 +50,12 @@
           "llm_calls": 1,
           "usage": {
             "prompt_tokens": 802,
-            "cached_tokens": 801,
+            "cached_tokens": 129,
             "completion_tokens": 8,
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 7.200054824352264e-06
+        "wall_time_seconds": 6.099988240748644e-06
       },
       "distance": {
         "answer": "Independent investigation by a law firm.",
@@ -65,12 +65,12 @@
           "llm_calls": 1,
           "usage": {
             "prompt_tokens": 802,
-            "cached_tokens": 801,
+            "cached_tokens": 129,
             "completion_tokens": 8,
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.9200047720223665e-05
+        "wall_time_seconds": 2.3300002794712782e-05
       },
       "provenance": {
         "answer": "Independent investigation by a law firm.",
@@ -80,12 +80,12 @@
           "llm_calls": 1,
           "usage": {
             "prompt_tokens": 802,
-            "cached_tokens": 801,
+            "cached_tokens": 129,
             "completion_tokens": 8,
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.5099998563528061e-05,
+        "wall_time_seconds": 1.2500036973506212e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -108,7 +108,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.2482572000008076
+          "wall_time_seconds": 1.5010884000221267
         },
         "provenance_idxs": [
           16
@@ -122,12 +122,12 @@
           "llm_calls": 1,
           "usage": {
             "prompt_tokens": 802,
-            "cached_tokens": 801,
+            "cached_tokens": 129,
             "completion_tokens": 8,
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.0500021744519472e-05,
+        "wall_time_seconds": 1.0200019460171461e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -150,7 +150,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.2482572000008076
+          "wall_time_seconds": 1.5010884000221267
         },
         "provenance_idxs": [
           16
@@ -199,7 +199,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.5500019546598196e-05
+        "wall_time_seconds": 1.290004001930356e-05
       },
       "text_diff": {
         "answer": "Six networks.",
@@ -214,7 +214,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 9.09995287656784e-06
+        "wall_time_seconds": 4.499976057559252e-06
       },
       "distance": {
         "answer": "Six networks.",
@@ -229,7 +229,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 3.71999922208488e-05
+        "wall_time_seconds": 1.7700018361210823e-05
       },
       "provenance": {
         "answer": "Six networks.",
@@ -239,7 +239,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 9.700015652924776e-06,
+        "wall_time_seconds": 5.600042641162872e-06,
         "provenance_usage": {
           "llm_calls": 11,
           "usage": [
@@ -310,7 +310,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 20.169081999978516
+          "wall_time_seconds": 4.135302299982868
         },
         "provenance_idxs": [
           6,
@@ -325,7 +325,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.0399962775409222e-05,
+        "wall_time_seconds": 5.799985956400633e-06,
         "provenance_usage": {
           "llm_calls": 11,
           "usage": [
@@ -396,7 +396,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 20.169081999978516
+          "wall_time_seconds": 4.135302299982868
         },
         "provenance_idxs": [
           6,
@@ -446,7 +446,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.9499973859637976e-05
+        "wall_time_seconds": 1.2000033166259527e-05
       },
       "text_diff": {
         "answer": "Yes.",
@@ -461,7 +461,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.079996582120657e-05
+        "wall_time_seconds": 5.100038833916187e-06
       },
       "distance": {
         "answer": "Yes.",
@@ -476,7 +476,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 3.250001464039087e-05
+        "wall_time_seconds": 2.0099978428333998e-05
       },
       "provenance": {
         "answer": "Yes.",
@@ -491,7 +491,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.899997005239129e-05,
+        "wall_time_seconds": 1.279998105019331e-05,
         "provenance_usage": {
           "llm_calls": 11,
           "usage": [
@@ -562,7 +562,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 6.27000009996118
+          "wall_time_seconds": 2.9830018999637105
         },
         "provenance_idxs": [
           1,
@@ -582,7 +582,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.3699987903237343e-05,
+        "wall_time_seconds": 6.89999433234334e-06,
         "provenance_usage": {
           "llm_calls": 11,
           "usage": [
@@ -653,7 +653,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 6.27000009996118
+          "wall_time_seconds": 2.9830018999637105
         },
         "provenance_idxs": [
           1,
@@ -703,7 +703,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.9899976905435324e-05
+        "wall_time_seconds": 1.3199984095990658e-05
       },
       "text_diff": {
         "answer": "No",
@@ -718,7 +718,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.3899989426136017e-05
+        "wall_time_seconds": 1.1100026313215494e-05
       },
       "distance": {
         "answer": "No",
@@ -733,7 +733,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 4.640000406652689e-05
+        "wall_time_seconds": 2.0899984519928694e-05
       },
       "provenance": {
         "answer": "No",
@@ -748,7 +748,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.2499996703118086e-05,
+        "wall_time_seconds": 1.279998105019331e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -771,7 +771,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.7320103000383824
+          "wall_time_seconds": 1.4377644999767654
         },
         "provenance_idxs": [
           16
@@ -790,7 +790,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.550000160932541e-05,
+        "wall_time_seconds": 6.399990525096655e-06,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -813,7 +813,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.7320103000383824
+          "wall_time_seconds": 1.4377644999767654
         },
         "provenance_idxs": [
           16
@@ -862,7 +862,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.3199984095990658e-05
+        "wall_time_seconds": 1.5600002370774746e-05
       },
       "text_diff": {
         "answer": "Yes.",
@@ -877,7 +877,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 7.099995855242014e-06
+        "wall_time_seconds": 7.700000423938036e-06
       },
       "distance": {
         "answer": "Yes.",
@@ -892,7 +892,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.139998832717538e-05
+        "wall_time_seconds": 3.250001464039087e-05
       },
       "provenance": {
         "answer": "Yes.",
@@ -902,7 +902,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 9.200011845678091e-06,
+        "wall_time_seconds": 8.200004231184721e-06,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -925,7 +925,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.6550857000402175
+          "wall_time_seconds": 1.3602843999979086
         },
         "provenance_idxs": [
           6
@@ -939,7 +939,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 9.200011845678091e-06,
+        "wall_time_seconds": 6.599992047995329e-06,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -962,7 +962,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.6550857000402175
+          "wall_time_seconds": 1.3602843999979086
         },
         "provenance_idxs": [
           6
@@ -1011,7 +1011,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.4199991710484028e-05
+        "wall_time_seconds": 1.360004534944892e-05
       },
       "text_diff": {
         "answer": "Yes.",
@@ -1026,7 +1026,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 9.000010322779417e-06
+        "wall_time_seconds": 5.900044925510883e-06
       },
       "distance": {
         "answer": "Yes.",
@@ -1041,7 +1041,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.4900014977902174e-05
+        "wall_time_seconds": 2.0400038920342922e-05
       },
       "provenance": {
         "answer": "Yes.",
@@ -1051,7 +1051,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.0199961252510548e-05,
+        "wall_time_seconds": 7.399998139590025e-06,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -1074,7 +1074,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.5360664000036195
+          "wall_time_seconds": 1.2888274999568239
         },
         "provenance_idxs": [
           6
@@ -1088,7 +1088,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.0600022505968809e-05,
+        "wall_time_seconds": 6.399990525096655e-06,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -1111,7 +1111,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.5360664000036195
+          "wall_time_seconds": 1.2888274999568239
         },
         "provenance_idxs": [
           6

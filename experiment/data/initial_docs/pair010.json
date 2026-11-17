@@ -241,12 +241,12 @@
   {
    "task_id": "bool_003",
    "type": "boolean",
-   "prompt": "Is Chris Watts' age greater than 25? Answer Yes or No."
+   "prompt": "Is Chris Watts' age 33? Answer Yes or No."
   },
   {
    "task_id": "bool_004",
    "type": "boolean",
-   "prompt": "Is Chris Watts' age greater than 41? Answer Yes or No."
+   "prompt": "Is Chris Watts' age 41? Answer Yes or No."
   }
  ]
 }

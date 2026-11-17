@@ -1,0 +1,300 @@
+{
+  "task_001": {
+    "pair_id": "ap_18462_0_1",
+    "task_id": "task_001",
+    "task": "What day does the article mention for the events around the majors? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "Thursday",
+    "true_new_answer": "Today",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 622,
+          "cached_tokens": 64,
+          "completion_tokens": 2,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 622,
+          "cached_tokens": 73,
+          "completion_tokens": 2,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "Today",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 622,
+            "cached_tokens": 73,
+            "completion_tokens": 2,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.3699987903237343e-05
+      },
+      "text_diff": {
+        "answer": "Today",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 622,
+            "cached_tokens": 73,
+            "completion_tokens": 2,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 7.90000194683671e-06
+      },
+      "distance": {
+        "answer": "Thursday",
+        "recomputed": false,
+        "reason": "Normalized distance 0.004867225723769108 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 2.6999972760677338e-05
+      },
+      "provenance": {
+        "answer": "Today",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [0]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 622,
+            "cached_tokens": 73,
+            "completion_tokens": 2,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.71000137925148e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 139,
+              "cached_tokens": 64,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 151,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 139,
+              "cached_tokens": 138,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 1.2999792000046
+        },
+        "provenance_idxs": [
+          0
+        ]
+      },
+      "provenance_aware": {
+        "answer": "Today",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [0]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 622,
+            "cached_tokens": 73,
+            "completion_tokens": 2,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.1999974958598614e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 139,
+              "cached_tokens": 64,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 151,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 139,
+              "cached_tokens": 138,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 1.2999792000046
+        },
+        "provenance_idxs": [
+          0
+        ]
+      }
+    }
+  },
+  "task_002": {
+    "pair_id": "ap_18462_0_1",
+    "task_id": "task_002",
+    "task": "What is the batting average of the 29-year-old infielder? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": ".258",
+    "true_new_answer": ".258",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 624,
+          "cached_tokens": 107,
+          "completion_tokens": 5,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 624,
+          "cached_tokens": 595,
+          "completion_tokens": 5,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": ".258",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 624,
+            "cached_tokens": 595,
+            "completion_tokens": 5,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.9599974621087313e-05
+      },
+      "text_diff": {
+        "answer": ".258",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 624,
+            "cached_tokens": 595,
+            "completion_tokens": 5,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 8.400005754083395e-06
+      },
+      "distance": {
+        "answer": ".258",
+        "recomputed": false,
+        "reason": "Normalized distance 0.004867225723769108 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 4.349998198449612e-05
+      },
+      "provenance": {
+        "answer": ".258",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 9.599956683814526e-06,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 135,
+              "cached_tokens": 1,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 135,
+              "cached_tokens": 134,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 1.4930655999924056
+        },
+        "provenance_idxs": [
+          19
+        ]
+      },
+      "provenance_aware": {
+        "answer": ".258",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.1500029359012842e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 135,
+              "cached_tokens": 1,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 157,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 135,
+              "cached_tokens": 134,
+              "completion_tokens": 5,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 1.4930655999924056
+        },
+        "provenance_idxs": [
+          19
+        ]
+      }
+    }
+  }
+}

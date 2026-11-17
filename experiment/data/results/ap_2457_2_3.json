@@ -1,0 +1,422 @@
+{
+  "task_001": {
+    "pair_id": "ap_2457_2_3",
+    "task_id": "task_001",
+    "task": "What type of exit does Messiha suggest for France? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "Soft Frexit",
+    "true_new_answer": "Soft Frexit",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1553,
+          "cached_tokens": 64,
+          "completion_tokens": 4,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1553,
+          "cached_tokens": 438,
+          "completion_tokens": 4,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "Soft Frexit",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1553,
+            "cached_tokens": 438,
+            "completion_tokens": 4,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 3.070000093430281e-05
+      },
+      "text_diff": {
+        "answer": "Soft Frexit",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1553,
+            "cached_tokens": 438,
+            "completion_tokens": 4,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.7099955584853888e-05
+      },
+      "distance": {
+        "answer": "Soft Frexit",
+        "recomputed": false,
+        "reason": "Normalized distance 0.0007568937170378833 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 4.8900023102760315e-05
+      },
+      "provenance": {
+        "answer": "Soft Frexit",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [11]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1553,
+            "cached_tokens": 438,
+            "completion_tokens": 4,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.8799986466765404e-05,
+        "provenance_usage": {
+          "llm_calls": 7,
+          "usage": [
+            {
+              "prompt_tokens": 236,
+              "cached_tokens": 1,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 155,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 209,
+              "cached_tokens": 179,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 155,
+              "cached_tokens": 154,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 129,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 155,
+              "cached_tokens": 154,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 158,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 3.7783620999543928
+        },
+        "provenance_idxs": [
+          11
+        ]
+      },
+      "provenance_aware": {
+        "answer": "Soft Frexit",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [11]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1553,
+            "cached_tokens": 438,
+            "completion_tokens": 4,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 2.099998528137803e-05,
+        "provenance_usage": {
+          "llm_calls": 7,
+          "usage": [
+            {
+              "prompt_tokens": 236,
+              "cached_tokens": 1,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 155,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 209,
+              "cached_tokens": 179,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 155,
+              "cached_tokens": 154,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 129,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 155,
+              "cached_tokens": 154,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 159,
+              "cached_tokens": 158,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 3.7783620999543928
+        },
+        "provenance_idxs": [
+          11
+        ]
+      }
+    }
+  },
+  "task_002": {
+    "pair_id": "ap_2457_2_3",
+    "task_id": "task_002",
+    "task": "Who could she face if the conditions are not met? Answer in as few words as possible.",
+    "task_type": "extraction",
+    "old_answer": "A prime minister from an opposing party.",
+    "true_new_answer": "A prime minister from an opposing party.",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1553,
+          "cached_tokens": 1527,
+          "completion_tokens": 9,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1553,
+          "cached_tokens": 1527,
+          "completion_tokens": 9,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "A prime minister from an opposing party.",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1553,
+            "cached_tokens": 1527,
+            "completion_tokens": 9,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.780001912266016e-05
+      },
+      "text_diff": {
+        "answer": "A prime minister from an opposing party.",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1553,
+            "cached_tokens": 1527,
+            "completion_tokens": 9,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.0600022505968809e-05
+      },
+      "distance": {
+        "answer": "A prime minister from an opposing party.",
+        "recomputed": false,
+        "reason": "Normalized distance 0.0007568937170378833 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 3.149994881823659e-05
+      },
+      "provenance": {
+        "answer": "A prime minister from an opposing party.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.3100041542202234e-05,
+        "provenance_usage": {
+          "llm_calls": 9,
+          "usage": [
+            {
+              "prompt_tokens": 109,
+              "cached_tokens": 64,
+              "completion_tokens": 7,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 125,
+              "cached_tokens": 64,
+              "completion_tokens": 9,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 163,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 109,
+              "cached_tokens": 79,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 165,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 109,
+              "cached_tokens": 64,
+              "completion_tokens": 7,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 125,
+              "cached_tokens": 64,
+              "completion_tokens": 9,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 7.0852858000434935
+        },
+        "provenance_idxs": [
+          46,
+          47
+        ]
+      },
+      "provenance_aware": {
+        "answer": "A prime minister from an opposing party.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.9700033590197563e-05,
+        "provenance_usage": {
+          "llm_calls": 9,
+          "usage": [
+            {
+              "prompt_tokens": 109,
+              "cached_tokens": 64,
+              "completion_tokens": 7,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 125,
+              "cached_tokens": 64,
+              "completion_tokens": 9,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 163,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 109,
+              "cached_tokens": 79,
+              "completion_tokens": 11,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 165,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 109,
+              "cached_tokens": 64,
+              "completion_tokens": 7,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 161,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 125,
+              "cached_tokens": 64,
+              "completion_tokens": 9,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 7.0852858000434935
+        },
+        "provenance_idxs": [
+          46,
+          47
+        ]
+      }
+    }
+  }
+}
