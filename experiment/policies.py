@@ -1,5 +1,6 @@
 import blip_interface
 import time
+import re
 
 DISTANCE_THRESHOLD = 0.1
 
@@ -112,6 +113,19 @@ def provenance_overlap(provenance, edit):
 
     return recompute, reason
 
+
+
+
+def is_positive(task_type, old_answer):
+    NOT_FOUND_MARKERS = ["not_found", "i cannot find", "i can't find"]
+    a = str(old_answer).strip().lower()
+    if any(a.startswith(m) for m in NOT_FOUND_MARKERS):
+        return False
+    if task_type == "boolean":
+        first = re.match(r"[a-z]+", a)
+        return bool(first) and first.group(0) == "yes"
+    return bool(a) # extraction: any non-refusal answer is “found”
+
 def provenance_answer_aware(provenance, edit, task, old_answer):
     """
     For positive/found answers:
@@ -127,21 +141,7 @@ def provenance_answer_aware(provenance, edit, task, old_answer):
     """
 
     task_type = task["type"]
-
-    if task_type == "boolean":
-        #if not isinstance(old_answer, bool) and (not isinstance(old_answer, str) or old_answer.upper() not in {"YES", "NO", "YES.", "NO."}):
-            #raise TypeError(f"Expected bool for filter task, got {type(old_answer).__name__} of {old_answer}")
-
-        is_found = old_answer
-
-    elif task_type == "extraction":
-        if not isinstance(old_answer, str):
-            raise TypeError(f"Expected str for extraction task, got {type(old_answer).__name__}")
-
-        is_found = old_answer.strip().upper() != "NOT_FOUND"
-
-    else:
-        raise ValueError(f"Unsupported task type: {task_type}")
+    is_found = is_positive(task_type, old_answer)
 
     if is_found:
         return provenance_overlap(provenance, edit)
