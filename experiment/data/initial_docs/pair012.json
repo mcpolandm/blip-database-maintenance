@@ -374,13 +374,18 @@
   },
   {
    "task_id": "bool_001",
-   "type": "boolean",
+   "type": "boolean_reasoning",
    "prompt": "Does the U.S. federal scientists' projection for temperature increase with moderate carbon pollution cuts exceed 1.5 degrees? Answer Yes or No."
   },
   {
    "task_id": "bool_002",
-   "type": "boolean",
+   "type": "boolean_reasoning",
    "prompt": "Do federal scientists' projections indicate that the U.S. will warm more than 3.5 degrees with moderate carbon pollution cuts? Answer Yes or No."
+  },
+  {
+   "task_id": "bool_003",
+   "type": "boolean",
+   "prompt": "Do federal scientists' projections indicate that the U.S. will warm 2.5 degrees with moderate carbon pollution cuts? Answer Yes or No."
   }
  ]
 }

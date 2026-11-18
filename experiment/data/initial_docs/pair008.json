@@ -362,12 +362,12 @@
   },
   {
    "task_id": "bool_001",
-   "type": "boolean",
+   "type": "boolean_reasoning",
    "prompt": "Has the Navy doctor been entrusted with the health of more than 2 presidents? Answer Yes or No."
   },
   {
    "task_id": "bool_002",
-   "type": "boolean",
+   "type": "boolean_reasoning",
    "prompt": "Has the Navy doctor been entrusted with the health of more than 4 presidents? Answer Yes or No."
   },
   {
@@ -379,6 +379,11 @@
    "task_id": "bool_004",
    "type": "boolean",
    "prompt": "Is Jane Smith the national executive director of AMVETS? Answer Yes or No."
-  }
+  },
+  {
+   "task_id": "bool_005",
+   "type": "boolean",
+   "prompt": "Was the Navy doctor entrusted with the health of 3 presidents? Answer Yes or No."
+  },
  ]
 }
