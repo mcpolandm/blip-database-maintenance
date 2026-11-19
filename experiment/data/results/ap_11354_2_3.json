@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.2499996703118086e-05
+        "wall_time_seconds": 1.7700018361210823e-05
       },
       "text_diff": {
         "answer": "Yes.",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.2599979527294636e-05
+        "wall_time_seconds": 7.500057108700275e-06
       },
       "distance": {
         "answer": "No",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.7999998312443495e-05
+        "wall_time_seconds": 3.569992259144783e-05
       },
       "provenance": {
         "answer": "Yes.",
@@ -80,7 +80,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.1499989088624716e-05,
+        "wall_time_seconds": 1.550000160932541e-05,
         "provenance_usage": {
           "llm_calls": 48,
           "usage": [
@@ -373,7 +373,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 18.755028999992646
+          "wall_time_seconds": 17.091389299952425
         },
         "provenance_idxs": [
           0,
@@ -384,7 +384,7 @@
       "provenance_aware": {
         "answer": "Yes.",
         "recomputed": true,
-        "reason": "Changed sentences overlap with provenance: [13]",
+        "reason": "Old answer was not found; document contains changes",
         "usage": {
           "llm_calls": 1,
           "usage": {
@@ -394,7 +394,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.2299977242946625e-05,
+        "wall_time_seconds": 2.5300076231360435e-05,
         "provenance_usage": {
           "llm_calls": 48,
           "usage": [
@@ -687,7 +687,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 18.755028999992646
+          "wall_time_seconds": 17.091389299952425
         },
         "provenance_idxs": [
           0,

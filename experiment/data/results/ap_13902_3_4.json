@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.6900030206888914e-05
+        "wall_time_seconds": 1.4999997802078724e-05
       },
       "text_diff": {
         "answer": "Anita Hill",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.3399985618889332e-05
+        "wall_time_seconds": 6.6999346017837524e-06
       },
       "distance": {
         "answer": "Anita Hill",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 5.219999002292752e-05
+        "wall_time_seconds": 2.5699962861835957e-05
       },
       "provenance": {
         "answer": "Anita Hill",
@@ -75,7 +75,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.5199999324977398e-05,
+        "wall_time_seconds": 8.00006091594696e-06,
         "provenance_usage": {
           "llm_calls": 8,
           "usage": [
@@ -128,7 +128,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 4.87019980000332
+          "wall_time_seconds": 2.4784837999613956
         },
         "provenance_idxs": [
           0
@@ -142,7 +142,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.669995253905654e-05,
+        "wall_time_seconds": 1.4199991710484028e-05,
         "provenance_usage": {
           "llm_calls": 8,
           "usage": [
@@ -195,7 +195,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 4.87019980000332
+          "wall_time_seconds": 2.4784837999613956
         },
         "provenance_idxs": [
           0

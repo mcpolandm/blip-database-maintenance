@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.239999594166875e-05
+        "wall_time_seconds": 2.0200037397444248e-05
       },
       "text_diff": {
         "answer": "Gulbuddin Hekmatyar",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.1400028597563505e-05
+        "wall_time_seconds": 1.079996582120657e-05
       },
       "distance": {
         "answer": "Gulbuddin Hekmatyar",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.860000288113952e-05
+        "wall_time_seconds": 3.450002986937761e-05
       },
       "provenance": {
         "answer": "Gulbuddin Hekmatyar",
@@ -75,7 +75,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.1700030881911516e-05,
+        "wall_time_seconds": 1.2999982573091984e-05,
         "provenance_usage": {
           "llm_calls": 5,
           "usage": [
@@ -110,7 +110,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.9777893000282347
+          "wall_time_seconds": 3.2051513000624254
         },
         "provenance_idxs": [
           1
@@ -124,7 +124,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.3199984095990658e-05,
+        "wall_time_seconds": 2.059992402791977e-05,
         "provenance_usage": {
           "llm_calls": 5,
           "usage": [
@@ -159,7 +159,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.9777893000282347
+          "wall_time_seconds": 3.2051513000624254
         },
         "provenance_idxs": [
           1
@@ -208,7 +208,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.8799968529492617e-05
+        "wall_time_seconds": 2.289994154125452e-05
       },
       "text_diff": {
         "answer": "Yes.",
@@ -223,7 +223,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 8.90000956133008e-06
+        "wall_time_seconds": 1.079996582120657e-05
       },
       "distance": {
         "answer": "No",
@@ -233,7 +233,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.729997504502535e-05
+        "wall_time_seconds": 4.770001396536827e-05
       },
       "provenance": {
         "answer": "No",
@@ -243,7 +243,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.0600022505968809e-05,
+        "wall_time_seconds": 1.1399970389902592e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -266,21 +266,26 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.6381531999795698
+          "wall_time_seconds": 1.7032345000188798
         },
         "provenance_idxs": [
           10
         ]
       },
       "provenance_aware": {
-        "answer": "No",
-        "recomputed": false,
-        "reason": "No changed old sentences overlap with provenance",
+        "answer": "Yes.",
+        "recomputed": true,
+        "reason": "Old answer was not found; document contains changes",
         "usage": {
-          "llm_calls": 0,
-          "usage": {}
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1039,
+            "cached_tokens": 1003,
+            "completion_tokens": 3,
+            "model": "qwen3:4b-instruct"
+          }
         },
-        "wall_time_seconds": 1.079996582120657e-05,
+        "wall_time_seconds": 3.460003063082695e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -303,7 +308,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.6381531999795698
+          "wall_time_seconds": 1.7032345000188798
         },
         "provenance_idxs": [
           10

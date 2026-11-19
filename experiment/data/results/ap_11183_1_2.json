@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.929999027401209e-05
+        "wall_time_seconds": 1.7700018361210823e-05
       },
       "text_diff": {
         "answer": "Yes",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.3100041542202234e-05
+        "wall_time_seconds": 9.200070053339005e-06
       },
       "distance": {
         "answer": "Yes",
@@ -70,7 +70,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 4.190002800896764e-05
+        "wall_time_seconds": 2.7699978090822697e-05
       },
       "provenance": {
         "answer": "I cannot find the answer in the provided text.",
@@ -80,7 +80,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.4199991710484028e-05,
+        "wall_time_seconds": 1.009996049106121e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -103,21 +103,26 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.2686313000158407
+          "wall_time_seconds": 2.265505400020629
         },
         "provenance_idxs": [
           27
         ]
       },
       "provenance_aware": {
-        "answer": "I cannot find the answer in the provided text.",
-        "recomputed": false,
-        "reason": "No changed old sentences overlap with provenance",
+        "answer": "Yes",
+        "recomputed": true,
+        "reason": "Old answer was not found; document contains changes",
         "usage": {
-          "llm_calls": 0,
-          "usage": {}
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 971,
+            "cached_tokens": 808,
+            "completion_tokens": 2,
+            "model": "qwen3:4b-instruct"
+          }
         },
-        "wall_time_seconds": 1.2999982573091984e-05,
+        "wall_time_seconds": 2.0000035874545574e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -140,7 +145,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.2686313000158407
+          "wall_time_seconds": 2.265505400020629
         },
         "provenance_idxs": [
           27

@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.559996210038662e-05
+        "wall_time_seconds": 3.200001083314419e-05
       },
       "text_diff": {
         "answer": "Sexual harassment allegations.",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 4.020001506432891e-05
+        "wall_time_seconds": 3.969995304942131e-05
       },
       "provenance": {
         "answer": "Sexual harassment allegations.",
@@ -80,7 +80,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.1799991372972727e-05,
+        "wall_time_seconds": 2.3000058718025684e-05,
         "provenance_usage": {
           "llm_calls": 116,
           "usage": [
@@ -781,7 +781,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 39.69568630005233
+          "wall_time_seconds": 36.95934080006555
         },
         "provenance_idxs": [
           0,
@@ -807,7 +807,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.6400008462369442e-05,
+        "wall_time_seconds": 2.219993621110916e-05,
         "provenance_usage": {
           "llm_calls": 116,
           "usage": [
@@ -1508,7 +1508,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 39.69568630005233
+          "wall_time_seconds": 36.95934080006555
         },
         "provenance_idxs": [
           0,
@@ -1564,7 +1564,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.659996971487999e-05
+        "wall_time_seconds": 1.5099998563528061e-05
       },
       "text_diff": {
         "answer": "21st Century Fox",
@@ -1579,7 +1579,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.4399993233382702e-05
+        "wall_time_seconds": 9.599956683814526e-06
       },
       "distance": {
         "answer": "21st Century Fox",
@@ -1589,7 +1589,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 5.089998012408614e-05
+        "wall_time_seconds": 3.0800001695752144e-05
       },
       "provenance": {
         "answer": "21st Century Fox",
@@ -1599,7 +1599,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.5400000847876072e-05,
+        "wall_time_seconds": 1.0499963536858559e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -1622,7 +1622,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.3862932000192814
+          "wall_time_seconds": 2.382709000026807
         },
         "provenance_idxs": [
           40
@@ -1636,7 +1636,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.6600009985268116e-05,
+        "wall_time_seconds": 1.610000617802143e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -1659,7 +1659,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.3862932000192814
+          "wall_time_seconds": 2.382709000026807
         },
         "provenance_idxs": [
           40

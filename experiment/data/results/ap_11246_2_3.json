@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.2799998987466097e-05
+        "wall_time_seconds": 1.6600009985268116e-05
       },
       "text_diff": {
         "answer": "Russian ambassador to the U.S.",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.2100033927708864e-05
+        "wall_time_seconds": 7.900060154497623e-06
       },
       "distance": {
         "answer": "Former Russian ambassador to the U.S.",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.709999145939946e-05
+        "wall_time_seconds": 2.7399975806474686e-05
       },
       "provenance": {
         "answer": "Russian ambassador to the U.S.",
@@ -80,7 +80,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.19999928958714e-05,
+        "wall_time_seconds": 1.5600002370774746e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -103,7 +103,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.111921400006395
+          "wall_time_seconds": 2.311647900030948
         },
         "provenance_idxs": [
           12
@@ -122,7 +122,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.6000005416572094e-05,
+        "wall_time_seconds": 3.4199911169707775e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -145,7 +145,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.111921400006395
+          "wall_time_seconds": 2.311647900030948
         },
         "provenance_idxs": [
           12
@@ -194,7 +194,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.7000013031065464e-05
+        "wall_time_seconds": 1.0399962775409222e-05
       },
       "text_diff": {
         "answer": "Bijan Kian",
@@ -209,7 +209,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 7.399998139590025e-06
+        "wall_time_seconds": 5.100038833916187e-06
       },
       "distance": {
         "answer": "Bijan Kian",
@@ -219,7 +219,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.9800052288919687e-05
+        "wall_time_seconds": 1.7700018361210823e-05
       },
       "provenance": {
         "answer": "Bijan Kian",
@@ -229,7 +229,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.090002479031682e-05,
+        "wall_time_seconds": 1.4399993233382702e-05,
         "provenance_usage": {
           "llm_calls": 40,
           "usage": [
@@ -474,7 +474,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 13.417885300004855
+          "wall_time_seconds": 11.522441899986006
         },
         "provenance_idxs": [
           19,
@@ -489,7 +489,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.3299984857439995e-05,
+        "wall_time_seconds": 9.7999582067132e-06,
         "provenance_usage": {
           "llm_calls": 40,
           "usage": [
@@ -734,7 +734,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 13.417885300004855
+          "wall_time_seconds": 11.522441899986006
         },
         "provenance_idxs": [
           19,

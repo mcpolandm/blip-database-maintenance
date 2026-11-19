@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.2199994418770075e-05
+        "wall_time_seconds": 2.0400038920342922e-05
       },
       "text_diff": {
         "answer": "Critically endangered",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.0800024028867483e-05
+        "wall_time_seconds": 9.699957445263863e-06
       },
       "distance": {
         "answer": "Endangered",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 5.6800025049597025e-05
+        "wall_time_seconds": 4.67000063508749e-05
       },
       "provenance": {
         "answer": "Critically endangered",
@@ -80,7 +80,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.0099978428333998e-05,
+        "wall_time_seconds": 1.880002673715353e-05,
         "provenance_usage": {
           "llm_calls": 42,
           "usage": [
@@ -337,7 +337,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 13.376055000000633
+          "wall_time_seconds": 11.390393599984236
         },
         "provenance_idxs": [
           0,
@@ -360,7 +360,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.3399985618889332e-05,
+        "wall_time_seconds": 1.8099904991686344e-05,
         "provenance_usage": {
           "llm_calls": 42,
           "usage": [
@@ -617,7 +617,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 13.376055000000633
+          "wall_time_seconds": 11.390393599984236
         },
         "provenance_idxs": [
           0,

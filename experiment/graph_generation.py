@@ -22,19 +22,19 @@ accuracy_e = []
 for data in file_results:
     if data["task_type"] == "boolean":
         accuracy_b.append(data["accuracy"])
-        llm_calls_b["Recompute Answer"].append(data["recompute_rate"]) 
+        llm_calls_b["Recompute Answer"].append(data["mean_incremental_llm_calls"])
         llm_calls_b["Compute Provenance"].append(data["mean_provenance_calls"])
         time_b["Recompute Answer"].append(data["mean_policy_decision_time_seconds"])
         time_b["Compute Provenance"].append(data["mean_provenance_time_seconds"])
-        tokens_b["Recompute Answer"].append(data["mean_incremental_tokens"] - data["mean_provenance_tokens"])
+        tokens_b["Recompute Answer"].append(data["mean_incremental_tokens"])
         tokens_b["Compute Provenance"].append(data["mean_provenance_tokens"])
     elif data["task_type"] == "extraction":
         accuracy_e.append(data["accuracy"])
-        llm_calls_e["Recompute Answer"].append(data["recompute_rate"]) 
+        llm_calls_e["Recompute Answer"].append(data["mean_incremental_llm_calls"])
         llm_calls_e["Compute Provenance"].append(data["mean_provenance_calls"])
         time_e["Recompute Answer"].append(data["mean_policy_decision_time_seconds"])
         time_e["Compute Provenance"].append(data["mean_provenance_time_seconds"])
-        tokens_e["Recompute Answer"].append(data["mean_incremental_tokens"] - data["mean_provenance_tokens"])
+        tokens_e["Recompute Answer"].append(data["mean_incremental_tokens"])
         tokens_e["Compute Provenance"].append(data["mean_provenance_tokens"])
 
 for i, policy in enumerate(policies):

@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.8000020645558834e-05
+        "wall_time_seconds": 4.5500113628804684e-05
       },
       "text_diff": {
         "answer": "A child's toy could trigger the explosives.",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 9.299954399466515e-06
+        "wall_time_seconds": 1.4299992471933365e-05
       },
       "distance": {
         "answer": "A children's toy could trigger the explosives.",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.9300008211284876e-05
+        "wall_time_seconds": 4.329998046159744e-05
       },
       "provenance": {
         "answer": "A child's toy could trigger the explosives.",
@@ -80,7 +80,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.5700003132224083e-05,
+        "wall_time_seconds": 2.480007242411375e-05,
         "provenance_usage": {
           "llm_calls": 36,
           "usage": [
@@ -301,7 +301,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 14.190844999975525
+          "wall_time_seconds": 12.262173400027677
         },
         "provenance_idxs": [
           0,
@@ -323,7 +323,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.209997572004795e-05,
+        "wall_time_seconds": 2.429995220154524e-05,
         "provenance_usage": {
           "llm_calls": 36,
           "usage": [
@@ -544,7 +544,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 14.190844999975525
+          "wall_time_seconds": 12.262173400027677
         },
         "provenance_idxs": [
           0,

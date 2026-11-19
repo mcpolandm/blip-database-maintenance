@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.3899989426136017e-05
+        "wall_time_seconds": 2.1499930880963802e-05
       },
       "text_diff": {
         "answer": "The theater closed and was replaced by a multiplex.",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 6.499991286545992e-06
+        "wall_time_seconds": 9.699957445263863e-06
       },
       "distance": {
         "answer": "The theater closed and was replaced by a multiplex.",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.4500011932104826e-05
+        "wall_time_seconds": 3.370002377778292e-05
       },
       "provenance": {
         "answer": "The theater closed and was replaced by a multiplex.",
@@ -75,7 +75,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.0000017937272787e-05,
+        "wall_time_seconds": 1.079996582120657e-05,
         "provenance_usage": {
           "llm_calls": 24,
           "usage": [
@@ -224,7 +224,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 13.136758100008592
+          "wall_time_seconds": 9.369500700035132
         },
         "provenance_idxs": [
           1,
@@ -239,7 +239,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.3199984095990658e-05,
+        "wall_time_seconds": 1.7300015315413475e-05,
         "provenance_usage": {
           "llm_calls": 24,
           "usage": [
@@ -388,7 +388,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 13.136758100008592
+          "wall_time_seconds": 9.369500700035132
         },
         "provenance_idxs": [
           1,
@@ -438,7 +438,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.6099947970360518e-05
+        "wall_time_seconds": 2.1699932403862476e-05
       },
       "text_diff": {
         "answer": "Since 1979.",
@@ -453,7 +453,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 6.799993570894003e-06
+        "wall_time_seconds": 9.399955160915852e-06
       },
       "distance": {
         "answer": "Since 1979.",
@@ -463,7 +463,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.260001540184021e-05
+        "wall_time_seconds": 3.4800032153725624e-05
       },
       "provenance": {
         "answer": "Since 1979.",
@@ -473,7 +473,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.1200027074664831e-05,
+        "wall_time_seconds": 1.0899966582655907e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -496,7 +496,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.6564383000368252
+          "wall_time_seconds": 1.7631011999910697
         },
         "provenance_idxs": [
           3
@@ -510,7 +510,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 8.500006515532732e-06,
+        "wall_time_seconds": 1.850002445280552e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -533,7 +533,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.6564383000368252
+          "wall_time_seconds": 1.7631011999910697
         },
         "provenance_idxs": [
           3

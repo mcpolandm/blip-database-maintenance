@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.7200014553964138e-05
+        "wall_time_seconds": 1.9000028260052204e-05
       },
       "text_diff": {
         "answer": "Arkansas' indecent exposure law.",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 9.09995287656784e-06
+        "wall_time_seconds": 1.109996810555458e-05
       },
       "distance": {
         "answer": "The state's indecent exposure law.",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.070000093430281e-05
+        "wall_time_seconds": 3.23000131174922e-05
       },
       "provenance": {
         "answer": "Arkansas' indecent exposure law.",
@@ -80,7 +80,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.610000617802143e-05,
+        "wall_time_seconds": 1.98000343516469e-05,
         "provenance_usage": {
           "llm_calls": 22,
           "usage": [
@@ -217,7 +217,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 17.315630899975076
+          "wall_time_seconds": 8.97596969990991
         },
         "provenance_idxs": [
           1,
@@ -237,7 +237,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.1599971912801266e-05,
+        "wall_time_seconds": 1.9299914129078388e-05,
         "provenance_usage": {
           "llm_calls": 22,
           "usage": [
@@ -374,7 +374,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 17.315630899975076
+          "wall_time_seconds": 8.97596969990991
         },
         "provenance_idxs": [
           1,
@@ -424,7 +424,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.099998528137803e-05
+        "wall_time_seconds": 1.4099990949034691e-05
       },
       "text_diff": {
         "answer": "Seven convictions.",
@@ -439,7 +439,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.0500021744519472e-05
+        "wall_time_seconds": 7.300055585801601e-06
       },
       "distance": {
         "answer": "Seven convictions.",
@@ -449,7 +449,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.520003519952297e-05
+        "wall_time_seconds": 2.4099950678646564e-05
       },
       "provenance": {
         "answer": "Seven convictions.",
@@ -459,7 +459,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.4299992471933365e-05,
+        "wall_time_seconds": 8.200062438845634e-06,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -482,7 +482,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.5994243999593891
+          "wall_time_seconds": 1.5101957999868318
         },
         "provenance_idxs": [
           11
@@ -496,7 +496,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.309998333454132e-05,
+        "wall_time_seconds": 1.6300007700920105e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -519,7 +519,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.5994243999593891
+          "wall_time_seconds": 1.5101957999868318
         },
         "provenance_idxs": [
           11

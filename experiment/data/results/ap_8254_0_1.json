@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 4.060001811012626e-05
+        "wall_time_seconds": 2.6899971999228e-05
       },
       "text_diff": {
         "answer": "Amro Tozan",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.440001117065549e-05
+        "wall_time_seconds": 1.2599979527294636e-05
       },
       "distance": {
         "answer": "Amro Touzani",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 6.330001633614302e-05
+        "wall_time_seconds": 4.1800085455179214e-05
       },
       "provenance": {
         "answer": "Amro Tozan",
@@ -80,7 +80,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 3.739999374374747e-05,
+        "wall_time_seconds": 2.4900073185563087e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -103,7 +103,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.117646800004877
+          "wall_time_seconds": 2.1580158999422565
         },
         "provenance_idxs": [
           21
@@ -122,7 +122,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.9999995604157448e-05,
+        "wall_time_seconds": 2.359994687139988e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -145,7 +145,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.117646800004877
+          "wall_time_seconds": 2.1580158999422565
         },
         "provenance_idxs": [
           21
@@ -194,7 +194,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.6399968191981316e-05
+        "wall_time_seconds": 1.7000013031065464e-05
       },
       "text_diff": {
         "answer": "Alya is a teacher.",
@@ -209,7 +209,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.1199968867003918e-05
+        "wall_time_seconds": 9.09995287656784e-06
       },
       "distance": {
         "answer": "Alya is a teacher.",
@@ -219,7 +219,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 4.6200002543628216e-05
+        "wall_time_seconds": 2.8699985705316067e-05
       },
       "provenance": {
         "answer": "Alya is a teacher.",
@@ -229,7 +229,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.2799998987466097e-05,
+        "wall_time_seconds": 1.0400079190731049e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -252,7 +252,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.20637239998905
+          "wall_time_seconds": 2.2622861000709236
         },
         "provenance_idxs": [
           4
@@ -266,7 +266,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.6699970476329327e-05,
+        "wall_time_seconds": 1.6400008462369442e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -289,7 +289,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.20637239998905
+          "wall_time_seconds": 2.2622861000709236
         },
         "provenance_idxs": [
           4

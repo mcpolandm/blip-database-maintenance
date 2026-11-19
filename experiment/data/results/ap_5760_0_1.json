@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.8000020645558834e-05
+        "wall_time_seconds": 1.2299977242946625e-05
       },
       "text_diff": {
         "answer": "June 8",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 8.90000956133008e-06
+        "wall_time_seconds": 5.799927748739719e-06
       },
       "distance": {
         "answer": "June 8",
@@ -65,51 +65,9 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.989999484270811e-05
+        "wall_time_seconds": 2.080004196614027e-05
       },
       "provenance": {
-        "answer": "June 8",
-        "recomputed": true,
-        "reason": "Changed sentences overlap with provenance: [0]",
-        "usage": {
-          "llm_calls": 1,
-          "usage": {
-            "prompt_tokens": 789,
-            "cached_tokens": 86,
-            "completion_tokens": 4,
-            "model": "qwen3:4b-instruct"
-          }
-        },
-        "wall_time_seconds": 1.6700010746717453e-05,
-        "provenance_usage": {
-          "llm_calls": 3,
-          "usage": [
-            {
-              "prompt_tokens": 182,
-              "cached_tokens": 64,
-              "completion_tokens": 4,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 155,
-              "cached_tokens": 111,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 182,
-              "cached_tokens": 181,
-              "completion_tokens": 4,
-              "model": "qwen3:4b-instruct"
-            }
-          ],
-          "wall_time_seconds": 1.522177400009241
-        },
-        "provenance_idxs": [
-          0
-        ]
-      },
-      "provenance_aware": {
         "answer": "June 8",
         "recomputed": true,
         "reason": "Changed sentences overlap with provenance: [0]",
@@ -145,7 +103,49 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.522177400009241
+          "wall_time_seconds": 1.5345763999503106
+        },
+        "provenance_idxs": [
+          0
+        ]
+      },
+      "provenance_aware": {
+        "answer": "June 8",
+        "recomputed": true,
+        "reason": "Changed sentences overlap with provenance: [0]",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 789,
+            "cached_tokens": 86,
+            "completion_tokens": 4,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.1999974958598614e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 182,
+              "cached_tokens": 64,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 155,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 182,
+              "cached_tokens": 181,
+              "completion_tokens": 4,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 1.5345763999503106
         },
         "provenance_idxs": [
           0
@@ -194,7 +194,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.1299987565726042e-05
+        "wall_time_seconds": 1.9300030544400215e-05
       },
       "text_diff": {
         "answer": "Margaret Thatcher",
@@ -209,7 +209,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.3999990187585354e-05
+        "wall_time_seconds": 9.499955922365189e-06
       },
       "distance": {
         "answer": "Margaret Thatcher",
@@ -219,7 +219,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.3699965570122004e-05
+        "wall_time_seconds": 3.0800001695752144e-05
       },
       "provenance": {
         "answer": "Margaret Thatcher",
@@ -229,7 +229,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.0500021744519472e-05,
+        "wall_time_seconds": 9.899958968162537e-06,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -252,7 +252,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.525445099978242
+          "wall_time_seconds": 1.5246783000184223
         },
         "provenance_idxs": [
           17
@@ -266,7 +266,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.160003012046218e-05,
+        "wall_time_seconds": 1.7200014553964138e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -289,7 +289,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.525445099978242
+          "wall_time_seconds": 1.5246783000184223
         },
         "provenance_idxs": [
           17

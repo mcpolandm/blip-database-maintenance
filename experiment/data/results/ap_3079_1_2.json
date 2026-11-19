@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.989999484270811e-05
+        "wall_time_seconds": 1.3899989426136017e-05
       },
       "text_diff": {
         "answer": "The Walled Off Hotel",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.5400000847876072e-05
+        "wall_time_seconds": 5.199923180043697e-06
       },
       "distance": {
         "answer": "The Walled Off Hotel",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 4.980002995580435e-05
+        "wall_time_seconds": 2.629996743053198e-05
       },
       "provenance": {
         "answer": "The Walled Off Hotel",
@@ -80,7 +80,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.6100024115294218e-05,
+        "wall_time_seconds": 1.4299992471933365e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -103,7 +103,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.7172665999969468
+          "wall_time_seconds": 1.7492539000231773
         },
         "provenance_idxs": [
           0
@@ -122,7 +122,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.9099970813840628e-05,
+        "wall_time_seconds": 1.4099990949034691e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -145,7 +145,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.7172665999969468
+          "wall_time_seconds": 1.7492539000231773
         },
         "provenance_idxs": [
           0
@@ -194,7 +194,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.4999957531690598e-05
+        "wall_time_seconds": 1.2800097465515137e-05
       },
       "text_diff": {
         "answer": "$1.8 million",
@@ -209,7 +209,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.1299969628453255e-05
+        "wall_time_seconds": 5.00003807246685e-06
       },
       "distance": {
         "answer": "$1.8 million",
@@ -219,7 +219,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 4.640000406652689e-05
+        "wall_time_seconds": 2.7099973522126675e-05
       },
       "provenance": {
         "answer": "$1.8 million",
@@ -229,7 +229,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.2499978765845299e-05,
+        "wall_time_seconds": 7.500057108700275e-06,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -252,7 +252,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.7097287999931723
+          "wall_time_seconds": 1.5314906999701634
         },
         "provenance_idxs": [
           17
@@ -266,7 +266,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.3599987141788006e-05,
+        "wall_time_seconds": 1.3199984095990658e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -289,7 +289,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.7097287999931723
+          "wall_time_seconds": 1.5314906999701634
         },
         "provenance_idxs": [
           17

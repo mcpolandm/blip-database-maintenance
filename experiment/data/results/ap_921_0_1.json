@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.4999997802078724e-05
+        "wall_time_seconds": 2.8399983420968056e-05
       },
       "text_diff": {
         "answer": "650,000 refugees.",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 7.800001185387373e-06
+        "wall_time_seconds": 1.5199999324977398e-05
       },
       "distance": {
         "answer": "650,000 refugees.",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.6100024115294218e-05
+        "wall_time_seconds": 3.7499936297535896e-05
       },
       "provenance": {
         "answer": "650,000 refugees.",
@@ -75,7 +75,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 8.90000956133008e-06,
+        "wall_time_seconds": 1.610000617802143e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -98,7 +98,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.199460000032559
+          "wall_time_seconds": 2.265741000068374
         },
         "provenance_idxs": [
           30
@@ -112,7 +112,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.009996049106121e-05,
+        "wall_time_seconds": 2.119992859661579e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -135,7 +135,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.199460000032559
+          "wall_time_seconds": 2.265741000068374
         },
         "provenance_idxs": [
           30

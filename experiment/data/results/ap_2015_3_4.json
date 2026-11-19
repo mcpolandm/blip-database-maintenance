@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.8700025975704193e-05
+        "wall_time_seconds": 1.7700018361210823e-05
       },
       "text_diff": {
         "answer": "Director of Banke International.",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 8.000002708286047e-06
+        "wall_time_seconds": 7.2999391704797745e-06
       },
       "distance": {
         "answer": "Director of Banke International.",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.090000245720148e-05
+        "wall_time_seconds": 3.9499951526522636e-05
       },
       "provenance": {
         "answer": "Director of Banke International.",
@@ -80,7 +80,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.6400008462369442e-05,
+        "wall_time_seconds": 1.610000617802143e-05,
         "provenance_usage": {
           "llm_calls": 7,
           "usage": [
@@ -127,7 +127,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 3.2104555999976583
+          "wall_time_seconds": 3.292865499970503
         },
         "provenance_idxs": [
           3,
@@ -147,7 +147,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.1199968867003918e-05,
+        "wall_time_seconds": 1.4999997802078724e-05,
         "provenance_usage": {
           "llm_calls": 7,
           "usage": [
@@ -194,7 +194,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 3.2104555999976583
+          "wall_time_seconds": 3.292865499970503
         },
         "provenance_idxs": [
           3,

@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.5100016500800848e-05
+        "wall_time_seconds": 1.9300030544400215e-05
       },
       "text_diff": {
         "answer": "2,400",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.7700018361210823e-05
+        "wall_time_seconds": 8.999952115118504e-06
       },
       "distance": {
         "answer": "2,400",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 4.0899962186813354e-05
+        "wall_time_seconds": 2.9999995604157448e-05
       },
       "provenance": {
         "answer": "2,400",
@@ -75,7 +75,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.4499993994832039e-05,
+        "wall_time_seconds": 9.599956683814526e-06,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -98,7 +98,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.1974412000272423
+          "wall_time_seconds": 2.20893540000543
         },
         "provenance_idxs": [
           31
@@ -112,7 +112,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.5400000847876072e-05,
+        "wall_time_seconds": 1.5900004655122757e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -135,7 +135,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.1974412000272423
+          "wall_time_seconds": 2.20893540000543
         },
         "provenance_idxs": [
           31

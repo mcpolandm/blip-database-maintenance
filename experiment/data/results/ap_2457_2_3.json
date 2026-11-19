@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 3.070000093430281e-05
+        "wall_time_seconds": 1.279998105019331e-05
       },
       "text_diff": {
         "answer": "Soft Frexit",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.7099955584853888e-05
+        "wall_time_seconds": 7.500057108700275e-06
       },
       "distance": {
         "answer": "Soft Frexit",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 4.8900023102760315e-05
+        "wall_time_seconds": 2.0999927073717117e-05
       },
       "provenance": {
         "answer": "Soft Frexit",
@@ -80,7 +80,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.8799986466765404e-05,
+        "wall_time_seconds": 1.2999982573091984e-05,
         "provenance_usage": {
           "llm_calls": 7,
           "usage": [
@@ -127,7 +127,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 3.7783620999543928
+          "wall_time_seconds": 3.853341900045052
         },
         "provenance_idxs": [
           11
@@ -146,7 +146,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.099998528137803e-05,
+        "wall_time_seconds": 1.2399978004395962e-05,
         "provenance_usage": {
           "llm_calls": 7,
           "usage": [
@@ -193,7 +193,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 3.7783620999543928
+          "wall_time_seconds": 3.853341900045052
         },
         "provenance_idxs": [
           11
@@ -242,7 +242,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.780001912266016e-05
+        "wall_time_seconds": 1.5300000086426735e-05
       },
       "text_diff": {
         "answer": "A prime minister from an opposing party.",
@@ -257,7 +257,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.0600022505968809e-05
+        "wall_time_seconds": 9.899958968162537e-06
       },
       "distance": {
         "answer": "A prime minister from an opposing party.",
@@ -267,7 +267,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.149994881823659e-05
+        "wall_time_seconds": 2.5400076992809772e-05
       },
       "provenance": {
         "answer": "A prime minister from an opposing party.",
@@ -277,7 +277,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.3100041542202234e-05,
+        "wall_time_seconds": 9.999959729611874e-06,
         "provenance_usage": {
           "llm_calls": 9,
           "usage": [
@@ -336,7 +336,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 7.0852858000434935
+          "wall_time_seconds": 5.110220000031404
         },
         "provenance_idxs": [
           46,
@@ -351,7 +351,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.9700033590197563e-05,
+        "wall_time_seconds": 1.4399993233382702e-05,
         "provenance_usage": {
           "llm_calls": 9,
           "usage": [
@@ -410,7 +410,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 7.0852858000434935
+          "wall_time_seconds": 5.110220000031404
         },
         "provenance_idxs": [
           46,

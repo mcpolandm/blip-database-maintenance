@@ -11,7 +11,7 @@
         "llm_calls": 1,
         "usage": {
           "prompt_tokens": 1199,
-          "cached_tokens": 64,
+          "cached_tokens": 1029,
           "completion_tokens": 11,
           "model": "qwen3:4b-instruct"
         }
@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.8199963960796595e-05
+        "wall_time_seconds": 1.2599979527294636e-05
       },
       "text_diff": {
         "answer": "March 11, 1926",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 7.499998901039362e-06
+        "wall_time_seconds": 5.599926225841045e-06
       },
       "distance": {
         "answer": "March 11, 1926",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.440001117065549e-05
+        "wall_time_seconds": 2.080004196614027e-05
       },
       "provenance": {
         "answer": "March 11, 1926",
@@ -80,7 +80,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.2100033927708864e-05,
+        "wall_time_seconds": 1.680001150816679e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -103,7 +103,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.2824783999822102
+          "wall_time_seconds": 1.4091232999926433
         },
         "provenance_idxs": [
           30
@@ -122,7 +122,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.0399962775409222e-05,
+        "wall_time_seconds": 1.3899989426136017e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -145,7 +145,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.2824783999822102
+          "wall_time_seconds": 1.4091232999926433
         },
         "provenance_idxs": [
           30
@@ -194,7 +194,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 3.130000550299883e-05
+        "wall_time_seconds": 1.2699980288743973e-05
       },
       "text_diff": {
         "answer": "90",
@@ -209,7 +209,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 7.099995855242014e-06
+        "wall_time_seconds": 5.800044164061546e-06
       },
       "distance": {
         "answer": "90",
@@ -219,7 +219,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.3300002794712782e-05
+        "wall_time_seconds": 2.059992402791977e-05
       },
       "provenance": {
         "answer": "90",
@@ -229,7 +229,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 8.000002708286047e-06,
+        "wall_time_seconds": 6.100046448409557e-06,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -252,7 +252,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.7206566999666393
+          "wall_time_seconds": 0.8076717000221834
         },
         "provenance_idxs": [
           1
@@ -266,7 +266,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 9.100011084228754e-06,
+        "wall_time_seconds": 1.1199968867003918e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -289,612 +289,10 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.7206566999666393
+          "wall_time_seconds": 0.8076717000221834
         },
         "provenance_idxs": [
           1
-        ]
-      }
-    }
-  },
-  "bool_001": {
-    "pair_id": "ap_3198_0_1",
-    "task_id": "bool_001",
-    "task": "Was Thomas E. Starzl older than 68 when he passed away? Answer Yes or No.",
-    "task_type": "boolean",
-    "old_answer": "Yes.",
-    "true_new_answer": "Yes.",
-    "shared_cost": {
-      "old_task": {
-        "llm_calls": 1,
-        "usage": {
-          "prompt_tokens": 1203,
-          "cached_tokens": 1029,
-          "completion_tokens": 3,
-          "model": "qwen3:4b-instruct"
-        }
-      },
-      "new_task": {
-        "llm_calls": 1,
-        "usage": {
-          "prompt_tokens": 1230,
-          "cached_tokens": 1029,
-          "completion_tokens": 3,
-          "model": "qwen3:4b-instruct"
-        }
-      }
-    },
-    "policies": {
-      "recompute": {
-        "answer": "Yes.",
-        "recomputed": true,
-        "reason": "Always recompute",
-        "usage": {
-          "llm_calls": 1,
-          "usage": {
-            "prompt_tokens": 1230,
-            "cached_tokens": 1029,
-            "completion_tokens": 3,
-            "model": "qwen3:4b-instruct"
-          }
-        },
-        "wall_time_seconds": 1.6499951016157866e-05
-      },
-      "text_diff": {
-        "answer": "Yes.",
-        "recomputed": true,
-        "reason": "Document contains changes",
-        "usage": {
-          "llm_calls": 1,
-          "usage": {
-            "prompt_tokens": 1230,
-            "cached_tokens": 1029,
-            "completion_tokens": 3,
-            "model": "qwen3:4b-instruct"
-          }
-        },
-        "wall_time_seconds": 9.000010322779417e-06
-      },
-      "distance": {
-        "answer": "Yes.",
-        "recomputed": false,
-        "reason": "Normalized distance 0.04340005054108982 is within threshold 0.1",
-        "usage": {
-          "llm_calls": 0,
-          "usage": {}
-        },
-        "wall_time_seconds": 4.269997589290142e-05
-      },
-      "provenance": {
-        "answer": "Yes.",
-        "recomputed": false,
-        "reason": "No changed old sentences overlap with provenance",
-        "usage": {
-          "llm_calls": 0,
-          "usage": {}
-        },
-        "wall_time_seconds": 1.0500021744519472e-05,
-        "provenance_usage": {
-          "llm_calls": 14,
-          "usage": [
-            {
-              "prompt_tokens": 136,
-              "cached_tokens": 65,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 159,
-              "cached_tokens": 111,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 153,
-              "cached_tokens": 64,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 159,
-              "cached_tokens": 158,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 227,
-              "cached_tokens": 64,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 151,
-              "cached_tokens": 111,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 169,
-              "cached_tokens": 137,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 151,
-              "cached_tokens": 150,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 137,
-              "cached_tokens": 105,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 159,
-              "cached_tokens": 111,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 137,
-              "cached_tokens": 136,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 159,
-              "cached_tokens": 158,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 127,
-              "cached_tokens": 64,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 151,
-              "cached_tokens": 111,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            }
-          ],
-          "wall_time_seconds": 4.825500599981751
-        },
-        "provenance_idxs": [
-          1
-        ]
-      },
-      "provenance_aware": {
-        "answer": "Yes.",
-        "recomputed": false,
-        "reason": "No changed old sentences overlap with provenance",
-        "usage": {
-          "llm_calls": 0,
-          "usage": {}
-        },
-        "wall_time_seconds": 9.199953638017178e-06,
-        "provenance_usage": {
-          "llm_calls": 14,
-          "usage": [
-            {
-              "prompt_tokens": 136,
-              "cached_tokens": 65,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 159,
-              "cached_tokens": 111,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 153,
-              "cached_tokens": 64,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 159,
-              "cached_tokens": 158,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 227,
-              "cached_tokens": 64,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 151,
-              "cached_tokens": 111,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 169,
-              "cached_tokens": 137,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 151,
-              "cached_tokens": 150,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 137,
-              "cached_tokens": 105,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 159,
-              "cached_tokens": 111,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 137,
-              "cached_tokens": 136,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 159,
-              "cached_tokens": 158,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 127,
-              "cached_tokens": 64,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 151,
-              "cached_tokens": 111,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            }
-          ],
-          "wall_time_seconds": 4.825500599981751
-        },
-        "provenance_idxs": [
-          1
-        ]
-      }
-    }
-  },
-  "bool_002": {
-    "pair_id": "ap_3198_0_1",
-    "task_id": "bool_002",
-    "task": "Was Thomas E. Starzl older than 112 when he passed away? Answer Yes or No.",
-    "task_type": "boolean",
-    "old_answer": "No.",
-    "true_new_answer": "No.",
-    "shared_cost": {
-      "old_task": {
-        "llm_calls": 1,
-        "usage": {
-          "prompt_tokens": 1204,
-          "cached_tokens": 1029,
-          "completion_tokens": 3,
-          "model": "qwen3:4b-instruct"
-        }
-      },
-      "new_task": {
-        "llm_calls": 1,
-        "usage": {
-          "prompt_tokens": 1231,
-          "cached_tokens": 1029,
-          "completion_tokens": 3,
-          "model": "qwen3:4b-instruct"
-        }
-      }
-    },
-    "policies": {
-      "recompute": {
-        "answer": "No.",
-        "recomputed": true,
-        "reason": "Always recompute",
-        "usage": {
-          "llm_calls": 1,
-          "usage": {
-            "prompt_tokens": 1231,
-            "cached_tokens": 1029,
-            "completion_tokens": 3,
-            "model": "qwen3:4b-instruct"
-          }
-        },
-        "wall_time_seconds": 1.550000160932541e-05
-      },
-      "text_diff": {
-        "answer": "No.",
-        "recomputed": true,
-        "reason": "Document contains changes",
-        "usage": {
-          "llm_calls": 1,
-          "usage": {
-            "prompt_tokens": 1231,
-            "cached_tokens": 1029,
-            "completion_tokens": 3,
-            "model": "qwen3:4b-instruct"
-          }
-        },
-        "wall_time_seconds": 7.599999662488699e-06
-      },
-      "distance": {
-        "answer": "No.",
-        "recomputed": false,
-        "reason": "Normalized distance 0.04340005054108982 is within threshold 0.1",
-        "usage": {
-          "llm_calls": 0,
-          "usage": {}
-        },
-        "wall_time_seconds": 2.5200017262250185e-05
-      },
-      "provenance": {
-        "answer": "No.",
-        "recomputed": false,
-        "reason": "No changed old sentences overlap with provenance",
-        "usage": {
-          "llm_calls": 0,
-          "usage": {}
-        },
-        "wall_time_seconds": 9.000010322779417e-06,
-        "provenance_usage": {
-          "llm_calls": 18,
-          "usage": [
-            {
-              "prompt_tokens": 137,
-              "cached_tokens": 65,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 159,
-              "cached_tokens": 111,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 154,
-              "cached_tokens": 64,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 159,
-              "cached_tokens": 158,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 183,
-              "cached_tokens": 64,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 159,
-              "cached_tokens": 158,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 250,
-              "cached_tokens": 64,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 151,
-              "cached_tokens": 111,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 192,
-              "cached_tokens": 159,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 151,
-              "cached_tokens": 150,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 162,
-              "cached_tokens": 129,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 151,
-              "cached_tokens": 150,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 148,
-              "cached_tokens": 64,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 159,
-              "cached_tokens": 111,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 110,
-              "cached_tokens": 64,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 159,
-              "cached_tokens": 158,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 148,
-              "cached_tokens": 64,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 159,
-              "cached_tokens": 158,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            }
-          ],
-          "wall_time_seconds": 6.402789500018116
-        },
-        "provenance_idxs": [
-          22,
-          23
-        ]
-      },
-      "provenance_aware": {
-        "answer": "No.",
-        "recomputed": false,
-        "reason": "No changed old sentences overlap with provenance",
-        "usage": {
-          "llm_calls": 0,
-          "usage": {}
-        },
-        "wall_time_seconds": 8.300004992634058e-06,
-        "provenance_usage": {
-          "llm_calls": 18,
-          "usage": [
-            {
-              "prompt_tokens": 137,
-              "cached_tokens": 65,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 159,
-              "cached_tokens": 111,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 154,
-              "cached_tokens": 64,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 159,
-              "cached_tokens": 158,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 183,
-              "cached_tokens": 64,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 159,
-              "cached_tokens": 158,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 250,
-              "cached_tokens": 64,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 151,
-              "cached_tokens": 111,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 192,
-              "cached_tokens": 159,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 151,
-              "cached_tokens": 150,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 162,
-              "cached_tokens": 129,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 151,
-              "cached_tokens": 150,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 148,
-              "cached_tokens": 64,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 159,
-              "cached_tokens": 111,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 110,
-              "cached_tokens": 64,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 159,
-              "cached_tokens": 158,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 148,
-              "cached_tokens": 64,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 159,
-              "cached_tokens": 158,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            }
-          ],
-          "wall_time_seconds": 6.402789500018116
-        },
-        "provenance_idxs": [
-          22,
-          23
         ]
       }
     }
@@ -940,7 +338,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.759997732937336e-05
+        "wall_time_seconds": 1.7300015315413475e-05
       },
       "text_diff": {
         "answer": "Yes.",
@@ -955,7 +353,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 8.700008038431406e-06
+        "wall_time_seconds": 9.7999582067132e-06
       },
       "distance": {
         "answer": "No",
@@ -965,7 +363,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.5799963623285294e-05
+        "wall_time_seconds": 2.7999980375170708e-05
       },
       "provenance": {
         "answer": "Yes.",
@@ -980,7 +378,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.4899997040629387e-05,
+        "wall_time_seconds": 1.71000137925148e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -1003,7 +401,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.961276900023222
+          "wall_time_seconds": 0.7794648999115452
         },
         "provenance_idxs": [
           28
@@ -1012,7 +410,7 @@
       "provenance_aware": {
         "answer": "Yes.",
         "recomputed": true,
-        "reason": "Changed sentences overlap with provenance: [28]",
+        "reason": "Old answer was not found; document contains changes",
         "usage": {
           "llm_calls": 1,
           "usage": {
@@ -1022,7 +420,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.0100018698722124e-05,
+        "wall_time_seconds": 2.6499968953430653e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -1045,10 +443,154 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.961276900023222
+          "wall_time_seconds": 0.7794648999115452
         },
         "provenance_idxs": [
           28
+        ]
+      }
+    }
+  },
+  "bool_004": {
+    "pair_id": "ap_3198_0_1",
+    "task_id": "bool_004",
+    "task": "Was Thomas E. Starzl 90 years old when he passed away? Answer Yes or No.",
+    "task_type": "boolean",
+    "old_answer": "Yes.",
+    "true_new_answer": "Yes.",
+    "shared_cost": {
+      "old_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1203,
+          "cached_tokens": 1029,
+          "completion_tokens": 3,
+          "model": "qwen3:4b-instruct"
+        }
+      },
+      "new_task": {
+        "llm_calls": 1,
+        "usage": {
+          "prompt_tokens": 1230,
+          "cached_tokens": 1029,
+          "completion_tokens": 3,
+          "model": "qwen3:4b-instruct"
+        }
+      }
+    },
+    "policies": {
+      "recompute": {
+        "answer": "Yes.",
+        "recomputed": true,
+        "reason": "Always recompute",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1230,
+            "cached_tokens": 1029,
+            "completion_tokens": 3,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 1.0399962775409222e-05
+      },
+      "text_diff": {
+        "answer": "Yes.",
+        "recomputed": true,
+        "reason": "Document contains changes",
+        "usage": {
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1230,
+            "cached_tokens": 1029,
+            "completion_tokens": 3,
+            "model": "qwen3:4b-instruct"
+          }
+        },
+        "wall_time_seconds": 5.300040356814861e-06
+      },
+      "distance": {
+        "answer": "Yes.",
+        "recomputed": false,
+        "reason": "Normalized distance 0.04340005054108982 is within threshold 0.1",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.7200014553964138e-05
+      },
+      "provenance": {
+        "answer": "Yes.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 6.4999330788850784e-06,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 127,
+              "cached_tokens": 64,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 151,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 127,
+              "cached_tokens": 126,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 0.7310208999551833
+        },
+        "provenance_idxs": [
+          1
+        ]
+      },
+      "provenance_aware": {
+        "answer": "Yes.",
+        "recomputed": false,
+        "reason": "No changed old sentences overlap with provenance",
+        "usage": {
+          "llm_calls": 0,
+          "usage": {}
+        },
+        "wall_time_seconds": 1.6600009985268116e-05,
+        "provenance_usage": {
+          "llm_calls": 3,
+          "usage": [
+            {
+              "prompt_tokens": 127,
+              "cached_tokens": 64,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 151,
+              "cached_tokens": 111,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            },
+            {
+              "prompt_tokens": 127,
+              "cached_tokens": 126,
+              "completion_tokens": 2,
+              "model": "qwen3:4b-instruct"
+            }
+          ],
+          "wall_time_seconds": 0.7310208999551833
+        },
+        "provenance_idxs": [
+          1
         ]
       }
     }

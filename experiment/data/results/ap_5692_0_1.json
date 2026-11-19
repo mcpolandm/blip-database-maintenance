@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.0900042727589607e-05
+        "wall_time_seconds": 2.0799925550818443e-05
       },
       "text_diff": {
         "answer": "Kimilsungia flower show",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 8.500006515532732e-06
+        "wall_time_seconds": 9.600073099136353e-06
       },
       "distance": {
         "answer": "Kimilsungia flower show",
@@ -70,7 +70,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 3.279995871707797e-05
+        "wall_time_seconds": 5.440006498247385e-05
       },
       "provenance": {
         "answer": "Kimilsungia flower show",
@@ -80,7 +80,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 9.90001717582345e-06,
+        "wall_time_seconds": 2.0399922505021095e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -103,7 +103,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.6050761999795213
+          "wall_time_seconds": 1.6144797999877483
         },
         "provenance_idxs": [
           6
@@ -117,7 +117,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.1399970389902592e-05,
+        "wall_time_seconds": 3.23000131174922e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -140,7 +140,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.6050761999795213
+          "wall_time_seconds": 1.6144797999877483
         },
         "provenance_idxs": [
           6
@@ -189,7 +189,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.6899954061955214e-05
+        "wall_time_seconds": 1.8300022929906845e-05
       },
       "text_diff": {
         "answer": "Yes",
@@ -204,7 +204,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 7.700000423938036e-06
+        "wall_time_seconds": 9.499955922365189e-06
       },
       "distance": {
         "answer": "Yes",
@@ -219,7 +219,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.889998722821474e-05
+        "wall_time_seconds": 3.0800001695752144e-05
       },
       "provenance": {
         "answer": "Yes",
@@ -234,7 +234,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.4300010409206152e-05,
+        "wall_time_seconds": 1.9300030544400215e-05,
         "provenance_usage": {
           "llm_calls": 13,
           "usage": [
@@ -317,7 +317,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 4.737244300020393
+          "wall_time_seconds": 5.076547899981961
         },
         "provenance_idxs": [
           13,
@@ -327,7 +327,7 @@
       "provenance_aware": {
         "answer": "Yes",
         "recomputed": true,
-        "reason": "Changed sentences overlap with provenance: [15]",
+        "reason": "Old answer was not found; document contains changes",
         "usage": {
           "llm_calls": 1,
           "usage": {
@@ -337,7 +337,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 9.7999582067132e-06,
+        "wall_time_seconds": 3.220001235604286e-05,
         "provenance_usage": {
           "llm_calls": 13,
           "usage": [
@@ -420,7 +420,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 4.737244300020393
+          "wall_time_seconds": 5.076547899981961
         },
         "provenance_idxs": [
           13,

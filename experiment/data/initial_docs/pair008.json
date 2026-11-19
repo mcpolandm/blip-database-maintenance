@@ -384,6 +384,6 @@
    "task_id": "bool_005",
    "type": "boolean",
    "prompt": "Was the Navy doctor entrusted with the health of 3 presidents? Answer Yes or No."
-  },
+  }
  ]
 }

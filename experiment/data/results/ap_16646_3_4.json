@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.0599982235580683e-05
+        "wall_time_seconds": 2.2600055672228336e-05
       },
       "text_diff": {
         "answer": "AfricaCheck",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.0600022505968809e-05
+        "wall_time_seconds": 1.0400079190731049e-05
       },
       "distance": {
         "answer": "AfricaCheck",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.6100042052567005e-05
+        "wall_time_seconds": 3.879994619637728e-05
       },
       "provenance": {
         "answer": "AfricaCheck",
@@ -80,7 +80,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.910002902150154e-05,
+        "wall_time_seconds": 2.1700048819184303e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -103,7 +103,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.7924293999676593
+          "wall_time_seconds": 1.788980400073342
         },
         "provenance_idxs": [
           23
@@ -122,7 +122,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.3899989426136017e-05,
+        "wall_time_seconds": 2.089992631226778e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -145,7 +145,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.7924293999676593
+          "wall_time_seconds": 1.788980400073342
         },
         "provenance_idxs": [
           23
@@ -194,7 +194,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 3.200001083314419e-05
+        "wall_time_seconds": 2.1499930880963802e-05
       },
       "text_diff": {
         "answer": "Kenya, with plans to expand to Africa-wide.",
@@ -209,7 +209,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.0200019460171461e-05
+        "wall_time_seconds": 1.0199961252510548e-05
       },
       "distance": {
         "answer": "Kenya, with plans to expand to Africa-wide.",
@@ -219,7 +219,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.379996633157134e-05
+        "wall_time_seconds": 0.00010240008123219013
       },
       "provenance": {
         "answer": "Kenya, with plans to expand to Africa-wide.",
@@ -229,7 +229,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.1500029359012842e-05,
+        "wall_time_seconds": 2.1700048819184303e-05,
         "provenance_usage": {
           "llm_calls": 164,
           "usage": [
@@ -1218,7 +1218,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 69.97350879997248
+          "wall_time_seconds": 66.36199879995547
         },
         "provenance_idxs": [
           0,
@@ -1248,7 +1248,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.179997343569994e-05,
+        "wall_time_seconds": 1.98000343516469e-05,
         "provenance_usage": {
           "llm_calls": 164,
           "usage": [
@@ -2237,7 +2237,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 69.97350879997248
+          "wall_time_seconds": 66.36199879995547
         },
         "provenance_idxs": [
           0,

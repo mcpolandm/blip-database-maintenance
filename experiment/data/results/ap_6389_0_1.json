@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.8599967006593943e-05
+        "wall_time_seconds": 1.3600103557109833e-05
       },
       "text_diff": {
         "answer": "Fall short of projections.",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 7.90000194683671e-06
+        "wall_time_seconds": 6.700051017105579e-06
       },
       "distance": {
         "answer": "Fall shy of predictions.",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.989999484270811e-05
+        "wall_time_seconds": 2.4399952962994576e-05
       },
       "provenance": {
         "answer": "Fall short of projections.",
@@ -80,7 +80,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.6700010746717453e-05,
+        "wall_time_seconds": 1.5700003132224083e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -103,7 +103,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.4800639000022784
+          "wall_time_seconds": 1.578903300105594
         },
         "provenance_idxs": [
           14
@@ -122,7 +122,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.1500029359012842e-05,
+        "wall_time_seconds": 1.550000160932541e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -145,7 +145,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.4800639000022784
+          "wall_time_seconds": 1.578903300105594
         },
         "provenance_idxs": [
           14
@@ -194,7 +194,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.7199956346303225e-05
+        "wall_time_seconds": 1.8900027498602867e-05
       },
       "text_diff": {
         "answer": "June 9.",
@@ -209,7 +209,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.3999990187585354e-05
+        "wall_time_seconds": 6.800051778554916e-06
       },
       "distance": {
         "answer": "June 9.",
@@ -219,7 +219,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.7999980375170708e-05
+        "wall_time_seconds": 2.9999995604157448e-05
       },
       "provenance": {
         "answer": "June 9.",
@@ -229,7 +229,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 9.300012607127428e-06,
+        "wall_time_seconds": 8.79995059221983e-06,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -252,7 +252,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.2959190999972634
+          "wall_time_seconds": 1.3983004000037909
         },
         "provenance_idxs": [
           3
@@ -266,7 +266,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 9.600014891475439e-06,
+        "wall_time_seconds": 1.5400000847876072e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -289,7 +289,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.2959190999972634
+          "wall_time_seconds": 1.3983004000037909
         },
         "provenance_idxs": [
           3

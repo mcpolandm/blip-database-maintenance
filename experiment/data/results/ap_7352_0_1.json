@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 3.4599972423166037e-05
+        "wall_time_seconds": 2.6999972760677338e-05
       },
       "text_diff": {
         "answer": "30 to 39 minutes.",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.6200006939470768e-05
+        "wall_time_seconds": 2.480007242411375e-05
       },
       "distance": {
         "answer": "30 to 39 minutes.",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 4.3300038669258356e-05
+        "wall_time_seconds": 4.370009992271662e-05
       },
       "provenance": {
         "answer": "30 to 39 minutes.",
@@ -75,7 +75,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.5100016500800848e-05,
+        "wall_time_seconds": 2.089992631226778e-05,
         "provenance_usage": {
           "llm_calls": 76,
           "usage": [
@@ -536,7 +536,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 35.27522879996104
+          "wall_time_seconds": 33.209044600022025
         },
         "provenance_idxs": [
           3,
@@ -551,7 +551,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.750001683831215e-05,
+        "wall_time_seconds": 2.429995220154524e-05,
         "provenance_usage": {
           "llm_calls": 76,
           "usage": [
@@ -1012,7 +1012,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 35.27522879996104
+          "wall_time_seconds": 33.209044600022025
         },
         "provenance_idxs": [
           3,
@@ -1062,7 +1062,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.6499968953430653e-05
+        "wall_time_seconds": 4.2899977415800095e-05
       },
       "text_diff": {
         "answer": "A little more than 20 minutes.",
@@ -1077,7 +1077,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.4699995517730713e-05
+        "wall_time_seconds": 2.659996971487999e-05
       },
       "distance": {
         "answer": "A little more than 20 minutes.",
@@ -1087,7 +1087,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 4.040001658722758e-05
+        "wall_time_seconds": 5.010003224015236e-05
       },
       "provenance": {
         "answer": "A little more than 20 minutes.",
@@ -1097,7 +1097,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.650000922381878e-05,
+        "wall_time_seconds": 3.5199918784201145e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -1120,7 +1120,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.9002236999804154
+          "wall_time_seconds": 2.9896357998950407
         },
         "provenance_idxs": [
           29
@@ -1134,7 +1134,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.7900019884109497e-05,
+        "wall_time_seconds": 3.530003596097231e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -1157,7 +1157,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.9002236999804154
+          "wall_time_seconds": 2.9896357998950407
         },
         "provenance_idxs": [
           29

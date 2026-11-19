@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.7599959392100573e-05
+        "wall_time_seconds": 3.090000245720148e-05
       },
       "text_diff": {
         "answer": "2012",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.0200019460171461e-05
+        "wall_time_seconds": 1.680001150816679e-05
       },
       "distance": {
         "answer": "2012",
@@ -70,7 +70,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 4.7499954234808683e-05
+        "wall_time_seconds": 4.9200025387108326e-05
       },
       "provenance": {
         "answer": "2012",
@@ -85,7 +85,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.1300045773386955e-05,
+        "wall_time_seconds": 2.9999995604157448e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -108,7 +108,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.682887299975846
+          "wall_time_seconds": 1.8594301999546587
         },
         "provenance_idxs": [
           14
@@ -127,7 +127,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.3300043065100908e-05,
+        "wall_time_seconds": 2.889998722821474e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -150,7 +150,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.682887299975846
+          "wall_time_seconds": 1.8594301999546587
         },
         "provenance_idxs": [
           14
@@ -199,7 +199,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.2499996703118086e-05
+        "wall_time_seconds": 2.2900057956576347e-05
       },
       "text_diff": {
         "answer": "Iran denied responsibility.",
@@ -214,7 +214,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.0899966582655907e-05
+        "wall_time_seconds": 1.1900090612471104e-05
       },
       "distance": {
         "answer": "Iran denied responsibility.",
@@ -229,7 +229,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 3.649998689070344e-05
+        "wall_time_seconds": 3.85999446734786e-05
       },
       "provenance": {
         "answer": "Iran denied responsibility.",
@@ -239,7 +239,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.2499978765845299e-05,
+        "wall_time_seconds": 1.4499993994832039e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -262,7 +262,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.5758661999716423
+          "wall_time_seconds": 1.6036565999966115
         },
         "provenance_idxs": [
           20
@@ -276,7 +276,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.2500036973506212e-05,
+        "wall_time_seconds": 2.159993164241314e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -299,7 +299,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.5758661999716423
+          "wall_time_seconds": 1.6036565999966115
         },
         "provenance_idxs": [
           20
@@ -348,7 +348,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.239999594166875e-05
+        "wall_time_seconds": 2.220005262643099e-05
       },
       "text_diff": {
         "answer": "Yes.",
@@ -363,7 +363,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.1700030881911516e-05
+        "wall_time_seconds": 1.4399993233382702e-05
       },
       "distance": {
         "answer": "Yes.",
@@ -378,7 +378,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 3.8300000596791506e-05
+        "wall_time_seconds": 3.860006108880043e-05
       },
       "provenance": {
         "answer": "Yes.",
@@ -393,7 +393,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 3.209995338693261e-05,
+        "wall_time_seconds": 2.22999369725585e-05,
         "provenance_usage": {
           "llm_calls": 122,
           "usage": [
@@ -1130,7 +1130,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 49.6262648999691
+          "wall_time_seconds": 48.088941199937835
         },
         "provenance_idxs": [
           0,
@@ -1158,7 +1158,7 @@
       "provenance_aware": {
         "answer": "Yes.",
         "recomputed": true,
-        "reason": "Changed sentences overlap with provenance: [12, 14]",
+        "reason": "Old answer was not found; document contains changes",
         "usage": {
           "llm_calls": 1,
           "usage": {
@@ -1168,7 +1168,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.309998333454132e-05,
+        "wall_time_seconds": 3.23000131174922e-05,
         "provenance_usage": {
           "llm_calls": 122,
           "usage": [
@@ -1905,7 +1905,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 49.6262648999691
+          "wall_time_seconds": 48.088941199937835
         },
         "provenance_idxs": [
           0,

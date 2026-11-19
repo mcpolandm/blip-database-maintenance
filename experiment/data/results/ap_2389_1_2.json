@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.1999974958598614e-05
+        "wall_time_seconds": 2.459995448589325e-05
       },
       "text_diff": {
         "answer": "14-fold",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 6.799993570894003e-06
+        "wall_time_seconds": 1.1599971912801266e-05
       },
       "distance": {
         "answer": "14 fold",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.2899999748915434e-05
+        "wall_time_seconds": 4.1500083170831203e-05
       },
       "provenance": {
         "answer": "14-fold",
@@ -80,7 +80,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.1299987565726042e-05,
+        "wall_time_seconds": 2.3300061002373695e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -103,7 +103,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.784940900048241
+          "wall_time_seconds": 1.8510948000475764
         },
         "provenance_idxs": [
           16
@@ -122,7 +122,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 9.400013368576765e-06,
+        "wall_time_seconds": 2.2099935449659824e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -145,7 +145,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.784940900048241
+          "wall_time_seconds": 1.8510948000475764
         },
         "provenance_idxs": [
           16
@@ -194,7 +194,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.4799956008791924e-05
+        "wall_time_seconds": 2.1099927835166454e-05
       },
       "text_diff": {
         "answer": "64",
@@ -209,7 +209,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.2899981811642647e-05
+        "wall_time_seconds": 1.1300086043775082e-05
       },
       "distance": {
         "answer": "64",
@@ -219,7 +219,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 4.1700026486068964e-05
+        "wall_time_seconds": 3.50000336766243e-05
       },
       "provenance": {
         "answer": "64",
@@ -229,7 +229,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.5300000086426735e-05,
+        "wall_time_seconds": 1.1699972674250603e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -252,7 +252,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.805378400022164
+          "wall_time_seconds": 1.8450609999708831
         },
         "provenance_idxs": [
           2
@@ -266,7 +266,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.5300000086426735e-05,
+        "wall_time_seconds": 1.9400031305849552e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -289,7 +289,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.805378400022164
+          "wall_time_seconds": 1.8450609999708831
         },
         "provenance_idxs": [
           2
@@ -338,7 +338,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.8700025975704193e-05
+        "wall_time_seconds": 1.650000922381878e-05
       },
       "text_diff": {
         "answer": "Yes.",
@@ -353,7 +353,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 7.700000423938036e-06
+        "wall_time_seconds": 8.699949830770493e-06
       },
       "distance": {
         "answer": "I cannot find the answer in the provided text.",
@@ -363,7 +363,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.9999995604157448e-05
+        "wall_time_seconds": 5.4200063459575176e-05
       },
       "provenance": {
         "answer": "I cannot find the answer in the provided text.",
@@ -373,7 +373,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 8.90000956133008e-06,
+        "wall_time_seconds": 9.699957445263863e-06,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -396,21 +396,26 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.2633216999820434
+          "wall_time_seconds": 2.384925300022587
         },
         "provenance_idxs": [
           10
         ]
       },
       "provenance_aware": {
-        "answer": "I cannot find the answer in the provided text.",
-        "recomputed": false,
-        "reason": "No changed old sentences overlap with provenance",
+        "answer": "Yes.",
+        "recomputed": true,
+        "reason": "Old answer was not found; document contains changes",
         "usage": {
-          "llm_calls": 0,
-          "usage": {}
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1018,
+            "cached_tokens": 980,
+            "completion_tokens": 3,
+            "model": "qwen3:4b-instruct"
+          }
         },
-        "wall_time_seconds": 7.800001185387373e-06,
+        "wall_time_seconds": 1.9700033590197563e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -433,7 +438,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.2633216999820434
+          "wall_time_seconds": 2.384925300022587
         },
         "provenance_idxs": [
           10

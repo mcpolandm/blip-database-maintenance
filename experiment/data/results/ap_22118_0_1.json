@@ -11,7 +11,7 @@
         "llm_calls": 1,
         "usage": {
           "prompt_tokens": 1147,
-          "cached_tokens": 0,
+          "cached_tokens": 1122,
           "completion_tokens": 12,
           "model": "qwen3:4b-instruct"
         }
@@ -20,7 +20,7 @@
         "llm_calls": 1,
         "usage": {
           "prompt_tokens": 1148,
-          "cached_tokens": 379,
+          "cached_tokens": 1123,
           "completion_tokens": 12,
           "model": "qwen3:4b-instruct"
         }
@@ -35,12 +35,12 @@
           "llm_calls": 1,
           "usage": {
             "prompt_tokens": 1148,
-            "cached_tokens": 379,
+            "cached_tokens": 1123,
             "completion_tokens": 12,
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.1499989088624716e-05
+        "wall_time_seconds": 2.010003663599491e-05
       },
       "text_diff": {
         "answer": "2000 and 2008.",
@@ -50,12 +50,12 @@
           "llm_calls": 1,
           "usage": {
             "prompt_tokens": 1148,
-            "cached_tokens": 379,
+            "cached_tokens": 1123,
             "completion_tokens": 12,
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.2299977242946625e-05
+        "wall_time_seconds": 1.1999974958598614e-05
       },
       "distance": {
         "answer": "2000 and 2008.",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 4.3199979700148106e-05
+        "wall_time_seconds": 4.1499966755509377e-05
       },
       "provenance": {
         "answer": "2000 and 2008.",
@@ -75,19 +75,19 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.1400028597563505e-05,
+        "wall_time_seconds": 1.1499971151351929e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
             {
               "prompt_tokens": 127,
-              "cached_tokens": 1,
+              "cached_tokens": 64,
               "completion_tokens": 11,
               "model": "qwen3:4b-instruct"
             },
             {
               "prompt_tokens": 171,
-              "cached_tokens": 1,
+              "cached_tokens": 111,
               "completion_tokens": 2,
               "model": "qwen3:4b-instruct"
             },
@@ -98,7 +98,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.322953500028234
+          "wall_time_seconds": 1.5056936000473797
         },
         "provenance_idxs": [
           34
@@ -112,19 +112,19 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.6399968191981316e-05,
+        "wall_time_seconds": 1.9000028260052204e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
             {
               "prompt_tokens": 127,
-              "cached_tokens": 1,
+              "cached_tokens": 64,
               "completion_tokens": 11,
               "model": "qwen3:4b-instruct"
             },
             {
               "prompt_tokens": 171,
-              "cached_tokens": 1,
+              "cached_tokens": 111,
               "completion_tokens": 2,
               "model": "qwen3:4b-instruct"
             },
@@ -135,7 +135,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.322953500028234
+          "wall_time_seconds": 1.5056936000473797
         },
         "provenance_idxs": [
           34
@@ -184,7 +184,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.160003012046218e-05
+        "wall_time_seconds": 1.71000137925148e-05
       },
       "text_diff": {
         "answer": "Yes.",
@@ -199,7 +199,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 6.399990525096655e-06
+        "wall_time_seconds": 1.0100076906383038e-05
       },
       "distance": {
         "answer": "Yes.",
@@ -209,7 +209,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.969997538253665e-05
+        "wall_time_seconds": 4.330009687691927e-05
       },
       "provenance": {
         "answer": "Yes.",
@@ -219,7 +219,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 6.999995093792677e-06,
+        "wall_time_seconds": 2.0999927073717117e-05,
         "provenance_usage": {
           "llm_calls": 24,
           "usage": [
@@ -368,7 +368,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 5.57993050001096
+          "wall_time_seconds": 4.7166364000877365
         },
         "provenance_idxs": [
           3,
@@ -383,7 +383,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 6.799993570894003e-06,
+        "wall_time_seconds": 0.00022120005451142788,
         "provenance_usage": {
           "llm_calls": 24,
           "usage": [
@@ -532,7 +532,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 5.57993050001096
+          "wall_time_seconds": 4.7166364000877365
         },
         "provenance_idxs": [
           3,
@@ -582,7 +582,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.6400008462369442e-05
+        "wall_time_seconds": 1.4899997040629387e-05
       },
       "text_diff": {
         "answer": "No.",
@@ -597,7 +597,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 8.300004992634058e-06
+        "wall_time_seconds": 7.5999414548277855e-06
       },
       "distance": {
         "answer": "No.",
@@ -607,7 +607,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.9900053050369024e-05
+        "wall_time_seconds": 2.4999957531690598e-05
       },
       "provenance": {
         "answer": "No.",
@@ -617,7 +617,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.0600022505968809e-05,
+        "wall_time_seconds": 8.00006091594696e-06,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -640,7 +640,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.6609328999766149
+          "wall_time_seconds": 0.8007705999771133
         },
         "provenance_idxs": [
           34
@@ -648,13 +648,18 @@
       },
       "provenance_aware": {
         "answer": "No.",
-        "recomputed": false,
-        "reason": "No changed old sentences overlap with provenance",
+        "recomputed": true,
+        "reason": "Old answer was not found; document contains changes",
         "usage": {
-          "llm_calls": 0,
-          "usage": {}
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1149,
+            "cached_tokens": 1132,
+            "completion_tokens": 3,
+            "model": "qwen3:4b-instruct"
+          }
         },
-        "wall_time_seconds": 9.500014130026102e-06,
+        "wall_time_seconds": 2.2999942302703857e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -677,7 +682,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.6609328999766149
+          "wall_time_seconds": 0.8007705999771133
         },
         "provenance_idxs": [
           34

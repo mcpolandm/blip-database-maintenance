@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.9099988751113415e-05
+        "wall_time_seconds": 1.7900019884109497e-05
       },
       "text_diff": {
         "answer": "13",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 9.200011845678091e-06
+        "wall_time_seconds": 9.70007386058569e-06
       },
       "distance": {
         "answer": "13",
@@ -70,7 +70,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 4.610000178217888e-05
+        "wall_time_seconds": 3.270001616328955e-05
       },
       "provenance": {
         "answer": "13",
@@ -85,7 +85,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.7400016076862812e-05,
+        "wall_time_seconds": 2.080004196614027e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -108,7 +108,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.2938681000377983
+          "wall_time_seconds": 1.483565800008364
         },
         "provenance_idxs": [
           0
@@ -127,7 +127,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.1899974197149277e-05,
+        "wall_time_seconds": 1.8700025975704193e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -150,7 +150,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.2938681000377983
+          "wall_time_seconds": 1.483565800008364
         },
         "provenance_idxs": [
           0
@@ -199,7 +199,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.4800054486840963e-05
+        "wall_time_seconds": 1.6900012269616127e-05
       },
       "text_diff": {
         "answer": "Alto Frio Baptist Encampment",
@@ -214,7 +214,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 6.799993570894003e-06
+        "wall_time_seconds": 7.899943739175797e-06
       },
       "distance": {
         "answer": "Alto Frio Baptist Encampment",
@@ -229,7 +229,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 3.350002225488424e-05
+        "wall_time_seconds": 2.7499976567924023e-05
       },
       "provenance": {
         "answer": "Alto Frio Baptist Encampment",
@@ -239,7 +239,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 8.500006515532732e-06,
+        "wall_time_seconds": 9.600073099136353e-06,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -262,7 +262,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.8105403999798
+          "wall_time_seconds": 2.0074382999446243
         },
         "provenance_idxs": [
           13
@@ -276,7 +276,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 8.600007276982069e-06,
+        "wall_time_seconds": 1.5700003132224083e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -299,7 +299,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.8105403999798
+          "wall_time_seconds": 2.0074382999446243
         },
         "provenance_idxs": [
           13
@@ -348,7 +348,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.2299995180219412e-05
+        "wall_time_seconds": 1.859990879893303e-05
       },
       "text_diff": {
         "answer": "Yes.",
@@ -363,7 +363,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.2700038496404886e-05
+        "wall_time_seconds": 7.100054062902927e-06
       },
       "distance": {
         "answer": "Yes.",
@@ -378,7 +378,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 3.4800032153725624e-05
+        "wall_time_seconds": 2.5799963623285294e-05
       },
       "provenance": {
         "answer": "Yes.",
@@ -393,7 +393,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.9899976905435324e-05,
+        "wall_time_seconds": 2.5999965146183968e-05,
         "provenance_usage": {
           "llm_calls": 116,
           "usage": [
@@ -1094,7 +1094,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 40.612395000003744
+          "wall_time_seconds": 41.48239869996905
         },
         "provenance_idxs": [
           0,
@@ -1108,7 +1108,7 @@
       "provenance_aware": {
         "answer": "Yes.",
         "recomputed": true,
-        "reason": "Changed sentences overlap with provenance: [0]",
+        "reason": "Old answer was not found; document contains changes",
         "usage": {
           "llm_calls": 1,
           "usage": {
@@ -1118,7 +1118,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.1199968867003918e-05,
+        "wall_time_seconds": 3.560003824532032e-05,
         "provenance_usage": {
           "llm_calls": 116,
           "usage": [
@@ -1819,7 +1819,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 40.612395000003744
+          "wall_time_seconds": 41.48239869996905
         },
         "provenance_idxs": [
           0,

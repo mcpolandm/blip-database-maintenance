@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.4999997802078724e-05
+        "wall_time_seconds": 1.8300022929906845e-05
       },
       "text_diff": {
         "answer": "At least nine people were killed.",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 7.099995855242014e-06
+        "wall_time_seconds": 1.279998105019331e-05
       },
       "distance": {
         "answer": "At least 10 people were killed.",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.5800021830946207e-05
+        "wall_time_seconds": 3.490003291517496e-05
       },
       "provenance": {
         "answer": "At least nine people were killed.",
@@ -80,7 +80,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.4099990949034691e-05,
+        "wall_time_seconds": 1.659989356994629e-05,
         "provenance_usage": {
           "llm_calls": 38,
           "usage": [
@@ -313,7 +313,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 14.48557580000488
+          "wall_time_seconds": 12.552019200054929
         },
         "provenance_idxs": [
           0,
@@ -334,7 +334,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 9.600014891475439e-06,
+        "wall_time_seconds": 1.650000922381878e-05,
         "provenance_usage": {
           "llm_calls": 38,
           "usage": [
@@ -567,7 +567,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 14.48557580000488
+          "wall_time_seconds": 12.552019200054929
         },
         "provenance_idxs": [
           0,

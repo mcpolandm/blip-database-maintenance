@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.9700033590197563e-05
+        "wall_time_seconds": 1.6400008462369442e-05
       },
       "text_diff": {
         "answer": "A ban on sanctuary cities, including jail time for police chiefs and sheriffs who don't cooperate with federal immigration authorities.",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.0399962775409222e-05
+        "wall_time_seconds": 7.300055585801601e-06
       },
       "distance": {
         "answer": "A ban on sanctuary cities, including jail time for police chiefs and sheriffs who don't cooperate with federal immigration authorities.",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.400002606213093e-05
+        "wall_time_seconds": 2.659996971487999e-05
       },
       "provenance": {
         "answer": "A ban on sanctuary cities, including jail time for police chiefs and sheriffs who don't cooperate with federal immigration authorities.",
@@ -75,7 +75,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.3200042303651571e-05,
+        "wall_time_seconds": 8.299946784973145e-06,
         "provenance_usage": {
           "llm_calls": 27,
           "usage": [
@@ -242,7 +242,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 15.481508900003973
+          "wall_time_seconds": 235.87894600001164
         },
         "provenance_idxs": [
           0,
@@ -259,7 +259,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.390004763379693e-05,
+        "wall_time_seconds": 1.4399993233382702e-05,
         "provenance_usage": {
           "llm_calls": 27,
           "usage": [
@@ -426,7 +426,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 15.481508900003973
+          "wall_time_seconds": 235.87894600001164
         },
         "provenance_idxs": [
           0,
@@ -478,7 +478,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.360004534944892e-05
+        "wall_time_seconds": 1.550000160932541e-05
       },
       "text_diff": {
         "answer": "Compromise",
@@ -493,7 +493,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 7.299997378140688e-06
+        "wall_time_seconds": 9.300070814788342e-06
       },
       "distance": {
         "answer": "Compromise",
@@ -503,7 +503,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.670002868399024e-05
+        "wall_time_seconds": 2.989999484270811e-05
       },
       "provenance": {
         "answer": "Compromise",
@@ -513,7 +513,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 8.400005754083395e-06,
+        "wall_time_seconds": 9.499955922365189e-06,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -536,7 +536,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.4838538999902084
+          "wall_time_seconds": 1.5071885999059305
         },
         "provenance_idxs": [
           28
@@ -550,7 +550,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 9.300012607127428e-06,
+        "wall_time_seconds": 1.650000922381878e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -573,7 +573,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.4838538999902084
+          "wall_time_seconds": 1.5071885999059305
         },
         "provenance_idxs": [
           28

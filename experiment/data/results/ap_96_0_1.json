@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 4.3000036384910345e-05
+        "wall_time_seconds": 3.0199997127056122e-05
       },
       "text_diff": {
         "answer": "District of Columbia",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.7400016076862812e-05
+        "wall_time_seconds": 1.3399985618889332e-05
       },
       "distance": {
         "answer": "Kathleen Clark worked as a federal ethics lawyer.",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 5.8299978263676167e-05
+        "wall_time_seconds": 3.799994010478258e-05
       },
       "provenance": {
         "answer": "District of Columbia",
@@ -80,7 +80,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 3.319996176287532e-05,
+        "wall_time_seconds": 3.4400029107928276e-05,
         "provenance_usage": {
           "llm_calls": 76,
           "usage": [
@@ -541,7 +541,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 28.891926100011915
+          "wall_time_seconds": 27.011831199983135
         },
         "provenance_idxs": [
           2,
@@ -564,7 +564,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.7399975806474686e-05,
+        "wall_time_seconds": 2.2900057956576347e-05,
         "provenance_usage": {
           "llm_calls": 76,
           "usage": [
@@ -1025,7 +1025,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 28.891926100011915
+          "wall_time_seconds": 27.011831199983135
         },
         "provenance_idxs": [
           2,
@@ -1078,7 +1078,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 3.739999374374747e-05
+        "wall_time_seconds": 3.1800009310245514e-05
       },
       "text_diff": {
         "answer": "2008",
@@ -1093,7 +1093,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.2799998987466097e-05
+        "wall_time_seconds": 1.209997572004795e-05
       },
       "distance": {
         "answer": "2008",
@@ -1103,7 +1103,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 6.2700011767447e-05
+        "wall_time_seconds": 4.539999645203352e-05
       },
       "provenance": {
         "answer": "2008",
@@ -1113,7 +1113,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.5200017262250185e-05,
+        "wall_time_seconds": 1.3499986380338669e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -1136,7 +1136,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.0801769999670796
+          "wall_time_seconds": 2.1404473000438884
         },
         "provenance_idxs": [
           15
@@ -1150,7 +1150,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.6399968191981316e-05,
+        "wall_time_seconds": 2.0200037397444248e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -1173,7 +1173,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.0801769999670796
+          "wall_time_seconds": 2.1404473000438884
         },
         "provenance_idxs": [
           15

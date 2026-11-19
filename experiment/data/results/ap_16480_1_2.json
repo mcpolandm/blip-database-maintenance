@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.8999987989664078e-05
+        "wall_time_seconds": 1.8000020645558834e-05
       },
       "text_diff": {
         "answer": "An Interior advisory committee proposed cutting royalty fees.",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 9.09995287656784e-06
+        "wall_time_seconds": 9.7999582067132e-06
       },
       "distance": {
         "answer": "Ryan Zinke proposed cutting royalty fees.",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.130000550299883e-05
+        "wall_time_seconds": 3.0099996365606785e-05
       },
       "provenance": {
         "answer": "An Interior advisory committee proposed cutting royalty fees.",
@@ -80,7 +80,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.729997504502535e-05,
+        "wall_time_seconds": 1.7200014553964138e-05,
         "provenance_usage": {
           "llm_calls": 20,
           "usage": [
@@ -205,7 +205,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 7.458616400021128
+          "wall_time_seconds": 7.526603800011799
         },
         "provenance_idxs": [
           0,
@@ -225,7 +225,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.2800039257854223e-05,
+        "wall_time_seconds": 1.7600017599761486e-05,
         "provenance_usage": {
           "llm_calls": 20,
           "usage": [
@@ -350,7 +350,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 7.458616400021128
+          "wall_time_seconds": 7.526603800011799
         },
         "provenance_idxs": [
           0,
@@ -400,7 +400,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.6200006939470768e-05
+        "wall_time_seconds": 1.9700033590197563e-05
       },
       "text_diff": {
         "answer": "80",
@@ -415,7 +415,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 6.900052540004253e-06
+        "wall_time_seconds": 1.0399962775409222e-05
       },
       "distance": {
         "answer": "80",
@@ -425,7 +425,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.430002834647894e-05
+        "wall_time_seconds": 3.1400006264448166e-05
       },
       "provenance": {
         "answer": "80",
@@ -435,7 +435,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 9.899958968162537e-06,
+        "wall_time_seconds": 1.179997343569994e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -458,7 +458,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.0362747000181116
+          "wall_time_seconds": 1.9781133000506088
         },
         "provenance_idxs": [
           28
@@ -472,7 +472,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 8.600007276982069e-06,
+        "wall_time_seconds": 1.8300022929906845e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -495,7 +495,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.0362747000181116
+          "wall_time_seconds": 1.9781133000506088
         },
         "provenance_idxs": [
           28
@@ -544,7 +544,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.98000343516469e-05
+        "wall_time_seconds": 2.059992402791977e-05
       },
       "text_diff": {
         "answer": "Yes.",
@@ -559,7 +559,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 9.90001717582345e-06
+        "wall_time_seconds": 1.379998866468668e-05
       },
       "distance": {
         "answer": "No",
@@ -569,7 +569,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.7299992982298136e-05
+        "wall_time_seconds": 3.990007098764181e-05
       },
       "provenance": {
         "answer": "Yes.",
@@ -584,7 +584,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.869996776804328e-05,
+        "wall_time_seconds": 1.919991336762905e-05,
         "provenance_usage": {
           "llm_calls": 9,
           "usage": [
@@ -643,7 +643,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 4.274022700032219
+          "wall_time_seconds": 4.134090800071135
         },
         "provenance_idxs": [
           2,
@@ -653,7 +653,7 @@
       "provenance_aware": {
         "answer": "Yes.",
         "recomputed": true,
-        "reason": "Changed sentences overlap with provenance: [2]",
+        "reason": "Old answer was not found; document contains changes",
         "usage": {
           "llm_calls": 1,
           "usage": {
@@ -663,7 +663,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.0700023267418146e-05,
+        "wall_time_seconds": 2.8999987989664078e-05,
         "provenance_usage": {
           "llm_calls": 9,
           "usage": [
@@ -722,7 +722,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 4.274022700032219
+          "wall_time_seconds": 4.134090800071135
         },
         "provenance_idxs": [
           2,
@@ -731,338 +731,151 @@
       }
     }
   },
-  "bool_002": {
+  "bool_004": {
     "pair_id": "ap_16480_1_2",
-    "task_id": "bool_002",
-    "task": "Does the cost of an annual pass for non-seniors at Walt Disney World exceed 60 dollars? Answer Yes or No.",
+    "task_id": "bool_004",
+    "task": "Is the cost of an annual pass for non-seniors at Walt Disney World 80 dollars? Answer Yes or No.",
     "task_type": "boolean",
-    "old_answer": "I cannot find the answer in the provided text.",
-    "true_new_answer": "I cannot find the answer in the provided text.",
+    "old_answer": "No",
+    "true_new_answer": "No",
     "shared_cost": {
       "old_task": {
         "llm_calls": 1,
         "usage": {
-          "prompt_tokens": 1221,
+          "prompt_tokens": 1220,
           "cached_tokens": 1187,
-          "completion_tokens": 11,
+          "completion_tokens": 2,
           "model": "qwen3:4b-instruct"
         }
       },
       "new_task": {
         "llm_calls": 1,
         "usage": {
-          "prompt_tokens": 1224,
+          "prompt_tokens": 1223,
           "cached_tokens": 1190,
-          "completion_tokens": 11,
+          "completion_tokens": 2,
           "model": "qwen3:4b-instruct"
         }
       }
     },
     "policies": {
       "recompute": {
-        "answer": "I cannot find the answer in the provided text.",
+        "answer": "No",
         "recomputed": true,
         "reason": "Always recompute",
         "usage": {
           "llm_calls": 1,
           "usage": {
-            "prompt_tokens": 1224,
+            "prompt_tokens": 1223,
             "cached_tokens": 1190,
-            "completion_tokens": 11,
+            "completion_tokens": 2,
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.8200022168457508e-05
+        "wall_time_seconds": 1.3399985618889332e-05
       },
       "text_diff": {
-        "answer": "I cannot find the answer in the provided text.",
+        "answer": "No",
         "recomputed": true,
         "reason": "Document contains changes",
         "usage": {
           "llm_calls": 1,
           "usage": {
-            "prompt_tokens": 1224,
+            "prompt_tokens": 1223,
             "cached_tokens": 1190,
-            "completion_tokens": 11,
+            "completion_tokens": 2,
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 8.000002708286047e-06
+        "wall_time_seconds": 7.0999376475811005e-06
       },
       "distance": {
-        "answer": "I cannot find the answer in the provided text.",
+        "answer": "No",
         "recomputed": false,
         "reason": "Normalized distance 0.012368248818825957 is within threshold 0.1",
         "usage": {
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.840004162862897e-05
+        "wall_time_seconds": 2.0700041204690933e-05
       },
       "provenance": {
-        "answer": "I cannot find the answer in the provided text.",
+        "answer": "No",
         "recomputed": false,
         "reason": "No changed old sentences overlap with provenance",
         "usage": {
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 9.400013368576765e-06,
+        "wall_time_seconds": 8.199946023523808e-06,
         "provenance_usage": {
-          "llm_calls": 5,
+          "llm_calls": 3,
           "usage": [
             {
-              "prompt_tokens": 207,
+              "prompt_tokens": 182,
               "cached_tokens": 64,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 167,
-              "cached_tokens": 125,
               "completion_tokens": 2,
               "model": "qwen3:4b-instruct"
             },
             {
-              "prompt_tokens": 125,
-              "cached_tokens": 87,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 167,
-              "cached_tokens": 166,
+              "prompt_tokens": 151,
+              "cached_tokens": 111,
               "completion_tokens": 2,
               "model": "qwen3:4b-instruct"
             },
             {
-              "prompt_tokens": 125,
-              "cached_tokens": 124,
-              "completion_tokens": 11,
+              "prompt_tokens": 182,
+              "cached_tokens": 181,
+              "completion_tokens": 2,
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 3.6574322000378743
+          "wall_time_seconds": 1.995624800096266
         },
         "provenance_idxs": [
-          27
+          28
         ]
       },
       "provenance_aware": {
-        "answer": "I cannot find the answer in the provided text.",
-        "recomputed": false,
-        "reason": "No changed old sentences overlap with provenance",
+        "answer": "No",
+        "recomputed": true,
+        "reason": "Old answer was not found; document contains changes",
         "usage": {
-          "llm_calls": 0,
-          "usage": {}
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1223,
+            "cached_tokens": 1190,
+            "completion_tokens": 2,
+            "model": "qwen3:4b-instruct"
+          }
         },
-        "wall_time_seconds": 1.3699987903237343e-05,
+        "wall_time_seconds": 2.050003968179226e-05,
         "provenance_usage": {
-          "llm_calls": 5,
+          "llm_calls": 3,
           "usage": [
             {
-              "prompt_tokens": 207,
+              "prompt_tokens": 182,
               "cached_tokens": 64,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 167,
-              "cached_tokens": 125,
               "completion_tokens": 2,
               "model": "qwen3:4b-instruct"
             },
             {
-              "prompt_tokens": 125,
-              "cached_tokens": 87,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 167,
-              "cached_tokens": 166,
+              "prompt_tokens": 151,
+              "cached_tokens": 111,
               "completion_tokens": 2,
               "model": "qwen3:4b-instruct"
             },
             {
-              "prompt_tokens": 125,
-              "cached_tokens": 124,
-              "completion_tokens": 11,
+              "prompt_tokens": 182,
+              "cached_tokens": 181,
+              "completion_tokens": 2,
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 3.6574322000378743
+          "wall_time_seconds": 1.995624800096266
         },
         "provenance_idxs": [
-          27
-        ]
-      }
-    }
-  },
-  "bool_003": {
-    "pair_id": "ap_16480_1_2",
-    "task_id": "bool_003",
-    "task": "Does the cost of an annual pass for non-seniors at Walt Disney World exceed 100 dollars? Answer Yes or No.",
-    "task_type": "boolean",
-    "old_answer": "I cannot find the answer in the provided text.",
-    "true_new_answer": "I cannot find the answer in the provided text.",
-    "shared_cost": {
-      "old_task": {
-        "llm_calls": 1,
-        "usage": {
-          "prompt_tokens": 1222,
-          "cached_tokens": 1205,
-          "completion_tokens": 11,
-          "model": "qwen3:4b-instruct"
-        }
-      },
-      "new_task": {
-        "llm_calls": 1,
-        "usage": {
-          "prompt_tokens": 1225,
-          "cached_tokens": 1208,
-          "completion_tokens": 11,
-          "model": "qwen3:4b-instruct"
-        }
-      }
-    },
-    "policies": {
-      "recompute": {
-        "answer": "I cannot find the answer in the provided text.",
-        "recomputed": true,
-        "reason": "Always recompute",
-        "usage": {
-          "llm_calls": 1,
-          "usage": {
-            "prompt_tokens": 1225,
-            "cached_tokens": 1208,
-            "completion_tokens": 11,
-            "model": "qwen3:4b-instruct"
-          }
-        },
-        "wall_time_seconds": 1.7799960914999247e-05
-      },
-      "text_diff": {
-        "answer": "I cannot find the answer in the provided text.",
-        "recomputed": true,
-        "reason": "Document contains changes",
-        "usage": {
-          "llm_calls": 1,
-          "usage": {
-            "prompt_tokens": 1225,
-            "cached_tokens": 1208,
-            "completion_tokens": 11,
-            "model": "qwen3:4b-instruct"
-          }
-        },
-        "wall_time_seconds": 7.399998139590025e-06
-      },
-      "distance": {
-        "answer": "I cannot find the answer in the provided text.",
-        "recomputed": false,
-        "reason": "Normalized distance 0.012368248818825957 is within threshold 0.1",
-        "usage": {
-          "llm_calls": 0,
-          "usage": {}
-        },
-        "wall_time_seconds": 3.0199997127056122e-05
-      },
-      "provenance": {
-        "answer": "I cannot find the answer in the provided text.",
-        "recomputed": false,
-        "reason": "No changed old sentences overlap with provenance",
-        "usage": {
-          "llm_calls": 0,
-          "usage": {}
-        },
-        "wall_time_seconds": 1.2199976481497288e-05,
-        "provenance_usage": {
-          "llm_calls": 5,
-          "usage": [
-            {
-              "prompt_tokens": 208,
-              "cached_tokens": 87,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 167,
-              "cached_tokens": 166,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 126,
-              "cached_tokens": 87,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 167,
-              "cached_tokens": 166,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 126,
-              "cached_tokens": 125,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            }
-          ],
-          "wall_time_seconds": 3.407609299989417
-        },
-        "provenance_idxs": [
-          27
-        ]
-      },
-      "provenance_aware": {
-        "answer": "I cannot find the answer in the provided text.",
-        "recomputed": false,
-        "reason": "No changed old sentences overlap with provenance",
-        "usage": {
-          "llm_calls": 0,
-          "usage": {}
-        },
-        "wall_time_seconds": 1.1500029359012842e-05,
-        "provenance_usage": {
-          "llm_calls": 5,
-          "usage": [
-            {
-              "prompt_tokens": 208,
-              "cached_tokens": 87,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 167,
-              "cached_tokens": 166,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 126,
-              "cached_tokens": 87,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 167,
-              "cached_tokens": 166,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 126,
-              "cached_tokens": 125,
-              "completion_tokens": 11,
-              "model": "qwen3:4b-instruct"
-            }
-          ],
-          "wall_time_seconds": 3.407609299989417
-        },
-        "provenance_idxs": [
-          27
+          28
         ]
       }
     }

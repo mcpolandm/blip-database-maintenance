@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 4.680000711232424e-05
+        "wall_time_seconds": 2.429995220154524e-05
       },
       "text_diff": {
         "answer": "Boy Scouts of America",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.9500050004571676e-05
+        "wall_time_seconds": 1.1399970389902592e-05
       },
       "distance": {
         "answer": "Boy Scouts of America",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 6.86999992467463e-05
+        "wall_time_seconds": 3.9599952287971973e-05
       },
       "provenance": {
         "answer": "Boy Scouts of America",
@@ -75,7 +75,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.7699978090822697e-05,
+        "wall_time_seconds": 1.3299984857439995e-05,
         "provenance_usage": {
           "llm_calls": 13,
           "usage": [
@@ -158,7 +158,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 4.459627499978524
+          "wall_time_seconds": 4.972447699983604
         },
         "provenance_idxs": [
           0
@@ -172,7 +172,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.1100003980100155e-05,
+        "wall_time_seconds": 2.1900050342082977e-05,
         "provenance_usage": {
           "llm_calls": 13,
           "usage": [
@@ -255,7 +255,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 4.459627499978524
+          "wall_time_seconds": 4.972447699983604
         },
         "provenance_idxs": [
           0
@@ -304,7 +304,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.169999061152339e-05
+        "wall_time_seconds": 2.6799971237778664e-05
       },
       "text_diff": {
         "answer": "Secaucus",
@@ -319,7 +319,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.8300022929906845e-05
+        "wall_time_seconds": 1.2499978765845299e-05
       },
       "distance": {
         "answer": "Secaucus",
@@ -329,7 +329,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.379996633157134e-05
+        "wall_time_seconds": 4.630000330507755e-05
       },
       "provenance": {
         "answer": "Secaucus",
@@ -339,7 +339,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.0800024028867483e-05,
+        "wall_time_seconds": 1.4299992471933365e-05,
         "provenance_usage": {
           "llm_calls": 11,
           "usage": [
@@ -410,7 +410,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 3.8922952000284567
+          "wall_time_seconds": 4.27108610002324
         },
         "provenance_idxs": [
           3
@@ -424,7 +424,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.1999974958598614e-05,
+        "wall_time_seconds": 2.41999514400959e-05,
         "provenance_usage": {
           "llm_calls": 11,
           "usage": [
@@ -495,7 +495,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 3.8922952000284567
+          "wall_time_seconds": 4.27108610002324
         },
         "provenance_idxs": [
           3

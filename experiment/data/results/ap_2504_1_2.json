@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.3900007363408804e-05
+        "wall_time_seconds": 1.4499993994832039e-05
       },
       "text_diff": {
         "answer": "Left",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.1999974958598614e-05
+        "wall_time_seconds": 1.1399970389902592e-05
       },
       "distance": {
         "answer": "Left",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.950000973418355e-05
+        "wall_time_seconds": 3.250001464039087e-05
       },
       "provenance": {
         "answer": "Left",
@@ -80,7 +80,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.110004425048828e-05,
+        "wall_time_seconds": 1.9900035113096237e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -103,7 +103,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.7688200999982655
+          "wall_time_seconds": 1.780665900092572
         },
         "provenance_idxs": [
           3
@@ -122,7 +122,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.4999997802078724e-05,
+        "wall_time_seconds": 2.1200045011937618e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -145,7 +145,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.7688200999982655
+          "wall_time_seconds": 1.780665900092572
         },
         "provenance_idxs": [
           3
@@ -194,7 +194,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.1200045011937618e-05
+        "wall_time_seconds": 1.610000617802143e-05
       },
       "text_diff": {
         "answer": "Innovative 57-state strategy.",
@@ -209,7 +209,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 9.800016414374113e-06
+        "wall_time_seconds": 9.499955922365189e-06
       },
       "distance": {
         "answer": "Innovative 57-state strategy.",
@@ -219,7 +219,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.3299962524324656e-05
+        "wall_time_seconds": 2.7099973522126675e-05
       },
       "provenance": {
         "answer": "Innovative 57-state strategy.",
@@ -234,7 +234,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.0000035874545574e-05,
+        "wall_time_seconds": 1.6300007700920105e-05,
         "provenance_usage": {
           "llm_calls": 90,
           "usage": [
@@ -779,7 +779,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 34.47750390000874
+          "wall_time_seconds": 32.20746519998647
         },
         "provenance_idxs": [
           2,
@@ -806,7 +806,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.3399985618889332e-05,
+        "wall_time_seconds": 1.6600009985268116e-05,
         "provenance_usage": {
           "llm_calls": 90,
           "usage": [
@@ -1351,7 +1351,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 34.47750390000874
+          "wall_time_seconds": 32.20746519998647
         },
         "provenance_idxs": [
           2,

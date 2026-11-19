@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.370000584051013e-05
+        "wall_time_seconds": 2.8799986466765404e-05
       },
       "text_diff": {
         "answer": "$1 million",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 9.800016414374113e-06
+        "wall_time_seconds": 1.9600032828748226e-05
       },
       "distance": {
         "answer": "$1 million",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.0399998649954796e-05
+        "wall_time_seconds": 3.060000017285347e-05
       },
       "provenance": {
         "answer": "$1 million",
@@ -75,7 +75,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.0999967344105244e-05,
+        "wall_time_seconds": 1.1399970389902592e-05,
         "provenance_usage": {
           "llm_calls": 20,
           "usage": [
@@ -200,7 +200,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 7.510214999958407
+          "wall_time_seconds": 7.8145587999606505
         },
         "provenance_idxs": [
           16,
@@ -215,7 +215,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.1500029359012842e-05,
+        "wall_time_seconds": 1.71000137925148e-05,
         "provenance_usage": {
           "llm_calls": 20,
           "usage": [
@@ -340,7 +340,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 7.510214999958407
+          "wall_time_seconds": 7.8145587999606505
         },
         "provenance_idxs": [
           16,
@@ -390,7 +390,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.2299977242946625e-05
+        "wall_time_seconds": 1.910002902150154e-05
       },
       "text_diff": {
         "answer": "Yes",
@@ -405,7 +405,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 7.199996616691351e-06
+        "wall_time_seconds": 1.0400079190731049e-05
       },
       "distance": {
         "answer": "Yes",
@@ -415,7 +415,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.540001878514886e-05
+        "wall_time_seconds": 2.8499984182417393e-05
       },
       "provenance": {
         "answer": "Yes",
@@ -425,7 +425,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 8.200004231184721e-06,
+        "wall_time_seconds": 1.0999967344105244e-05,
         "provenance_usage": {
           "llm_calls": 9,
           "usage": [
@@ -484,7 +484,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 4.5350659000105225
+          "wall_time_seconds": 4.485254299943335
         },
         "provenance_idxs": [
           28,
@@ -499,7 +499,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 7.199996616691351e-06,
+        "wall_time_seconds": 2.7099973522126675e-05,
         "provenance_usage": {
           "llm_calls": 9,
           "usage": [
@@ -558,7 +558,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 4.5350659000105225
+          "wall_time_seconds": 4.485254299943335
         },
         "provenance_idxs": [
           28,
@@ -573,7 +573,7 @@
     "task": "Does the price threshold mentioned for the gene therapy sold overseas contain the amount $500,000? Answer Yes or No.",
     "task_type": "boolean",
     "old_answer": "No",
-    "true_new_answer": "No.",
+    "true_new_answer": "No",
     "shared_cost": {
       "old_task": {
         "llm_calls": 1,
@@ -589,14 +589,14 @@
         "usage": {
           "prompt_tokens": 1299,
           "cached_tokens": 1275,
-          "completion_tokens": 3,
+          "completion_tokens": 2,
           "model": "qwen3:4b-instruct"
         }
       }
     },
     "policies": {
       "recompute": {
-        "answer": "No.",
+        "answer": "No",
         "recomputed": true,
         "reason": "Always recompute",
         "usage": {
@@ -604,14 +604,14 @@
           "usage": {
             "prompt_tokens": 1299,
             "cached_tokens": 1275,
-            "completion_tokens": 3,
+            "completion_tokens": 2,
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.1099986042827368e-05
+        "wall_time_seconds": 4.139996599406004e-05
       },
       "text_diff": {
-        "answer": "No.",
+        "answer": "No",
         "recomputed": true,
         "reason": "Document contains changes",
         "usage": {
@@ -619,11 +619,11 @@
           "usage": {
             "prompt_tokens": 1299,
             "cached_tokens": 1275,
-            "completion_tokens": 3,
+            "completion_tokens": 2,
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.0700023267418146e-05
+        "wall_time_seconds": 1.5900004655122757e-05
       },
       "distance": {
         "answer": "No",
@@ -633,7 +633,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.219995414838195e-05
+        "wall_time_seconds": 4.279997665435076e-05
       },
       "provenance": {
         "answer": "No",
@@ -643,7 +643,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.1700030881911516e-05,
+        "wall_time_seconds": 1.9099912606179714e-05,
         "provenance_usage": {
           "llm_calls": 38,
           "usage": [
@@ -876,7 +876,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 11.409015400044154
+          "wall_time_seconds": 11.540772499982268
         },
         "provenance_idxs": [
           1,
@@ -886,13 +886,18 @@
       },
       "provenance_aware": {
         "answer": "No",
-        "recomputed": false,
-        "reason": "No changed old sentences overlap with provenance",
+        "recomputed": true,
+        "reason": "Old answer was not found; document contains changes",
         "usage": {
-          "llm_calls": 0,
-          "usage": {}
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1299,
+            "cached_tokens": 1275,
+            "completion_tokens": 2,
+            "model": "qwen3:4b-instruct"
+          }
         },
-        "wall_time_seconds": 1.0899966582655907e-05,
+        "wall_time_seconds": 3.670004662126303e-05,
         "provenance_usage": {
           "llm_calls": 38,
           "usage": [
@@ -1125,7 +1130,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 11.409015400044154
+          "wall_time_seconds": 11.540772499982268
         },
         "provenance_idxs": [
           1,

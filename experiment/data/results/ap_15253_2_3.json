@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.9300030544400215e-05
+        "wall_time_seconds": 2.0299921743571758e-05
       },
       "text_diff": {
         "answer": "Named person of interest; no arrest yet.",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.500001573935151e-05
+        "wall_time_seconds": 8.400063961744308e-06
       },
       "distance": {
         "answer": "Named person of interest; no arrest yet.",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.6299985367804766e-05
+        "wall_time_seconds": 3.909994848072529e-05
       },
       "provenance": {
         "answer": "Named person of interest; no arrest yet.",
@@ -80,7 +80,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.73999578692019e-05,
+        "wall_time_seconds": 1.8400023691356182e-05,
         "provenance_usage": {
           "llm_calls": 112,
           "usage": [
@@ -757,7 +757,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 45.1020118999877
+          "wall_time_seconds": 43.15806619997602
         },
         "provenance_idxs": [
           0,
@@ -789,7 +789,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.190003240481019e-05,
+        "wall_time_seconds": 1.859990879893303e-05,
         "provenance_usage": {
           "llm_calls": 112,
           "usage": [
@@ -1466,7 +1466,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 45.1020118999877
+          "wall_time_seconds": 43.15806619997602
         },
         "provenance_idxs": [
           0,
@@ -1528,7 +1528,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.3100001271814108e-05
+        "wall_time_seconds": 1.379998866468668e-05
       },
       "text_diff": {
         "answer": "At least 10 times.",
@@ -1543,7 +1543,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 9.899958968162537e-06
+        "wall_time_seconds": 6.3999323174357414e-06
       },
       "distance": {
         "answer": "At least 10 times.",
@@ -1553,7 +1553,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.5800039768218994e-05
+        "wall_time_seconds": 2.280005719512701e-05
       },
       "provenance": {
         "answer": "At least 10 times.",
@@ -1568,7 +1568,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.0600040443241596e-05,
+        "wall_time_seconds": 1.2899981811642647e-05,
         "provenance_usage": {
           "llm_calls": 62,
           "usage": [
@@ -1945,7 +1945,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 23.58243940002285
+          "wall_time_seconds": 21.52067740005441
         },
         "provenance_idxs": [
           0,
@@ -1967,7 +1967,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 9.800016414374113e-06,
+        "wall_time_seconds": 1.209997572004795e-05,
         "provenance_usage": {
           "llm_calls": 62,
           "usage": [
@@ -2344,7 +2344,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 23.58243940002285
+          "wall_time_seconds": 21.52067740005441
         },
         "provenance_idxs": [
           0,

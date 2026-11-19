@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.169999061152339e-05
+        "wall_time_seconds": 1.9300030544400215e-05
       },
       "text_diff": {
         "answer": "46 years old.",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 8.800008799880743e-06
+        "wall_time_seconds": 8.299946784973145e-06
       },
       "distance": {
         "answer": "46 years old.",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.6999990697950125e-05
+        "wall_time_seconds": 3.200001083314419e-05
       },
       "provenance": {
         "answer": "46 years old.",
@@ -75,7 +75,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 9.90001717582345e-06,
+        "wall_time_seconds": 9.699957445263863e-06,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -98,7 +98,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.4770422999863513
+          "wall_time_seconds": 1.466089399997145
         },
         "provenance_idxs": [
           4
@@ -112,7 +112,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.1499971151351929e-05,
+        "wall_time_seconds": 1.8000020645558834e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -135,7 +135,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.4770422999863513
+          "wall_time_seconds": 1.466089399997145
         },
         "provenance_idxs": [
           4

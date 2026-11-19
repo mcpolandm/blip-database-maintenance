@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.9200029782950878e-05
+        "wall_time_seconds": 4.429998807609081e-05
       },
       "text_diff": {
         "answer": "Arab Spring uprising began weeks before the attacks increased.",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 8.800008799880743e-06
+        "wall_time_seconds": 9.600073099136353e-06
       },
       "distance": {
         "answer": "Arab Spring uprising began weeks before the attacks increased.",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.100000321865082e-05
+        "wall_time_seconds": 4.9200025387108326e-05
       },
       "provenance": {
         "answer": "Arab Spring uprising began weeks before the attacks increased.",
@@ -75,7 +75,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 9.899958968162537e-06,
+        "wall_time_seconds": 1.1999974958598614e-05,
         "provenance_usage": {
           "llm_calls": 114,
           "usage": [
@@ -764,7 +764,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 42.158255300018936
+          "wall_time_seconds": 40.66152990004048
         },
         "provenance_idxs": [
           1,
@@ -779,7 +779,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.1000025551766157e-05,
+        "wall_time_seconds": 3.0199997127056122e-05,
         "provenance_usage": {
           "llm_calls": 114,
           "usage": [
@@ -1468,7 +1468,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 42.158255300018936
+          "wall_time_seconds": 40.66152990004048
         },
         "provenance_idxs": [
           1,

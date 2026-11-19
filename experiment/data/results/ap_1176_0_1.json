@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.9199971575289965e-05
+        "wall_time_seconds": 1.4199991710484028e-05
       },
       "text_diff": {
         "answer": "Psychiatrist",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 8.000002708286047e-06
+        "wall_time_seconds": 6.200047209858894e-06
       },
       "distance": {
         "answer": "Psychiatrist",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.219995414838195e-05
+        "wall_time_seconds": 2.2500054910779e-05
       },
       "provenance": {
         "answer": "Psychiatrist",
@@ -80,7 +80,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.750001683831215e-05,
+        "wall_time_seconds": 1.2500095181167126e-05,
         "provenance_usage": {
           "llm_calls": 7,
           "usage": [
@@ -127,7 +127,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.5187355000525713
+          "wall_time_seconds": 2.602920199977234
         },
         "provenance_idxs": [
           0
@@ -146,7 +146,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.109996810555458e-05,
+        "wall_time_seconds": 1.4099990949034691e-05,
         "provenance_usage": {
           "llm_calls": 7,
           "usage": [
@@ -193,7 +193,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.5187355000525713
+          "wall_time_seconds": 2.602920199977234
         },
         "provenance_idxs": [
           0
@@ -242,7 +242,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.3500004317611456e-05
+        "wall_time_seconds": 2.010003663599491e-05
       },
       "text_diff": {
         "answer": "December 2015",
@@ -257,7 +257,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 5.999987479299307e-06
+        "wall_time_seconds": 1.5099998563528061e-05
       },
       "distance": {
         "answer": "December 2015",
@@ -267,7 +267,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.500001573935151e-05
+        "wall_time_seconds": 3.2400013878941536e-05
       },
       "provenance": {
         "answer": "December 2015",
@@ -277,7 +277,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 6.700051017105579e-06,
+        "wall_time_seconds": 1.009996049106121e-05,
         "provenance_usage": {
           "llm_calls": 20,
           "usage": [
@@ -402,7 +402,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 8.089084099978209
+          "wall_time_seconds": 6.097347700037062
         },
         "provenance_idxs": [
           8,
@@ -417,7 +417,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 7.300055585801601e-06,
+        "wall_time_seconds": 1.7600017599761486e-05,
         "provenance_usage": {
           "llm_calls": 20,
           "usage": [
@@ -542,7 +542,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 8.089084099978209
+          "wall_time_seconds": 6.097347700037062
         },
         "provenance_idxs": [
           8,

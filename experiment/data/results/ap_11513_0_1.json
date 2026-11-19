@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.3300002794712782e-05
+        "wall_time_seconds": 2.0300038158893585e-05
       },
       "text_diff": {
         "answer": "Jean Rigaud, Liberal.",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.3199984095990658e-05
+        "wall_time_seconds": 1.2599979527294636e-05
       },
       "distance": {
         "answer": "Jean Rigaud, Liberal.",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.689998993650079e-05
+        "wall_time_seconds": 3.200001083314419e-05
       },
       "provenance": {
         "answer": "Jean Rigaud, Liberal.",
@@ -80,7 +80,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.0899984519928694e-05,
+        "wall_time_seconds": 1.950003206729889e-05,
         "provenance_usage": {
           "llm_calls": 38,
           "usage": [
@@ -313,7 +313,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 15.064912099973299
+          "wall_time_seconds": 11.279291399987414
         },
         "provenance_idxs": [
           26,
@@ -335,7 +335,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.4999997802078724e-05,
+        "wall_time_seconds": 1.7300015315413475e-05,
         "provenance_usage": {
           "llm_calls": 38,
           "usage": [
@@ -568,7 +568,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 15.064912099973299
+          "wall_time_seconds": 11.279291399987414
         },
         "provenance_idxs": [
           26,
@@ -620,7 +620,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 6.0399994254112244e-05
+        "wall_time_seconds": 1.8400023691356182e-05
       },
       "text_diff": {
         "answer": "Roxham Road, New York.",
@@ -635,7 +635,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 4.429998807609081e-05
+        "wall_time_seconds": 1.1399970389902592e-05
       },
       "distance": {
         "answer": "Roxham Road, New York.",
@@ -645,7 +645,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 7.049995474517345e-05
+        "wall_time_seconds": 3.0800001695752144e-05
       },
       "provenance": {
         "answer": "Roxham Road, New York.",
@@ -655,7 +655,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.829998265951872e-05,
+        "wall_time_seconds": 1.1999974958598614e-05,
         "provenance_usage": {
           "llm_calls": 38,
           "usage": [
@@ -888,7 +888,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 24.82789590000175
+          "wall_time_seconds": 22.18830150004942
         },
         "provenance_idxs": [
           0,
@@ -906,7 +906,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.7800037059932947e-05,
+        "wall_time_seconds": 1.8000020645558834e-05,
         "provenance_usage": {
           "llm_calls": 38,
           "usage": [
@@ -1139,7 +1139,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 24.82789590000175
+          "wall_time_seconds": 22.18830150004942
         },
         "provenance_idxs": [
           0,
@@ -1192,7 +1192,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 3.819999983534217e-05
+        "wall_time_seconds": 2.1700048819184303e-05
       },
       "text_diff": {
         "answer": "Yes.",
@@ -1207,7 +1207,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.460005296394229e-05
+        "wall_time_seconds": 2.310005947947502e-05
       },
       "distance": {
         "answer": "No",
@@ -1217,7 +1217,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 4.970002919435501e-05
+        "wall_time_seconds": 3.4100026823580265e-05
       },
       "provenance": {
         "answer": "No",
@@ -1227,7 +1227,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.7499958630651236e-05,
+        "wall_time_seconds": 1.4100107364356518e-05,
         "provenance_usage": {
           "llm_calls": 61,
           "usage": [
@@ -1598,7 +1598,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 22.644870899966918
+          "wall_time_seconds": 23.279043999966234
         },
         "provenance_idxs": [
           7,
@@ -1606,14 +1606,19 @@
         ]
       },
       "provenance_aware": {
-        "answer": "No",
-        "recomputed": false,
-        "reason": "No changed old sentences overlap with provenance",
+        "answer": "Yes.",
+        "recomputed": true,
+        "reason": "Old answer was not found; document contains changes",
         "usage": {
-          "llm_calls": 0,
-          "usage": {}
+          "llm_calls": 1,
+          "usage": {
+            "prompt_tokens": 1795,
+            "cached_tokens": 1761,
+            "completion_tokens": 3,
+            "model": "qwen3:4b-instruct"
+          }
         },
-        "wall_time_seconds": 1.71000137925148e-05,
+        "wall_time_seconds": 3.85999446734786e-05,
         "provenance_usage": {
           "llm_calls": 61,
           "usage": [
@@ -1984,7 +1989,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 22.644870899966918
+          "wall_time_seconds": 23.279043999966234
         },
         "provenance_idxs": [
           7,

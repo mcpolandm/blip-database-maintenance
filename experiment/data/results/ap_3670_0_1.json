@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.3300002794712782e-05
+        "wall_time_seconds": 2.2000051103532314e-05
       },
       "text_diff": {
         "answer": "More than 30 books.",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.390004763379693e-05
+        "wall_time_seconds": 1.100008375942707e-05
       },
       "distance": {
         "answer": "More than 30 books.",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.91000066883862e-05
+        "wall_time_seconds": 3.629992716014385e-05
       },
       "provenance": {
         "answer": "More than 30 books.",
@@ -80,7 +80,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.7100031729787588e-05,
+        "wall_time_seconds": 1.98000343516469e-05,
         "provenance_usage": {
           "llm_calls": 7,
           "usage": [
@@ -127,7 +127,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 3.7277243999997154
+          "wall_time_seconds": 3.9289492999669164
         },
         "provenance_idxs": [
           2
@@ -146,7 +146,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.680001150816679e-05,
+        "wall_time_seconds": 2.1900050342082977e-05,
         "provenance_usage": {
           "llm_calls": 7,
           "usage": [
@@ -193,7 +193,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 3.7277243999997154
+          "wall_time_seconds": 3.9289492999669164
         },
         "provenance_idxs": [
           2
@@ -242,7 +242,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.829996472224593e-05
+        "wall_time_seconds": 2.5999965146183968e-05
       },
       "text_diff": {
         "answer": "Not Exactly a Memoir",
@@ -257,7 +257,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 7.499998901039362e-06
+        "wall_time_seconds": 1.1299969628453255e-05
       },
       "distance": {
         "answer": "Not Exactly a Memoir",
@@ -267,7 +267,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.779999678954482e-05
+        "wall_time_seconds": 4.0199956856667995e-05
       },
       "provenance": {
         "answer": "Not Exactly a Memoir",
@@ -277,7 +277,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 8.600007276982069e-06,
+        "wall_time_seconds": 1.309998333454132e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -300,7 +300,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.0088030000333674
+          "wall_time_seconds": 2.11018379998859
         },
         "provenance_idxs": [
           21
@@ -314,7 +314,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 9.500014130026102e-06,
+        "wall_time_seconds": 2.2500054910779e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -337,7 +337,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.0088030000333674
+          "wall_time_seconds": 2.11018379998859
         },
         "provenance_idxs": [
           21

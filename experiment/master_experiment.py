@@ -34,6 +34,7 @@ def load_document_pairs(data_dir: Path) -> list[dict]:
     pairs = []
 
     for path in paths:
+        print(f"Loading {path}")
         with path.open("r", encoding="utf-8") as f:
             pairs.append(json.load(f))
 
@@ -95,6 +96,8 @@ def master():
                 raise ValueError(f"Pair {pair['pair_id']} has no tasks.")
         
         for task in tasks:
+            if task["type"] == "boolean_reasoning":
+                continue
             task_result = run_task(pair, task, strategy, ranker, llm)
             results[task["task_id"]] = task_result
 

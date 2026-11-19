@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.3100001271814108e-05
+        "wall_time_seconds": 1.2399978004395962e-05
       },
       "text_diff": {
         "answer": "Her brash-but-engaging attitude.",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.2000033166259527e-05
+        "wall_time_seconds": 7.999944500625134e-06
       },
       "distance": {
         "answer": "Her brash-but-engaging attitude.",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.91000066883862e-05
+        "wall_time_seconds": 2.2900057956576347e-05
       },
       "provenance": {
         "answer": "Her brash-but-engaging attitude.",
@@ -80,7 +80,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.069998299703002e-05,
+        "wall_time_seconds": 1.4099990949034691e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -103,7 +103,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.0453328999574296
+          "wall_time_seconds": 2.286416899994947
         },
         "provenance_idxs": [
           22
@@ -122,7 +122,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.5700003132224083e-05,
+        "wall_time_seconds": 1.4599994756281376e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -145,7 +145,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.0453328999574296
+          "wall_time_seconds": 2.286416899994947
         },
         "provenance_idxs": [
           22
@@ -194,7 +194,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.400000812485814e-05
+        "wall_time_seconds": 2.8999987989664078e-05
       },
       "text_diff": {
         "answer": "1:30 into the fourth round.",
@@ -209,7 +209,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.2400036212056875e-05
+        "wall_time_seconds": 1.4099990949034691e-05
       },
       "distance": {
         "answer": "1:30 into the fourth round.",
@@ -219,7 +219,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.840000135824084e-05
+        "wall_time_seconds": 4.730001091957092e-05
       },
       "provenance": {
         "answer": "1:30 into the fourth round.",
@@ -229,7 +229,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.3300043065100908e-05,
+        "wall_time_seconds": 1.5900004655122757e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -252,7 +252,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.0267803000169806
+          "wall_time_seconds": 2.377401400008239
         },
         "provenance_idxs": [
           2
@@ -266,7 +266,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.479999627918005e-05,
+        "wall_time_seconds": 3.390002530068159e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -289,7 +289,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.0267803000169806
+          "wall_time_seconds": 2.377401400008239
         },
         "provenance_idxs": [
           2

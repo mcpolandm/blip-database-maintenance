@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.7600017599761486e-05
+        "wall_time_seconds": 1.3499986380338669e-05
       },
       "text_diff": {
         "answer": "Colorado",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 7.099995855242014e-06
+        "wall_time_seconds": 6.900052540004253e-06
       },
       "distance": {
         "answer": "Colorado",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.8199981898069382e-05
+        "wall_time_seconds": 3.629992716014385e-05
       },
       "provenance": {
         "answer": "Colorado",
@@ -80,7 +80,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.5099998563528061e-05,
+        "wall_time_seconds": 1.4999997802078724e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -103,7 +103,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.3895374999847263
+          "wall_time_seconds": 1.3762095000129193
         },
         "provenance_idxs": [
           1
@@ -122,7 +122,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 9.700015652924776e-06,
+        "wall_time_seconds": 1.6900012269616127e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -145,7 +145,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.3895374999847263
+          "wall_time_seconds": 1.3762095000129193
         },
         "provenance_idxs": [
           1
@@ -194,7 +194,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.8400023691356182e-05
+        "wall_time_seconds": 1.8000020645558834e-05
       },
       "text_diff": {
         "answer": "33",
@@ -209,7 +209,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.279998105019331e-05
+        "wall_time_seconds": 1.2299977242946625e-05
       },
       "distance": {
         "answer": "33",
@@ -219,7 +219,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.060000017285347e-05
+        "wall_time_seconds": 2.929999027401209e-05
       },
       "provenance": {
         "answer": "33",
@@ -229,7 +229,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.0499963536858559e-05,
+        "wall_time_seconds": 8.699949830770493e-06,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -252,7 +252,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.344677499961108
+          "wall_time_seconds": 1.295849799993448
         },
         "provenance_idxs": [
           6
@@ -266,7 +266,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 9.700015652924776e-06,
+        "wall_time_seconds": 1.5199999324977398e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -289,7 +289,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.344677499961108
+          "wall_time_seconds": 1.295849799993448
         },
         "provenance_idxs": [
           6
@@ -338,7 +338,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.7799960914999247e-05
+        "wall_time_seconds": 3.200001083314419e-05
       },
       "text_diff": {
         "answer": "Yes",
@@ -353,7 +353,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 6.999995093792677e-06
+        "wall_time_seconds": 7.899943739175797e-06
       },
       "distance": {
         "answer": "Yes",
@@ -363,7 +363,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.95999925583601e-05
+        "wall_time_seconds": 3.6100042052567005e-05
       },
       "provenance": {
         "answer": "Yes",
@@ -378,7 +378,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.580000389367342e-05,
+        "wall_time_seconds": 1.6600009985268116e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -401,7 +401,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.349025100003928
+          "wall_time_seconds": 1.3392904000356793
         },
         "provenance_idxs": [
           1
@@ -420,7 +420,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 8.100003469735384e-06,
+        "wall_time_seconds": 3.6899931728839874e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -443,7 +443,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.349025100003928
+          "wall_time_seconds": 1.3392904000356793
         },
         "provenance_idxs": [
           1
@@ -492,7 +492,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.9200029782950878e-05
+        "wall_time_seconds": 2.220005262643099e-05
       },
       "text_diff": {
         "answer": "No",
@@ -507,7 +507,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.1100026313215494e-05
+        "wall_time_seconds": 6.500049494206905e-06
       },
       "distance": {
         "answer": "No",
@@ -517,7 +517,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.450002986937761e-05
+        "wall_time_seconds": 5.250005051493645e-05
       },
       "provenance": {
         "answer": "No",
@@ -532,7 +532,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.8500042390078306e-05,
+        "wall_time_seconds": 1.9300030544400215e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -555,7 +555,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.2779670000309125
+          "wall_time_seconds": 1.2958964999997988
         },
         "provenance_idxs": [
           1
@@ -564,7 +564,7 @@
       "provenance_aware": {
         "answer": "No",
         "recomputed": true,
-        "reason": "Changed sentences overlap with provenance: [1]",
+        "reason": "Old answer was not found; document contains changes",
         "usage": {
           "llm_calls": 1,
           "usage": {
@@ -574,7 +574,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.0499963536858559e-05,
+        "wall_time_seconds": 4.7200010158121586e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -597,7 +597,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.2779670000309125
+          "wall_time_seconds": 1.2958964999997988
         },
         "provenance_idxs": [
           1
@@ -605,9 +605,9 @@
       }
     }
   },
-  "bool_003": {
+  "bool_005": {
     "pair_id": "ap_20454_0_1",
-    "task_id": "bool_003",
+    "task_id": "bool_005",
     "task": "Is Chris Watts' age 33? Answer Yes or No.",
     "task_type": "boolean",
     "old_answer": "Yes.",
@@ -646,7 +646,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.3100001271814108e-05
+        "wall_time_seconds": 3.1100003980100155e-05
       },
       "text_diff": {
         "answer": "Yes.",
@@ -661,7 +661,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 7.399998139590025e-06
+        "wall_time_seconds": 1.3199984095990658e-05
       },
       "distance": {
         "answer": "Yes.",
@@ -671,7 +671,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.8799986466765404e-05
+        "wall_time_seconds": 3.6800047382712364e-05
       },
       "provenance": {
         "answer": "Yes.",
@@ -681,7 +681,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 8.300004992634058e-06,
+        "wall_time_seconds": 1.3500102795660496e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -704,7 +704,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.270730199990794
+          "wall_time_seconds": 1.194651999976486
         },
         "provenance_idxs": [
           6
@@ -718,7 +718,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 7.399998139590025e-06,
+        "wall_time_seconds": 4.770001396536827e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -741,151 +741,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.270730199990794
-        },
-        "provenance_idxs": [
-          6
-        ]
-      }
-    }
-  },
-  "bool_004": {
-    "pair_id": "ap_20454_0_1",
-    "task_id": "bool_004",
-    "task": "Is Chris Watts' age 41? Answer Yes or No.",
-    "task_type": "boolean",
-    "old_answer": "No.",
-    "true_new_answer": "No.",
-    "shared_cost": {
-      "old_task": {
-        "llm_calls": 1,
-        "usage": {
-          "prompt_tokens": 515,
-          "cached_tokens": 64,
-          "completion_tokens": 3,
-          "model": "qwen3:4b-instruct"
-        }
-      },
-      "new_task": {
-        "llm_calls": 1,
-        "usage": {
-          "prompt_tokens": 515,
-          "cached_tokens": 500,
-          "completion_tokens": 3,
-          "model": "qwen3:4b-instruct"
-        }
-      }
-    },
-    "policies": {
-      "recompute": {
-        "answer": "No.",
-        "recomputed": true,
-        "reason": "Always recompute",
-        "usage": {
-          "llm_calls": 1,
-          "usage": {
-            "prompt_tokens": 515,
-            "cached_tokens": 500,
-            "completion_tokens": 3,
-            "model": "qwen3:4b-instruct"
-          }
-        },
-        "wall_time_seconds": 1.0600022505968809e-05
-      },
-      "text_diff": {
-        "answer": "No.",
-        "recomputed": true,
-        "reason": "Document contains changes",
-        "usage": {
-          "llm_calls": 1,
-          "usage": {
-            "prompt_tokens": 515,
-            "cached_tokens": 500,
-            "completion_tokens": 3,
-            "model": "qwen3:4b-instruct"
-          }
-        },
-        "wall_time_seconds": 4.900037311017513e-06
-      },
-      "distance": {
-        "answer": "No.",
-        "recomputed": false,
-        "reason": "Normalized distance 0.0035195200241974773 is within threshold 0.1",
-        "usage": {
-          "llm_calls": 0,
-          "usage": {}
-        },
-        "wall_time_seconds": 1.8099963199347258e-05
-      },
-      "provenance": {
-        "answer": "No.",
-        "recomputed": false,
-        "reason": "No changed old sentences overlap with provenance",
-        "usage": {
-          "llm_calls": 0,
-          "usage": {}
-        },
-        "wall_time_seconds": 6.299989763647318e-06,
-        "provenance_usage": {
-          "llm_calls": 3,
-          "usage": [
-            {
-              "prompt_tokens": 108,
-              "cached_tokens": 1,
-              "completion_tokens": 3,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 151,
-              "cached_tokens": 111,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 108,
-              "cached_tokens": 107,
-              "completion_tokens": 3,
-              "model": "qwen3:4b-instruct"
-            }
-          ],
-          "wall_time_seconds": 1.366937999962829
-        },
-        "provenance_idxs": [
-          6
-        ]
-      },
-      "provenance_aware": {
-        "answer": "No.",
-        "recomputed": false,
-        "reason": "No changed old sentences overlap with provenance",
-        "usage": {
-          "llm_calls": 0,
-          "usage": {}
-        },
-        "wall_time_seconds": 5.200039595365524e-06,
-        "provenance_usage": {
-          "llm_calls": 3,
-          "usage": [
-            {
-              "prompt_tokens": 108,
-              "cached_tokens": 1,
-              "completion_tokens": 3,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 151,
-              "cached_tokens": 111,
-              "completion_tokens": 2,
-              "model": "qwen3:4b-instruct"
-            },
-            {
-              "prompt_tokens": 108,
-              "cached_tokens": 107,
-              "completion_tokens": 3,
-              "model": "qwen3:4b-instruct"
-            }
-          ],
-          "wall_time_seconds": 1.366937999962829
+          "wall_time_seconds": 1.194651999976486
         },
         "provenance_idxs": [
           6

@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 3.279995871707797e-05
+        "wall_time_seconds": 2.8600101359188557e-05
       },
       "text_diff": {
         "answer": "Rosalie Kline is a personal care aide.",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.5600002370774746e-05
+        "wall_time_seconds": 1.2299977242946625e-05
       },
       "distance": {
         "answer": "Rosalie Kline is a personal care aide.",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 6.210000719875097e-05
+        "wall_time_seconds": 4.529999569058418e-05
       },
       "provenance": {
         "answer": "Rosalie Kline is a personal care aide.",
@@ -80,7 +80,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.9099988751113415e-05,
+        "wall_time_seconds": 2.4000066332519054e-05,
         "provenance_usage": {
           "llm_calls": 132,
           "usage": [
@@ -877,7 +877,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 48.22501370002283
+          "wall_time_seconds": 48.50902090000454
         },
         "provenance_idxs": [
           0,
@@ -905,7 +905,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.2799998987466097e-05,
+        "wall_time_seconds": 2.389994915574789e-05,
         "provenance_usage": {
           "llm_calls": 132,
           "usage": [
@@ -1702,7 +1702,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 48.22501370002283
+          "wall_time_seconds": 48.50902090000454
         },
         "provenance_idxs": [
           0,

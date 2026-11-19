@@ -5,6 +5,8 @@ import statistics
 
 from collections import defaultdict
 from pathlib import Path
+from collections import Counter
+import matplotlib.pyplot as plt
 
 
 # --------------------------------------------------
@@ -28,6 +30,8 @@ NOT_FOUND_MARKERS = (
 )
 
 BOOLEAN_TASK_TYPES = {"boolean", "filter"}
+EXTRACTION_F1_THRESHOLD = 0.5
+DISTANCE_THRESHOLDS = [0.0, 0.002, 0.005, 0.01, 0.015, 0.02, 0.025, 0.03, 0.04, 0.05, 0.075, 0.1]
 
 
 # --------------------------------------------------
@@ -88,6 +92,21 @@ def normalize_extraction(answer):
 
     return a
 
+def token_f1(predicted, expected):
+    pred_tokens = re.findall(r"\b\w+\b", str(predicted).lower())
+    expected_tokens = re.findall(r"\b\w+\b", str(expected).lower())
+
+    if not pred_tokens and not expected_tokens:
+        return 1.0
+    if not pred_tokens or not expected_tokens:
+        return 0.0
+
+    overlap = sum((Counter(pred_tokens) & Counter(expected_tokens)).values())
+    precision = overlap / len(pred_tokens)
+    recall = overlap / len(expected_tokens)
+
+    return 2 * precision * recall / (precision + recall) if precision + recall else 0.0
+
 
 def normalize_answer(answer, task_type):
     if task_type in BOOLEAN_TASK_TYPES:
@@ -100,39 +119,16 @@ def normalize_answer(answer, task_type):
 
 
 def answers_match(predicted, expected, task_type):
-    """
-    Compare answers using task-specific rules.
-
-    Extraction uses phrase containment so that a short extracted
-    value can match a longer sentence containing that value.
-    """
-
     predicted_normalized = normalize_answer(predicted, task_type)
     expected_normalized = normalize_answer(expected, task_type)
 
-    if predicted_normalized == expected_normalized:
-        return True
+    if task_type in BOOLEAN_TASK_TYPES:
+        return predicted_normalized == expected_normalized
 
-    # Different not-found classifications should not match.
-    if (
-        predicted_normalized == "not_found"
-        or expected_normalized == "not_found"
-    ):
-        return False
+    if predicted_normalized == "not_found" or expected_normalized == "not_found":
+        return predicted_normalized == expected_normalized
 
-    if task_type == "extraction":
-        # Check whether either answer contains the other as a
-        # complete phrase, rather than a partial word.
-        shorter, longer = sorted(
-            [predicted_normalized, expected_normalized],
-            key=len,
-        )
-
-        pattern = r"(?<!\w)" + re.escape(shorter) + r"(?!\w)"
-
-        return bool(re.search(pattern, longer))
-
-    return False
+    return token_f1(predicted, expected) >= EXTRACTION_F1_THRESHOLD
 
 
 # --------------------------------------------------
@@ -208,30 +204,23 @@ def get_cost(record):
 
     provenance_usage = policy.get("provenance_usage", {})
 
-    provenance_tokens = get_usage_totals(
-        provenance_usage.get("usage", [])
-    )
+    provenance_tokens = get_usage_totals(provenance_usage.get("usage", []))
 
     provenance_calls = get_call_count(provenance_usage)
     provenance_time = provenance_usage.get("wall_time_seconds", 0) or 0
 
     # Incremental policy cost:
-    # Provenance construction + any answer recomputation.
-    incremental_calls = provenance_calls + answer_calls
+    # One-time setup cost: original answer + provenance construction.
+    setup_calls = old_calls + provenance_calls
+    setup_tokens = {key: old_usage[key] + provenance_tokens[key] for key in old_usage}
 
-    incremental_tokens = {
-        key: provenance_tokens[key] + answer_tokens[key]
-        for key in provenance_tokens
-    }
+    # Per-edit cost: policy-triggered answer recomputation.
+    edit_calls = answer_calls
+    edit_tokens = answer_tokens.copy()
 
-    # Lifecycle cost:
-    # Initial old answer + incremental policy cost.
-    lifecycle_calls = old_calls + incremental_calls
-
-    lifecycle_tokens = {
-        key: old_usage[key] + incremental_tokens[key]
-        for key in old_usage
-    }
+    # Lifecycle cost for processing this edit.
+    lifecycle_calls = setup_calls + edit_calls
+    lifecycle_tokens = {key: setup_tokens[key] + edit_tokens[key] for key in setup_tokens}
 
     return {
         "old_answer_calls": old_calls,
@@ -258,11 +247,17 @@ def get_cost(record):
         "provenance_total_tokens": provenance_tokens["total_tokens"],
         "provenance_time_seconds": provenance_time,
 
-        "incremental_llm_calls": incremental_calls,
-        "incremental_prompt_tokens": incremental_tokens["prompt_tokens"],
-        "incremental_completion_tokens": incremental_tokens["completion_tokens"],
-        "incremental_cached_tokens": incremental_tokens["cached_tokens"],
-        "incremental_total_tokens": incremental_tokens["total_tokens"],
+                "one_time_setup_calls": setup_calls,
+        "one_time_setup_prompt_tokens": setup_tokens["prompt_tokens"],
+        "one_time_setup_completion_tokens": setup_tokens["completion_tokens"],
+        "one_time_setup_cached_tokens": setup_tokens["cached_tokens"],
+        "one_time_setup_total_tokens": setup_tokens["total_tokens"],
+
+        "per_edit_llm_calls": edit_calls,
+        "per_edit_prompt_tokens": edit_tokens["prompt_tokens"],
+        "per_edit_completion_tokens": edit_tokens["completion_tokens"],
+        "per_edit_cached_tokens": edit_tokens["cached_tokens"],
+        "per_edit_total_tokens": edit_tokens["total_tokens"],
 
         "lifecycle_llm_calls": lifecycle_calls,
         "lifecycle_prompt_tokens": lifecycle_tokens["prompt_tokens"],
@@ -327,13 +322,15 @@ def analyze_results(records):
 
             predicted_answer = policy_result["answer"]
 
-            predicted_normalized = normalize_answer(
-                predicted_answer, task_type
-            )
+            predicted_normalized = normalize_answer(predicted_answer, task_type)
 
-            expected_normalized = normalize_answer(
-                true_answer, task_type
-            )
+            expected_normalized = normalize_answer(true_answer, task_type)
+
+            old_answer = record["old_answer"]
+            answer_changed = not answers_match(old_answer, true_answer, task_type)
+            false_skip = answer_changed and not policy_result["recomputed"]
+            false_recompute = not answer_changed and policy_result["recomputed"]
+            extraction_f1 = token_f1(predicted_answer, true_answer) if task_type == "extraction" else None
 
             row = {
                 "pair_id": record["pair_id"],
@@ -347,6 +344,11 @@ def analyze_results(records):
 
                 "normalized_expected": expected_normalized,
                 "normalized_predicted": predicted_normalized,
+
+                "answer_changed": answer_changed,
+                "false_skip": false_skip,
+                "false_recompute": false_recompute,
+                "extraction_token_f1": extraction_f1,
 
                 "correct": answers_match(
                     predicted_answer,
@@ -396,6 +398,10 @@ def summarize(rows):
 
     for (task_type, policy), group in sorted(groups.items()):
         n = len(group)
+        changed_count = sum(r["answer_changed"] for r in group)
+        unchanged_count = n - changed_count
+        false_skip_count = sum(r["false_skip"] for r in group)
+        false_recompute_count = sum(r["false_recompute"] for r in group)
 
         summary = {
             "task_type": task_type,
@@ -408,19 +414,11 @@ def summarize(rows):
             "recomputed_count": sum(r["recomputed"] for r in group),
             "recompute_rate": safe_mean([r["recomputed"] for r in group]),
 
-            "total_incremental_llm_calls": sum(
-                r["incremental_llm_calls"] for r in group
-            ),
-            "mean_incremental_llm_calls": safe_mean(
-                [r["incremental_llm_calls"] for r in group]
-            ),
+            "total_incremental_llm_calls": sum(r["per_edit_llm_calls"] for r in group),
+            "mean_incremental_llm_calls": safe_mean([r["per_edit_llm_calls"] for r in group]),
 
-            "total_incremental_tokens": sum(
-                r["incremental_total_tokens"] for r in group
-            ),
-            "mean_incremental_tokens": safe_mean(
-                [r["incremental_total_tokens"] for r in group]
-            ),
+            "total_incremental_tokens": sum(r["per_edit_total_tokens"] for r in group),
+            "mean_incremental_tokens": safe_mean([r["per_edit_total_tokens"] for r in group]),
 
             "total_lifecycle_llm_calls": sum(
                 r["lifecycle_llm_calls"] for r in group
@@ -463,6 +461,11 @@ def summarize(rows):
             "median_provenance_time_seconds": safe_median(
                 [r["provenance_time_seconds"] for r in group]
             ),
+            "false_skip_count": false_skip_count,
+            "false_skip_rate": false_skip_count / changed_count if changed_count else 0,
+            "false_recompute_count": false_recompute_count,
+            "false_recompute_rate": false_recompute_count / unchanged_count if unchanged_count else 0,
+            "mean_extraction_token_f1": safe_mean([r["extraction_token_f1"] for r in group if r["extraction_token_f1"] is not None]),
         }
 
         summaries.append(summary)

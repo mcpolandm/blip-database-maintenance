@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.850002445280552e-05
+        "wall_time_seconds": 2.6799971237778664e-05
       },
       "text_diff": {
         "answer": "Fewer than 45 percent.",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 8.700008038431406e-06
+        "wall_time_seconds": 1.1399970389902592e-05
       },
       "distance": {
         "answer": "Fewer than 45 percent.",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.300001844763756e-05
+        "wall_time_seconds": 4.7200010158121586e-05
       },
       "provenance": {
         "answer": "Fewer than 45 percent.",
@@ -75,7 +75,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.209997572004795e-05,
+        "wall_time_seconds": 1.5199999324977398e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -98,7 +98,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.1388365000020713
+          "wall_time_seconds": 2.2344598000636324
         },
         "provenance_idxs": [
           23
@@ -112,7 +112,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.2199976481497288e-05,
+        "wall_time_seconds": 2.3400061763823032e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -135,7 +135,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.1388365000020713
+          "wall_time_seconds": 2.2344598000636324
         },
         "provenance_idxs": [
           23

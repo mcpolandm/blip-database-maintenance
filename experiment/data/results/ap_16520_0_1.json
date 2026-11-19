@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.9600050766021013e-05
+        "wall_time_seconds": 1.379998866468668e-05
       },
       "text_diff": {
         "answer": "$30 million",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.3599987141788006e-05
+        "wall_time_seconds": 6.4999330788850784e-06
       },
       "distance": {
         "answer": "$30 million",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 4.2300031054764986e-05
+        "wall_time_seconds": 2.0600040443241596e-05
       },
       "provenance": {
         "answer": "$30 million",
@@ -75,7 +75,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.4699995517730713e-05,
+        "wall_time_seconds": 7.3999399319291115e-06,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -98,7 +98,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.09901780000655
+          "wall_time_seconds": 2.3297625000122935
         },
         "provenance_idxs": [
           38
@@ -112,7 +112,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.5300000086426735e-05,
+        "wall_time_seconds": 1.0900082997977734e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -135,7 +135,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.09901780000655
+          "wall_time_seconds": 2.3297625000122935
         },
         "provenance_idxs": [
           38

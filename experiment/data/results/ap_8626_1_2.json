@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 3.200001083314419e-05
+        "wall_time_seconds": 2.9499991796910763e-05
       },
       "text_diff": {
         "answer": "Trump declined the invitation.",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.729995710775256e-05
+        "wall_time_seconds": 1.610000617802143e-05
       },
       "distance": {
         "answer": "Trump declined the invitation.",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 5.8299978263676167e-05
+        "wall_time_seconds": 5.139992572367191e-05
       },
       "provenance": {
         "answer": "Trump declined the invitation.",
@@ -80,7 +80,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 3.200001083314419e-05,
+        "wall_time_seconds": 2.829998265951872e-05,
         "provenance_usage": {
           "llm_calls": 16,
           "usage": [
@@ -181,7 +181,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 7.908180899976287
+          "wall_time_seconds": 6.7724707999732345
         },
         "provenance_idxs": [
           4,
@@ -201,7 +201,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.269999822601676e-05,
+        "wall_time_seconds": 3.029999788850546e-05,
         "provenance_usage": {
           "llm_calls": 16,
           "usage": [
@@ -302,7 +302,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 7.908180899976287
+          "wall_time_seconds": 6.7724707999732345
         },
         "provenance_idxs": [
           4,
@@ -352,7 +352,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.8200022168457508e-05
+        "wall_time_seconds": 2.759997732937336e-05
       },
       "text_diff": {
         "answer": "Phony and a fraud.",
@@ -367,7 +367,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 7.299997378140688e-06
+        "wall_time_seconds": 1.3999990187585354e-05
       },
       "distance": {
         "answer": "Phony and a fraud.",
@@ -377,7 +377,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.160000778734684e-05
+        "wall_time_seconds": 4.75000124424696e-05
       },
       "provenance": {
         "answer": "Phony and a fraud.",
@@ -387,7 +387,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.3299984857439995e-05,
+        "wall_time_seconds": 1.5400000847876072e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -410,7 +410,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.9503967000055127
+          "wall_time_seconds": 2.4141592000378296
         },
         "provenance_idxs": [
           3
@@ -424,7 +424,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 9.300012607127428e-06,
+        "wall_time_seconds": 2.4999957531690598e-05,
         "provenance_usage": {
           "llm_calls": 3,
           "usage": [
@@ -447,7 +447,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 1.9503967000055127
+          "wall_time_seconds": 2.4141592000378296
         },
         "provenance_idxs": [
           3
@@ -496,7 +496,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.4399952962994576e-05
+        "wall_time_seconds": 3.0800001695752144e-05
       },
       "text_diff": {
         "answer": "Yes.",
@@ -511,7 +511,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.1399970389902592e-05
+        "wall_time_seconds": 1.3399985618889332e-05
       },
       "distance": {
         "answer": "Yes.",
@@ -521,7 +521,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 3.960001049563289e-05
+        "wall_time_seconds": 4.130008164793253e-05
       },
       "provenance": {
         "answer": "Yes.",
@@ -531,7 +531,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.279998105019331e-05,
+        "wall_time_seconds": 1.4400109648704529e-05,
         "provenance_usage": {
           "llm_calls": 66,
           "usage": [
@@ -932,7 +932,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 18.26979479996953
+          "wall_time_seconds": 16.795991099905223
         },
         "provenance_idxs": [
           0,
@@ -949,7 +949,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.1599971912801266e-05,
+        "wall_time_seconds": 3.920006565749645e-05,
         "provenance_usage": {
           "llm_calls": 66,
           "usage": [
@@ -1350,7 +1350,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 18.26979479996953
+          "wall_time_seconds": 16.795991099905223
         },
         "provenance_idxs": [
           0,

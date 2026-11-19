@@ -40,7 +40,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.550000160932541e-05
+        "wall_time_seconds": 1.4299992471933365e-05
       },
       "text_diff": {
         "answer": "An executive order targeting Obamacare.",
@@ -55,7 +55,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 5.999987479299307e-06
+        "wall_time_seconds": 7.899943739175797e-06
       },
       "distance": {
         "answer": "An executive order targeting Obamacare.",
@@ -65,7 +65,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 2.670002868399024e-05
+        "wall_time_seconds": 2.619996666908264e-05
       },
       "provenance": {
         "answer": "An executive order targeting Obamacare.",
@@ -80,7 +80,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 1.3299984857439995e-05,
+        "wall_time_seconds": 1.6200006939470768e-05,
         "provenance_usage": {
           "llm_calls": 15,
           "usage": [
@@ -175,7 +175,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 5.421820399991702
+          "wall_time_seconds": 6.155986900092103
         },
         "provenance_idxs": [
           0,
@@ -195,7 +195,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 9.000010322779417e-06,
+        "wall_time_seconds": 1.6700010746717453e-05,
         "provenance_usage": {
           "llm_calls": 15,
           "usage": [
@@ -290,7 +290,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 5.421820399991702
+          "wall_time_seconds": 6.155986900092103
         },
         "provenance_idxs": [
           0,
@@ -340,7 +340,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 2.2099993657320738e-05
+        "wall_time_seconds": 1.9799917936325073e-05
       },
       "text_diff": {
         "answer": "2018",
@@ -355,7 +355,7 @@
             "model": "qwen3:4b-instruct"
           }
         },
-        "wall_time_seconds": 9.200011845678091e-06
+        "wall_time_seconds": 9.09995287656784e-06
       },
       "distance": {
         "answer": "2018",
@@ -365,7 +365,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 4.39999857917428e-05
+        "wall_time_seconds": 4.260009154677391e-05
       },
       "provenance": {
         "answer": "2018",
@@ -375,7 +375,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.0699965059757233e-05,
+        "wall_time_seconds": 1.0800082236528397e-05,
         "provenance_usage": {
           "llm_calls": 5,
           "usage": [
@@ -410,7 +410,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.149331299995538
+          "wall_time_seconds": 2.357670500059612
         },
         "provenance_idxs": [
           9
@@ -424,7 +424,7 @@
           "llm_calls": 0,
           "usage": {}
         },
-        "wall_time_seconds": 1.1300027836114168e-05,
+        "wall_time_seconds": 1.9099912606179714e-05,
         "provenance_usage": {
           "llm_calls": 5,
           "usage": [
@@ -459,7 +459,7 @@
               "model": "qwen3:4b-instruct"
             }
           ],
-          "wall_time_seconds": 2.149331299995538
+          "wall_time_seconds": 2.357670500059612
         },
         "provenance_idxs": [
           9
